@@ -236,7 +236,7 @@
         "summaryImages": [],
         "recordsRaw": "🌧️ Pluies & Humidité : Temps sec sur la région ce lundi avec maintien de la sécheresse de surface.\n🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce lundi. Aucun coup de vent à craindre.\n⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce lundi.\n🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement.",
         "recordsTitle": "🌬️ Phénomènes marquants et zones les plus exposées",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_france_tomorrow.png?t=1789311399",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_france_tomorrow.png?t=1789319145",
         "mountain": "🏔️ Météo montagne\n\n    Alpes : Chaleur marquée en vallée ce lundi et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.\n\n    Pyrénées : Soleil dominant en matinée de ce lundi, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce mardi.\n\n    Massif central : Ambiance lourde et estivale ce lundi. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.\n\n    Vosges : Temps très chaud et généreusement ensoleillé ce lundi. Quelques nuages de beau temps l'après-midi sans intempérie.\n\n    Jura : Chaleur estivale et soleil dominant ce lundi, avant quelques passages nuageux inoffensifs en soirée.\n\n    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du lundi 14 septembre 2026.",
         "summaryTitle": "Prévisions pour la journée du LUNDI 14 SEPTEMBRE 2026",
         "summaryMorning": "Ce lundi matin, la France se réveille sous des conditions météorologiques contrastées. Les régions du nord-ouest et du nord-est connaissent un ciel peu nuageux à nuageux. Des averses sont observées sur les Hauts-de-France, notamment à Lille et Laon, où les températures minimales atteignent respectivement 16°C et 15°C. Un vent modéré de 10 km/h est présent à Lille.\n\nPlus au sud, de la Bretagne aux Pays de la Loire et au Centre-Val de Loire, le soleil domine largement. Rennes, Nantes et Tours profitent d'un ciel dégagé avec des minimales de 16°C à Rennes et 15°C à Nantes. Les températures s'annoncent douces, atteignant déjà 18°C à Paris sous un ciel peu nuageux, avec une légère brise de 5 km/h. Le contraste est marqué entre le littoral et l'intérieur des terres, où les températures minimales sont globalement plus élevées.",
@@ -531,7 +531,7 @@
       "form": {
         "observationsRaw": "St-Hilaire-sur-Helpe (59) 29\nValenciennes (59) 30\nTroisvilles (59) 30\nMaubeuge (59) 29\nDouai (59) 31\nLille (59) 30\nRoubaix (59) 29\nSteenvoorde (59) 29\nWatten (59) 29\nDunkerque (59) 26\nSaulty (62) 30\nArras (62) 30\nFiefs (62) 29\nHumières (62) 29\nCambrai / Epinoy (62) 30\nRadinghem (62) 29\nAttin (62) 30\nNielles-lès-Bléquin (62) 27\nBainghen (62) 27\nBoulogne (62) 28\nCalais / Marck (62) 28\nCap Gris-Nez (62) 28\nLe Touquet (62) 29\n",
         "alert": "🟢 Aucune vigilance orange ou rouge en cours sur le pays.",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1789311451",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1789319146",
         "todaySummary": "",
         "summaryLancement": "☁️ UN LUNDI À L’IMAGE DE L’AUTOMNE NAISSANT : La journée oscille entre passages pluvieux le matin et embellies l’après-midi, avec des températures maximales de 20 à 24°C et un vent quasi nul.",
         "summaryTitle": "Prévisions pour la journée du LUNDI 14 SEPTEMBRE 2026",
@@ -790,7 +790,7 @@
       "form": {
         "observationsRaw": "La Rochelle 37\nChassiron 28\nGond-Pontouvre 38\nBlanzac-Porcheresse 36\nJarnac 37\nMontbron 37\nLa Couronne 37\nSoyaux 37\nCognac 37\nAngoulême 37\nRouillac 37\nSaint-Michel 37\nLa Rochefoucauld 38\nNersac 37\nConfolens 37\nBarbezieux-Saint-Hilaire 36\nChâteauneuf-sur-Charente 37\n",
         "alert": "🟢 Aucune vigilance orange ou rouge en cours sur le pays.",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_NAQ_tomorrow.png?t=1789311505",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_NAQ_tomorrow.png?t=1789319147",
         "todaySummary": "",
         "summaryLancement": "☀️ SOLEIL RADIEUX ET CONTRASTE THERMIQUE : Ce lundi, un temps estival et sec règne sur la région mais avec un fort contraste entre un littoral agréable à 26°C et un intérieur des terres qui suffoque sous 35°C à Angoulême.",
         "summaryTitle": "Prévisions pour la journée du LUNDI 14 SEPTEMBRE 2026",
@@ -1019,7 +1019,7 @@
       "form": {
         "observationsRaw": "Leffrinckoucke 26\nGravelines 24\nOffekerque 28\nMarck 28\nLefaux 29\nGroffliers 29\nRemilly-Wirquin 28\nRacquinghem 28\nRobecq 31\nCauchy-à-la-Tour 30\nBoulogne Sur Mer 13\nLe Touquet-Paris-Plage 29\nAbbeville 31\n",
         "alert": "🟢 Aucune vigilance orange ou rouge en cours sur le pays.",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1789311546",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1789319150",
         "todaySummary": "",
         "summaryLancement": "🌦️ LUNDI MITIGÉ : DES AVERSES MATINALES PUIS DES ÉCLAIRCIES SUR LE LITTORAL. Ce lundi, le temps est contrasté sur la région, avec des pluies faibles et des averses qui concernent l'intérieur des terres en matinée, tandis que le littoral, de Gravelines à Offekerque, bénéficie d'un ciel dégagé et de températures agréables atteignant 23°C l'après-midi.",
         "summaryTitle": "Prévisions pour la journée du LUNDI 14 SEPTEMBRE 2026",
@@ -1331,7 +1331,7 @@
       "form": {
         "observationsRaw": "St-Hilaire-sur-Helpe (59) 29\nValenciennes (59) 30\nTroisvilles (59) 30\nMaubeuge (59) 29\nDouai (59) 31\nLille (59) 30\nRoubaix (59) 29\nSteenvoorde (59) 29\nWatten (59) 29\nDunkerque (59) 26\nSaulty (62) 30\nArras (62) 30\nFiefs (62) 29\nHumières (62) 29\nCambrai / Epinoy (62) 30\nRadinghem (62) 29\nAttin (62) 30\nNielles-lès-Bléquin (62) 27\nBainghen (62) 27\nBoulogne (62) 28\nCalais / Marck (62) 28\nCap Gris-Nez (62) 28\nLe Touquet (62) 29\n",
         "alert": "🟢 Aucune vigilance orange ou rouge en cours sur le pays.",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1789311592",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1789319152",
         "todaySummary": "",
         "summaryLancement": "🌦️ LUNDI DE TRANSITION : Des averses côtières laissent place à de belles éclaircies dans l'intérieur, avec des températures maximales atteignant 24°C à Valenciennes et Dunkerque.",
         "summaryTitle": "Prévisions pour la journée du LUNDI 14 SEPTEMBRE 2026",
@@ -1521,7 +1521,7 @@
       "form": {
         "observationsRaw": "Rouen 33\nCaen 27\nLe Havre 32\nCherbourg 27\nEvreux 34\nAlençon 35\nDieppe 31\nLisieux 33\n",
         "alert": "🟢 Aucune vigilance orange ou rouge en cours sur le pays.",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_NOR_tomorrow.png?t=1789311646",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_NOR_tomorrow.png?t=1789319153",
         "todaySummary": "",
         "summaryLancement": "☀️ UNE JOURNÉE EN DEUX TEMPS : Des averses matinales sur le littoral de Seine-Maritime laissent place à un après-midi largement ensoleillé et estival, avec des températures maximales atteignant 28°C à Lisieux.",
         "summaryTitle": "Prévisions pour la journée du LUNDI 14 SEPTEMBRE 2026",
