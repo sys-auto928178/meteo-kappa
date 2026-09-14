@@ -13,12 +13,14 @@ FICHIER SOURCE : /home/runner/work/meteo-kappa/meteo-kappa/cnews/BULLETINS_AUTOM
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce mardi matin, le ciel se montre généreux sur une grande partie du territoire. Le soleil domine ainsi de la Bretagne aux frontières de l'Est, avec des minimales de 19°C à Brest et Paris, 16°C à Nantes et Tours, et 15°C à Laon. Le vent reste généralement modéré, avec des rafales n'excédant pas les 45 km/h sur ces régions.
+Ce mardi matin, le ciel se partage entre éclaircies généreuses et passages nuageux plus denses sur le territoire. Les minimales affichent 13°C à Rouen, 14°C à Laon et Rennes, et 19°C à Paris.
 
-Cependant, une perturbation nuageuse s'invite sur le nord-ouest et le nord du pays. Des nuages bas sont présents à Lille (15°C), tandis que des éclaircies se manifestent à Rouen (13°C) et Caen (14°C). Plus au sud-ouest, la région de Rennes (14°C) connaît un passage pluvieux avec des averses, accompagné d'un vent plus soutenu, atteignant 60 km/h en rafales. Il est donc recommandé de faire preuve de prudence sur les routes bretonnes.
+Sur le quart nord-ouest, des averses se déclenchent sur Brest, tandis que des pluies faibles s'invitent sur Rouen et Rennes. Les nuages dominent également sur Lille et Laon. Le vent y souffle modérément, avec des rafales atteignant 40 km/h à Lille et Rouen, et 50 km/h à Laon et Nantes.
+
+Plus au sud, de la Bretagne à la Nouvelle-Aquitaine, le soleil s'impose largement, notamment à Nantes, Paris, Tours et Poitiers, où le vent reste plus discret. Le contraste de températures est notable, avec une fraîcheur relative sur le littoral normand et une douceur marquée dans l'intérieur des terres.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce mardi après-midi, la France sera coupée en deux avec un temps plus instable au nord-ouest. Des averses parfois soutenues toucheront la Normandie et les Hauts-de-France, notamment à Lille (26°C) et Rouen (23°C), avec un vent d'ouest soufflant autour de 20 km/h. Plus au sud, le soleil dominera largement, du bassin parisien (Paris 29°C) au Centre-Val de Loire (Tours 32°C), jusqu'à la Nouvelle-Aquitaine (Poitiers 33°C). Le vent restera modéré, avec des rafales atteignant 60 km/h en Bretagne, à Rennes (21°C) où le ciel sera plus nuageux. Les températures resteront estivales sur une grande partie du territoire.
+Ce mardi après-midi, un temps estival persistera sur une grande partie du pays. Le soleil dominera largement de la Bretagne, avec 32°C à Brest, jusqu'aux régions centrales, où Paris atteindra 32°C et Poitiers 33°C. Des nuages plus nombreux et quelques averses sont cependant attendus sur le Nord-Pas-de-Calais et la Normandie, notamment à Lille (27°C) et Rouen (23°C), avec un vent de secteur ouest soufflant autour de 20 km/h. Les rafales pourront atteindre 55 km/h sur Rennes, où le ciel sera très nuageux avec 21°C.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce mardi avec maintien de la sécheresse de surface.
@@ -40,11 +42,11 @@ Ce mardi après-midi, la France sera coupée en deux avec un temps plus instable
     Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du mardi 15 septembre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-▶ jeudi 17 septembre : Le temps reste instable sur les régions du nord-ouest. Des averses sont attendues de Lille à Rouen, avec des maximales qui plafonnent à 20°C. Ailleurs, le soleil l'emporte, notamment à Paris (23°C) et Tours (23°C), sous un vent modéré.
+▶ jeudi 17 septembre : Une dégradation nuageuse gagne les régions du nord-ouest, avec des pluies faibles éparses de Lille à Rennes. Les températures fléchissent nettement : 19°C à Rouen, 21°C à Paris. Le vent reste modéré, jusqu’à 50 km/h en rafales sur Caen.
 
-▶ vendredi 18 septembre : Une nouvelle perturbation aborde le nord du pays. Le ciel se charge à Lille et Laon, avec des rafales de vent atteignant 60 km/h sur les côtes du Nord. Le sud et l'ouest conservent un temps sec et lumineux, avec des températures stables autour de 22°C à Nantes et Poitiers.
+▶ vendredi 18 septembre : Le temps s’améliore franchement. Le soleil domine sur la majeure partie du pays, avec quelques voiles nuageux résiduels en Normandie et en Bretagne. Les maximales remontent entre 20 et 22°C, le vent se calme. Seules de très faibles pluies subsistent localement sur Laon.
 
-▶ samedi 19 septembre : Le week-end s'annonce contrasté. Des passages nuageux et quelques averses résiduelles persistent sur le nord-est, de Laon à Lille. En revanche, le soleil s'impose franchement sur le Centre-Val de Loire et la Nouvelle-Aquitaine, où les maximales grimpent jusqu'à 24°C à Tours et Poitiers.
+▶ samedi 19 septembre : Un retour de l’instabilité est attendu, notamment du nord-ouest au centre-ouest. Des averses et un vent plus soutenu (rafales jusqu’à 60 km/h à Caen) concernent Lille, Rouen et Brest. Les températures restent douces, avec 23°C à Paris et 25°C à Poitiers, mais le ciel se charge fortement en cours d’après-midi.
 
 
 --------------------------------------------------------------------------------
@@ -56,20 +58,22 @@ Ce mardi après-midi, la France sera coupée en deux avec un temps plus instable
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce mardi matin, le ciel se partage entre éclaircies généreuses et passages nuageux sur la région. Les températures minimales affichent 15°C à St-Hilaire-sur-Helpe et Douai, tandis que Maubeuge enregistre 16°C. Le vent souffle modérément, avec des rafales atteignant 45 km/h localement, notamment à Troisvilles et Maubeuge. Sur le littoral, Dunkerque bénéficie d'un soleil dominant avec 16°C, contrastant avec l'intérieur des terres où des nuages sont plus présents, comme à Lille et Roubaix, où le soleil est masqué par des nuages. Aucune précipitation n'est à signaler pour cette matinée.
+Ce mardi matin, la région Nord bénéficie d'un ciel majoritairement dégagé. Le soleil domine largement sur l'essentiel du territoire, notamment à St-Hilaire-sur-Helpe, Valenciennes ou Dunkerque où le ciel est parfaitement ensoleillé. Les températures minimales affichent 15°C à St-Hilaire-sur-Helpe et Valenciennes, et 16°C à Dunkerque. Quelques passages nuageux sont observés plus à l'ouest, notamment à Lille et Roubaix, où le soleil est partiellement masqué par des nuages. Le vent souffle modérément, avec des rafales atteignant 50 km/h à Troisvilles.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce mardi après-midi, le soleil dominera largement sur la majeure partie de la région, notamment dans l'intérieur des terres. Les températures maximales atteindront 30°C à St-Hilaire-sur-Helpe et Dunkerque, 29°C à Valenciennes et 28°C à Maubeuge. Le vent soufflera faiblement à modérément, avec des vitesses oscillant entre 15 et 25 km/h et des rafales ne dépassant pas les 45 km/h. Une couverture nuageuse plus dense est attendue sur Lille, Roubaix et Steenvoorde, où le ciel sera très nuageux. Aucune précipitation n'est prévue.
+Ce mardi après-midi, le Nord-Pas-de-Calais connaît une nette division météorologique. L'intérieur des terres bénéficie d'un soleil dominant, avec des températures estivales atteignant 31°C à Valenciennes et 30°C à St-Hilaire-sur-Helpe. Un vent faible à modéré, de secteur ouest, souffle entre 20 et 30 km/h, avec des rafales ne dépassant pas les 50 km/h.
+
+Cependant, le littoral et l'ouest de la région sont sous l'influence de passages nuageux plus denses, apportant des averses localisées. Des averses sont ainsi attendues à Lille et Roubaix, où le mercure plafonnera à 27°C, ainsi qu'à Steenvoorde (23°C) et Watten (21°C). Le contraste thermique est marqué, avec des températures plus fraîches près des côtes.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
 🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (mardi 15 septembre 2026)
 
 🌴 Dunkerque / Malo-les-Bains / Bray-Dunes
-☀️ Installation d'un marais barométrique estival assurant un temps sec et lumineux sur la côte. Températures de 16°C le matin à 30°C l'après-midi.
+☀️ Installation d'un marais barométrique estival assurant un temps sec et lumineux sur la côte. Températures de 17°C le matin à 31°C l'après-midi.
 🌊 Température de l’eau : 18°C à 19°C
 
 🌴 Le Touquet / Berck / Baie de Somme
-☀️ Ambiance agréable sur le littoral ce mardi. Maximales atteignant 31°C sur le sable.
+☀️ Ambiance agréable sur le littoral ce mardi. Maximales atteignant 32°C sur le sable.
 🌊 Température de l’eau : 19°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
@@ -78,131 +82,6 @@ Ce mardi après-midi, le soleil dominera largement sur la majeure partie de la r
 📍 Zones : Dunkerque • Calais • Boulogne-sur-Mer • Le Touquet
 
 ☀️ Situation générale : Installation d'un marais barométrique estival assurant un temps sec et lumineux.
-🌬️ Vent : Vent de Nord-Est modéré (25 km/h avec rafales atteignant 45 km/h) ce mardi.
-🌊 État de la mer : Mer peu agitée à agitée au large (vagues 0.8m à 1.3m), prudence pour la baignade.
-⚠️ Visibilité : Bonne sur l'ensemble du littoral.
-
-🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
-🌧️ Pluies & Humidité : Temps sec sur la région ce mardi avec maintien de la sécheresse de surface.
-🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce mardi. Aucun coup de vent à craindre.
-⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce mardi.
-🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement.
-🏔️ Météo montagne
-
-    Alpes : Chaleur marquée en vallée ce mardi et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.
-
-    Pyrénées : Soleil dominant en matinée de ce mardi, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce mercredi.
-
-    Massif central : Ambiance lourde et estivale ce mardi. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.
-
-    Vosges : Temps très chaud et généreusement ensoleillé ce mardi. Quelques nuages de beau temps l'après-midi sans intempérie.
-
-    Jura : Chaleur estivale et soleil dominant ce mardi, avant quelques passages nuageux inoffensifs en soirée.
-
-    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du mardi 15 septembre 2026.
-
-📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-▶ jeudi 17 septembre : Le ciel se voile avec des nuages porteurs de quelques averses éparses, notamment sur le littoral et le Valenciennois. Les températures baissent nettement, avec des maximales de 18 à 21°C, et un vent de secteur ouest soufflant en rafales jusqu’à 50 km/h. Les précipitations restent faibles, de l’ordre de 0,3 à 3,7 mm selon les secteurs.
-
-▶ vendredi 18 septembre : Le vent se renforce, atteignant 30 km/h avec des rafales de 55 à 65 km/h sur le littoral. Les éclaircies alternent avec des passages nuageux, mais les pluies deviennent quasi nulles. Les températures maximales plafonnent entre 18 et 20°C, pour des minimales fraîches de 11 à 13°C.
-
-▶ samedi 19 septembre : Le temps s’améliore progressivement avec un soleil plus généreux, surtout dans l’intérieur. Les maximales remontent jusqu’à 21-22°C, tandis que le vent faiblit légèrement (20-25 km/h, rafales 45-60 km/h). Quelques averses résiduelles restent possibles, mais les cumuls sont inférieurs à 2 mm.
-
-
---------------------------------------------------------------------------------
-📻 CLIENT / STATION : RADIO - ICI LA ROCHELLE
-🗺️ ZONE CARTE MÉTÉO-FRANCE : france_pictos (National) (Cartes Matin & Après-midi)
---------------------------------------------------------------------------------
-
-☀️ [1/6] RÉSUMÉ SYNOPTIQUE DU JOUR (todaySummary) :
-
-
-🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce mardi matin, le ciel se présente dégagé sur l'ensemble de la région, offrant un ensoleillement généreux. Les températures minimales affichent 16°C à La Rochelle, 18°C à Chassiron et 19°C à Gond-Pontouvre. Le vent souffle modérément, avec des vitesses de 30 km/h à La Rochelle et 45 km/h à Chassiron. Des rafales atteignent 55 km/h sur le littoral rochelais et 60 km/h à Chassiron, tandis que l'intérieur des terres, comme à Angoulême, connaît un vent plus faible de 20 km/h. Aucune précipitation n'est à signaler pour cette matinée.
-
-🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce mardi après-midi, la région bénéficie d'un ensoleillement généreux et dominant. Le ciel est dégagé sur l'ensemble des départements, sans aucune précipitation à signaler. Les températures maximales atteignent des niveaux estivaux, avec 34°C à La Rochelle, 36°C à Angoulême et La Couronne, et 27°C à Chassiron. Le vent souffle modérément, avec des vitesses de 30 km/h à La Rochelle et 45 km/h à Chassiron, où les rafales peuvent atteindre 60 km/h. Dans l'intérieur des terres, les vents sont plus faibles, autour de 20 km/h.
-
-🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
-🏖️ MÉTÉO DES PLAGES – LITTORAL CHARENTAIS (mardi 15 septembre 2026)
-
-🌴 La Rochelle / Île de Ré / Île d’Oléron
-☀️ Poussée d'une dorsale anticyclonique d'altitude advectant une masse d'air très chaude sur l'ensemble des plages charentaises ce mardi.
-🌡️ Température sur le littoral : 15°C à 36°C
-🌊 Température de l’eau : 23°C à 24°C
-
-🌴 Royan / Côte de Beauté / Rochefort
-☀️ Ensoleillement généreux ce mardi, maximales de 37°C tempérées par la brise marine.
-🌊 Température de l’eau : 24°C
-
-🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO LITTORALE & MARINE – CHARENTE-MARITIME (mardi 15 septembre 2026)
-
-📍 Zones : La Rochelle • Rochefort • Royan • Pertuis Breton & d'Antioche
-
-☀️ Situation synoptique : Poussée d'une dorsale anticyclonique d'altitude advectant une masse d'air très chaude.
-🌬️ Vent : Régime de brises thermiques (45 km/h avec rafales atteignant 60 km/h).
-🌊 État de la mer : Mer peu agitée à agitée au large (vagues 0.8m à 1.3m), prudence pour la baignade.
-
-🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
-⚠️ Forte Chaleur : Épisode de chaleur marqué sur la région ce mardi.
-🌧️ Pluies & Humidité : Temps sec sur la région ce mardi avec maintien de la sécheresse de surface.
-🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce mardi. Aucun coup de vent à craindre.
-⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce mardi.
-🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement.
-🏔️ Météo montagne
-
-    Alpes : Chaleur marquée en vallée ce mardi et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.
-
-    Pyrénées : Soleil dominant en matinée de ce mardi, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce mercredi.
-
-    Massif central : Ambiance lourde et estivale ce mardi. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.
-
-    Vosges : Temps très chaud et généreusement ensoleillé ce mardi. Quelques nuages de beau temps l'après-midi sans intempérie.
-
-    Jura : Chaleur estivale et soleil dominant ce mardi, avant quelques passages nuageux inoffensifs en soirée.
-
-    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du mardi 15 septembre 2026.
-
-📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-▶ jeudi 17 septembre : Le soleil domine encore une bonne partie de la journée, mais des passages nuageux se développent sur l'intérieur avec de très faibles pluies possibles. Les températures baissent nettement, avec des maximales de 21 à 24°C et des minimales de 9 à 17°C. Le vent reste modéré, de 15 à 20 km/h.
-
-▶ vendredi 18 septembre : Le temps se dégrade avec des pluies éparses, parfois plus soutenues sur l'intérieur, tandis que le littoral reste plus variable. Les maximales sont stables, entre 20 et 24°C, et les minimales remontent légèrement, de 14 à 17°C. Le vent souffle modérément, avec des rafales proches de 45 km/h sur les côtes.
-
-▶ samedi 19 septembre : Le soleil revient en force sur l'ensemble de la région et les précipitations s'arrêtent. Les températures repartent à la hausse, avec des maximales de 22 à 26°C et des minimales de 10 à 19°C. Le vent faiblit, de 10 à 15 km/h, avec quelques rafales possibles sur le littoral.
-
-
---------------------------------------------------------------------------------
-📻 CLIENT / STATION : RADIO 6
-🗺️ ZONE CARTE MÉTÉO-FRANCE : france_pictos (National) (Cartes Matin & Après-midi)
---------------------------------------------------------------------------------
-
-☀️ [1/6] RÉSUMÉ SYNOPTIQUE DU JOUR (todaySummary) :
-
-
-🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce mardi matin, le ciel se présente sous un aspect contrasté sur la région. Les zones littorales, de Leffrinckoucke à Lefaux, connaissent un temps nuageux avec des températures minimales de 16°C à Leffrinckoucke et 15°C à Lefaux. Un vent modéré souffle, atteignant 30 km/h à Gravelines avec des rafales à 50 km/h. Plus à l'intérieur des terres, le soleil domine largement, notamment à Racquinghem et Cauchy-à-la-Tour où le ciel est dégagé, avec des températures de 15°C. Quelques secteurs, comme Remilly-Wirquin et Robecq, restent sous un ciel couvert, avec des minimales autour de 14°C à 16°C.
-
-🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce mardi après-midi, le soleil dominera largement sur la façade côtière et une partie de l'intérieur des terres, notamment à Leffrinckoucke avec 30°C, Gravelines et Offekerque où les maximales atteindront 22°C. Quelques voiles nuageux et passages nuageux sans conséquence sont à prévoir sur Marck (23°C) et Groffliers (20°C). En revanche, le ciel se montrera couvert sur Remilly-Wirquin et Robecq, avec des températures atteignant 22°C et 23°C respectivement. Le vent soufflera modérément, avec des rafales pouvant atteindre 50 km/h sur Gravelines et Marck.
-
-🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
-🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (mardi 15 septembre 2026)
-
-🌴 Dunkerque / Malo-les-Bains / Bray-Dunes
-☀️ Influence anticyclonique calme assurant un temps sec et modérément doux sur la côte. Températures de 16°C le matin à 30°C l'après-midi.
-🌊 Température de l’eau : 18°C à 19°C
-
-🌴 Le Touquet / Berck / Baie de Somme
-☀️ Ambiance agréable sur le littoral ce mardi. Maximales atteignant 31°C sur le sable.
-🌊 Température de l’eau : 19°C
-
-🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE – CÔTE D’OPALE & MER DU NORD (mardi 15 septembre 2026)
-
-📍 Zones : Dunkerque • Calais • Boulogne-sur-Mer • Le Touquet
-
-☀️ Situation générale : Influence anticyclonique calme assurant un temps sec et modérément doux.
 🌬️ Vent : Vent de Nord-Est modéré (30 km/h avec rafales atteignant 50 km/h) ce mardi.
 🌊 État de la mer : Mer peu agitée à agitée au large (vagues 0.8m à 1.3m), prudence pour la baignade.
 ⚠️ Visibilité : Bonne sur l'ensemble du littoral.
@@ -227,15 +106,15 @@ Ce mardi après-midi, le soleil dominera largement sur la façade côtière et u
     Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du mardi 15 septembre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-▶ jeudi 17 septembre : Les nuages bas gagnent les zones côtières avec des averses éparses, notamment sur le littoral où les cumuls restent faibles. Les maximales s'échelonnent de 17°C à 20°C, sous un vent modéré avec des rafales atteignant 50 km/h.
+▶ jeudi 17 septembre : 🌧️ RETOUR D'UN TEMPS INSTABLE SUR L'OUEST : Le ciel se couvre progressivement avec des pluies faibles attendues sur le littoral, notamment à Dunkerque et Watten. Les températures chutent nettement avec des maximales comprises entre 17°C et 20°C, tandis que le vent se renforce avec des rafales atteignant 50 km/h sur le littoral.
 
-▶ vendredi 18 septembre : Le soleil reprend ses droits sur l'ensemble de la région, malgré quelques passages nuageux résiduels. Les températures oscillent entre 17°C et 20°C, tandis que le vent se renforce avec des rafales pouvant atteindre 65 km/h sur le littoral.
+▶ vendredi 18 septembre : ☀️ NETTE AMÉLIORATION ET RETOUR DU SOLEIL : Les éclaircies reviennent sur l'ensemble de la région avec un ciel majoritairement dégagé, hormis quelques pluies résiduelles possibles sur le secteur de Lille et Dunkerque en matinée. Les températures restent stables, oscillant entre 18°C et 20°C, avec un vent modéré de secteur ouest soufflant à 20 km/h.
 
-▶ samedi 19 septembre : Le temps devient plus instable avec un ciel variable alternant éclaircies et averses localisées. Les maximales grimpent jusqu'à 21°C, mais le vent se fait plus soutenu avec des rafales jusqu'à 65 km/h, particulièrement sur les zones côtières.
+▶ samedi 19 septembre : ⛈️ DÉGRADATION PLUVIEUSE ET VENT RENFORCÉ : Les conditions se dégradent avec l'arrivée d'averses parfois soutenues sur l'ensemble du territoire, notamment sur Lille, Roubaix et Steenvoorde. Les températures remontent légèrement pour atteindre 20°C à 22°C, mais le vent se renforce considérablement avec des rafales pouvant atteindre 60 km/h sur le littoral dunkerquois.
 
 
 --------------------------------------------------------------------------------
-📻 CLIENT / STATION : MONA FM
+📻 CLIENT / STATION : RADIO - ICI LA ROCHELLE
 🗺️ ZONE CARTE MÉTÉO-FRANCE : france_pictos (National) (Cartes Matin & Après-midi)
 --------------------------------------------------------------------------------
 
@@ -243,16 +122,79 @@ Ce mardi après-midi, le soleil dominera largement sur la façade côtière et u
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce mardi matin, le ciel se montre généreux sur une grande partie de la région, avec un soleil dominant. Les températures minimales sont douces, atteignant 15°C à St-Hilaire-sur-Helpe et Valenciennes, et 14°C à Troisvilles. Quelques nuages parsèment le ciel sur le littoral et l'ouest, notamment à Lille et Roubaix où le soleil est partiellement masqué, et à Steenvoorde. Le vent souffle modérément, autour de 20 à 25 km/h sur l'ensemble du territoire, avec des rafales pouvant atteindre 45 km/h dans les terres. Les températures maximales de la matinée afficheront déjà des valeurs élevées, notamment à Dunkerque avec 30°C.
+Ce mardi matin, le ciel se présente dégagé sur l'ensemble de la région, offrant un soleil dominant dès les premières heures. Les températures minimales affichent 15°C à La Rochelle, 13°C à Jarnac et 11°C à Montbron, tandis que le littoral, notamment Chassiron, enregistre 18°C. Le vent souffle modérément, avec des vitesses atteignant 30 km/h à La Rochelle et 40 km/h à Chassiron, accompagnées de rafales de 50 km/h et 55 km/h respectivement. Dans l'intérieur des terres, les brises sont plus légères, autour de 20 km/h. Aucune précipitation n'est à signaler pour cette matinée.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce mardi après-midi, le ciel se montre généreux en soleil sur l'ensemble de la région. Les températures maximales atteignent des niveaux estivaux, avec 30°C à St-Hilaire-sur-Helpe et Dunkerque, 29°C à Valenciennes, et 28°C à Troisvilles, Maubeuge et Douai. Quelques nuages couvrent les secteurs de Lille, Roubaix et Steenvoorde, où les maximales sont plus modérées, autour de 26°C à Lille et Roubaix, et 23°C à Steenvoorde. Le vent souffle modérément, entre 15 et 25 km/h, avec des rafales pouvant atteindre 45 km/h localement, notamment à Troisvilles, Maubeuge et Douai. Aucune précipitation n'est attendue.
+Ce mardi après-midi, un soleil dominant s'imposera sur l'ensemble de la région, garantissant un ciel parfaitement dégagé. Les températures maximales atteindront des niveaux estivaux, avec 36°C enregistrés à Angoulême, Soyaux et La Couronne. La Rochelle profitera également d'un franc soleil avec 35°C. Un vent de secteur ouest soufflera modérément, avec des vitesses avoisinant les 30 km/h sur La Rochelle et 40 km/h à Chassiron, où les rafales pourront atteindre 55 km/h. L'intérieur des terres, comme à Jarnac ou Cognac, connaîtra des vents plus faibles autour de 20 km/h.
+
+🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
+🏖️ MÉTÉO DES PLAGES – LITTORAL CHARENTAIS (mardi 15 septembre 2026)
+
+🌴 La Rochelle / Île de Ré / Île d’Oléron
+☀️ Poussée d'une dorsale anticyclonique d'altitude advectant une masse d'air très chaude sur l'ensemble des plages charentaises ce mardi.
+🌡️ Température sur le littoral : 14°C à 36°C
+🌊 Température de l’eau : 23°C à 24°C
+
+🌴 Royan / Côte de Beauté / Rochefort
+☀️ Ensoleillement généreux ce mardi, maximales de 37°C tempérées par la brise marine.
+🌊 Température de l’eau : 24°C
+
+🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
+🌊 MÉTÉO LITTORALE & MARINE – CHARENTE-MARITIME (mardi 15 septembre 2026)
+
+📍 Zones : La Rochelle • Rochefort • Royan • Pertuis Breton & d'Antioche
+
+☀️ Situation synoptique : Poussée d'une dorsale anticyclonique d'altitude advectant une masse d'air très chaude.
+🌬️ Vent : Régime de brises thermiques (40 km/h avec rafales atteignant 55 km/h).
+🌊 État de la mer : Mer peu agitée à agitée au large (vagues 0.8m à 1.3m), prudence pour la baignade.
+
+🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
+⚠️ Forte Chaleur : Épisode de chaleur marqué sur la région ce mardi.
+🌧️ Pluies & Humidité : Temps sec sur la région ce mardi avec maintien de la sécheresse de surface.
+🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce mardi. Aucun coup de vent à craindre.
+⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce mardi.
+🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement.
+🏔️ Météo montagne
+
+    Alpes : Chaleur marquée en vallée ce mardi et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.
+
+    Pyrénées : Soleil dominant en matinée de ce mardi, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce mercredi.
+
+    Massif central : Ambiance lourde et estivale ce mardi. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.
+
+    Vosges : Temps très chaud et généreusement ensoleillé ce mardi. Quelques nuages de beau temps l'après-midi sans intempérie.
+
+    Jura : Chaleur estivale et soleil dominant ce mardi, avant quelques passages nuageux inoffensifs en soirée.
+
+    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du mardi 15 septembre 2026.
+
+📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
+▶ jeudi 17 septembre : Le ciel se partage entre éclaircies et passages nuageux, surtout près des côtes. Les températures baissent nettement, avec des maximales de 22 à 25°C. Le vent reste modéré, de secteur ouest, autour de 15 à 25 km/h. Quelques rares gouttes possibles sur la façade maritime.
+
+▶ vendredi 18 septembre : Temps plus instable avec un ciel souvent très nuageux et des averses éparses, notamment sur l'intérieur. Les températures maximales reculent encore, entre 21 et 24°C. Le vent se renforce en journée, avec des rafales jusqu'à 50 km/h près du littoral.
+
+▶ samedi 19 septembre : Le soleil reprend ses droits, le ciel se dégage largement. Les températures remontent, avec des maximales de 24 à 26°C. Le vent faiblit, devenant modéré. Aucune précipitation attendue, une belle journée en perspective.
+
+
+--------------------------------------------------------------------------------
+📻 CLIENT / STATION : RADIO 6
+🗺️ ZONE CARTE MÉTÉO-FRANCE : france_pictos (National) (Cartes Matin & Après-midi)
+--------------------------------------------------------------------------------
+
+☀️ [1/6] RÉSUMÉ SYNOPTIQUE DU JOUR (todaySummary) :
+
+
+🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
+Ce mardi matin, le ciel présente un visage partagé sur la région. Un soleil dominant s'impose sur l'extrême nord, notamment à Leffrinckoucke où la minimale atteint 16°C, ainsi qu'à Gravelines et Offekerque, toutes deux à 15°C. Plus au sud, des nuages plus nombreux sont observés. Marck et Groffliers enregistrent un ciel peu nuageux avec des températures de 17°C et 15°C respectivement. Des conditions plus couvertes concernent Remilly-Wirquin (15°C) et Robecq (17°C). Le vent souffle modérément, avec des rafales atteignant 45 km/h sur le littoral et 40 km/h dans les terres.
+
+🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
+Ce mardi après-midi, le ciel se montrera variable sur l'ensemble de la région. Des averses parfois soutenues sont attendues sur le littoral et l'ouest des terres, notamment à Gravelines (22°C) et Lefaux (20°C). À l'intérieur des terres, le temps sera plus couvert, comme à Remilly-Wirquin (24°C) et Robecq (23°C), avec un risque de pluies faibles. Le vent soufflera modérément, avec des rafales atteignant 45 km/h sur le littoral, notamment à Offekerque. Les températures maximales afficheront un contraste notable entre le littoral et l'intérieur.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
 🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (mardi 15 septembre 2026)
 
 🌴 Dunkerque / Malo-les-Bains / Bray-Dunes
-☀️ Installation d'un marais barométrique estival assurant un temps sec et lumineux sur la côte. Températures de 16°C le matin à 30°C l'après-midi.
+☀️ Influence anticyclonique calme assurant un temps sec et modérément doux sur la côte. Températures de 17°C le matin à 30°C l'après-midi.
 🌊 Température de l’eau : 18°C à 19°C
 
 🌴 Le Touquet / Berck / Baie de Somme
@@ -264,7 +206,7 @@ Ce mardi après-midi, le ciel se montre généreux en soleil sur l'ensemble de l
 
 📍 Zones : Dunkerque • Calais • Boulogne-sur-Mer • Le Touquet
 
-☀️ Situation générale : Installation d'un marais barométrique estival assurant un temps sec et lumineux.
+☀️ Situation générale : Influence anticyclonique calme assurant un temps sec et modérément doux.
 🌬️ Vent : Vent de Nord-Est modéré (25 km/h avec rafales atteignant 45 km/h) ce mardi.
 🌊 État de la mer : Mer peu agitée à agitée au large (vagues 0.8m à 1.3m), prudence pour la baignade.
 ⚠️ Visibilité : Bonne sur l'ensemble du littoral.
@@ -289,11 +231,73 @@ Ce mardi après-midi, le ciel se montre généreux en soleil sur l'ensemble de l
     Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du mardi 15 septembre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-▶ jeudi 17 septembre : 🌧️ DÉGRADATION NETTE : Le ciel se couvre progressivement avec des pluies faibles éparses touchant principalement le nord-ouest de la région. Les températures chutent sensiblement avec des maximales comprises entre 18°C et 21°C, tandis que le vent se renforce avec des rafales atteignant 50 km/h.
+▶ jeudi 17 septembre : Ciel variable et risque d’averses sur l’ensemble du territoire, surtout près du littoral où les cumuls de pluie atteignent 4 à 8 mm. Vent modéré de secteur ouest, avec des rafales de 45 à 55 km/h. Températures maximales comprises entre 17 et 20°C, en baisse sensible par rapport à mardi.
 
-▶ vendredi 18 septembre : 🌬️ VENT MARQUÉ ET ÉCLAIRCIES : Les conditions restent agitées avec un vent soutenu soufflant jusqu'à 60 km/h en rafales sur les secteurs de Lille, Roubaix et Dunkerque. Le ciel alterne entre passages nuageux et éclaircies, avec quelques averses résiduelles possibles en matinée. Les températures maximales se stabilisent entre 18°C et 20°C.
+▶ vendredi 18 septembre : Temps calme et lumineux, le soleil domine largement après une matinée fraîche (minimales 10-14°C). Les précipitations sont inexistantes. Vent de nord-ouest plus faible, rafales ne dépassant pas 45 km/h. Maximales stables, de 18 à 19°C.
 
-▶ samedi 19 septembre : 🌤️ RETOUR D'UN TEMPS PLUS DOUX : Les éclaircies dominent à nouveau sur l'ensemble du territoire avec un soleil généreux en après-midi. Les températures remontent légèrement pour atteindre 21°C à 22°C, notamment à Douai et dans les terres. Le vent faiblit progressivement, avec des rafales ne dépassant plus 55 km/h sur le littoral.
+▶ samedi 19 septembre : Retour d’un temps plus agité avec un vent qui se renforce nettement, atteignant des rafales de 60 à 70 km/h sur le littoral. Des passages nuageux apportent des pluies éparses, notamment à Marck et Robecq. Températures maximales entre 18 et 21°C, minimales en légère hausse (13-17°C).
+
+
+--------------------------------------------------------------------------------
+📻 CLIENT / STATION : MONA FM
+🗺️ ZONE CARTE MÉTÉO-FRANCE : france_pictos (National) (Cartes Matin & Après-midi)
+--------------------------------------------------------------------------------
+
+☀️ [1/6] RÉSUMÉ SYNOPTIQUE DU JOUR (todaySummary) :
+
+
+🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
+Ce mardi matin, le ciel se partage entre éclaircies et passages nuageux sur la région. Les températures minimales affichent 15°C à St-Hilaire-sur-Helpe et Valenciennes, tandis que Lille et Roubaix enregistrent également 15°C. Un soleil dominant est observé sur une large partie du territoire, notamment à Watten et Dunkerque, où les thermomètres indiquent respectivement 16°C. Cependant, des nuages masquent partiellement le soleil sur l'ouest et le nord, notamment à Lille, Roubaix et Steenvoorde. Le vent souffle modérément, avec des vitesses avoisinant les 20 à 30 km/h, et des rafales n'excédant pas les 50 km/h à Troisvilles, sans risque de vigilance.
+
+🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
+Ce mardi après-midi, le ciel de la région présentera un contraste marqué. Les secteurs intérieurs, de St-Hilaire-sur-Helpe (30°C) à Valenciennes (31°C), bénéficieront d'un soleil dominant, accompagné de températures estivales. Plus à l'ouest et au nord, une couverture nuageuse plus dense s'imposera, notamment de Lille (27°C) à Roubaix (27°C), où le soleil sera partiellement masqué. Des averses sont attendues sur le littoral ouest, notamment vers Watten (21°C) et Steenvoorde (23°C). Le vent soufflera faiblement à modérément, atteignant localement 50 km/h en rafales à Troisvilles, sans risque de vigilance particulière.
+
+🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
+🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (mardi 15 septembre 2026)
+
+🌴 Dunkerque / Malo-les-Bains / Bray-Dunes
+☀️ Installation d'un marais barométrique estival assurant un temps sec et lumineux sur la côte. Températures de 17°C le matin à 31°C l'après-midi.
+🌊 Température de l’eau : 18°C à 19°C
+
+🌴 Le Touquet / Berck / Baie de Somme
+☀️ Ambiance agréable sur le littoral ce mardi. Maximales atteignant 32°C sur le sable.
+🌊 Température de l’eau : 19°C
+
+🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
+🌊 MÉTÉO MARINE – CÔTE D’OPALE & MER DU NORD (mardi 15 septembre 2026)
+
+📍 Zones : Dunkerque • Calais • Boulogne-sur-Mer • Le Touquet
+
+☀️ Situation générale : Installation d'un marais barométrique estival assurant un temps sec et lumineux.
+🌬️ Vent : Vent de Nord-Est modéré (30 km/h avec rafales atteignant 50 km/h) ce mardi.
+🌊 État de la mer : Mer peu agitée à agitée au large (vagues 0.8m à 1.3m), prudence pour la baignade.
+⚠️ Visibilité : Bonne sur l'ensemble du littoral.
+
+🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
+🌧️ Pluies & Humidité : Temps sec sur la région ce mardi avec maintien de la sécheresse de surface.
+🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce mardi. Aucun coup de vent à craindre.
+⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce mardi.
+🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement.
+🏔️ Météo montagne
+
+    Alpes : Chaleur marquée en vallée ce mardi et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.
+
+    Pyrénées : Soleil dominant en matinée de ce mardi, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce mercredi.
+
+    Massif central : Ambiance lourde et estivale ce mardi. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.
+
+    Vosges : Temps très chaud et généreusement ensoleillé ce mardi. Quelques nuages de beau temps l'après-midi sans intempérie.
+
+    Jura : Chaleur estivale et soleil dominant ce mardi, avant quelques passages nuageux inoffensifs en soirée.
+
+    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du mardi 15 septembre 2026.
+
+📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
+▶ jeudi 17 septembre : Le ciel reste partagé. Des passages nuageux dominent sur Lille et Roubaix avec quelques faibles pluies (1-3 mm), tandis que le soleil s’impose plus franchement à Maubeuge et Douai. Les maximales chutent fortement, entre 17°C sur le littoral (Watten) et 20°C à Lille. Vent modéré de 20-25 km/h, rafales à 45-50 km/h.
+
+▶ vendredi 18 septembre : Net retour au calme. Le soleil s’impose sur l’ensemble de la région, avec des températures maximales comprises entre 18 et 20°C. Seul Dunkerque garde un ciel variable. Vent faible à modéré, 15-20 km/h, rafales jusqu’à 40 km/h. Aucune précipitation à signaler.
+
+▶ samedi 19 septembre : Temps plus perturbé. Le ciel se charge fortement, avec des averses éparses et parfois modérées, notamment sur Lille, Roubaix et Steenvoorde (jusqu’à 4 mm). Les maximales remontent un peu, de 19°C à Watt à 21-22°C dans l’intérieur. Le vent se renforce, rafales de 50 à 60 km/h sur Dunkerque.
 
 
 --------------------------------------------------------------------------------
@@ -305,20 +309,22 @@ Ce mardi après-midi, le ciel se montre généreux en soleil sur l'ensemble de l
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce mardi matin, la Normandie se réveille sous des conditions météorologiques contrastées. Le soleil domine largement sur l'est de la région, notamment à Rouen et Dieppe où le ciel est dégagé. Les températures minimales y atteignent 14°C à Rouen et 14°C à Dieppe. Plus à l'ouest, un ciel plus nuageux caractérise la matinée, avec des passages nuageux sur Caen (14°C), Le Havre (15°C) et Cherbourg (16°C). Aucune précipitation n'est à signaler. Le vent souffle modérément sur l'ensemble de la région, autour de 20 km/h, avec des rafales pouvant atteindre 50 km/h sur le littoral du Cotentin et de la Seine-Maritime.
+Ce mardi matin, la Normandie se partage entre un ciel dégagé et des passages nuageux. Les températures minimales s'établissent à 13°C à Rouen et Alençon, 14°C à Caen et Lisieux, et 16°C à Cherbourg.
+
+Un soleil dominant illumine l'est de la région, notamment à Rouen, Dieppe et Évreux. Sur l'ouest et le littoral, le ciel est plus nuageux, avec des nuages masquant partiellement le soleil à Cherbourg, Caen et Le Havre. Des pluies faibles s'invitent localement sur Lisieux. Le vent souffle modérément sur l'ensemble de la région, avec des rafales atteignant 50 km/h sur Le Havre et Dieppe.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce mardi après-midi, la Normandie présente un ciel partagé. Le soleil domine largement sur l'est de la région, notamment à Évreux où le mercure atteint 30°C, et à Dieppe avec 27°C. Cependant, des passages nuageux sont observés sur une grande partie de l'ouest, notamment à Caen et Cherbourg, où les températures maximales ne dépassent pas 23°C et 20°C respectivement. Le vent souffle modérément, entre 15 et 25 km/h, avec des rafales n'excédant pas 50 km/h sur le littoral. Aucune précipitation n'est attendue pour cet après-midi.
+Ce mardi après-midi, le ciel normand présentera un contraste marqué entre l'intérieur des terres et le littoral. Un soleil dominant est attendu sur l'est de la région, notamment à Rouen et Évreux où les températures maximales atteindront respectivement 28°C et 31°C. Sur la façade maritime et l'ouest, le temps sera plus nuageux, avec un ciel peu nuageux à Caen, Le Havre et Cherbourg, où les maximales ne dépasseront pas 22°C. Lisieux connaîtra un après-midi couvert. Le vent soufflera modérément, autour de 20 à 25 km/h, avec des rafales pouvant atteindre 50 km/h au Havre et à Dieppe.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
 🏖️ MÉTÉO DES PLAGES – CÔTE D’ALBÂTRE & MANCHE (mardi 15 septembre 2026)
 
 🌴 Le Havre / Deauville / Cabourg
-☀️ Temps agréable ce mardi. Températures sur les plages : 15°C à 30°C.
+☀️ Temps agréable ce mardi. Températures sur les plages : 15°C à 31°C.
 🌊 Température de l’eau : 19°C à 20°C
 
 🌴 Dieppe / Fécamp / Cherbourg
-☀️ Belle luminosité ce mardi, brise littorale rafraîchissante avec maximales de 30°C.
+☀️ Belle luminosité ce mardi, brise littorale rafraîchissante avec maximales de 31°C.
 🌊 Température de l’eau : 19°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
@@ -350,9 +356,11 @@ Ce mardi après-midi, la Normandie présente un ciel partagé. Le soleil domine 
     Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du mardi 15 septembre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-▶ jeudi 17 septembre : 🌧️ UNE DÉGRADATION PLUVIEUSE S'INSTALLE : Des pluies éparses traversent la région avec des cumuls notables au Havre (6,6 mm) et à Cherbourg (3,1 mm). Les températures maximales chutent entre 18 et 20°C, tandis que le vent se renforce sur le littoral avec des rafales atteignant 55 km/h sur le Cotentin.
+📉 Tendance – 3 jours suivants (jeudi 17 septembre au samedi 19 septembre)
 
-▶ vendredi 18 septembre : 🌥️ UNE ACCALMIE PROGRESSIVE : Les précipitations cessent sur l'ensemble du territoire, laissant place à un ciel nuageux mais sec. Les maximales se stabilisent entre 19 et 21°C, avec des minimales fraîches de 10 à 13°C au lever du jour. Le vent faiblit légèrement, ne dépassant plus 45 km/h en rafales sur les côtes.
+▶ jeudi 17 septembre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 10°C. L'après-midi, le mercure grimpe jusqu'à 20°C sous abri. Attention aux rafales de vent atteignant 50 km/h.
 
-▶ samedi 19 septembre : 🌤️ LE SOLEIL REPREND SES DROITS : Les éclaircies dominent largement sur toute la Normandie, avec un mercure en hausse atteignant 21 à 22°C en journée. Le vent se renforce à nouveau, avec des rafales de 50 à 60 km/h attendues sur le littoral, particulièrement à Cherbourg. Les minimales restent douces, comprises entre 10 et 14°C.
+▶ vendredi 18 septembre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 9°C. L'après-midi, le mercure grimpe jusqu'à 21°C sous abri. Attention aux rafales de vent atteignant 45 km/h.
+
+▶ samedi 19 septembre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 12°C. L'après-midi, le mercure grimpe jusqu'à 23°C sous abri. Attention aux rafales de vent atteignant 65 km/h.
 
