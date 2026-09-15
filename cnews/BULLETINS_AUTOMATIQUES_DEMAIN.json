@@ -236,7 +236,7 @@
         "summaryImages": [],
         "recordsRaw": "🌧️ Pluies & Humidité : Temps sec sur la région ce mercredi avec maintien de la sécheresse de surface.\n🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce mercredi. Aucun coup de vent à craindre.\n⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce mercredi.\n🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement.",
         "recordsTitle": "🌬️ Phénomènes marquants et zones les plus exposées",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_france_tomorrow.png?t=1789484280",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_france_tomorrow.png?t=1789491831",
         "mountain": "🏔️ Météo montagne\n\n    Alpes : Chaleur marquée en vallée ce mercredi et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.\n\n    Pyrénées : Soleil dominant en matinée de ce mercredi, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce jeudi.\n\n    Massif central : Ambiance lourde et estivale ce mercredi. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.\n\n    Vosges : Temps très chaud et généreusement ensoleillé ce mercredi. Quelques nuages de beau temps l'après-midi sans intempérie.\n\n    Jura : Chaleur estivale et soleil dominant ce mercredi, avant quelques passages nuageux inoffensifs en soirée.\n\n    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du mercredi 16 septembre 2026.",
         "summaryTitle": "Prévisions pour la journée du MERCREDI 16 SEPTEMBRE 2026",
         "summaryMorning": "Ce mercredi matin, le temps s'annonce mitigé sur une grande partie du pays. Des averses sont attendues de la Bretagne aux Hauts-de-France, en passant par l'Île-de-France et le Centre-Val de Loire. Elles pourront être accompagnées de rafales de vent atteignant les 40 km/h sur les côtes bretonnes et dans le Nord. Les températures minimales affichent 12°C à Lille, 13°C à Rennes et 15°C à Paris. Plus à l'est, un ciel voilé domine sur les Ardennes. Le sud du pays bénéficie d'un temps plus clément, avec un soleil dominant sur la Nouvelle-Aquitaine, l'Occitanie et la région Provence-Alpes-Côte d'Azur. Les températures y sont plus douces, atteignant 18°C à Bordeaux et 20°C à Marseille.",
@@ -531,7 +531,7 @@
       "form": {
         "observationsRaw": "St-Hilaire-sur-Helpe (59) 29\nValenciennes (59) 30\nTroisvilles (59) 30\nMaubeuge (59) 29\nDouai (59) 31\nLille (59) 30\nRoubaix (59) 29\nSteenvoorde (59) 29\nWatten (59) 29\nDunkerque (59) 26\nSaulty (62) 30\nArras (62) 30\nFiefs (62) 29\nHumières (62) 29\nCambrai / Epinoy (62) 30\nRadinghem (62) 29\nAttin (62) 30\nNielles-lès-Bléquin (62) 27\nBainghen (62) 27\nBoulogne (62) 28\nCalais / Marck (62) 28\nCap Gris-Nez (62) 28\nLe Touquet (62) 29\n",
         "alert": "🟡 Vigilance JAUNE (4 dép.) :\n🟡 Orages : Ariège (09), Landes(40), Pyrénées-Atlantiques(64)\n🟡 Orages, Accueil, Vigilance Accessible : Pyrénées-Orientales(66)",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1789484329",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1789491832",
         "todaySummary": "",
         "summaryLancement": "☀️ CIEL PARTAGÉ ENTRE AVERSES ET ÉCLAIRCIES : Ce mercredi, le Nord-Pas-de-Calais connaît un temps variable avec des averses sur le littoral et un soleil dominant à l’intérieur, pour des maximales de 21 à 22°C et un vent modéré.",
         "summaryTitle": "Prévisions pour la journée du MERCREDI 16 SEPTEMBRE 2026",
@@ -790,7 +790,7 @@
       "form": {
         "observationsRaw": "La Rochelle 37\nChassiron 28\nGond-Pontouvre 38\nBlanzac-Porcheresse 36\nJarnac 37\nMontbron 37\nLa Couronne 37\nSoyaux 37\nCognac 37\nAngoulême 37\nRouillac 37\nSaint-Michel 37\nLa Rochefoucauld 38\nNersac 37\nConfolens 37\nBarbezieux-Saint-Hilaire 36\nChâteauneuf-sur-Charente 37\n",
         "alert": "🟡 Vigilance JAUNE (4 dép.) :\n🟡 Orages : Ariège (09), Landes(40), Pyrénées-Atlantiques(64)\n🟡 Orages, Accueil, Vigilance Accessible : Pyrénées-Orientales(66)",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_NAQ_tomorrow.png?t=1789484387",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_NAQ_tomorrow.png?t=1789491833",
         "todaySummary": "",
         "summaryLancement": "☀️ SOLEIL GÉNÉREUX ET DOUCEUR : Un ciel totalement dégagé s’impose ce mercredi sur la Charente-Maritime et la Charente, avec des températures maximales atteignant 25°C et un vent modéré sur le littoral.",
         "summaryTitle": "Prévisions pour la journée du MERCREDI 16 SEPTEMBRE 2026",
@@ -1019,7 +1019,7 @@
       "form": {
         "observationsRaw": "Leffrinckoucke 26\nGravelines 24\nOffekerque 28\nMarck 28\nLefaux 29\nGroffliers 29\nRemilly-Wirquin 28\nRacquinghem 28\nRobecq 31\nCauchy-à-la-Tour 30\nBoulogne Sur Mer 13\nLe Touquet-Paris-Plage 29\nAbbeville 31\n",
         "alert": "🟡 Vigilance JAUNE (4 dép.) :\n🟡 Orages : Ariège (09), Landes(40), Pyrénées-Atlantiques(64)\n🟡 Orages, Accueil, Vigilance Accessible : Pyrénées-Orientales(66)",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1789484427",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1789491834",
         "todaySummary": "",
         "summaryLancement": "☀️ SOLEIL ET AVERSES PAR ENDROITS : Ce mercredi, le littoral bénéficie d’éclaircies généreuses tandis que l’intérieur connaît des averses localisées, sous un vent modéré. Les maximales atteignent 22°C dans les secteurs les plus abrités.",
         "summaryTitle": "Prévisions pour la journée du MERCREDI 16 SEPTEMBRE 2026",
@@ -1331,7 +1331,7 @@
       "form": {
         "observationsRaw": "St-Hilaire-sur-Helpe (59) 29\nValenciennes (59) 30\nTroisvilles (59) 30\nMaubeuge (59) 29\nDouai (59) 31\nLille (59) 30\nRoubaix (59) 29\nSteenvoorde (59) 29\nWatten (59) 29\nDunkerque (59) 26\nSaulty (62) 30\nArras (62) 30\nFiefs (62) 29\nHumières (62) 29\nCambrai / Epinoy (62) 30\nRadinghem (62) 29\nAttin (62) 30\nNielles-lès-Bléquin (62) 27\nBainghen (62) 27\nBoulogne (62) 28\nCalais / Marck (62) 28\nCap Gris-Nez (62) 28\nLe Touquet (62) 29\n",
         "alert": "🟡 Vigilance JAUNE (4 dép.) :\n🟡 Orages : Ariège (09), Landes(40), Pyrénées-Atlantiques(64)\n🟡 Orages, Accueil, Vigilance Accessible : Pyrénées-Orientales(66)",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1789484486",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1789491835",
         "todaySummary": "",
         "summaryLancement": "☀️ MERCREDI : ÉCLAIRCIES ET AVERSES DISPERSÉES. La journée alterne entre passages nuageux porteurs d’averses sur le littoral et le nord, et de belles éclaircies dans l’intérieur, avec des maximales de saison comprises entre 19 et 22°C.",
         "summaryTitle": "Prévisions pour la journée du MERCREDI 16 SEPTEMBRE 2026",
@@ -1521,7 +1521,7 @@
       "form": {
         "observationsRaw": "Rouen 33\nCaen 27\nLe Havre 32\nCherbourg 27\nEvreux 34\nAlençon 35\nDieppe 31\nLisieux 33\n",
         "alert": "🟡 Vigilance JAUNE (4 dép.) :\n🟡 Orages : Ariège (09), Landes(40), Pyrénées-Atlantiques(64)\n🟡 Orages, Accueil, Vigilance Accessible : Pyrénées-Orientales(66)",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_NOR_tomorrow.png?t=1789484532",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_NOR_tomorrow.png?t=1789491836",
         "todaySummary": "",
         "summaryLancement": "☀️ APRÈS UNE MATINÉE HUMIDE, LE SOLEIL S’IMPOSE : Ce mercredi, la Normandie passe d’un ciel gris et pluvieux le matin à un après-midi largement ensoleillé, avec des températures maximales comprises entre 19 et 21 °C, sous un vent modéré.",
         "summaryTitle": "Prévisions pour la journée du MERCREDI 16 SEPTEMBRE 2026",
