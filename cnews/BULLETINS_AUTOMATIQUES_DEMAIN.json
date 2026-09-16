@@ -236,7 +236,7 @@
         "summaryImages": [],
         "recordsRaw": "🌧️ Pluies & Humidité : Temps sec sur la région ce jeudi avec maintien de la sécheresse de surface.\n🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce jeudi. Aucun coup de vent à craindre.\n⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce jeudi.\n🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement.",
         "recordsTitle": "🌬️ Phénomènes marquants et zones les plus exposées",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_france_tomorrow.png?t=1789566697",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_france_tomorrow.png?t=1789578239",
         "mountain": "🏔️ Météo montagne\n\n    Alpes : Chaleur marquée en vallée ce jeudi et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.\n\n    Pyrénées : Soleil dominant en matinée de ce jeudi, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce vendredi.\n\n    Massif central : Ambiance lourde et estivale ce jeudi. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.\n\n    Vosges : Temps très chaud et généreusement ensoleillé ce jeudi. Quelques nuages de beau temps l'après-midi sans intempérie.\n\n    Jura : Chaleur estivale et soleil dominant ce jeudi, avant quelques passages nuageux inoffensifs en soirée.\n\n    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du jeudi 17 septembre 2026.",
         "summaryTitle": "Prévisions pour la journée du JEUDI 17 SEPTEMBRE 2026",
         "summaryMorning": "Ce jeudi matin, la France est coupée en deux avec une atmosphère humide et nuageuse sur la moitié nord-ouest. Des averses se déclenchent sur Lille (13°C), Rouen (12°C) et Rennes (14°C), où un vent modéré souffle à 20 km/h. Des pluies faibles sont également observées sur Brest (14°C). Ces précipitations s'accompagnent de rafales pouvant atteindre 45 km/h localement. À l'inverse, un temps plus calme et ensoleillé prévaut sur le reste du territoire. Paris (14°C), Laon (10°C) et Tours (12°C) bénéficient d'un ciel peu nuageux, avec des températures minimales fraîches dans les terres. Le vent reste généralement faible à modéré sur ces régions.",
@@ -531,7 +531,7 @@
       "form": {
         "observationsRaw": "St-Hilaire-sur-Helpe (59) 29\nValenciennes (59) 30\nTroisvilles (59) 30\nMaubeuge (59) 29\nDouai (59) 31\nLille (59) 30\nRoubaix (59) 29\nSteenvoorde (59) 29\nWatten (59) 29\nDunkerque (59) 26\nSaulty (62) 30\nArras (62) 30\nFiefs (62) 29\nHumières (62) 29\nCambrai / Epinoy (62) 30\nRadinghem (62) 29\nAttin (62) 30\nNielles-lès-Bléquin (62) 27\nBainghen (62) 27\nBoulogne (62) 28\nCalais / Marck (62) 28\nCap Gris-Nez (62) 28\nLe Touquet (62) 29\n",
         "alert": "🟡 Vigilance JAUNE (1 dép.) :\n🟡 Orages, Accueil, Vigilance Accessible : Haute-Corse(2B)",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1789566743",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1789578241",
         "todaySummary": "",
         "summaryLancement": "☀️ CONTRASTE MARQUÉ ENTRE LE LITTORAL ET L’INTÉRIEUR : Ce jeudi, les averses matinales cèdent la place à des pluies faibles l’après-midi sur un axe Lille-Steenvoorde, tandis que le soleil règne en maître de Douai à Maubeuge, avec des maximales de 18 à 21°C.",
         "summaryTitle": "Prévisions pour la journée du JEUDI 17 SEPTEMBRE 2026",
@@ -790,7 +790,7 @@
       "form": {
         "observationsRaw": "La Rochelle 37\nChassiron 28\nGond-Pontouvre 38\nBlanzac-Porcheresse 36\nJarnac 37\nMontbron 37\nLa Couronne 37\nSoyaux 37\nCognac 37\nAngoulême 37\nRouillac 37\nSaint-Michel 37\nLa Rochefoucauld 38\nNersac 37\nConfolens 37\nBarbezieux-Saint-Hilaire 36\nChâteauneuf-sur-Charente 37\n",
         "alert": "🟡 Vigilance JAUNE (1 dép.) :\n🟡 Orages, Accueil, Vigilance Accessible : Haute-Corse(2B)",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_NAQ_tomorrow.png?t=1789566805",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_NAQ_tomorrow.png?t=1789578242",
         "todaySummary": "",
         "summaryLancement": "🌤️ UN JEUDI EN DEMI-TEINTE : Le littoral rochelais reste sous les nuages avec de faibles averses en matinée et après-midi, tandis que l’intérieur des terres profite d’un soleil généreux et de températures maximales comprises entre 23°C et 24°C.",
         "summaryTitle": "Prévisions pour la journée du JEUDI 17 SEPTEMBRE 2026",
@@ -1019,7 +1019,7 @@
       "form": {
         "observationsRaw": "Leffrinckoucke 26\nGravelines 24\nOffekerque 28\nMarck 28\nLefaux 29\nGroffliers 29\nRemilly-Wirquin 28\nRacquinghem 28\nRobecq 31\nCauchy-à-la-Tour 30\nBoulogne Sur Mer 13\nLe Touquet-Paris-Plage 29\nAbbeville 31\n",
         "alert": "🟡 Vigilance JAUNE (1 dép.) :\n🟡 Orages, Accueil, Vigilance Accessible : Haute-Corse(2B)",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1789566840",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1789578243",
         "todaySummary": "",
         "summaryLancement": "🌦️ UN JEUDI ENTRE AVERSES ET ÉCLAIRCIES : Le temps s'annonce capricieux sur la région avec des pluies localement soutenues sur le littoral et des rafales de vent atteignant 60 km/h, tandis que les températures restent agréables, de 18°C à 21°C l'après-midi.",
         "summaryTitle": "Prévisions pour la journée du JEUDI 17 SEPTEMBRE 2026",
@@ -1331,7 +1331,7 @@
       "form": {
         "observationsRaw": "St-Hilaire-sur-Helpe (59) 29\nValenciennes (59) 30\nTroisvilles (59) 30\nMaubeuge (59) 29\nDouai (59) 31\nLille (59) 30\nRoubaix (59) 29\nSteenvoorde (59) 29\nWatten (59) 29\nDunkerque (59) 26\nSaulty (62) 30\nArras (62) 30\nFiefs (62) 29\nHumières (62) 29\nCambrai / Epinoy (62) 30\nRadinghem (62) 29\nAttin (62) 30\nNielles-lès-Bléquin (62) 27\nBainghen (62) 27\nBoulogne (62) 28\nCalais / Marck (62) 28\nCap Gris-Nez (62) 28\nLe Touquet (62) 29\n",
         "alert": "🟡 Vigilance JAUNE (1 dép.) :\n🟡 Orages, Accueil, Vigilance Accessible : Haute-Corse(2B)",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1789566881",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1789578244",
         "todaySummary": "",
         "summaryLancement": "☁️ PLUIES DISPERSÉES MAIS ÉCLAIRCIES À L’EST : Ce jeudi, le ciel alterne entre nuages porteurs de pluies faibles sur le littoral et le centre (Lille, Roubaix) et un franc soleil sur les secteurs de Maubeuge et Douai, avec des maximales atteignant 21°C à Dunkerque.",
         "summaryTitle": "Prévisions pour la journée du JEUDI 17 SEPTEMBRE 2026",
@@ -1521,7 +1521,7 @@
       "form": {
         "observationsRaw": "Rouen 33\nCaen 27\nLe Havre 32\nCherbourg 27\nEvreux 34\nAlençon 35\nDieppe 31\nLisieux 33\n",
         "alert": "🟡 Vigilance JAUNE (1 dép.) :\n🟡 Orages, Accueil, Vigilance Accessible : Haute-Corse(2B)",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_NOR_tomorrow.png?t=1789566926",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_NOR_tomorrow.png?t=1789578245",
         "todaySummary": "",
         "summaryLancement": "🌧️ PASSAGE PLUVIEUX ET NUAGEUX : Des précipitations et des averses traversent la région ce jeudi, avec des températures évoluant de 10°C le matin jusqu'à 20°C l'après-midi.",
         "summaryTitle": "Prévisions pour la journée du JEUDI 17 SEPTEMBRE 2026",
