@@ -236,7 +236,7 @@
         "summaryImages": [],
         "recordsRaw": "🌧️ Pluies & Humidité : Temps sec sur la région ce jeudi avec maintien de la sécheresse de surface.\n🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce jeudi. Aucun coup de vent à craindre.\n⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce jeudi.\n🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement.",
         "recordsTitle": "🌬️ Phénomènes marquants et zones les plus exposées",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_france_tomorrow.png?t=1789535079",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_france_tomorrow.png?t=1789566633",
         "mountain": "🏔️ Météo montagne\n\n    Alpes : Chaleur marquée en vallée ce jeudi et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.\n\n    Pyrénées : Soleil dominant en matinée de ce jeudi, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce vendredi.\n\n    Massif central : Ambiance lourde et estivale ce jeudi. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.\n\n    Vosges : Temps très chaud et généreusement ensoleillé ce jeudi. Quelques nuages de beau temps l'après-midi sans intempérie.\n\n    Jura : Chaleur estivale et soleil dominant ce jeudi, avant quelques passages nuageux inoffensifs en soirée.\n\n    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du jeudi 17 septembre 2026.",
         "summaryTitle": "Prévisions pour la journée du JEUDI 17 SEPTEMBRE 2026",
         "summaryMorning": "Ce jeudi matin, la France se réveille sous un ciel partagé. Des averses sont observées sur le nord-ouest, notamment à Lille (13°C), Rouen (12°C) et Rennes (14°C), accompagnées d'un vent modéré soufflant jusqu'à 25 km/h à Lille, avec des rafales atteignant 45 km/h. La Bretagne, autour de Brest (14°C), connaît un temps peu nuageux malgré des averses locales. Le reste du pays bénéficie d'un soleil généreux, comme à Laon (9°C) et Paris (14°C), où le vent est plus faible, autour de 15 à 20 km/h. Les températures minimales varient de 9°C dans les terres à Laon, à 14°C sur le littoral breton.",
@@ -531,7 +531,7 @@
       "form": {
         "observationsRaw": "St-Hilaire-sur-Helpe (59) 29\nValenciennes (59) 30\nTroisvilles (59) 30\nMaubeuge (59) 29\nDouai (59) 31\nLille (59) 30\nRoubaix (59) 29\nSteenvoorde (59) 29\nWatten (59) 29\nDunkerque (59) 26\nSaulty (62) 30\nArras (62) 30\nFiefs (62) 29\nHumières (62) 29\nCambrai / Epinoy (62) 30\nRadinghem (62) 29\nAttin (62) 30\nNielles-lès-Bléquin (62) 27\nBainghen (62) 27\nBoulogne (62) 28\nCalais / Marck (62) 28\nCap Gris-Nez (62) 28\nLe Touquet (62) 29\n",
         "alert": "🟡 Vigilance JAUNE (1 dép.) :\n🟡 Orages, Accueil, Vigilance Accessible : Haute-Corse(2B)",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1789535120",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1789566635",
         "todaySummary": "",
         "summaryLancement": "☁️ AVERSES ET VENT : UN JEUDI SOUS LE SIGNE DE L’INSTABILITÉ. La journée de jeudi alterne entre éclaircies et averses, avec un vent modéré à fort sur le littoral, et des températures maximales atteignant 20°C dans les terres.",
         "summaryTitle": "Prévisions pour la journée du JEUDI 17 SEPTEMBRE 2026",
@@ -790,7 +790,7 @@
       "form": {
         "observationsRaw": "La Rochelle 37\nChassiron 28\nGond-Pontouvre 38\nBlanzac-Porcheresse 36\nJarnac 37\nMontbron 37\nLa Couronne 37\nSoyaux 37\nCognac 37\nAngoulême 37\nRouillac 37\nSaint-Michel 37\nLa Rochefoucauld 38\nNersac 37\nConfolens 37\nBarbezieux-Saint-Hilaire 36\nChâteauneuf-sur-Charente 37\n",
         "alert": "🟡 Vigilance JAUNE (1 dép.) :\n🟡 Orages, Accueil, Vigilance Accessible : Haute-Corse(2B)",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_NAQ_tomorrow.png?t=1789535186",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_NAQ_tomorrow.png?t=1789566636",
         "todaySummary": "",
         "summaryLancement": "🌧️ JEUDI MITIGÉ ET VENTÉ : Une journée marquée par des averses matinales sur La Rochelle et Angoulême, avant un net retour des éclaircies l'après-midi. Les températures sont stables, autour de 24°C.",
         "summaryTitle": "Prévisions pour la journée du JEUDI 17 SEPTEMBRE 2026",
@@ -1019,7 +1019,7 @@
       "form": {
         "observationsRaw": "Leffrinckoucke 26\nGravelines 24\nOffekerque 28\nMarck 28\nLefaux 29\nGroffliers 29\nRemilly-Wirquin 28\nRacquinghem 28\nRobecq 31\nCauchy-à-la-Tour 30\nBoulogne Sur Mer 13\nLe Touquet-Paris-Plage 29\nAbbeville 31\n",
         "alert": "🟡 Vigilance JAUNE (1 dép.) :\n🟡 Orages, Accueil, Vigilance Accessible : Haute-Corse(2B)",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1789535212",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1789566637",
         "todaySummary": "",
         "summaryLancement": "☁️ JEUDI INSTABLE SOUS AVERSES ET VENT : Le temps reste agité ce jeudi sur la région avec un ciel très nuageux et des précipitations fréquentes, surtout en bord de mer où les rafales atteignent 55 km/h. Les températures maximales plafonnent entre 17 et 20°C.",
         "summaryTitle": "Prévisions pour la journée du JEUDI 17 SEPTEMBRE 2026",
@@ -1331,7 +1331,7 @@
       "form": {
         "observationsRaw": "St-Hilaire-sur-Helpe (59) 29\nValenciennes (59) 30\nTroisvilles (59) 30\nMaubeuge (59) 29\nDouai (59) 31\nLille (59) 30\nRoubaix (59) 29\nSteenvoorde (59) 29\nWatten (59) 29\nDunkerque (59) 26\nSaulty (62) 30\nArras (62) 30\nFiefs (62) 29\nHumières (62) 29\nCambrai / Epinoy (62) 30\nRadinghem (62) 29\nAttin (62) 30\nNielles-lès-Bléquin (62) 27\nBainghen (62) 27\nBoulogne (62) 28\nCalais / Marck (62) 28\nCap Gris-Nez (62) 28\nLe Touquet (62) 29\n",
         "alert": "🟡 Vigilance JAUNE (1 dép.) :\n🟡 Orages, Accueil, Vigilance Accessible : Haute-Corse(2B)",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1789535259",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1789566638",
         "todaySummary": "",
         "summaryLancement": "🌦️ UN JEUDI ENTRE NUAGES ET ÉCLAIRcies : Des averses faibles émaillent la journée sur la moitié nord de la région, tandis que le soleil domine plus franchement au sud, avec des maximales atteignant 20°C et des rafales de vent jusqu'à 50 km/h sur le littoral.",
         "summaryTitle": "Prévisions pour la journée du JEUDI 17 SEPTEMBRE 2026",
@@ -1521,7 +1521,7 @@
       "form": {
         "observationsRaw": "Rouen 33\nCaen 27\nLe Havre 32\nCherbourg 27\nEvreux 34\nAlençon 35\nDieppe 31\nLisieux 33\n",
         "alert": "🟡 Vigilance JAUNE (1 dép.) :\n🟡 Orages, Accueil, Vigilance Accessible : Haute-Corse(2B)",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_NOR_tomorrow.png?t=1789535298",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_NOR_tomorrow.png?t=1789566639",
         "todaySummary": "",
         "summaryLancement": "🌦️ JEUDI MITIGÉ : AVERSES SUR LES CÔTES, ÉCLAIRCIES DANS L’INTÉRIEUR. Ce jeudi, la Normandie alterne entre averses sur le littoral et le sud de la région et éclaircies dans l’intérieur, avec des températures maximales de 19 à 21°C et un vent soutenu sur les côtes.",
         "summaryTitle": "Prévisions pour la journée du JEUDI 17 SEPTEMBRE 2026",
