@@ -236,7 +236,7 @@
         "summaryImages": [],
         "recordsRaw": "🌧️ Pluies & Humidité : Temps sec sur la région ce dimanche avec maintien de la sécheresse de surface.\n🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce dimanche. Aucun coup de vent à craindre.\n⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce dimanche.\n🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement.",
         "recordsTitle": "🌬️ Phénomènes marquants et zones les plus exposées",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_france_tomorrow.png?t=1789794403",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_france_tomorrow.png?t=1789837425",
         "mountain": "🏔️ Météo montagne\n\n    Alpes : Chaleur marquée en vallée ce dimanche et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.\n\n    Pyrénées : Soleil dominant en matinée de ce dimanche, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce lundi.\n\n    Massif central : Ambiance lourde et estivale ce dimanche. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.\n\n    Vosges : Temps très chaud et généreusement ensoleillé ce dimanche. Quelques nuages de beau temps l'après-midi sans intempérie.\n\n    Jura : Chaleur estivale et soleil dominant ce dimanche, avant quelques passages nuageux inoffensifs en soirée.\n\n    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du dimanche 20 septembre 2026.",
         "summaryTitle": "Prévisions pour la journée du DIMANCHE 20 SEPTEMBRE 2026",
         "summaryMorning": "Ce dimanche matin, le ciel se partage entre éclaircies et passages nuageux sur une grande partie du territoire. Des averses se déclenchent sur le nord-ouest, notamment à Lille (16°C) où 1.0 mm de pluie est relevé, ainsi qu'à Rouen (14°C), Tours (12°C) et Poitiers (12°C). Le vent souffle modérément à 20 km/h sur Lille, avec des rafales atteignant 40 km/h. Ailleurs, les éclaircies dominent, comme à Paris (16°C) et Laon (12°C), où le vent reste faible. Les températures minimales affichent 16°C à Brest et 13°C à Nantes.",
@@ -531,7 +531,7 @@
       "form": {
         "observationsRaw": "St-Hilaire-sur-Helpe (59) 29\nValenciennes (59) 30\nTroisvilles (59) 30\nMaubeuge (59) 29\nDouai (59) 31\nLille (59) 30\nRoubaix (59) 29\nSteenvoorde (59) 29\nWatten (59) 29\nDunkerque (59) 26\nSaulty (62) 30\nArras (62) 30\nFiefs (62) 29\nHumières (62) 29\nCambrai / Epinoy (62) 30\nRadinghem (62) 29\nAttin (62) 30\nNielles-lès-Bléquin (62) 27\nBainghen (62) 27\nBoulogne (62) 28\nCalais / Marck (62) 28\nCap Gris-Nez (62) 28\nLe Touquet (62) 29\n",
         "alert": "🟢 Aucune vigilance orange ou rouge en cours sur le pays.",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1789794473",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1789837426",
         "todaySummary": "",
         "summaryLancement": "🌧️ PASSAGE PLUVIEUX ET NUAGEUX : Des précipitations et des averses traversent la région ce dimanche, avec des températures évoluant de 12°C le matin jusqu'à 22°C l'après-midi.",
         "summaryTitle": "Prévisions pour la journée du DIMANCHE 20 SEPTEMBRE 2026",
@@ -790,7 +790,7 @@
       "form": {
         "observationsRaw": "La Rochelle 37\nChassiron 28\nGond-Pontouvre 38\nBlanzac-Porcheresse 36\nJarnac 37\nMontbron 37\nLa Couronne 37\nSoyaux 37\nCognac 37\nAngoulême 37\nRouillac 37\nSaint-Michel 37\nLa Rochefoucauld 38\nNersac 37\nConfolens 37\nBarbezieux-Saint-Hilaire 36\nChâteauneuf-sur-Charente 37\n",
         "alert": "🟢 Aucune vigilance orange ou rouge en cours sur le pays.",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_NAQ_tomorrow.png?t=1789794569",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_NAQ_tomorrow.png?t=1789837427",
         "todaySummary": "",
         "summaryLancement": "**\n**☀️ UNE JOURNÉE SÈCHE ET LARGEMENT ENSOLEILLÉE : Le soleil domine sans partage sur la région ce dimanche, avec des températures maximales grimpant jusqu'à 31°C dans les terres, malgré un vent modéré sur le littoral.**",
         "summaryTitle": "Prévisions pour la journée du DIMANCHE 20 SEPTEMBRE 2026",
@@ -1019,7 +1019,7 @@
       "form": {
         "observationsRaw": "Leffrinckoucke 26\nGravelines 24\nOffekerque 28\nMarck 28\nLefaux 29\nGroffliers 29\nRemilly-Wirquin 28\nRacquinghem 28\nRobecq 31\nCauchy-à-la-Tour 30\nBoulogne Sur Mer 13\nLe Touquet-Paris-Plage 29\nAbbeville 31\n",
         "alert": "🟢 Aucune vigilance orange ou rouge en cours sur le pays.",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1789794632",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1789837428",
         "todaySummary": "",
         "summaryLancement": "🌧️ PASSAGE PLUVIEUX ET NUAGEUX : Des précipitations et des averses traversent la région ce dimanche, avec des températures évoluant de 11°C le matin jusqu'à 22°C l'après-midi.",
         "summaryTitle": "Prévisions pour la journée du DIMANCHE 20 SEPTEMBRE 2026",
@@ -1331,7 +1331,7 @@
       "form": {
         "observationsRaw": "St-Hilaire-sur-Helpe (59) 29\nValenciennes (59) 30\nTroisvilles (59) 30\nMaubeuge (59) 29\nDouai (59) 31\nLille (59) 30\nRoubaix (59) 29\nSteenvoorde (59) 29\nWatten (59) 29\nDunkerque (59) 26\nSaulty (62) 30\nArras (62) 30\nFiefs (62) 29\nHumières (62) 29\nCambrai / Epinoy (62) 30\nRadinghem (62) 29\nAttin (62) 30\nNielles-lès-Bléquin (62) 27\nBainghen (62) 27\nBoulogne (62) 28\nCalais / Marck (62) 28\nCap Gris-Nez (62) 28\nLe Touquet (62) 29\n",
         "alert": "🟢 Aucune vigilance orange ou rouge en cours sur le pays.",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1789794675",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1789837429",
         "todaySummary": "",
         "summaryLancement": "☀️ UN DIMANCHE SOUS LE SIGNE DU CONTRASTE. Un ciel partagé entre pluies sur le littoral et le nord et un franc soleil sur l’intérieur, avec des températures maximales de 19°C à Steenvoorde à 22°C à Dunkerque et un vent modéré.",
         "summaryTitle": "Prévisions pour la journée du DIMANCHE 20 SEPTEMBRE 2026",
@@ -1521,7 +1521,7 @@
       "form": {
         "observationsRaw": "Rouen 33\nCaen 27\nLe Havre 32\nCherbourg 27\nEvreux 34\nAlençon 35\nDieppe 31\nLisieux 33\n",
         "alert": "🟢 Aucune vigilance orange ou rouge en cours sur le pays.",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_NOR_tomorrow.png?t=1789794706",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_NOR_tomorrow.png?t=1789837430",
         "todaySummary": "",
         "summaryLancement": "☀️ UN DIMANCHE PARTAGÉ PUIS ENSOLEILLÉ : Après une matinée nuageuse sur Caen et Dieppe, le soleil s'impose largement l'après-midi sur l'ensemble de la Normandie, avec des maximales atteignant 21 à 22°C et un vent modéré.",
         "summaryTitle": "Prévisions pour la journée du DIMANCHE 20 SEPTEMBRE 2026",
