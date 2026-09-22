@@ -13,12 +13,10 @@ FICHIER SOURCE : /home/runner/work/meteo-kappa/meteo-kappa/cnews/BULLETINS_AUTOM
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce mercredi matin, le ciel français se partage entre une douceur nuageuse au nord et un soleil généreux sur la moitié sud. Les températures minimales affichent 11°C à Lille sous un ciel très nuageux, 13°C à Rouen également sous les nuages, et 14°C à Paris où le soleil domine.
-
-Sur la façade ouest, de Brest à Nantes, le soleil s'impose dès le lever du jour, avec un vent modéré de 20 km/h sur les côtes bretonnes. Plus à l'est, de Laon à Poitiers, le soleil est également bien présent, offrant un début de journée lumineux et calme, avec des vents faibles ne dépassant pas les 10 km/h. Les températures intérieures sont plus fraîches, avec 7°C à Laon.
+Ce mercredi matin, le temps s'annonce majoritairement ensoleillé sur une grande partie du territoire. Les minimales affichent 11°C à Lille, 12°C à Rouen et 14°C à Paris. La façade atlantique, de la Bretagne aux Pays de la Loire, bénéficie également de belles éclaircies, avec un vent modéré soufflant entre 15 et 20 km/h. Quelques nuages bas sont présents sur la pointe bretonne, notamment à Brest où le vent atteint 20 km/h avec des rafales à 40 km/h. Le soleil voile le ciel du Centre-Val de Loire, comme à Tours, mais sans impact sur la luminosité. Les températures intérieures des terres sont légèrement plus fraîches que sur le littoral.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce mercredi après-midi, la France métropolitaine bénéficie d'un temps généralement ensoleillé et chaud. Le soleil domine largement sur l'ensemble du territoire, avec quelques nuages d'altitude sans conséquence sur la région Centre-Val de Loire, notamment à Tours. Les températures maximales atteignent des niveaux estivaux, avec 29°C à Nantes et Tours, et 30°C à Poitiers. Le vent reste faible à modéré, soufflant entre 5 et 20 km/h, sans rafales significatives. Aucune précipitation n'est à signaler.
+Ce mercredi après-midi, la France bénéficiera d'un temps majoritairement ensoleillé. Le soleil dominera largement sur la moitié nord du pays, de Lille (24°C) à Paris (26°C) et Rouen (24°C). Le vent restera faible, ne dépassant pas les 15 km/h. Plus à l'ouest, le littoral breton, notamment Brest (26°C), connaîtra des brises côtières avec des rafales atteignant 40 km/h. Dans le Centre-Ouest, un soleil légèrement voilé est attendu sur Tours (28°C), tandis que Poitiers (29°C) et Nantes (29°C) profiteront d'un soleil généreux. Aucune précipitation n'est à signaler sur l'ensemble du territoire pour cet après-midi.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce mercredi avec maintien de la sécheresse de surface.
@@ -40,11 +38,11 @@ Ce mercredi après-midi, la France métropolitaine bénéficie d'un temps géné
     Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du mercredi 23 septembre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-▶ vendredi 25 septembre : Le soleil s'impose à nouveau sur l'ensemble du territoire avec des maximales estivales atteignant 29°C à Poitiers et 28°C à Nantes. Les minimales restent fraîches au nord avec 5°C à Laon, sous un vent faible de 5 à 20 km/h. Aucune précipitation n'est attendue.
+▶ vendredi 25 septembre : Le soleil reste dominant sur tout le pays, avec des températures encore très douces, jusqu’à 30°C à Nantes. Le vent est faible, sauf sur le littoral breton où il souffle à 20 km/h. Les minimales sont fraîches, notamment 4°C à Laon.
 
-▶ samedi 26 septembre : Le ciel se voile légèrement par un passage nuageux sur la Bretagne, mais le soleil reste dominant partout ailleurs. Les températures maximales grimpent jusqu'à 27°C à Tours et Poitiers, avec des minimales comprises entre 8°C à Laon et 13°C à Paris. Le vent reste faible à modéré, ne dépassant pas 15 km/h.
+▶ samedi 26 septembre : Le ciel se voile par endroits, notamment en Normandie et en Bretagne, où le vent se renforce avec des rafales jusqu’à 45 km/h. Les températures baissent légèrement, avec des maximales de 20 à 26°C. Aucune précipitation n’est attendue.
 
-▶ dimanche 27 septembre : Une dégradation pluvieuse aborde les côtes atlantiques en fin de journée, avec des rafales atteignant 60 km/h à Rennes et des précipitations modérées sur la Bretagne et les Pays de la Loire. Les maximales restent douces, entre 19°C à Rennes et 26°C à Paris et Brest, tandis que le vent se renforce sensiblement sur l'ouest.
+▶ dimanche 27 septembre : Une dégradation s’amorce par l’ouest : nuages et pluies faibles gagnent la Bretagne (5,7 mm à Brest) et la région parisienne (0,6 mm). Le vent reste modéré, et les températures oscillent entre 20 et 26°C, avec un ressenti plus frais.
 
 
 --------------------------------------------------------------------------------
@@ -56,16 +54,16 @@ Ce mercredi après-midi, la France métropolitaine bénéficie d'un temps géné
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce mercredi matin, le ciel se présente majoritairement nuageux sur l'ensemble de la région, avec des températures minimales fraîches pour la saison. À Valenciennes et Troisvilles, le thermomètre affiche 9°C, tandis que Maubeuge et Lille enregistrent 11°C. Le vent souffle faiblement, autour de 10 à 15 km/h sur l'ensemble du territoire, sans rafales significatives. Aucune précipitation n'est à signaler. Le littoral, notamment à Dunkerque, connaît des températures similaires à l'intérieur des terres, avec 11°C.
+Ce mercredi matin, le ciel se présente voilé sur l'ensemble de la région, avec un soleil discret derrière une couche de nuages d'altitude. Les températures minimales affichent 8°C à Valenciennes et Troisvilles, tandis que Lille et Douai enregistrent 11°C. Sur le littoral, Dunkerque connaît également 11°C, avec un vent modéré soufflant à 20 km/h, et des rafales atteignant 45 km/h. Aucune précipitation n'est à signaler pour ce début de journée.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce mercredi après-midi, la région bénéficie d'un temps ensoleillé et stable. Le soleil domine largement sur l'ensemble des départements, sans la moindre trace de nuage. Les températures maximales atteignent 25°C à Douai et Dunkerque, 24°C à Valenciennes et Lille, et 22°C à St-Hilaire-sur-Helpe, Maubeuge, Steenvoorde et Watten. Le vent souffle faiblement, avec des vitesses n'excédant pas 15 km/h, notamment à Troisvilles et Dunkerque, et autour de 10 km/h sur le reste du territoire, sans distinction notable entre le littoral et l'intérieur des terres. Aucune précipitation n'est à signaler.
+Ce mercredi après-midi, le ciel se montrera généreusement ensoleillé sur l'ensemble de la région, sans aucune présence nuageuse. Les précipitations sont absentes. Les températures maximales atteindront 25°C à Douai et Dunkerque, 24°C à Valenciennes et Lille, et 23°C à St-Hilaire-sur-Helpe et Maubeuge. Le vent soufflera faiblement sur l'intérieur des terres, autour de 10 à 15 km/h. Sur le littoral, notamment à Dunkerque, une brise côtière sera présente avec des vents de 20 km/h, et des rafales pouvant atteindre 45 km/h.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
 🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (mercredi 23 septembre 2026)
 
 🌴 Dunkerque / Malo-les-Bains / Bray-Dunes
-☀️ Influence anticyclonique calme assurant un temps sec et modérément doux sur la côte. Températures de 11°C le matin à 25°C l'après-midi.
+☀️ Influence anticyclonique calme assurant un temps sec et modérément doux sur la côte. Températures de 10°C le matin à 25°C l'après-midi.
 🌊 Température de l’eau : 17°C à 18°C
 
 🌴 Le Touquet / Berck / Baie de Somme
@@ -78,7 +76,7 @@ Ce mercredi après-midi, la région bénéficie d'un temps ensoleillé et stable
 📍 Zones : Dunkerque • Calais • Boulogne-sur-Mer • Le Touquet
 
 ☀️ Situation générale : Influence anticyclonique calme assurant un temps sec et modérément doux.
-🌬️ Vent : Vent de Nord-Est modéré (15 km/h) ce mercredi.
+🌬️ Vent : Vent de Nord-Est modéré (20 km/h avec rafales atteignant 45 km/h) ce mercredi.
 🌊 État de la mer : Mer peu agitée (vagues 0.4m à 0.8m), idéale pour les activités nautiques.
 ⚠️ Visibilité : Bonne sur l'ensemble du littoral.
 
@@ -102,11 +100,9 @@ Ce mercredi après-midi, la région bénéficie d'un temps ensoleillé et stable
     Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du mercredi 23 septembre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-▶ vendredi 25 septembre : Le soleil domine de nouveau sur l'ensemble de la région avec un ciel parfaitement dégagé. Les températures restent stables, avec des minimales comprises entre 8°C et 12°C et des maximales atteignant 24°C à Troisvilles et Douai. Le vent demeure faible, ne dépassant pas 15 km/h.
-
-▶ samedi 26 septembre : La journée s'annonce encore majoritairement ensoleillée, bien que quelques nuages élevés puissent faire leur apparition en fin de journée sur le littoral. Les températures se maintiennent à des niveaux doux, avec des maximales comprises entre 20°C et 24°C. Le vent reste calme, avec des pointes à 15 km/h uniquement sur le secteur de Dunkerque.
-
-▶ dimanche 27 septembre : Le temps se dégrade légèrement avec un ciel qui devient plus variable et quelques passages nuageux, particulièrement sur le nord de la région. Les températures restent douces, avec des maximales allant de 21°C à 25°C, mais le vent se renforce nettement avec des rafales pouvant atteindre 45 km/h sur l'ensemble du territoire.
+▶ vendredi 25 septembre : Le soleil reste dominant sur l'ensemble du territoire. Les températures maximales grimpent jusqu'à 25°C à Lille et Roubaix, avec un vent faible de 10 à 15 km/h. Une journée idéale pour profiter des activités en extérieur.
+▶ samedi 26 septembre : Le ciel devient plus variable, avec un passage très nuageux par endroits. De faibles pluies sont possibles sur Douai, Steenvoorde et Watten, où les maximales plafonnent à 19-20°C. Le vent se renforce sur le littoral, avec des rafales atteignant 40 km/h à Dunkerque.
+▶ dimanche 27 septembre : Le temps reste instable avec un ciel alternant nuages et éclaircies. Quelques averses isolées sont attendues, notamment autour de Valenciennes et Dunkerque. Les températures restent douces, avec des maximales comprises entre 21°C et 24°C.
 
 
 --------------------------------------------------------------------------------
@@ -118,22 +114,22 @@ Ce mercredi après-midi, la région bénéficie d'un temps ensoleillé et stable
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce mercredi matin, le département de la Charente-Maritime et ses environs se réveillent sous un ciel dégagé, dominé par un soleil éclatant. Aucune précipitation n'est à signaler. Les températures minimales affichent 11°C à La Rochelle et Blanzac-Porcheresse, 12°C à Jarnac et Cognac, et 9°C à Montbron. Un léger vent souffle sur la région, avec des pointes à 20 km/h à Chassiron sur le littoral, et des brises plus modérées, autour de 10 km/h, dans l'intérieur des terres comme à Gond-Pontouvre ou Angoulême. Le contraste thermique est notable, avec des minimales plus douces sur la côte.
+Ce mercredi matin, le ciel se présente dégagé sur l'ensemble de la région, offrant un soleil dominant dès les premières heures. Les températures minimales affichent 9°C à Montbron, 11°C à La Rochelle et Blanzac-Porcheresse, et 14°C à La Couronne, Soyaux et Angoulême. Un léger contraste thermique s'observe entre l'intérieur des terres et le littoral, où la douceur est plus marquée avec 18°C à Chassiron. Le vent souffle faiblement, autour de 10 à 20 km/h, sans rafales notables. Aucune précipitation n'est attendue.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce mercredi après-midi, la région bénéficie d'un ensoleillement généreux. Le ciel se montre dégagé sur la quasi-totalité du territoire, avec un soleil dominant. Seul le secteur de Montbron connaît un ciel très nuageux, sans précipitations. Les températures maximales affichent des valeurs estivales, atteignant 33°C à Angoulême, Gond-Pontouvre et Soyaux. La Rochelle enregistre 32°C, tandis que Chassiron, sur le littoral, affiche 24°C, profitant d'une brise côtière de 20 km/h. Les vents restent faibles à modérés sur l'intérieur des terres, généralement autour de 10 km/h.
+Ce mercredi après-midi, la région de La Rochelle bénéficie d'un ensoleillement généreux, malgré la présence de quelques nuages d'altitude qui voilent très légèrement le ciel. Aucune précipitation n'est à signaler. Les températures maximales atteignent 31°C à La Rochelle, tandis qu'à Chassiron, le mercure affiche 26°C, sous l'influence d'une brise côtière de 20 km/h. Dans l'intérieur des terres, les valeurs sont plus élevées, avec 32°C à Angoulême et La Couronne. Le vent, faible à modéré, souffle entre 10 et 15 km/h sur l'ensemble du territoire.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
 🏖️ MÉTÉO DES PLAGES – LITTORAL CHARENTAIS (mercredi 23 septembre 2026)
 
 🌴 La Rochelle / Île de Ré / Île d’Oléron
 ☀️ Poussée d'une dorsale anticyclonique d'altitude advectant une masse d'air très chaude sur l'ensemble des plages charentaises ce mercredi.
-🌡️ Température sur le littoral : 12°C à 33°C
-🌊 Température de l’eau : 23°C à 24°C
+🌡️ Température sur le littoral : 12°C à 32°C
+🌊 Température de l’eau : 22°C à 23°C
 
 🌴 Royan / Côte de Beauté / Rochefort
-☀️ Ensoleillement généreux ce mercredi, maximales de 34°C tempérées par la brise marine.
-🌊 Température de l’eau : 24°C
+☀️ Ensoleillement généreux ce mercredi, maximales de 33°C tempérées par la brise marine.
+🌊 Température de l’eau : 23°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
 🌊 MÉTÉO LITTORALE & MARINE – CHARENTE-MARITIME (mercredi 23 septembre 2026)
@@ -141,7 +137,7 @@ Ce mercredi après-midi, la région bénéficie d'un ensoleillement généreux. 
 📍 Zones : La Rochelle • Rochefort • Royan • Pertuis Breton & d'Antioche
 
 ☀️ Situation synoptique : Poussée d'une dorsale anticyclonique d'altitude advectant une masse d'air très chaude.
-🌬️ Vent : Régime de brises thermiques (20 km/h avec rafales atteignant 35 km/h).
+🌬️ Vent : Régime de brises thermiques (20 km/h).
 🌊 État de la mer : Mer peu agitée (vagues 0.4m à 0.8m), idéale pour les activités nautiques.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
@@ -164,11 +160,9 @@ Ce mercredi après-midi, la région bénéficie d'un ensoleillement généreux. 
     Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du mercredi 23 septembre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-▶ vendredi 25 septembre : Le soleil règne en maître sur toute la région. Les maximales atteignent 31°C à La Rochelle et 32°C à Angoulême, avec un vent modéré de 15 à 20 km/h. Les minimales oscillent entre 10°C à Jarnac et 19°C sur la pointe de Chassiron.
-
-▶ samedi 26 septembre : Temps toujours sec et ensoleillé, mais la chaleur faiblit légèrement. Maximales de 28°C dans l'intérieur (Angoulême, Gond-Pontouvre) et seulement 21°C à Chassiron. Le vent devient très faible sur les terres (5 km/h), tandis qu'une brise de 20 km/h persiste sur le littoral.
-
-▶ dimanche 27 septembre : La dégradation s'amorce avec des passages nuageux et des précipitations. On attend de 2 à 9 mm de pluie selon les secteurs, notamment 8,7 mm à La Rochelle. Le vent se renforce avec des rafales jusqu'à 50 km/h sur la côte. Les températures restent douces, de 15°C à 28°C.
+▶ vendredi 25 septembre : La journée la plus chaude de la semaine s'annonce avec un soleil généreux. Les températures maximales atteignent 33°C à La Rochelle, voire 32°C dans l'intérieur. Le vent de nord-est se renforce légèrement, autour de 20 à 25 km/h sur le littoral.
+▶ samedi 26 septembre : Le ciel se voile nettement, devenant très nuageux sur le nord et l'est du département. L'atmosphère reste lourde avec des températures encore chaudes, culminant à 28°C sur le littoral et le nord de l'agglomération. Le vent mollit et tourne au secteur nord-ouest.
+▶ dimanche 27 septembre : La dégradation s'accentue avec des nuages bas et quelques averses notamment sur l'île de Ré et l'intérieur des terres. Les cumuls de pluie restent modestes, jusqu'à 3 mm à Blanzac, mais la couverture nuageuse est dense. Les températures fléchissent, avec 29°C attendus à La Rochelle mais seulement 19°C à Chassiron.
 
 
 --------------------------------------------------------------------------------
@@ -180,10 +174,10 @@ Ce mercredi après-midi, la région bénéficie d'un ensoleillement généreux. 
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce mercredi matin, le ciel se présente majoritairement nuageux sur l'ensemble de la région, avec des températures minimales oscillant entre 9°C à Racquinghem et 13°C à Marck et Robecq. Le littoral, notamment à Leffrinckoucke, enregistre 11°C. Le vent souffle modérément, avec des rafales atteignant 50 km/h à Gravelines, Offekerque et Marck, tandis que d'autres localités comme Groffliers connaissent des rafales de 40 km/h. Aucune précipitation n'est à signaler pour cette matinée.
+Ce mercredi matin, le ciel se présente nuageux sur l'ensemble de la région. Les températures minimales affichent 11°C à Leffrinckoucke et 12°C à Gravelines, tandis que l'intérieur des terres, comme à Racquinghem, enregistre 9°C. Les vents soufflent modérément, atteignant 20 km/h à Leffrinckoucke avec des rafales à 40 km/h, et jusqu'à 30 km/h à Offekerque et Marck, avec des rafales à 45 km/h. Aucune précipitation n'est à signaler pour cette première partie de journée.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce mercredi après-midi, un temps largement ensoleillé prédomine sur l'ensemble de la région. Le ciel reste dégagé, sans aucune perturbation nuageuse ou précipitations à signaler. Les températures maximales atteignent 25°C à Leffrinckoucke, 20°C à Gravelines et Offekerque, et 23°C à Remilly-Wirquin. Le vent souffle modérément, avec des vitesses de 15 km/h à Leffrinckoucke et Remilly-Wirquin, et 30 km/h à Gravelines et Offekerque, où des rafales peuvent atteindre 50 km/h. Une brise côtière est perceptible près du littoral.
+Ce mercredi après-midi, un temps largement ensoleillé caractérise l'ensemble de la région. Le soleil domine sans partage sur toutes les localités. Les températures maximales atteignent 25°C à Leffrinckoucke, 22°C à Marck, et 23°C à Racquinghem et Cauchy-à-la-Tour. Le vent souffle modérément, avec des vitesses de 20 à 30 km/h et des rafales pouvant atteindre 45 km/h sur le littoral, notamment à Offekerque et Marck. Aucune précipitation n'est à signaler.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
 🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (mercredi 23 septembre 2026)
@@ -202,7 +196,7 @@ Ce mercredi après-midi, un temps largement ensoleillé prédomine sur l'ensembl
 📍 Zones : Dunkerque • Calais • Boulogne-sur-Mer • Le Touquet
 
 ☀️ Situation générale : Influence anticyclonique calme assurant un temps sec et modérément doux.
-🌬️ Vent : Vent de Nord-Est modéré (30 km/h avec rafales atteignant 50 km/h) ce mercredi.
+🌬️ Vent : Vent de Nord-Est modéré (30 km/h avec rafales atteignant 45 km/h) ce mercredi.
 🌊 État de la mer : Mer peu agitée à agitée au large (vagues 0.8m à 1.3m), prudence pour la baignade.
 ⚠️ Visibilité : Bonne sur l'ensemble du littoral.
 
@@ -226,9 +220,11 @@ Ce mercredi après-midi, un temps largement ensoleillé prédomine sur l'ensembl
     Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du mercredi 23 septembre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-▶ vendredi 25 septembre : Le soleil domine largement la région, avec un ciel clair toute la journée. Les maximales atteignent 22 à 23°C à l’intérieur des terres, et 20 à 22°C sur le littoral. Le vent reste modéré, de 10 à 15 km/h, sans rafale notable. Aucune pluie n’est attendue.
-▶ samedi 26 septembre : Le temps devient plus variable : des nuages font leur apparition, surtout sur les secteurs littoraux et l’ouest, avec de très faibles averses possibles (moins de 1 mm). Les températures maximales plafonnent entre 17 et 24°C selon les localités, et le vent se renforce localement, avec des rafales jusqu’à 40 km/h à Gravelines.
-▶ dimanche 27 septembre : Le ciel reste partagé entre éclaircies et passages nuageux plus nombreux. Des pluies faibles et éparses sont attendues, avec des cumuls locaux pouvant atteindre 1,5 mm à Lefaux, Groffliers ou Remilly-Wirquin. Les températures maximales oscillent entre 20 et 24°C, et le vent devient plus soutenu, avec des rafales de 40 à 45 km/h sur l’intérieur.
+▶ vendredi 25 septembre : Temps sec et largement ensoleillé sur l'ensemble de la région. Les températures maximales atteignent 25°C à Leffrinckoucke, tandis que les minimales restent fraîches avec 9°C à Offekerque et Remilly-Wirquin. Vent faible de 10 à 15 km/h, aucune précipitation attendue.
+
+▶ samedi 26 septembre : Le ciel se voile légèrement avec des passages très nuageux sur certains secteurs, notamment Groffliers et Remilly-Wirquin. Les températures fléchissent légèrement avec des maximales de 19°C à 23°C. Le vent se renforce sur le littoral avec des rafales atteignant 50 km/h à Gravelines et Remilly-Wirquin, de faibles pluies possibles par endroits.
+
+▶ dimanche 27 septembre : Temps plus instable avec des passages nuageux et de faibles précipitations possibles, particulièrement sur le littoral et les hauteurs. Les températures restent douces, avec des maximales entre 20°C et 24°C et des minimales de 11°C à 14°C. Le vent mollit et devient modéré, avec des rafales moins soutenues.
 
 
 --------------------------------------------------------------------------------
@@ -240,16 +236,16 @@ Ce mercredi après-midi, un temps largement ensoleillé prédomine sur l'ensembl
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce mercredi matin, le ciel se présente majoritairement nuageux sur l'ensemble de la région. Des éclaircies tentent de percer, mais les nuages restent bien présents, notamment sur le littoral. Les températures minimales affichent 9°C à Valenciennes et Troisvilles, 11°C à St-Hilaire-sur-Helpe et Lille, et 12°C à Watten. Le vent est faible à modéré, soufflant entre 10 et 15 km/h sur l'ensemble du territoire, sans rafales significatives. Aucune précipitation n'est à signaler pour cette première partie de journée.
+Ce mercredi matin, le ciel présente une couverture nuageuse généralisée sur l'ensemble de la région. Aucun signe de soleil dominant n'est observé, et aucune précipitation n'est à signaler. Les températures minimales s'établissent à 8°C à Valenciennes et Troisvilles, 9°C à Maubeuge, et 11°C à St-Hilaire-sur-Helpe, Douai, Lille, Roubaix, Watten et Dunkerque. Le vent souffle faiblement, avec des vitesses avoisinant les 10 km/h sur l'intérieur des terres. Sur le littoral, notamment à Dunkerque, le vent est plus sensible, atteignant 20 km/h avec des rafales pouvant aller jusqu'à 45 km/h.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce mercredi après-midi, un temps radieux et ensoleillé s'impose sur l'ensemble de la région. Le soleil dominera sans partage, offrant un ciel dégagé du littoral à l'intérieur des terres. Aucune précipitation n'est attendue. Les températures maximales atteindront 25°C à Dunkerque et Douai, 24°C à Lille et Roubaix, et 22°C à Maubeuge et Steenvoorde. Le vent restera faible, soufflant entre 10 et 15 km/h, sans rafales notables.
+Ce mercredi après-midi, le Nord de la France bénéficie d'un ensoleillement généreux sur l'ensemble du territoire. Le ciel se maintient dégagé, sans aucune précipitation à signaler. Les températures maximales atteignent 25°C à Douai et Dunkerque, 24°C à Lille et Roubaix, et 23°C à St-Hilaire-sur-Helpe, Troisvilles et Maubeuge. Le vent souffle faiblement, avec une vitesse de 10 km/h sur la majorité des localités, et un vent de 20 km/h à Dunkerque, accompagné de rafales pouvant atteindre 45 km/h le long du littoral.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
 🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (mercredi 23 septembre 2026)
 
 🌴 Dunkerque / Malo-les-Bains / Bray-Dunes
-☀️ Influence anticyclonique calme assurant un temps sec et modérément doux sur la côte. Températures de 11°C le matin à 25°C l'après-midi.
+☀️ Influence anticyclonique calme assurant un temps sec et modérément doux sur la côte. Températures de 10°C le matin à 25°C l'après-midi.
 🌊 Température de l’eau : 17°C à 18°C
 
 🌴 Le Touquet / Berck / Baie de Somme
@@ -262,7 +258,7 @@ Ce mercredi après-midi, un temps radieux et ensoleillé s'impose sur l'ensemble
 📍 Zones : Dunkerque • Calais • Boulogne-sur-Mer • Le Touquet
 
 ☀️ Situation générale : Influence anticyclonique calme assurant un temps sec et modérément doux.
-🌬️ Vent : Vent de Nord-Est modéré (15 km/h) ce mercredi.
+🌬️ Vent : Vent de Nord-Est modéré (20 km/h avec rafales atteignant 45 km/h) ce mercredi.
 🌊 État de la mer : Mer peu agitée (vagues 0.4m à 0.8m), idéale pour les activités nautiques.
 ⚠️ Visibilité : Bonne sur l'ensemble du littoral.
 
@@ -286,11 +282,11 @@ Ce mercredi après-midi, un temps radieux et ensoleillé s'impose sur l'ensemble
     Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du mercredi 23 septembre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-▶ vendredi 25 septembre : Le soleil continue de dominer largement le ciel de la région avec un temps sec et stable. Les températures maximales oscillent entre 20°C à Steenvoorde et 24°C à Troisvilles et Douai. Le vent reste faible à modéré, ne dépassant pas 15 km/h, pour une journée idéale.
+▶ vendredi 25 septembre : Un ciel parfaitement dégagé, avec un soleil généreux du matin au soir sur toute la région. Les maximales grimpent jusqu’à 25°C à Lille et Roubaix, tandis que les minimales restent fraîches, entre 9 et 12°C. Vent faible, de 10 à 15 km/h, sans aucune précipitation.
 
-▶ samedi 26 septembre : Le beau temps se maintient avec un ciel généralement clair sur la majorité des villes. Quelques menues pluies pourraient effleurer le littoral avec 0,6 mm à Dunkerque et 0,3 mm à Steenvoorde. Les températures restent douces, de 20°C à Watten jusqu'à 24°C à Dunkerque et St-Hilaire-sur-Helpe.
+▶ samedi 26 septembre : Le temps demeure globalement sec, mais un voile nuageux peut apparaître, particulièrement sur le littoral avec quelques gouttes éparses (1,2 mm à Watten). Les maximales baissent légèrement pour se situer entre 19°C et 23°C, et le vent se renforce modérément, avec des rafales possibles à Dunkerque.
 
-▶ dimanche 27 septembre : La tendance se dégrade légèrement avec un ciel qui se voile l'après-midi, particulièrement sur la moitié nord et le littoral où une averse isolée est possible (0,3 mm à Dunkerque). Le vent se renforce nettement avec des rafales atteignant 45 km/h. Les températures, toujours estivales, culminent entre 24°C et 25°C.
+▶ dimanche 27 septembre : Une alternance de nuages et d’éclaircies est attendue, sans pluie significative, mais des passages nuageux plus marqués sur le nord du territoire. Les températures restent stables, avec des maximales de 21°C à 24°C, et un vent modéré de 10 à 15 km/h. Le soleil n’est jamais très loin, mais le ciel se voile par moments.
 
 
 --------------------------------------------------------------------------------
@@ -302,20 +298,20 @@ Ce mercredi après-midi, un temps radieux et ensoleillé s'impose sur l'ensemble
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce mercredi matin, la Normandie se réveille sous un ciel partagé entre nuages et éclaircies. Les températures minimales s'établissent à 8°C à Rouen et Lisieux, 12°C à Caen, et 15°C à Cherbourg. Le ciel est très nuageux sur le Cotentin et l'est de la région, notamment vers Dieppe et Rouen, tandis que des nuages plus épars laissent filtrer le soleil autour de Caen, Evreux et Lisieux. Le vent souffle modérément, avec des vitesses avoisinant les 15 à 20 km/h sur l'ensemble de la région, et des rafales atteignant 40 km/h sur le littoral, notamment à Dieppe, Le Havre et Cherbourg. Aucune précipitation n'est attendue pour cette matinée.
+Ce mercredi matin, la Normandie se réveille sous un ciel partagé. Le soleil domine largement sur l'ouest de la région, notamment à Cherbourg où la minimale est de 15°C, et à Caen avec 12°C. Plus à l'est, le ciel se couvre davantage, avec des nuages présents mais sans précipitations. Les températures minimales sont douces, affichant 8°C à Rouen et 9°C à Évreux. Le vent souffle modérément, avec des rafales atteignant 40 km/h au Havre et à Lisieux, et 45 km/h à Dieppe. Aucune pluie n'est attendue sur l'ensemble de la région en cette première partie de journée.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce mercredi après-midi, la Normandie profite d'un temps estival avec un soleil dominant sur l'ensemble de la région. Aucune précipitation n'est à signaler. Les températures maximales atteignent 26°C à Alençon et Évreux, 25°C à Rouen, et 24°C à Caen et Le Havre. Le vent, de secteur ouest à nord-ouest, souffle faiblement avec des pointes à 40 km/h sur le littoral, notamment à Dieppe, Le Havre et Cherbourg. Les conditions restent très agréables, avec des valeurs élevées pour la saison.
+Ce mercredi après-midi, la Normandie bénéficie d'un temps estival avec un soleil dominant sur l'ensemble de la région. Aucune précipitation n'est à signaler. Les températures maximales atteignent des valeurs élevées pour la saison, avec 27°C à Évreux et 26°C à Lisieux. Le littoral reste légèrement plus frais, comme à Cherbourg où le thermomètre affiche 21°C. Le vent souffle faiblement, généralement entre 15 et 20 km/h, avec des rafales n'excédant pas 45 km/h sur Dieppe.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
 🏖️ MÉTÉO DES PLAGES – CÔTE D’ALBÂTRE & MANCHE (mercredi 23 septembre 2026)
 
 🌴 Le Havre / Deauville / Cabourg
-☀️ Temps agréable ce mercredi. Températures sur les plages : 10°C à 26°C.
+☀️ Temps agréable ce mercredi. Températures sur les plages : 10°C à 27°C.
 🌊 Température de l’eau : 18°C à 19°C
 
 🌴 Dieppe / Fécamp / Cherbourg
-☀️ Belle luminosité ce mercredi, brise littorale rafraîchissante avec maximales de 26°C.
+☀️ Belle luminosité ce mercredi, brise littorale rafraîchissante avec maximales de 27°C.
 🌊 Température de l’eau : 18°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
@@ -324,7 +320,7 @@ Ce mercredi après-midi, la Normandie profite d'un temps estival avec un soleil 
 📍 Zones : Baie de Seine • Le Havre • Fécamp • Dieppe • Cherbourg
 
 ☀️ Situation générale : Installation d'un marais barométrique estival assurant un temps sec et lumineux.
-🌬️ Vent : Vent modéré de Nord-Est (20 km/h avec rafales atteignant 40 km/h) ce mercredi.
+🌬️ Vent : Vent modéré de Nord-Est (20 km/h avec rafales atteignant 45 km/h) ce mercredi.
 🌊 État de la mer : Mer peu agitée (vagues 0.4m à 0.8m), idéale pour les activités nautiques.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
@@ -347,9 +343,9 @@ Ce mercredi après-midi, la Normandie profite d'un temps estival avec un soleil 
     Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du mercredi 23 septembre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-▶ vendredi 25 septembre : Le soleil domine largement sur l'ensemble de la région, avec un ciel clair et sec. Les températures minimales oscillent entre 5°C à Rouen et 14°C à Cherbourg, tandis que les maximales atteignent 25°C à Évreux, Alençon et Dieppe. Le vent est faible, de 10 à 20 km/h selon les secteurs.
+▶ vendredi 25 septembre : Le soleil reste au rendez-vous pour ce premier jour du week-end. Les températures maximales atteignent des valeurs très douces, comprises entre 25°C à Rouen et 28°C à Lisieux. Le vent est faible, n'excédant pas 15 km/h sur l'ensemble de la région.
 
-▶ samedi 26 septembre : La journée reste ensoleillée et agréable, sans précipitations. Les minimales sont comprises entre 9°C à Évreux et 13°C à Cherbourg, les maximales entre 22°C au Havre et 26°C à Évreux. Le vent de secteur ouest souffle modérément, autour de 15 km/h.
+▶ samedi 26 septembre : Le ciel devient plus nuageux dans l'après-midi, notamment sur le Calvados et la Manche, sans précipitations notables. Les maximales baissent légèrement, avec 20°C au Havre et 24°C à Évreux. Le vent se renforce sur les côtes, avec des rafales atteignant 40 km/h.
 
-▶ dimanche 27 septembre : Le temps se dégrade avec l'arrivée de nuages et de pluies, surtout sur le Cotentin et le littoral. Cherbourg enregistre 5,7 mm de pluie avec des rafales de vent jusqu'à 40 km/h. Les températures maximales baissent légèrement, de 21°C à Cherbourg à 24°C à Évreux. Des averses éparses touchent également Caen, Le Havre et Lisieux.
+▶ dimanche 27 septembre : Le temps se dégrade avec l'arrivée d'averses, plus marquées sur Cherbourg où 4,8 mm de pluie sont attendus. Les températures restent stables, entre 22°C et 24°C. Le vent souffle en rafales jusqu'à 40 km/h sur le Cotentin.
 
