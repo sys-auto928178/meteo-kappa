@@ -236,7 +236,7 @@
         "summaryImages": [],
         "recordsRaw": "🌧️ Pluies & Humidité : Temps sec sur la région ce jeudi avec maintien de la sécheresse de surface.\n🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce jeudi. Aucun coup de vent à craindre.\n⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce jeudi.\n🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement.",
         "recordsTitle": "🌬️ Phénomènes marquants et zones les plus exposées",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_france_tomorrow.png?t=1790170288",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_france_tomorrow.png?t=1790183195",
         "mountain": "🏔️ Météo montagne\n\n    Alpes : Chaleur marquée en vallée ce jeudi et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.\n\n    Pyrénées : Soleil dominant en matinée de ce jeudi, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce vendredi.\n\n    Massif central : Ambiance lourde et estivale ce jeudi. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.\n\n    Vosges : Temps très chaud et généreusement ensoleillé ce jeudi. Quelques nuages de beau temps l'après-midi sans intempérie.\n\n    Jura : Chaleur estivale et soleil dominant ce jeudi, avant quelques passages nuageux inoffensifs en soirée.\n\n    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du jeudi 24 septembre 2026.",
         "summaryTitle": "Prévisions pour la journée du JEUDI 24 SEPTEMBRE 2026",
         "summaryMorning": "Ce jeudi matin, la France se réveille sous un ciel majoritairement nuageux, mais sans précipitations significatives. Des températures douces sont observées, avec 15°C à Paris, 13°C à Nantes et 12°C à Lille. Le nord du pays, notamment la région lilloise, bénéficie d'un soleil dominant, tandis que l'ouest et le centre, de Brest à Poitiers, connaissent un ciel plus nuageux. Le vent souffle faiblement, autour de 10 km/h sur l'ensemble du territoire, n'apportant pas de sensation de fraîcheur particulière. Les minimales restent confortables pour la saison, sans contraste marqué entre le littoral et l'intérieur des terres.",
@@ -531,7 +531,7 @@
       "form": {
         "observationsRaw": "St-Hilaire-sur-Helpe (59) 29\nValenciennes (59) 30\nTroisvilles (59) 30\nMaubeuge (59) 29\nDouai (59) 31\nLille (59) 30\nRoubaix (59) 29\nSteenvoorde (59) 29\nWatten (59) 29\nDunkerque (59) 26\nSaulty (62) 30\nArras (62) 30\nFiefs (62) 29\nHumières (62) 29\nCambrai / Epinoy (62) 30\nRadinghem (62) 29\nAttin (62) 30\nNielles-lès-Bléquin (62) 27\nBainghen (62) 27\nBoulogne (62) 28\nCalais / Marck (62) 28\nCap Gris-Nez (62) 28\nLe Touquet (62) 29\n",
         "alert": "🟢 Aucune vigilance orange ou rouge en cours sur le pays.",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1790170386",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1790183196",
         "todaySummary": "",
         "summaryLancement": "☀️ SOLEIL GÉNÉREUX SUR TOUTE LA RÉGION : Ce jeudi, le nord de la France bénéficie d’un ciel parfaitement dégagé du matin au soir, avec des températures maximales atteignant 23°C sur le littoral et 22°C à Lille, sous un vent léger.",
         "summaryTitle": "Prévisions pour la journée du JEUDI 24 SEPTEMBRE 2026",
@@ -790,7 +790,7 @@
       "form": {
         "observationsRaw": "La Rochelle 37\nChassiron 28\nGond-Pontouvre 38\nBlanzac-Porcheresse 36\nJarnac 37\nMontbron 37\nLa Couronne 37\nSoyaux 37\nCognac 37\nAngoulême 37\nRouillac 37\nSaint-Michel 37\nLa Rochefoucauld 38\nNersac 37\nConfolens 37\nBarbezieux-Saint-Hilaire 36\nChâteauneuf-sur-Charente 37\n",
         "alert": "🟢 Aucune vigilance orange ou rouge en cours sur le pays.",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_NAQ_tomorrow.png?t=1790170450",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_NAQ_tomorrow.png?t=1790183197",
         "todaySummary": "",
         "summaryLancement": "☀️ SOLEIL ET CHALEUR ESTIVALE : Un ciel très ensoleillé s'impose ce jeudi sur la région, avec des maximales grimpant jusqu'à 34°C.",
         "summaryTitle": "Prévisions pour la journée du JEUDI 24 SEPTEMBRE 2026",
@@ -1019,7 +1019,7 @@
       "form": {
         "observationsRaw": "Leffrinckoucke 26\nGravelines 24\nOffekerque 28\nMarck 28\nLefaux 29\nGroffliers 29\nRemilly-Wirquin 28\nRacquinghem 28\nRobecq 31\nCauchy-à-la-Tour 30\nBoulogne Sur Mer 13\nLe Touquet-Paris-Plage 29\nAbbeville 31\n",
         "alert": "🟢 Aucune vigilance orange ou rouge en cours sur le pays.",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1790170684",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1790183198",
         "todaySummary": "",
         "summaryLancement": "☀️ SOLEIL RADIEUX ET DOUCEUR AUTOMNALE : Un ciel très dégagé s'impose sur la région ce jeudi, avec des températures maximales atteignant 23°C sur le littoral et un vent faible, offrant une journée idéale pour les activités de plein air.",
         "summaryTitle": "Prévisions pour la journée du JEUDI 24 SEPTEMBRE 2026",
@@ -1331,7 +1331,7 @@
       "form": {
         "observationsRaw": "St-Hilaire-sur-Helpe (59) 29\nValenciennes (59) 30\nTroisvilles (59) 30\nMaubeuge (59) 29\nDouai (59) 31\nLille (59) 30\nRoubaix (59) 29\nSteenvoorde (59) 29\nWatten (59) 29\nDunkerque (59) 26\nSaulty (62) 30\nArras (62) 30\nFiefs (62) 29\nHumières (62) 29\nCambrai / Epinoy (62) 30\nRadinghem (62) 29\nAttin (62) 30\nNielles-lès-Bléquin (62) 27\nBainghen (62) 27\nBoulogne (62) 28\nCalais / Marck (62) 28\nCap Gris-Nez (62) 28\nLe Touquet (62) 29\n",
         "alert": "🟢 Aucune vigilance orange ou rouge en cours sur le pays.",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1790170744",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1790183199",
         "todaySummary": "",
         "summaryLancement": "☀️ SOLEIL DOMINANT ET CHALEUR DOUCE : Un ciel parfaitement dégagé s'impose sur la région ce jeudi, offrant une journée radieuse avec des températures maximales atteignant 23°C sur le littoral et 22°C dans l'intérieur.",
         "summaryTitle": "Prévisions pour la journée du JEUDI 24 SEPTEMBRE 2026",
@@ -1521,7 +1521,7 @@
       "form": {
         "observationsRaw": "Rouen 33\nCaen 27\nLe Havre 32\nCherbourg 27\nEvreux 34\nAlençon 35\nDieppe 31\nLisieux 33\n",
         "alert": "🟢 Aucune vigilance orange ou rouge en cours sur le pays.",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_NOR_tomorrow.png?t=1790170812",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_NOR_tomorrow.png?t=1790183200",
         "todaySummary": "",
         "summaryLancement": "☁️ UN JEUDI SOUS LES NUAGES MAIS DOUX : Un ciel très nuageux domine la Normandie ce jeudi, avec quelques averses matinales sur le littoral et des températures maximales atteignant jusqu'à 28°C à Lisieux.",
         "summaryTitle": "Prévisions pour la journée du JEUDI 24 SEPTEMBRE 2026",
