@@ -13,38 +13,36 @@ FICHIER SOURCE : /home/runner/work/meteo-kappa/meteo-kappa/cnews/BULLETINS_AUTOM
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce jeudi matin, la France se réveille sous un ciel majoritairement nuageux. Des éclaircies sont néanmoins attendues sur une grande partie du territoire, notamment sur le littoral atlantique et la façade ouest. Les températures minimales affichent 12°C à Lille, 13°C à Nantes et 15°C à Paris. Le vent reste faible à modéré, soufflant entre 5 et 15 km/h sur l'ensemble du pays. Aucune précipitation n'est à signaler pour cette matinée.
+Ce vendredi matin, le temps se révèle largement ensoleillé sur une grande partie du territoire. Les températures minimales affichent 9°C à Lille et 8°C à Laon, tandis que Paris enregistre 14°C. Un soleil dominant caractérise la matinée, notamment sur le Grand Ouest et le Centre. Quelques nuages parsèment le ciel en Normandie, notamment du côté de Rouen, sans pour autant altérer l'impression générale de beau temps. Le vent reste faible à modéré, avec des rafales atteignant 40 km/h à Rennes. Les températures s'annoncent douces, voire chaudes, avec un contraste marqué entre le littoral et l'intérieur des terres.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce jeudi après-midi, la France connaîtra une nette scission météorologique. Le nord-est du pays bénéficiera d'un soleil généreux, notamment à Lille avec 22°C et Laon où le thermomètre atteindra 25°C. Les vents y resteront faibles, ne dépassant pas les 15 km/h.
-
-En revanche, une couverture nuageuse plus dense s'installera de la Bretagne au Centre-Val de Loire, s'étendant jusqu'à l'Île-de-France. Des passages très nuageux sont attendus à Rouen (26°C), Rennes (28°C) et Nantes (31°C). Malgré ces nuages, aucune précipitation n'est prévue. Les températures resteront estivales, avec un vent modéré, généralement inférieur à 15 km/h.
+Ce vendredi après-midi, la France métropolitaine bénéficie d'un temps majoritairement ensoleillé. Le soleil dominera sur la quasi-totalité du territoire, avec des températures estivales. Les maximales atteindront 33°C à Nantes et Poitiers, et 32°C à Tours. Seule la Normandie connaîtra un ciel plus nuageux, notamment du côté de Rouen où le soleil sera masqué de moitié. Le vent restera faible sur l'ensemble du pays, soufflant généralement entre 10 et 20 km/h, sans rafales significatives. Le contraste thermique entre le littoral et l'intérieur des terres sera marqué, avec des valeurs plus élevées dans les régions éloignées de la côte.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
-🌧️ Pluies & Humidité : Temps sec sur la région ce jeudi avec maintien de la sécheresse de surface.
-🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce jeudi. Aucun coup de vent à craindre.
-⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce jeudi.
+🌧️ Pluies & Humidité : Temps sec sur la région ce vendredi avec maintien de la sécheresse de surface.
+🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce vendredi. Aucun coup de vent à craindre.
+⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce vendredi.
 🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement.
 🏔️ Météo montagne
 
-    Alpes : Chaleur marquée en vallée ce jeudi et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.
+    Alpes : Chaleur marquée en vallée ce vendredi et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.
 
-    Pyrénées : Soleil dominant en matinée de ce jeudi, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce vendredi.
+    Pyrénées : Soleil dominant en matinée de ce vendredi, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce samedi.
 
-    Massif central : Ambiance lourde et estivale ce jeudi. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.
+    Massif central : Ambiance lourde et estivale ce vendredi. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.
 
-    Vosges : Temps très chaud et généreusement ensoleillé ce jeudi. Quelques nuages de beau temps l'après-midi sans intempérie.
+    Vosges : Temps très chaud et généreusement ensoleillé ce vendredi. Quelques nuages de beau temps l'après-midi sans intempérie.
 
-    Jura : Chaleur estivale et soleil dominant ce jeudi, avant quelques passages nuageux inoffensifs en soirée.
+    Jura : Chaleur estivale et soleil dominant ce vendredi, avant quelques passages nuageux inoffensifs en soirée.
 
-    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du jeudi 24 septembre 2026.
+    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du vendredi 25 septembre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-▶ samedi 26 septembre : Le soleil domine largement sur une grande partie du pays, avec des maximales allant de 20°C à Rouen à 27°C à Laon. Le vent reste faible, de 10 à 15 km/h, et aucune précipitation significative n’est attendue.
+▶ dimanche 27 septembre : Le temps se dégrade sur le quart nord-ouest. Le ciel devient très nuageux de Brest à Rennes, avec des averses possibles et des rafales de vent atteignant 45 km/h. Ailleurs, le soleil reste présent avec des maximales encore douces, de 23°C à Lille à 28°C à Tours.
 
-▶ dimanche 27 septembre : La dégradation s’amorce par l’ouest. Un vent de sud-ouest se renforce, avec des rafales atteignant 50 km/h à Brest. Des pluies modérées touchent la Bretagne et les Pays de la Loire (5,2 mm à Rennes), tandis que l’est reste sec et lumineux, avec 25°C à Laon.
+▶ lundi 28 septembre : La perturbation s'installe sur une large moitié ouest. Le ciel est très nuageux à couvert de Rouen à Nantes, avec des pluies parfois soutenues, notamment 11 mm attendus à Rennes. L'est et le sud conservent un temps plus sec, avec des températures maximales oscillant entre 20°C et 26°C.
 
-▶ lundi 28 septembre : Le temps devient très instable sur la moitié nord et le Centre-Ouest. Des averses parfois soutenues sont attendues de Rouen (5,5 mm) à Nantes (5,7 mm). Le vent faiblit, mais le ciel reste chargé, avec des maximales comprises entre 21°C et 25°C.
+▶ mardi 29 septembre : Le vent se renforce nettement sur les côtes. Des rafales de 60 km/h sont attendues à Brest, et 55 km/h à Nantes. Le soleil fait un retour remarqué sur la moitié nord et l'est, avec des températures qui repartent à la hausse, jusqu'à 29°C à Poitiers et 28°C à Paris.
 
 
 --------------------------------------------------------------------------------
@@ -56,59 +54,59 @@ En revanche, une couverture nuageuse plus dense s'installera de la Bretagne au C
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce jeudi matin, la région Nord bénéficie d'un ciel dégagé et ensoleillé sur l'ensemble du territoire. Les températures minimales affichent 12°C à Lille et Roubaix, 13°C à St-Hilaire-sur-Helpe et 14°C à Dunkerque. Le vent se maintient faible à modéré, soufflant entre 10 et 15 km/h sur l'ensemble des localités, sans rafales significatives. Aucune précipitation n'est à signaler pour ce début de journée. Le littoral, comme Dunkerque, profite également de ces conditions claires et douces.
+Ce vendredi matin, le ciel se montre généreux sur l'ensemble de la région, avec un soleil dominant qui s'impose dès les premières heures. Aucune précipitation n'est à signaler. Les températures minimales affichent 9°C à Lille et Roubaix, 11°C à St-Hilaire-sur-Helpe et Valenciennes, et 13°C à Steenvoorde et Dunkerque. Le vent souffle faiblement, avec des valeurs oscillant entre 10 et 15 km/h sur l'ensemble du territoire, sans distinction notable entre le littoral et l'intérieur des terres.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce jeudi après-midi, un temps pleinement ensoleillé caractérise l'ensemble de la région Nord. Le soleil dominant s'impose sur toutes les localités, sans nuage pour altérer le ciel. Les températures maximales atteignent 23°C à Dunkerque, 22°C à Lille et Valenciennes, et 20°C à Maubeuge et Troisvilles. Le vent, de direction variable, souffle faiblement, avec des vitesses oscillant entre 10 et 15 km/h, sans aucune rafale notable. Aucune précipitation n'est à signaler sur l'ensemble du territoire.
+Ce vendredi après-midi, la région Nord profitera d'un ensoleillement généreux et dominant sur l'ensemble des départements. Le ciel restera clair, sans nuage, offrant des conditions météorologiques idéales. Les températures maximales atteindront 27°C à Lille, Valenciennes, Douai et Dunkerque, tandis que Maubeuge enregistrera 24°C. Le vent soufflera faiblement, avec des vitesses comprises entre 10 et 15 km/h, sans rafales significatives. Aucune précipitation n'est à prévoir.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
-🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (jeudi 24 septembre 2026)
+🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (vendredi 25 septembre 2026)
 
 🌴 Dunkerque / Malo-les-Bains / Bray-Dunes
-☀️ Influence anticyclonique calme assurant un temps sec et modérément doux sur la côte. Températures de 14°C le matin à 23°C l'après-midi.
-🌊 Température de l’eau : 17°C à 18°C
+☀️ Installation d'un marais barométrique estival assurant un temps sec et lumineux sur la côte. Températures de 11°C le matin à 27°C l'après-midi.
+🌊 Température de l’eau : 18°C à 19°C
 
 🌴 Le Touquet / Berck / Baie de Somme
-☀️ Ambiance agréable sur le littoral ce jeudi. Maximales atteignant 24°C sur le sable.
-🌊 Température de l’eau : 18°C
+☀️ Ambiance agréable sur le littoral ce vendredi. Maximales atteignant 28°C sur le sable.
+🌊 Température de l’eau : 19°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE – CÔTE D’OPALE & MER DU NORD (jeudi 24 septembre 2026)
+🌊 MÉTÉO MARINE – CÔTE D’OPALE & MER DU NORD (vendredi 25 septembre 2026)
 
 📍 Zones : Dunkerque • Calais • Boulogne-sur-Mer • Le Touquet
 
-☀️ Situation générale : Influence anticyclonique calme assurant un temps sec et modérément doux.
-🌬️ Vent : Vent de Nord-Est modéré (15 km/h avec rafales atteignant 35 km/h) ce jeudi.
+☀️ Situation générale : Installation d'un marais barométrique estival assurant un temps sec et lumineux.
+🌬️ Vent : Vent de Nord-Est modéré (15 km/h) ce vendredi.
 🌊 État de la mer : Mer peu agitée (vagues 0.4m à 0.8m), idéale pour les activités nautiques.
 ⚠️ Visibilité : Bonne sur l'ensemble du littoral.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
-🌧️ Pluies & Humidité : Temps sec sur la région ce jeudi avec maintien de la sécheresse de surface.
-🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce jeudi. Aucun coup de vent à craindre.
-⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce jeudi.
+🌧️ Pluies & Humidité : Temps sec sur la région ce vendredi avec maintien de la sécheresse de surface.
+🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce vendredi. Aucun coup de vent à craindre.
+⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce vendredi.
 🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement.
 🏔️ Météo montagne
 
-    Alpes : Chaleur marquée en vallée ce jeudi et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.
+    Alpes : Chaleur marquée en vallée ce vendredi et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.
 
-    Pyrénées : Soleil dominant en matinée de ce jeudi, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce vendredi.
+    Pyrénées : Soleil dominant en matinée de ce vendredi, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce samedi.
 
-    Massif central : Ambiance lourde et estivale ce jeudi. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.
+    Massif central : Ambiance lourde et estivale ce vendredi. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.
 
-    Vosges : Temps très chaud et généreusement ensoleillé ce jeudi. Quelques nuages de beau temps l'après-midi sans intempérie.
+    Vosges : Temps très chaud et généreusement ensoleillé ce vendredi. Quelques nuages de beau temps l'après-midi sans intempérie.
 
-    Jura : Chaleur estivale et soleil dominant ce jeudi, avant quelques passages nuageux inoffensifs en soirée.
+    Jura : Chaleur estivale et soleil dominant ce vendredi, avant quelques passages nuageux inoffensifs en soirée.
 
-    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du jeudi 24 septembre 2026.
+    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du vendredi 25 septembre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-📉 Tendance – 3 jours suivants (samedi 26 septembre au lundi 28 septembre)
+📉 Tendance – 3 jours suivants (dimanche 27 septembre au mardi 29 septembre)
 
-▶ samedi 26 septembre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 10°C. L'après-midi, le mercure grimpe jusqu'à 26°C sous abri. Attention aux rafales de vent atteignant 45 km/h.
+▶ dimanche 27 septembre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 11°C. L'après-midi, le mercure grimpe jusqu'à 25°C sous abri. Le vent souffle de manière modérée.
 
-▶ dimanche 27 septembre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 12°C. L'après-midi, le mercure grimpe jusqu'à 24°C sous abri. Le vent souffle de manière modérée.
+▶ lundi 28 septembre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 14°C. L'après-midi, le mercure grimpe jusqu'à 24°C sous abri. Le vent souffle de manière modérée.
 
-▶ lundi 28 septembre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 13°C. L'après-midi, le mercure grimpe jusqu'à 22°C sous abri. Le vent souffle de manière modérée.
+▶ mardi 29 septembre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 15°C. L'après-midi, le mercure grimpe jusqu'à 28°C sous abri. Attention aux rafales de vent atteignant 45 km/h.
 
 
 --------------------------------------------------------------------------------
@@ -120,60 +118,55 @@ Ce jeudi après-midi, un temps pleinement ensoleillé caractérise l'ensemble de
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce jeudi matin, la région se réveille sous un ciel majoritairement dégagé. Le soleil domine largement sur l'intérieur des terres, notamment à Angoulême et Cognac où le mercure affiche 15°C et 14°C respectivement. Des minimales plus fraîches sont relevées à Montbron avec 9°C. Sur le littoral, La Rochelle connaît un ciel nuageux avec 13°C, tandis que Chassiron bénéficie d'un franc soleil et d'une température de 19°C. Le vent souffle faiblement, autour de 10 à 15 km/h, sans rafales notables. Aucune précipitation n'est à signaler.
+Ce vendredi matin, le temps se révèle particulièrement ensoleillé sur l'ensemble de la région. Le soleil domine largement le ciel, sans la moindre trace de nuages. Les températures minimales affichent 14°C à La Rochelle, 17°C à Chassiron, et 10°C à Jarnac, tandis que Montbron enregistre 8°C. Le vent souffle modérément, atteignant 25 km/h sur le littoral à Chassiron, et une brise plus légère de 15 à 20 km/h dans l'intérieur des terres. Aucune précipitation n'est à signaler pour ce début de journée.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce jeudi après-midi, le ciel se partage entre un soleil généreux et quelques passages nuageux sur la Charente-Maritime et la Charente. La Rochelle connaît un après-midi nuageux avec une maximale de 33°C, accompagnée d'un vent de 15 km/h. À Chassiron, le soleil domine et la température atteint 30°C, avec une brise côtière de 15 km/h. Dans l'intérieur des terres, le soleil s'impose largement, notamment à Angoulême et La Couronne où le thermomètre grimpe jusqu'à 34°C. Le vent y est plus faible, autour de 10 km/h. Aucune précipitation n'est à signaler sur l'ensemble de la région.
+Ce vendredi après-midi, un temps estival s'impose sur l'ensemble de la région. Le soleil dominera largement le ciel, sans aucun nuage. Les températures maximales atteindront des valeurs élevées pour la saison, avec 33°C à La Rochelle, 33°C à Jarnac et Montbron, et 32°C à Blanzac-Porcheresse et Cognac. Le littoral connaîtra des températures légèrement plus douces, comme à Chassiron avec 25°C. Un vent faible soufflera, n'excédant pas 25 km/h sur Chassiron. Aucune précipitation n'est à prévoir.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
-🏖️ MÉTÉO DES PLAGES – LITTORAL CHARENTAIS (jeudi 24 septembre 2026)
+🏖️ MÉTÉO DES PLAGES – LITTORAL CHARENTAIS (vendredi 25 septembre 2026)
 
 🌴 La Rochelle / Île de Ré / Île d’Oléron
-☀️ Poussée d'une dorsale anticyclonique d'altitude advectant une masse d'air très chaude sur l'ensemble des plages charentaises ce jeudi.
-🌡️ Température sur le littoral : 12°C à 34°C
+☀️ Poussée d'une dorsale anticyclonique d'altitude advectant une masse d'air très chaude sur l'ensemble des plages charentaises ce vendredi.
+🌡️ Température sur le littoral : 11°C à 33°C
 🌊 Température de l’eau : 23°C à 24°C
 
 🌴 Royan / Côte de Beauté / Rochefort
-☀️ Ensoleillement généreux ce jeudi, maximales de 35°C tempérées par la brise marine.
+☀️ Ensoleillement généreux ce vendredi, maximales de 34°C tempérées par la brise marine.
 🌊 Température de l’eau : 24°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO LITTORALE & MARINE – CHARENTE-MARITIME (jeudi 24 septembre 2026)
+🌊 MÉTÉO LITTORALE & MARINE – CHARENTE-MARITIME (vendredi 25 septembre 2026)
 
 📍 Zones : La Rochelle • Rochefort • Royan • Pertuis Breton & d'Antioche
 
 ☀️ Situation synoptique : Poussée d'une dorsale anticyclonique d'altitude advectant une masse d'air très chaude.
-🌬️ Vent : Régime de brises thermiques (15 km/h).
-🌊 État de la mer : Mer peu agitée (vagues 0.4m à 0.8m), idéale pour les activités nautiques.
+🌬️ Vent : Régime de brises thermiques (25 km/h avec rafales atteignant 35 km/h).
+🌊 État de la mer : Mer peu agitée à agitée au large (vagues 0.8m à 1.3m), prudence pour la baignade.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
-⚠️ Forte Chaleur : Épisode de chaleur marqué sur la région ce jeudi.
-🌧️ Pluies & Humidité : Temps sec sur la région ce jeudi avec maintien de la sécheresse de surface.
-🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce jeudi. Aucun coup de vent à craindre.
-⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce jeudi.
+🌧️ Pluies & Humidité : Temps sec sur la région ce vendredi avec maintien de la sécheresse de surface.
+🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce vendredi. Aucun coup de vent à craindre.
+⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce vendredi.
 🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement.
 🏔️ Météo montagne
 
-    Alpes : Chaleur marquée en vallée ce jeudi et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.
+    Alpes : Chaleur marquée en vallée ce vendredi et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.
 
-    Pyrénées : Soleil dominant en matinée de ce jeudi, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce vendredi.
+    Pyrénées : Soleil dominant en matinée de ce vendredi, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce samedi.
 
-    Massif central : Ambiance lourde et estivale ce jeudi. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.
+    Massif central : Ambiance lourde et estivale ce vendredi. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.
 
-    Vosges : Temps très chaud et généreusement ensoleillé ce jeudi. Quelques nuages de beau temps l'après-midi sans intempérie.
+    Vosges : Temps très chaud et généreusement ensoleillé ce vendredi. Quelques nuages de beau temps l'après-midi sans intempérie.
 
-    Jura : Chaleur estivale et soleil dominant ce jeudi, avant quelques passages nuageux inoffensifs en soirée.
+    Jura : Chaleur estivale et soleil dominant ce vendredi, avant quelques passages nuageux inoffensifs en soirée.
 
-    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du jeudi 24 septembre 2026.
+    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du vendredi 25 septembre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-📉 Tendance – 3 jours suivants (samedi 26 septembre au lundi 28 septembre)
-
-▶ samedi 26 septembre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 14°C. L'après-midi, le mercure grimpe jusqu'à 27°C sous abri. Le vent souffle de manière modérée.
-
-▶ dimanche 27 septembre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 12°C. L'après-midi, le mercure grimpe jusqu'à 30°C sous abri. Le vent souffle de manière modérée.
-
-▶ lundi 28 septembre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 17°C. L'après-midi, le mercure grimpe jusqu'à 29°C sous abri. Attention aux rafales de vent atteignant 55 km/h.
+▶ dimanche 27 septembre : Le soleil reste généreux mais un voile nuageux pourrait apparaître par moments. Les températures restent estivales avec des maximales proches de 30°C dans les terres, et 23°C sur l'île de Ré. Le vent est faible, de secteur variable.
+▶ lundi 28 septembre : La dégradation s'amorce avec un ciel qui devient très nuageux, notamment sur le littoral et les villes de l'ouest. Des averses parfois marquées sont attendues, avec des cumuls de pluie pouvant atteindre 6.7 mm à Chassiron. Le vent se renforce avec des rafales jusqu'à 40 km/h sur la côte, et les températures maximales baissent légèrement, autour de 29°C.
+▶ mardi 29 septembre : Le temps redevient sec et ensoleillé après le passage des perturbations. Le vent d'autan se lève et souffle en rafales, atteignant 55 à 60 km/h sur le littoral et 40 à 50 km/h dans l'intérieur. Les températures repartent à la hausse, avec des maximales de 31°C à La Rochelle et dans l'Angoumois.
 
 
 --------------------------------------------------------------------------------
@@ -185,57 +178,57 @@ Ce jeudi après-midi, le ciel se partage entre un soleil généreux et quelques 
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce jeudi matin, la région bénéficie d'un ciel dégagé et ensoleillé sur l'ensemble du territoire. Aucune précipitation n'est à signaler. Les températures minimales affichent 14°C à Leffrinckoucke et 13°C à Gravelines et Groffliers, tandis que l'intérieur des terres, comme à Remilly-Wirquin, enregistre 12°C. Le vent souffle en légère brise, atteignant environ 15 km/h sur le littoral, notamment à Marck et Racquinghem, et se montre plus faible dans les terres avec 10 km/h à Lefaux et Cauchy-à-la-Tour.
+Ce vendredi matin, le ciel se montre généreux en soleil sur l'ensemble de la région, offrant une matinée lumineuse. Les températures minimales s'établissent entre 10°C à Racquinghem et 13°C à Leffrinckoucke et Robecq. Un vent léger souffle, avec des vitesses de 10 km/h sur le littoral, notamment à Gravelines et Marck, et atteignant 15 km/h dans les terres, comme à Cauchy-à-la-Tour. Aucune précipitation n'est à signaler, et le ciel reste dégagé, sans nuages bas ni brumes.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce jeudi après-midi, le soleil dominera largement sur l'ensemble de la région. Le ciel restera dégagé, offrant des conditions météorologiques agréables. Les températures maximales atteindront 23°C à Leffrinckoucke, 22°C à Marck et 21°C à Remilly-Wirquin. Le vent soufflera faiblement, autour de 10 à 15 km/h, sans rafales notables. Aucune précipitation n'est à prévoir, et l'absence de nuages permettra un ensoleillement généreux sur toutes les localités.
+Ce vendredi après-midi, le soleil dominera largement l'ensemble de la région, offrant un ciel dégagé et lumineux. Aucune précipitation n'est attendue sur l'intégralité du territoire. Les températures maximales atteindront 27°C à Leffrinckoucke et Cauchy-à-la-Tour, 25°C à Gravelines et Marck, et 24°C à Lefaux et Groffliers. Le vent soufflera faiblement, avec des brises côtières n'excédant pas les 10 km/h sur le littoral et des vents de 10 à 15 km/h dans l'intérieur des terres, notamment à Racquinghem et Robecq.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
-🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (jeudi 24 septembre 2026)
+🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (vendredi 25 septembre 2026)
 
 🌴 Dunkerque / Malo-les-Bains / Bray-Dunes
-☀️ Influence anticyclonique calme assurant un temps sec et modérément doux sur la côte. Températures de 14°C le matin à 23°C l'après-midi.
-🌊 Température de l’eau : 17°C à 18°C
+☀️ Installation d'un marais barométrique estival assurant un temps sec et lumineux sur la côte. Températures de 12°C le matin à 27°C l'après-midi.
+🌊 Température de l’eau : 18°C à 19°C
 
 🌴 Le Touquet / Berck / Baie de Somme
-☀️ Ambiance agréable sur le littoral ce jeudi. Maximales atteignant 24°C sur le sable.
-🌊 Température de l’eau : 18°C
+☀️ Ambiance agréable sur le littoral ce vendredi. Maximales atteignant 28°C sur le sable.
+🌊 Température de l’eau : 19°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE – CÔTE D’OPALE & MER DU NORD (jeudi 24 septembre 2026)
+🌊 MÉTÉO MARINE – CÔTE D’OPALE & MER DU NORD (vendredi 25 septembre 2026)
 
 📍 Zones : Dunkerque • Calais • Boulogne-sur-Mer • Le Touquet
 
-☀️ Situation générale : Influence anticyclonique calme assurant un temps sec et modérément doux.
-🌬️ Vent : Vent de Nord-Est modéré (15 km/h) ce jeudi.
+☀️ Situation générale : Installation d'un marais barométrique estival assurant un temps sec et lumineux.
+🌬️ Vent : Vent de Nord-Est modéré (15 km/h) ce vendredi.
 🌊 État de la mer : Mer peu agitée (vagues 0.4m à 0.8m), idéale pour les activités nautiques.
 ⚠️ Visibilité : Bonne sur l'ensemble du littoral.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
-🌧️ Pluies & Humidité : Temps sec sur la région ce jeudi avec maintien de la sécheresse de surface.
-🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce jeudi. Aucun coup de vent à craindre.
-⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce jeudi.
+🌧️ Pluies & Humidité : Temps sec sur la région ce vendredi avec maintien de la sécheresse de surface.
+🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce vendredi. Aucun coup de vent à craindre.
+⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce vendredi.
 🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement.
 🏔️ Météo montagne
 
-    Alpes : Chaleur marquée en vallée ce jeudi et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.
+    Alpes : Chaleur marquée en vallée ce vendredi et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.
 
-    Pyrénées : Soleil dominant en matinée de ce jeudi, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce vendredi.
+    Pyrénées : Soleil dominant en matinée de ce vendredi, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce samedi.
 
-    Massif central : Ambiance lourde et estivale ce jeudi. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.
+    Massif central : Ambiance lourde et estivale ce vendredi. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.
 
-    Vosges : Temps très chaud et généreusement ensoleillé ce jeudi. Quelques nuages de beau temps l'après-midi sans intempérie.
+    Vosges : Temps très chaud et généreusement ensoleillé ce vendredi. Quelques nuages de beau temps l'après-midi sans intempérie.
 
-    Jura : Chaleur estivale et soleil dominant ce jeudi, avant quelques passages nuageux inoffensifs en soirée.
+    Jura : Chaleur estivale et soleil dominant ce vendredi, avant quelques passages nuageux inoffensifs en soirée.
 
-    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du jeudi 24 septembre 2026.
+    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du vendredi 25 septembre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-▶ samedi 26 septembre : Le soleil reste généreux, mais un vent de sud-ouest se renforce en cours de journée, avec des rafales atteignant 45 à 55 km/h sur le littoral. Les températures maximales varient de 18°C près des côtes à 26°C dans l'intérieur. Aucune précipitation à signaler.
+▶ dimanche 27 septembre : Le soleil se maintient généreusement sur l'ensemble du territoire, malgré quelques averses ponctuelles et localisées possibles en cours de journée. Les températures maximales restent estivales, de 21°C à 25°C, avec un vent faible à modéré soufflant de 10 à 15 km/h.
 
-▶ dimanche 27 septembre : Le calme revient avec un temps sec et souvent ensoleillé, malgré quelques passages nuageux. Les maximales sont comprises entre 21 et 24°C, avec des minimales plus fraîches de 10 à 13°C. Vent faible à modéré de 10 à 20 km/h.
+▶ lundi 28 septembre : La couverture nuageuse s'épaissit nettement pour ce début de semaine, avec un ciel devenant très nuageux sur une grande partie de la région. Des pluies faibles et éparses sont attendues sur certains secteurs, les maximales s'échelonnent entre 20°C et 23°C sous un vent calme.
 
-▶ lundi 28 septembre : Dégradation notable : ciel très nuageux et pluies faibles à modérées, avec des cumuls de 1 à 5 mm selon les secteurs. Les températures maximales perdent quelques degrés, de 19 à 22°C. Vent calme, de 10 km/h en moyenne.
+▶ mardi 29 septembre : Le retour d'un temps plus chaud est notable, avec des températures maximales qui grimpent fortement, atteignant jusqu'à 28°C sur le littoral. Le ciel est généralement dégagé, même si quelques passages nuageux sont possibles. Le vent se renforce légèrement, avec des rafales jusqu'à 40 km/h possibles dans les terres. Quelques rares averses isolées ne sont pas exclues.
 
 
 --------------------------------------------------------------------------------
@@ -247,57 +240,57 @@ Ce jeudi après-midi, le soleil dominera largement sur l'ensemble de la région.
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce jeudi matin, la région bénéficie d'un temps calme et ensoleillé. Le soleil domine largement sur l'ensemble du territoire, offrant un ciel dégagé pour ce début de journée. Les températures minimales s'établissent entre 12°C à Lille et Roubaix, et 14°C à Troisvilles et Maubeuge. Le vent souffle faiblement, avec une brise de 10 à 15 km/h, sans aucune rafale notable. Aucune précipitation n'est à signaler, confirmant une matinée agréable et lumineuse.
+Ce vendredi matin, le temps se révèle particulièrement clément sur l'ensemble de la région. Un soleil dominant illumine le ciel, sans la moindre présence nuageuse. Les températures minimales affichent 9°C à Lille et Roubaix, 11°C à St-Hilaire-sur-Helpe et Troisvilles, et 13°C à Dunkerque et Steenvoorde, marquant un léger contraste entre l'intérieur des terres et le littoral. Un vent léger souffle, n'excédant pas 15 km/h, notamment à Troisvilles, Douai et Roubaix. Aucune précipitation n'est à signaler.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce jeudi après-midi, le soleil dominera largement le ciel de la région. Aucune précipitation n'est à signaler sur l'ensemble des départements. Les températures maximales atteindront 22°C à Lille et Valenciennes, 20°C à Maubeuge et Steenvoorde, et 23°C à Dunkerque. Le vent, de faible intensité, soufflera généralement entre 10 et 15 km/h, sans rafales notables. Les conditions météorologiques seront agréables, avec un contraste thermique modéré entre le littoral et l'intérieur des terres.
+Ce vendredi après-midi, le ciel de la région se présente sous un aspect radieux, dominé par un soleil généreux. Aucune précipitation n'est à signaler. Les températures maximales atteindront 27°C à Lille, Valenciennes et Douai, tandis que Maubeuge enregistrera 24°C. Le vent soufflera faiblement, avec des pointes à 15 km/h localement, notamment à Troisvilles et Roubaix, sans impact significatif sur le ressenti. Les conditions météorologiques restent stables et agréables sur l'ensemble du territoire.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
-🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (jeudi 24 septembre 2026)
+🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (vendredi 25 septembre 2026)
 
 🌴 Dunkerque / Malo-les-Bains / Bray-Dunes
-☀️ Influence anticyclonique calme assurant un temps sec et modérément doux sur la côte. Températures de 14°C le matin à 23°C l'après-midi.
-🌊 Température de l’eau : 17°C à 18°C
+☀️ Installation d'un marais barométrique estival assurant un temps sec et lumineux sur la côte. Températures de 11°C le matin à 27°C l'après-midi.
+🌊 Température de l’eau : 18°C à 19°C
 
 🌴 Le Touquet / Berck / Baie de Somme
-☀️ Ambiance agréable sur le littoral ce jeudi. Maximales atteignant 24°C sur le sable.
-🌊 Température de l’eau : 18°C
+☀️ Ambiance agréable sur le littoral ce vendredi. Maximales atteignant 28°C sur le sable.
+🌊 Température de l’eau : 19°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE – CÔTE D’OPALE & MER DU NORD (jeudi 24 septembre 2026)
+🌊 MÉTÉO MARINE – CÔTE D’OPALE & MER DU NORD (vendredi 25 septembre 2026)
 
 📍 Zones : Dunkerque • Calais • Boulogne-sur-Mer • Le Touquet
 
-☀️ Situation générale : Influence anticyclonique calme assurant un temps sec et modérément doux.
-🌬️ Vent : Vent de Nord-Est modéré (15 km/h avec rafales atteignant 35 km/h) ce jeudi.
+☀️ Situation générale : Installation d'un marais barométrique estival assurant un temps sec et lumineux.
+🌬️ Vent : Vent de Nord-Est modéré (15 km/h) ce vendredi.
 🌊 État de la mer : Mer peu agitée (vagues 0.4m à 0.8m), idéale pour les activités nautiques.
 ⚠️ Visibilité : Bonne sur l'ensemble du littoral.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
-🌧️ Pluies & Humidité : Temps sec sur la région ce jeudi avec maintien de la sécheresse de surface.
-🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce jeudi. Aucun coup de vent à craindre.
-⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce jeudi.
+🌧️ Pluies & Humidité : Temps sec sur la région ce vendredi avec maintien de la sécheresse de surface.
+🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce vendredi. Aucun coup de vent à craindre.
+⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce vendredi.
 🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement.
 🏔️ Météo montagne
 
-    Alpes : Chaleur marquée en vallée ce jeudi et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.
+    Alpes : Chaleur marquée en vallée ce vendredi et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.
 
-    Pyrénées : Soleil dominant en matinée de ce jeudi, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce vendredi.
+    Pyrénées : Soleil dominant en matinée de ce vendredi, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce samedi.
 
-    Massif central : Ambiance lourde et estivale ce jeudi. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.
+    Massif central : Ambiance lourde et estivale ce vendredi. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.
 
-    Vosges : Temps très chaud et généreusement ensoleillé ce jeudi. Quelques nuages de beau temps l'après-midi sans intempérie.
+    Vosges : Temps très chaud et généreusement ensoleillé ce vendredi. Quelques nuages de beau temps l'après-midi sans intempérie.
 
-    Jura : Chaleur estivale et soleil dominant ce jeudi, avant quelques passages nuageux inoffensifs en soirée.
+    Jura : Chaleur estivale et soleil dominant ce vendredi, avant quelques passages nuageux inoffensifs en soirée.
 
-    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du jeudi 24 septembre 2026.
+    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du vendredi 25 septembre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-▶ samedi 26 septembre : Le soleil domine encore largement, mais quelques nuages apparaissent sur le littoral. Les températures maximales atteignent 26°C à Valenciennes et Dunkerque, avec un vent de 15 à 20 km/h. De très faibles pluies sont possibles sur Lille et Roubaix, sans conséquence notable.
+▶ dimanche 27 septembre : Le soleil reste très présent sur l'ensemble de la région, malgré quelques nuages épars possibles sur le littoral. Les maximales restent estivales, oscillant entre 22°C à Steenvoorde et 25°C à Valenciennes. Le vent, faible à modéré, ne dépasse pas 15 km/h, maintenant une ambiance très agréable.
 
-▶ dimanche 27 septembre : Le temps devient plus variable avec un ciel alternant éclaircies et passages nuageux. Les températures restent douces, entre 21°C et 24°C selon les secteurs. Quelques averses isolées sont attendues sur le littoral, notamment à Dunkerque et Watten, mais le vent reste modéré.
+▶ lundi 28 septembre : Le ciel se voile davantage, avec un temps nuageux dominant sur la moitié nord de la région, notamment à Lille et Roubaix. Les températures restent stables, comprises entre 21°C et 24°C, avec un vent très faible. Aucune précipitation significative n'est attendue, mais le ressenti sera moins lumineux.
 
-▶ lundi 28 septembre : La dégradation s'accentue avec des pluies plus régulières, surtout sur Lille et Roubaix où les cumuls pourraient atteindre 4 à 6 mm. Les températures maximales plafonnent autour de 22°C. Le vent faiblit, ne dépassant pas 10 km/h, mais l'humidité sera plus présente.
+▶ mardi 29 septembre : La chaleur s'intensifie nettement avec des maximales qui pourraient atteindre 28°C à Valenciennes, Maubeuge ou Lille. Le vent se renforce en cours de journée, avec des rafales pouvant atteindre 45 km/h, notamment à St-Hilaire-sur-Helpe. Des averses localisées sont possibles, particulièrement sur le sud-est de la région.
 
 
 --------------------------------------------------------------------------------
@@ -309,54 +302,54 @@ Ce jeudi après-midi, le soleil dominera largement le ciel de la région. Aucune
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce jeudi matin, la Normandie se réveille sous un ciel majoritairement nuageux. Des éclaircies tentent de percer par endroits, mais les nuages restent bien présents sur l'ensemble de la région. Des averses sont observées localement, notamment sur le littoral de la Seine-Maritime, du côté de Dieppe, où la pluie s'invite dès le lever du jour. Une autre zone d'averses touche le sud-ouest de la région, près d'Alençon. Les températures minimales affichent 10°C à Rouen et Évreux, 12°C à Caen et 13°C à Cherbourg et au Havre. Le vent souffle faiblement, avec des brises ne dépassant pas les 15 km/h, notamment sur Dieppe.
+Ce vendredi matin, la Normandie se réveille sous un ciel dégagé et ensoleillé sur l'ensemble de la région. Aucune précipitation n'est à signaler. Les températures minimales affichent 8°C à Rouen, 14°C à Caen et 17°C à Cherbourg. Un léger vent souffle sur le littoral, atteignant 15 km/h au Havre et à Caen, tandis qu'il reste modéré à 10 km/h dans les terres, notamment à Rouen et Évreux. Le contraste thermique est notable entre les zones côtières et l'intérieur des terres, avec des valeurs plus douces près du littoral.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce jeudi après-midi, la Normandie connaîtra un ciel très nuageux sur l'ensemble de la région. Aucun phénomène pluvieux n'est attendu. Les températures maximales atteindront 28°C à Lisieux, 27°C à Dieppe et 26°C à Cherbourg et Évreux. Le vent sera faible, soufflant entre 5 et 15 km/h, principalement d'ouest sur le littoral. Les températures resteront élevées pour la saison, avec des valeurs homogènes entre le littoral et l'intérieur des terres.
+Ce vendredi après-midi, la Normandie bénéficie d'un ensoleillement généreux sur l'ensemble de la région. Le ciel est dégagé, sans nuages, offrant des conditions météorologiques estivales. Les températures maximales atteignent des niveaux élevés, notamment à Alençon avec 31°C, Le Havre et Lisieux avec 30°C, et Rouen avec 29°C. Le vent souffle faiblement, avec des vitesses ne dépassant pas les 15 km/h, notamment à Caen, Le Havre, Alençon et Dieppe. Aucune précipitation n'est à signaler sur l'ensemble du territoire normand pour cet après-midi.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
-🏖️ MÉTÉO DES PLAGES – CÔTE D’ALBÂTRE & MANCHE (jeudi 24 septembre 2026)
+🏖️ MÉTÉO DES PLAGES – CÔTE D’ALBÂTRE & MANCHE (vendredi 25 septembre 2026)
 
 🌴 Le Havre / Deauville / Cabourg
-☀️ Temps agréable ce jeudi. Températures sur les plages : 11°C à 28°C.
-🌊 Température de l’eau : 18°C à 19°C
+☀️ Temps agréable ce vendredi. Températures sur les plages : 10°C à 31°C.
+🌊 Température de l’eau : 19°C à 20°C
 
 🌴 Dieppe / Fécamp / Cherbourg
-☀️ Belle luminosité ce jeudi, brise littorale rafraîchissante avec maximales de 28°C.
-🌊 Température de l’eau : 18°C
+☀️ Belle luminosité ce vendredi, brise littorale rafraîchissante avec maximales de 31°C.
+🌊 Température de l’eau : 19°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE – MANCHE & LITTORAL NORMAND (jeudi 24 septembre 2026)
+🌊 MÉTÉO MARINE – MANCHE & LITTORAL NORMAND (vendredi 25 septembre 2026)
 
 📍 Zones : Baie de Seine • Le Havre • Fécamp • Dieppe • Cherbourg
 
 ☀️ Situation générale : Installation d'un marais barométrique estival assurant un temps sec et lumineux.
-🌬️ Vent : Vent modéré de Nord-Est (15 km/h) ce jeudi.
+🌬️ Vent : Vent modéré de Nord-Est (15 km/h avec rafales atteignant 35 km/h) ce vendredi.
 🌊 État de la mer : Mer peu agitée (vagues 0.4m à 0.8m), idéale pour les activités nautiques.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
-🌧️ Pluies & Humidité : Temps sec sur la région ce jeudi avec maintien de la sécheresse de surface.
-🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce jeudi. Aucun coup de vent à craindre.
-⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce jeudi.
+🌧️ Pluies & Humidité : Temps sec sur la région ce vendredi avec maintien de la sécheresse de surface.
+🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce vendredi. Aucun coup de vent à craindre.
+⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce vendredi.
 🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement.
 🏔️ Météo montagne
 
-    Alpes : Chaleur marquée en vallée ce jeudi et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.
+    Alpes : Chaleur marquée en vallée ce vendredi et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.
 
-    Pyrénées : Soleil dominant en matinée de ce jeudi, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce vendredi.
+    Pyrénées : Soleil dominant en matinée de ce vendredi, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce samedi.
 
-    Massif central : Ambiance lourde et estivale ce jeudi. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.
+    Massif central : Ambiance lourde et estivale ce vendredi. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.
 
-    Vosges : Temps très chaud et généreusement ensoleillé ce jeudi. Quelques nuages de beau temps l'après-midi sans intempérie.
+    Vosges : Temps très chaud et généreusement ensoleillé ce vendredi. Quelques nuages de beau temps l'après-midi sans intempérie.
 
-    Jura : Chaleur estivale et soleil dominant ce jeudi, avant quelques passages nuageux inoffensifs en soirée.
+    Jura : Chaleur estivale et soleil dominant ce vendredi, avant quelques passages nuageux inoffensifs en soirée.
 
-    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du jeudi 24 septembre 2026.
+    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du vendredi 25 septembre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-▶ samedi 26 septembre : Samedi, le temps conserve un caractère sec et assez doux. Les éclaircies dominent sur l’est (Rouen, Évreux) alors que le littoral (Cherbourg, Le Havre) reste plus nuageux. Les maximales vont de 20°C à Caen à 24°C à Évreux, avec un vent faible à modéré, de 10 à 15 km/h.
+▶ dimanche 27 septembre : Le ciel reste généreusement ensoleillé sur l'ensemble de la région. Les températures maximales restent très douces, comprises entre 22°C au Havre et 25°C à Rouen. Le vent se lève sensiblement sur le Cotentin, avec des rafales atteignant 40 km/h à Cherbourg.
 
-▶ dimanche 27 septembre : Dimanche, quelques averses se développent, surtout dans l’ouest et le sud de la région, notamment à Alençon et Cherbourg. Le vent se renforce avec des rafales possibles jusqu’à 45 km/h sur le Cotentin. Les températures restent stables, comprises entre 22°C et 24°C selon les villes.
+▶ lundi 28 septembre : La couverture nuageuse s'épaissit nettement, le ciel devient très nuageux à couvert sur toute la Normandie. Les températures maximales baissent pour plafonner entre 20°C au Havre et 23°C à Evreux. Quelques rares gouttes sont possibles sur le nord du Cotentin.
 
-▶ lundi 28 septembre : Lundi, la dégradation s’accentue nettement avec des pluies parfois soutenues, particulièrement marquées sur le Calvados (15 mm à Lisieux) et la Seine-Maritime (7 mm à Dieppe). Le ciel demeure très couvert, mais le thermomètre se maintient autour de 21°C à 23°C, avec un vent faible.
+▶ mardi 29 septembre : Le soleil fait un retour en force avec un ciel peu nuageux. Les températures repartent à la hausse, avec des maximales comprises entre 26°C sur les côtes et 28°C dans l'Eure. Attention, le vent se renforce considérablement, avec des rafales de 40 à 50 km/h attendues sur l'ensemble du territoire.
 
