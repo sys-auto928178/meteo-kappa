@@ -236,7 +236,7 @@
         "summaryImages": [],
         "recordsRaw": "🌧️ Pluies & Humidité : Temps sec sur la région ce dimanche avec maintien de la sécheresse de surface.\n🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce dimanche. Aucun coup de vent à craindre.\n⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce dimanche.\n🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement.",
         "recordsTitle": "🌬️ Phénomènes marquants et zones les plus exposées",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_france_tomorrow.png?t=1790399180",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_france_tomorrow.png?t=1790442277",
         "mountain": "🏔️ Météo montagne\n\n    Alpes : Chaleur marquée en vallée ce dimanche et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.\n\n    Pyrénées : Soleil dominant en matinée de ce dimanche, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce lundi.\n\n    Massif central : Ambiance lourde et estivale ce dimanche. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.\n\n    Vosges : Temps très chaud et généreusement ensoleillé ce dimanche. Quelques nuages de beau temps l'après-midi sans intempérie.\n\n    Jura : Chaleur estivale et soleil dominant ce dimanche, avant quelques passages nuageux inoffensifs en soirée.\n\n    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du dimanche 27 septembre 2026.",
         "summaryTitle": "Prévisions pour la journée du DIMANCHE 27 SEPTEMBRE 2026",
         "summaryMorning": "Ce dimanche matin, la France se réveille sous un ciel partagé. Des averses sont observées sur la pointe bretonne, notamment à Brest où le vent souffle à 25 km/h avec des rafales atteignant 45 km/h, pour une minimale de 15°C. Plus à l'est, un temps très nuageux domine de Lille (12°C) à Paris (12°C), avec un vent modéré de 10 à 15 km/h. La Normandie, de Rouen (13°C) à Caen (14°C), connaît un ciel nuageux avec des rafales de vent pouvant atteindre 40 km/h sur le littoral. Le Centre-Val de Loire, de Tours (13°C) à Poitiers (13°C), est également sous un ciel nuageux. Le soleil se montre plus généreux sur l'est du pays, de Laon (10°C) où il brille sans entrave, jusqu'aux régions alpines, annonçant une journée plus clémente pour ces secteurs.",
@@ -531,7 +531,7 @@
       "form": {
         "observationsRaw": "St-Hilaire-sur-Helpe (59) 29\nValenciennes (59) 30\nTroisvilles (59) 30\nMaubeuge (59) 29\nDouai (59) 31\nLille (59) 30\nRoubaix (59) 29\nSteenvoorde (59) 29\nWatten (59) 29\nDunkerque (59) 26\nSaulty (62) 30\nArras (62) 30\nFiefs (62) 29\nHumières (62) 29\nCambrai / Epinoy (62) 30\nRadinghem (62) 29\nAttin (62) 30\nNielles-lès-Bléquin (62) 27\nBainghen (62) 27\nBoulogne (62) 28\nCalais / Marck (62) 28\nCap Gris-Nez (62) 28\nLe Touquet (62) 29\n",
         "alert": "🟢 Aucune vigilance orange ou rouge en cours sur le pays.",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1790399361",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1790442278",
         "todaySummary": "",
         "summaryLancement": "☀️ UN DIMANCHE DOUX ET NUAGEUX PAR MOMENTS : La journée alterne entre éclaircies et voiles nuageux, avec des températures maximales atteignant 27°C, sans précipitations attendues.",
         "summaryTitle": "Prévisions pour la journée du DIMANCHE 27 SEPTEMBRE 2026",
@@ -790,7 +790,7 @@
       "form": {
         "observationsRaw": "La Rochelle 37\nChassiron 28\nGond-Pontouvre 38\nBlanzac-Porcheresse 36\nJarnac 37\nMontbron 37\nLa Couronne 37\nSoyaux 37\nCognac 37\nAngoulême 37\nRouillac 37\nSaint-Michel 37\nLa Rochefoucauld 38\nNersac 37\nConfolens 37\nBarbezieux-Saint-Hilaire 36\nChâteauneuf-sur-Charente 37\n",
         "alert": "🟢 Aucune vigilance orange ou rouge en cours sur le pays.",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_NAQ_tomorrow.png?t=1790399393",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_NAQ_tomorrow.png?t=1790442279",
         "todaySummary": "",
         "summaryLancement": "☀️ UN DIMANCHE PARTAGÉ ENTRE SOLEIL ET NUAGES : La journée alterne entre éclaircies généreuses sur la côte et l'intérieur charentais et ciel couvert sur le secteur rochelais et angoumoisin, avec des maximales atteignant 32°C.",
         "summaryTitle": "Prévisions pour la journée du DIMANCHE 27 SEPTEMBRE 2026",
@@ -1019,7 +1019,7 @@
       "form": {
         "observationsRaw": "Leffrinckoucke 26\nGravelines 24\nOffekerque 28\nMarck 28\nLefaux 29\nGroffliers 29\nRemilly-Wirquin 28\nRacquinghem 28\nRobecq 31\nCauchy-à-la-Tour 30\nBoulogne Sur Mer 13\nLe Touquet-Paris-Plage 29\nAbbeville 31\n",
         "alert": "🟢 Aucune vigilance orange ou rouge en cours sur le pays.",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1790399436",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1790442280",
         "todaySummary": "",
         "summaryLancement": "☀️ SOLEIL ET CHALEUR ESTIVALE : Un ciel contrasté mais des températures très douces ce dimanche, avec jusqu’à 27°C sur le littoral et 25°C dans l’intérieur, sous un vent modéré.",
         "summaryTitle": "Prévisions pour la journée du DIMANCHE 27 SEPTEMBRE 2026",
@@ -1331,7 +1331,7 @@
       "form": {
         "observationsRaw": "St-Hilaire-sur-Helpe (59) 29\nValenciennes (59) 30\nTroisvilles (59) 30\nMaubeuge (59) 29\nDouai (59) 31\nLille (59) 30\nRoubaix (59) 29\nSteenvoorde (59) 29\nWatten (59) 29\nDunkerque (59) 26\nSaulty (62) 30\nArras (62) 30\nFiefs (62) 29\nHumières (62) 29\nCambrai / Epinoy (62) 30\nRadinghem (62) 29\nAttin (62) 30\nNielles-lès-Bléquin (62) 27\nBainghen (62) 27\nBoulogne (62) 28\nCalais / Marck (62) 28\nCap Gris-Nez (62) 28\nLe Touquet (62) 29\n",
         "alert": "🟢 Aucune vigilance orange ou rouge en cours sur le pays.",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1790399478",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1790442281",
         "todaySummary": "",
         "summaryLancement": "☀️ SOLEIL DOMINANT ET CHALEUR DE SAISON : Un ciel très dégagé s'impose sur l'intérieur des terres ce dimanche, avec des températures maximales atteignant 26°C à Douai et Maubeuge, tandis que le littoral reste sous les nuages sans pluie.",
         "summaryTitle": "Prévisions pour la journée du DIMANCHE 27 SEPTEMBRE 2026",
@@ -1521,7 +1521,7 @@
       "form": {
         "observationsRaw": "Rouen 33\nCaen 27\nLe Havre 32\nCherbourg 27\nEvreux 34\nAlençon 35\nDieppe 31\nLisieux 33\n",
         "alert": "🟢 Aucune vigilance orange ou rouge en cours sur le pays.",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_NOR_tomorrow.png?t=1790399530",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_NOR_tomorrow.png?t=1790442282",
         "todaySummary": "",
         "summaryLancement": "☀️ CHALEUR ESTIVALE ET CIEL PARTAGÉ : Ce dimanche, la Normandie alterne entre belles éclaircies et nuages nombreux, avec des températures maximales proches de 28 °C à Rouen et 26 °C à Caen, sous un vent d’ouest modéré. Seul le Cotentin connaît des averses et des rafales plus marquées.",
         "summaryTitle": "Prévisions pour la journée du DIMANCHE 27 SEPTEMBRE 2026",
