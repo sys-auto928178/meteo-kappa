@@ -13,10 +13,10 @@ FICHIER SOURCE : /home/runner/work/meteo-kappa/meteo-kappa/cnews/BULLETINS_AUTOM
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce lundi matin, la France se réveille sous un ciel partagé. Des pluies et averses sont à prévoir sur une large partie nord-ouest du pays. Des précipitations importantes sont notamment attendues à Rouen avec 9.3 mm, tandis que Caen enregistre 13.7 mm de pluie. Paris connaît également des averses avec 1.5 mm. Le vent souffle modérément, atteignant 20 km/h à Laon, où des rafales de 40 km/h sont possibles. Les températures minimales varient de 13°C à Rouen à 16°C à Nantes. Le sud-est bénéficie d'un temps plus clément avec un soleil dominant et des températures plus douces, contrastant avec l'humidité du nord.
+Ce lundi matin, la France se réveille sous un ciel souvent perturbé. Des averses se déclenchent sur une large partie nord-ouest du pays, notamment à Lille où 7.1 mm de pluie sont attendus, et à Rennes où un passage pluvieux important apporte 21.9 mm. Les températures minimales affichent 15°C à Lille, 14°C à Rouen et 15°C à Paris. Le vent souffle modérément, autour de 10 à 20 km/h sur les régions concernées par les précipitations. Plus à l'est, des éclaircies dominent, comme à Laon avec 15°C, ou à Tours et Poitiers où le soleil est peu nuageux, avec des minimales de 16°C.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce lundi après-midi, la France sera coupée en deux sur le plan météorologique. Une large moitié nord-ouest du pays connaîtra un temps instable et pluvieux. Des averses, parfois soutenues, sont attendues de la Bretagne aux Hauts-de-France, notamment à Lille (21°C) avec 7.8 mm de pluie et à Caen (19°C) où 13.7 mm sont prévus. Le vent soufflera modérément, atteignant 15 km/h sur la façade atlantique. En revanche, le sud-est et le centre du pays bénéficieront d'un temps plus clément, avec un soleil dominant et des températures estivales. Laon affichera 29°C sous un ciel peu nuageux, tandis que Poitiers atteindra 27°C.
+Ce lundi après-midi, la France sera coupée en deux sur le plan météorologique. Une perturbation atlantique apportera des nuages bas et des pluies sur l'ouest du pays. Des averses parfois soutenues sont attendues sur la Bretagne, les Pays de la Loire et la Normandie, notamment à Rennes (21.9 mm) et Caen (8.5 mm). Le vent soufflera modérément sur les côtes bretonnes (20 km/h à Brest). Plus à l'est, le temps sera plus clément. Le soleil tentera de percer à travers des nuages épars, offrant des éclaircies à Laon (30°C), Tours (26°C) et Poitiers (27°C). Les températures resteront douces, avec 24°C à Paris.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce lundi avec maintien de la sécheresse de surface.
@@ -38,13 +38,11 @@ Ce lundi après-midi, la France sera coupée en deux sur le plan météorologiqu
     Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du lundi 28 septembre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-📉 Tendance – 3 jours suivants (mercredi 30 septembre au vendredi 2 octobre)
+▶ mercredi 30 septembre : Une dégradation pluvieuse progresse par l'ouest. Les averses touchent la Normandie, l'Île-de-France et le Centre, avec 15,5 mm attendus à Paris. Le vent se renforce sur la pointe bretonne, avec des rafales jusqu'à 60 km/h à Brest. Les températures restent douces, de 21°C à Brest à 30°C à Laon.
 
-▶ mercredi 30 septembre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 15°C. L'après-midi, le mercure grimpe jusqu'à 29°C sous abri. Attention aux rafales de vent atteignant 50 km/h.
+▶ jeudi 1 octobre : Le temps s'assèche nettement sur la moitié ouest, avec un ciel variable et peu de pluie. En revanche, des averses persistent du Nord-Est aux Ardennes, notamment à Lille (17,4 mm). Les maximales baissent légèrement, comprises entre 20°C à Rouen et 23°C à Tours.
 
-▶ jeudi 1 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 12°C. L'après-midi, le mercure grimpe jusqu'à 24°C sous abri. Le vent souffle de manière modérée.
-
-▶ vendredi 2 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 10°C. L'après-midi, le mercure grimpe jusqu'à 23°C sous abri. Le vent souffle de manière modérée.
+▶ vendredi 2 octobre : Un temps calme et sec s'installe sur la quasi-totalité du pays. Le soleil domine largement, avec quelques nuages épars sur la façade atlantique. Les matinées sont fraîches, avec des minimales de 10°C à Caen et Rennes, pour des maximales atteignant 23°C à Rennes et Tours.
 
 
 --------------------------------------------------------------------------------
@@ -56,16 +54,16 @@ Ce lundi après-midi, la France sera coupée en deux sur le plan météorologiqu
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce lundi matin, le temps se présente sous un aspect mitigé sur la région. Des averses sont attendues sur de nombreuses localités, notamment à Douai où 18,4 mm de pluie sont déjà relevés, ainsi qu'à Roubaix avec 8,6 mm et Lille avec 7,8 mm. Les températures minimales affichent 14°C à Troisvilles et 15°C à Dunkerque. Le vent souffle modérément, atteignant 20 km/h avec des rafales de 45 km/h à St-Hilaire-sur-Helpe et Maubeuge. Le littoral, comme à Dunkerque, connaît des températures plus clémentes avec 15°C et un ciel peu nuageux, contrastant avec l'intérieur des terres où les pluies sont plus marquées.
+Ce lundi matin, le temps se montre contrasté sur la région. Des averses parfois marquées touchent le littoral, notamment à Steenvoorde où 18 mm de pluie sont relevés, et à Dunkerque avec 10,9 mm. Des passages pluvieux s'invitent également à Lille (7,1 mm) et Douai (6,2 mm). Les températures minimales affichent 15°C à Lille et Valenciennes, tandis que Maubeuge enregistre 16°C. Le vent souffle modérément, autour de 10 à 20 km/h sur l'ensemble du territoire. L'intérieur des terres bénéficie de conditions plus clémentes, avec un soleil dominant sur Troisvilles et Maubeuge, où les températures sont douces.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce lundi après-midi, le ciel de la région Nord-Pas-de-Calais reste majoritairement couvert, avec des passages pluvieux notables. Des pluies faibles sont observées à Maubeuge (0.5 mm) et Watten (1.4 mm), tandis que des averses plus soutenues affectent Lille (7.8 mm), Roubaix (8.6 mm) et Douai (18.4 mm). Le vent souffle modérément, atteignant 20 km/h à St-Hilaire-sur-Helpe et Valenciennes, avec des rafales maximales de 45 km/h à St-Hilaire-sur-Helpe et Maubeuge. Les températures maximales varient de 18°C à Watten à 27°C à St-Hilaire-sur-Helpe, illustrant un contraste marqué entre le littoral et l'intérieur des terres.
+Ce lundi après-midi, le ciel de la région Nord présente un visage contrasté. Des averses, parfois fortes, sont attendues sur Steenvoorde où 18 mm de pluie sont relevés, et sur Dunkerque avec 10.9 mm. Des pluies plus modérées touchent Lille et Roubaix. Les températures maximales atteignent 27°C à St-Hilaire-sur-Helpe, 24°C à Valenciennes et 22°C à Troisvilles. Le vent souffle faiblement, autour de 10 à 20 km/h, sans rafales significatives. Le littoral, notamment à Dunkerque, connaît des températures plus douces que l'intérieur des terres.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
 🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (lundi 28 septembre 2026)
 
 🌴 Dunkerque / Malo-les-Bains / Bray-Dunes
-☀️ Circulation d'un flux océanique d'ouest perturbé et humide sur la côte. Températures de 16°C le matin à 27°C l'après-midi.
+☀️ Circulation d'un flux océanique d'ouest perturbé et humide sur la côte. Températures de 17°C le matin à 27°C l'après-midi.
 🌊 Température de l’eau : 18°C à 19°C
 
 🌴 Le Touquet / Berck / Baie de Somme
@@ -78,7 +76,7 @@ Ce lundi après-midi, le ciel de la région Nord-Pas-de-Calais reste majoritaire
 📍 Zones : Dunkerque • Calais • Boulogne-sur-Mer • Le Touquet
 
 ☀️ Situation générale : Circulation d'un flux océanique d'ouest perturbé et humide.
-🌬️ Vent : Vent de Nord-Est modéré (20 km/h avec rafales atteignant 45 km/h) ce lundi.
+🌬️ Vent : Vent de Nord-Est modéré (20 km/h) ce lundi.
 🌊 État de la mer : Mer peu agitée (vagues 0.4m à 0.8m), idéale pour les activités nautiques.
 ⚠️ Visibilité : Bonne sur l'ensemble du littoral.
 
@@ -102,13 +100,11 @@ Ce lundi après-midi, le ciel de la région Nord-Pas-de-Calais reste majoritaire
     Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du lundi 28 septembre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-📉 Tendance – 3 jours suivants (mercredi 30 septembre au vendredi 2 octobre)
+▶ mercredi 30 septembre : Ciel variable sur la région, avec des passages nuageux et quelques averses éparses, surtout sur le littoral (Dunkerque et Steenvoorde). Les températures restent très douces, de 17 à 29°C selon les secteurs. Vent modéré, atteignant 20 km/h avec des rafales à 40 km/h dans l'intérieur.
 
-▶ mercredi 30 septembre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 17°C. L'après-midi, le mercure grimpe jusqu'à 30°C sous abri. Attention aux rafales de vent atteignant 45 km/h.
+▶ jeudi 1 octobre : Temps fortement perturbé : des pluies généralisées et parfois abondantes traversent la région, avec des cumuls pouvant dépasser 20 mm près des côtes (22,5 mm à Dunkerque). Le vent se renforce, avec des rafales jusqu'à 40 km/h. Les maximales chutent autour de 20-21°C, les minimales entre 13 et 16°C.
 
-▶ jeudi 1 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 13°C. L'après-midi, le mercure grimpe jusqu'à 21°C sous abri. Le vent souffle de manière modérée.
-
-▶ vendredi 2 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 10°C. L'après-midi, le mercure grimpe jusqu'à 21°C sous abri. Le vent souffle de manière modérée.
+▶ vendredi 2 octobre : Retour d’un temps sec et plus calme. Le ciel alterne éclaircies et passages nuageux, sans pluie attendue. Les matinées sont fraîches (9 à 13°C), mais les après-midi restent agréables avec 20 à 21°C. Vent faible, ne dépassant pas 10 km/h.
 
 
 --------------------------------------------------------------------------------
@@ -120,10 +116,10 @@ Ce lundi après-midi, le ciel de la région Nord-Pas-de-Calais reste majoritaire
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce lundi matin, la Charente-Maritime et la Charente connaissent une atmosphère contrastée. Des averses se déclenchent sur le littoral, notamment à La Rochelle (17°C) et Chassiron (19°C), où un vent modéré de 15 à 25 km/h est relevé, avec des rafales atteignant 40 km/h. L'intérieur des terres, de Blanzac-Porcheresse (18°C) à Cognac (19°C), bénéficie d'un ciel plus dégagé et d'un soleil dominant. Les températures minimales s'établissent entre 17°C et 19°C, avec des pointes à 29°C dans l'après-midi.
+Ce lundi matin, la Charente-Maritime et la Charente se réveillent sous un ciel contrasté. Des averses sont observées sur le littoral rochelais où il fait 18°C, ainsi qu'à La Couronne et Angoulême, où la température atteint 19°C. Ces averses s'accompagnent d'un vent modéré, soufflant jusqu'à 40 km/h en rafales à La Rochelle et 60 km/h à Angoulême et Soyaux. À l'intérieur des terres, notamment à Chassiron (19°C), Jarnac (17°C) et Montbron (18°C), le soleil domine. Le vent y est plus faible, autour de 20 à 30 km/h.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce lundi après-midi, le ciel de la Charente-Maritime et de la Charente présente un contraste entre zones ensoleillées et secteurs plus nuageux. Des éclaircies dominent sur l'intérieur des terres, notamment à Blanzac-Porcheresse, Jarnac et Cognac où le soleil sera bien présent. Sur le littoral, comme à La Rochelle et Chassiron, le temps sera plus nuageux, avec des passages nuageux parfois denses. Quelques averses faibles sont également attendues sur La Rochelle (1.7 mm) et Chassiron (0.5 mm). Les températures maximales atteignent 29°C à La Rochelle et Angoulême, tandis que Chassiron bénéficie d'une douceur plus modérée avec 24°C. Le vent soufflera entre 15 et 25 km/h, avec des rafales n'excédant pas 40 km/h, principalement un vent de secteur ouest.
+Ce lundi après-midi, le ciel charentais présente un aspect contrasté. Des averses sont attendues sur le littoral rochelais, où la température maximale atteint 29°C, ainsi que sur l'Angoumois, avec 29°C à Angoulême et 29°C à Soyaux. Ces précipitations s'accompagnent de vents modérés, avec des rafales pouvant atteindre 60 km/h à La Couronne et Soyaux. En revanche, l'intérieur des terres bénéficie d'un temps plus ensoleillé, notamment à Chassiron avec 24°C, Blanzac-Porcheresse et Montbron qui affichent 27°C. Le vent y est plus faible, généralement autour de 20 à 30 km/h.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
 🏖️ MÉTÉO DES PLAGES – LITTORAL CHARENTAIS (lundi 28 septembre 2026)
@@ -143,7 +139,7 @@ Ce lundi après-midi, le ciel de la Charente-Maritime et de la Charente présent
 📍 Zones : La Rochelle • Rochefort • Royan • Pertuis Breton & d'Antioche
 
 ☀️ Situation synoptique : Installation d'un marais barométrique estival assurant un temps sec et lumineux.
-🌬️ Vent : Régime de brises thermiques (25 km/h avec rafales atteignant 40 km/h).
+🌬️ Vent : Régime de brises thermiques (35 km/h avec rafales atteignant 60 km/h).
 🌊 État de la mer : Mer peu agitée à agitée au large (vagues 0.8m à 1.3m), prudence pour la baignade.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
@@ -166,11 +162,11 @@ Ce lundi après-midi, le ciel de la Charente-Maritime et de la Charente présent
     Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du lundi 28 septembre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-▶ mercredi 30 septembre : La journée débute sous le soleil, mais des nuages porteurs de brèves averses font leur apparition en cours d’après-midi, surtout vers La Rochelle et l’agglomération d’Angoulême. Les températures restent élevées, avec des maximales de 29°C sur le littoral et jusqu’à 32°C dans les terres. Le vent souffle modérément, avec des rafales pouvant atteindre 45 km/h sur l’île de Ré et le Sud-Charente.
+▶ mercredi 30 septembre : Le temps reste instable avec des averses éparses, notamment sur La Rochelle, Gond-Pontouvre et l’Angoumois où les cumuls de pluie atteignent 3 à 4 mm. Les maximales sont encore élevées, de 23°C à 30°C selon les secteurs, sous un vent modéré de 20 à 25 km/h avec des rafales jusqu’à 50 km/h à Blanzac-Porcheresse.
 
-▶ jeudi 1 octobre : Un changement net se produit avec l’arrivée d’une perturbation pluvieuse, particulièrement active sur l’intérieur. Les précipitations cumulent localement plus de 20 mm à Soyaux et environs, tandis que le littoral reste plus épargné avec seulement quelques gouttes. Les températures baissent sensiblement, ne dépassant pas 25°C à La Rochelle et 24°C dans les terres. Le vent s’affaiblit.
+▶ jeudi 1 octobre : Une nette amélioration se dessine avec un ciel variable, mais encore nuageux sur La Rochelle, Gond-Pontouvre et l’Angoumois (code 6). Les températures baissent légèrement, de 21°C à 24°C pour les maximales, et le vent devient plus faible, autour de 10 à 20 km/h. Les précipitations restent faibles, inférieures à 3 mm.
 
-▶ vendredi 2 octobre : Le ciel se dégage rapidement après une matinée encore nuageuse, laissant place à un temps sec et ensoleillé sur toute la région. Les températures matinales sont fraîches, avec des minimales descendant localement à 10°C dans l’intérieur charentais (Cognac, Montbron). L’après-midi, elles remontent entre 22°C et 26°C selon les secteurs, sous un vent modéré.
+▶ vendredi 2 octobre : Le soleil reprend ses droits sur l’ensemble de la région, avec un ciel peu nuageux à dégagé. Les températures minimales chutent nettement (11°C à Blanzac-Porcheresse, 13°C à La Rochelle), mais les maximales remontent jusqu’à 25°C. Le vent est modéré (15 à 25 km/h) et aucune pluie n’est attendue.
 
 
 --------------------------------------------------------------------------------
@@ -182,20 +178,20 @@ Ce lundi après-midi, le ciel de la Charente-Maritime et de la Charente présent
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce lundi matin, le temps s'annonce mitigé sur la région avec une dominance de nuages et des averses. Les températures minimales s'établissent autour de 15°C à Leffrinckoucke et Remilly-Wirquin, tandis que Gravelines et Offekerque affichent 17°C. Des averses sont attendues sur une grande partie du territoire, notamment à Gravelines (4.4 mm), Offekerque (7.7 mm) et Lefaux (11.8 mm). Des pluies faibles sont également signalées à Groffliers et Remilly-Wirquin. Le vent soufflera modérément, atteignant environ 15 km/h sur le littoral et 10 km/h dans l'intérieur des terres.
+Ce lundi matin, le temps se révèle instable sur l'ensemble de la région. Des averses sont observées dès le lever du jour, notamment à Leffrinckoucke où la température minimale atteint 16°C, et à Gravelines avec 17°C. Le ciel est majoritairement nuageux, avec des éclaircies timides par endroits. Les précipitations sont généralisées, comme à Racquinghem qui enregistre 18.7 mm de pluie et une minimale de 15°C, ou encore à Cauchy-à-la-Tour avec 10.1 mm et 15°C. Un vent modéré souffle entre 10 et 20 km/h, sans rafales significatives. Les températures minimales varient peu, oscillant entre 14°C et 17°C, avec des valeurs légèrement plus fraîches à l'intérieur des terres, comme à Remilly-Wirquin (14°C).
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce lundi après-midi, un temps instable caractérise la région avec des averses généralisées. Les précipitations sont parfois soutenues, notamment à Lefaux avec 11.8 mm et Remilly-Wirquin avec 9.5 mm. Le ciel reste majoritairement couvert sur l'ensemble du territoire, comme à Gravelines, Offekerque et Racquinghem. Les températures maximales atteignent 23°C à Leffrinckoucke, tandis que l'intérieur des terres, comme à Cauchy-à-la-Tour, enregistre 18°C. Un vent modéré souffle aux alentours de 15 km/h, avec des pointes à 20 km/h à Lefaux.
+Ce lundi après-midi, le ciel présente un aspect contrasté sur la région. Des averses sont attendues notamment à Leffrinckoucke, où le thermomètre affichera 24°C. Plus à l'intérieur des terres, comme à Marck, le soleil voilé dominera, avec des températures atteignant 19°C. Les conditions seront plus clémentes à Gravelines et Offekerque, bénéficiant d'un soleil franc et de maximales autour de 19°C et 18°C respectivement. Le vent soufflera modérément, entre 10 et 20 km/h, sans rafales notables.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
 🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (lundi 28 septembre 2026)
 
 🌴 Dunkerque / Malo-les-Bains / Bray-Dunes
-☀️ Circulation d'un flux océanique d'ouest perturbé et humide sur la côte. Températures de 17°C le matin à 23°C l'après-midi.
+☀️ Circulation d'un flux océanique d'ouest perturbé et humide sur la côte. Températures de 16°C le matin à 24°C l'après-midi.
 🌊 Température de l’eau : 17°C à 18°C
 
 🌴 Le Touquet / Berck / Baie de Somme
-☀️ Ambiance agréable sur le littoral ce lundi. Maximales atteignant 24°C sur le sable.
+☀️ Ambiance agréable sur le littoral ce lundi. Maximales atteignant 25°C sur le sable.
 🌊 Température de l’eau : 18°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
@@ -228,13 +224,9 @@ Ce lundi après-midi, un temps instable caractérise la région avec des averses
     Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du lundi 28 septembre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-📉 Tendance – 3 jours suivants (mercredi 30 septembre au vendredi 2 octobre)
-
-▶ mercredi 30 septembre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 17°C. L'après-midi, le mercure grimpe jusqu'à 28°C sous abri. Attention aux rafales de vent atteignant 45 km/h.
-
-▶ jeudi 1 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 13°C. L'après-midi, le mercure grimpe jusqu'à 21°C sous abri. Le vent souffle de manière modérée.
-
-▶ vendredi 2 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 9°C. L'après-midi, le mercure grimpe jusqu'à 21°C sous abri. Attention aux rafales de vent atteignant 40 km/h.
+▶ mercredi 30 septembre : Le temps reste instable avec des averses éparses et un vent modéré de 15 à 20 km/h, accompagné de rafales jusqu'à 40 km/h sur les côtes. Les températures minimales se situent entre 17 et 19°C, les maximales entre 21 et 27°C, plus fraîches près du littoral.
+▶ jeudi 1 octobre : Une nette dégradation s’amorce avec des précipitations parfois soutenues, notamment sur le nord-ouest (jusqu’à 22,5 mm attendus à Leffrinckoucke). Le vent faiblit légèrement (15 km/h), mais les températures baissent : minimales de 13 à 17°C, maximales de 18 à 21°C.
+▶ vendredi 2 octobre : Retour d’un temps sec et plus frais, avec un ciel variable et des éclaircies dominantes. Le vent reste modéré (10 à 25 km/h, rafales possibles). Les températures minimales chutent entre 10 et 13°C, les maximales plafonnent entre 19 et 21°C.
 
 
 --------------------------------------------------------------------------------
@@ -246,16 +238,16 @@ Ce lundi après-midi, un temps instable caractérise la région avec des averses
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce lundi matin, le temps se montre instable sur la région. Des averses sont observées sur une grande partie du territoire, notamment à Douai où 18.4 mm de pluie ont été relevés, ainsi qu'à Roubaix avec 8.6 mm et Lille avec 7.8 mm. Les températures minimales affichent 16°C à Lille et Roubaix, et 17°C à Douai. Le vent souffle modérément, atteignant 20 km/h avec des rafales jusqu'à 45 km/h à St-Hilaire-sur-Helpe et Maubeuge. Quelques éclaircies percent localement, notamment à St-Hilaire-sur-Helpe et Dunkerque où le ciel est peu nuageux.
+Ce lundi matin, le temps se présente sous un aspect mitigé sur la région. Les températures minimales affichent 15°C à Lille et Roubaix, 16°C à Maubeuge et Dunkerque. Le vent souffle modérément, atteignant 20 km/h à Troisvilles, et autour de 10 à 15 km/h ailleurs. Le ciel est majoritairement peu nuageux, avec des éclaircies dominantes sur des villes comme Troisvilles, Maubeuge, Douai et Watten. Cependant, une couverture nuageuse plus dense est observée, notamment à Steenvoorde où le ciel est couvert avec des pluies importantes (18.0 mm). Des averses sont également signalées à Lille (7.1 mm), Dunkerque (10.9 mm) et Roubaix (2.1 mm), tandis que Douai connaît un passage pluvieux plus marqué avec 6.2 mm.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce lundi après-midi, la région connaît une météo contrastée. Un ciel nuageux prédomine sur une grande partie du territoire, accompagné d'averses parfois soutenues. Des pluies faibles sont notamment observées sur Douai (18.4 mm), Lille (7.8 mm) et Roubaix (8.6 mm), où les températures atteignent 21°C. Le vent souffle modérément, autour de 15 à 20 km/h, avec des rafales ne dépassant pas 45 km/h. Les maximales varient de 18°C à Watten à 27°C à St-Hilaire-sur-Helpe, qui profite d'un ciel plus dégagé malgré quelques nuages.
+Ce lundi après-midi, le ciel du Nord-Pas-de-Calais présentera un contraste notable. Tandis que l'intérieur des terres bénéficiera de conditions plus clémentes, avec un soleil dominant à Maubeuge (23°C) et Troisvilles (22°C), le littoral et l'ouest de la région seront sous l'influence de passages nuageux. Des averses sont ainsi attendues, notamment à Steenvoorde où 18 mm de pluie sont relevés pour une maximale de 19°C. Des précipitations significatives sont également notées à Dunkerque (10.9 mm) et Lille (7.1 mm), où les températures atteindront respectivement 24°C et 20°C. Le vent soufflera modérément, autour de 10 à 20 km/h.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
 🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (lundi 28 septembre 2026)
 
 🌴 Dunkerque / Malo-les-Bains / Bray-Dunes
-☀️ Circulation d'un flux océanique d'ouest perturbé et humide sur la côte. Températures de 16°C le matin à 27°C l'après-midi.
+☀️ Circulation d'un flux océanique d'ouest perturbé et humide sur la côte. Températures de 17°C le matin à 27°C l'après-midi.
 🌊 Température de l’eau : 18°C à 19°C
 
 🌴 Le Touquet / Berck / Baie de Somme
@@ -268,7 +260,7 @@ Ce lundi après-midi, la région connaît une météo contrastée. Un ciel nuage
 📍 Zones : Dunkerque • Calais • Boulogne-sur-Mer • Le Touquet
 
 ☀️ Situation générale : Circulation d'un flux océanique d'ouest perturbé et humide.
-🌬️ Vent : Vent de Nord-Est modéré (20 km/h avec rafales atteignant 45 km/h) ce lundi.
+🌬️ Vent : Vent de Nord-Est modéré (20 km/h) ce lundi.
 🌊 État de la mer : Mer peu agitée (vagues 0.4m à 0.8m), idéale pour les activités nautiques.
 ⚠️ Visibilité : Bonne sur l'ensemble du littoral.
 
@@ -292,11 +284,11 @@ Ce lundi après-midi, la région connaît une météo contrastée. Un ciel nuage
     Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du lundi 28 septembre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-▶ mercredi 30 septembre : Le temps reste contrasté avec des averses résiduelles sur le littoral et le nord, notamment à Watten (13,3 mm) et Dunkerque (7,2 mm). Ailleurs, le soleil domine, surtout à Valenciennes et Troisvilles où les maximales grimpent jusqu'à 30°C. Le vent souffle modérément, avec des rafales jusqu'à 45 km/h dans l'est.
+▶ mercredi 30 septembre : La journée débute sous un ciel variable avec des averses éparses en matinée. Les températures grimpent fortement l'après-midi, frôlant les 29°C à Valenciennes, sous un vent de secteur sud de 15 à 20 km/h pouvant atteindre 40 km/h en rafales.
 
-▶ jeudi 1 octobre : Une dégradation nette s'annonce avec un ciel très nuageux et des pluies généralisées. Les cumuls sont significatifs : 12,9 mm à Saint-Hilaire-sur-Helpe, 12,3 mm à Maubeuge, 9 mm à Troisvilles. Les températures baissent fortement, avec des maximales ne dépassant pas 20 à 21°C. Le vent devient plus faible, de 10 à 20 km/h.
+▶ jeudi 1 octobre : Un net repli des températures est attendu avec un mercure plafonnant à 21°C. Le temps se dégrade franchement avec un ciel très nuageux à couvert. Des pluies parfois abondantes traversent la région, avec des cumuls importants pouvant atteindre 22,5 mm à Dunkerque, accompagnées de rafales de vent jusqu'à 40 km/h.
 
-▶ vendredi 2 octobre : Le temps s'assèche et le soleil revient sur l'ensemble de la région. Aucune pluie n'est attendue, et les températures minimales chutent (10 à 13°C) tandis que les maximales restent douces, autour de 20-21°C. Le vent est très faible, inférieur à 10 km/h.
+▶ vendredi 2 octobre : L'ambiance s'améliore nettement avec le retour d'un temps sec et calme. Le ciel se partage entre éclaircies et passages nuageux, et les températures minimales sont en baisse, de 9°C à Troisvilles à 13°C à Steenvoorde. Les maximales restent stables, oscillant entre 20 et 21°C, pour un vent très faible.
 
 
 --------------------------------------------------------------------------------
@@ -308,20 +300,20 @@ Ce lundi après-midi, la région connaît une météo contrastée. Un ciel nuage
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce lundi matin, la Normandie se réveille sous un ciel majoritairement couvert, accompagné de pluies faibles sur la quasi-totalité de la région. Des averses sont ainsi observées de Cherbourg à Dieppe, en passant par Caen et Le Havre, où les températures minimales s'établissent autour de 13 à 15°C. Les pluies sont plus marquées sur la côte, notamment à Dieppe avec près de 20 mm relevés. Dans l'intérieur des terres, comme à Évreux, le soleil fait de timides apparitions malgré un ciel encore bien nuageux, et les températures sont légèrement plus douces, atteignant 13°C. Le vent reste faible, soufflant entre 5 et 15 km/h sur l'ensemble du territoire normand.
+Ce lundi matin, la Normandie se réveille sous un ciel majoritairement nuageux et humide. Des averses se déclenchent sur une grande partie de la région, notamment à Caen où 8.5 mm de pluie sont attendus, et au Havre avec 7.8 mm. Les températures minimales affichent 14°C à Rouen et Le Havre, tandis qu'Evreux connaît un ciel peu nuageux avec une minimale de 14°C et des pluies plus importantes (12.4 mm). Le vent souffle faiblement, autour de 10 à 15 km/h, sans rafales notables. Les températures sont relativement homogènes, oscillant entre 14°C et 15°C sur l'ensemble du territoire normand.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce lundi après-midi, la Normandie est sous l'influence d'un temps instable. Des averses sont attendues sur une grande partie de la région, parfois soutenues, notamment à Dieppe avec près de 20 mm de pluie, ainsi qu'à Caen et Le Havre où les précipitations atteignent respectivement 13.7 mm et 11.9 mm. Les températures maximales affichent 22°C à Rouen, 19°C à Caen et 24°C à Evreux, où le ciel sera peu nuageux. Le vent soufflera faiblement, autour de 5 à 15 km/h, sans rafales significatives. Une légère brise côtière est à prévoir sur le littoral.
+Ce lundi après-midi, la Normandie sera partagée entre éclaircies et passages pluvieux. Des averses sont attendues sur une grande partie de la région, notamment à Caen où 8.5 mm de pluie sont prévus, au Havre avec 7.8 mm, et à Dieppe où 5.2 mm sont attendus. Le vent soufflera faiblement, autour de 10 à 15 km/h, sans rafales notables. Les températures maximales atteindront 25°C à Évreux, 23°C à Rouen, et 18°C à Cherbourg. L'intérieur des terres bénéficiera de températures plus douces que le littoral.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
 🏖️ MÉTÉO DES PLAGES – CÔTE D’ALBÂTRE & MANCHE (lundi 28 septembre 2026)
 
 🌴 Le Havre / Deauville / Cabourg
-☀️ Temps agréable ce lundi. Températures sur les plages : 15°C à 24°C.
+☀️ Temps agréable ce lundi. Températures sur les plages : 16°C à 25°C.
 🌊 Température de l’eau : 18°C à 19°C
 
 🌴 Dieppe / Fécamp / Cherbourg
-☀️ Belle luminosité ce lundi, brise littorale rafraîchissante avec maximales de 24°C.
+☀️ Belle luminosité ce lundi, brise littorale rafraîchissante avec maximales de 25°C.
 🌊 Température de l’eau : 18°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
@@ -330,7 +322,7 @@ Ce lundi après-midi, la Normandie est sous l'influence d'un temps instable. Des
 📍 Zones : Baie de Seine • Le Havre • Fécamp • Dieppe • Cherbourg
 
 ☀️ Situation générale : Circulation d'un flux océanique d'ouest perturbé et humide.
-🌬️ Vent : Vent modéré de Nord-Est (15 km/h) ce lundi.
+🌬️ Vent : Vent modéré de Nord-Est (15 km/h avec rafales atteignant 35 km/h) ce lundi.
 🌊 État de la mer : Mer peu agitée (vagues 0.4m à 0.8m), idéale pour les activités nautiques.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
@@ -353,11 +345,9 @@ Ce lundi après-midi, la Normandie est sous l'influence d'un temps instable. Des
     Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du lundi 28 septembre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-📉 Tendance – 3 jours suivants (mercredi 30 septembre au vendredi 2 octobre)
+▶ mercredi 30 septembre : Le ciel reste très nuageux avec des averses fréquentes sur l’ensemble de la région. Les précipitations atteignent localement 12,7 mm à Rouen et 7,7 mm à Alençon. Le vent se renforce, avec des rafales jusqu’à 55 km/h à Cherbourg, et les températures maximales oscillent entre 21°C et 25°C.
 
-▶ mercredi 30 septembre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 15°C. L'après-midi, le mercure grimpe jusqu'à 25°C sous abri. Attention aux rafales de vent atteignant 60 km/h.
+▶ jeudi 1 octobre : Le temps devient plus calme mais reste majoritairement nuageux, avec seulement quelques rares gouttes à Dieppe (0,3 mm). Les maximales baissent légèrement, de 20°C à 21°C, et le vent s’affaiblit (10 à 15 km/h). Les nuits sont plus fraîches, avec des minimales de 13°C à 15°C.
 
-▶ jeudi 1 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 12°C. L'après-midi, le mercure grimpe jusqu'à 23°C sous abri. Attention aux rafales de vent atteignant 40 km/h.
-
-▶ vendredi 2 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 9°C. L'après-midi, le mercure grimpe jusqu'à 21°C sous abri. Le vent souffle de manière modérée.
+▶ vendredi 2 octobre : Une belle amélioration s’amorce avec un ciel dégagé sur la plupart des secteurs, notamment à Caen et au Havre. Les températures maximales restent douces, de 20°C à 22°C, tandis que les minimales chutent entre 9°C et 11°C. Le vent est faible, inférieur à 15 km/h.
 
