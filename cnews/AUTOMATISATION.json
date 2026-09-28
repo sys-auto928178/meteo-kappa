@@ -236,7 +236,7 @@
         "summaryImages": [],
         "recordsRaw": "🌧️ Pluies & Humidité : Temps sec sur la région ce mardi avec maintien de la sécheresse de surface.\n🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce mardi. Aucun coup de vent à craindre.\n⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce mardi.\n🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement.",
         "recordsTitle": "🌬️ Phénomènes marquants et zones les plus exposées",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_france_tomorrow.png?t=1790607932",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_france_tomorrow.png?t=1790615081",
         "mountain": "🏔️ Météo montagne\n\n    Alpes : Chaleur marquée en vallée ce mardi et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.\n\n    Pyrénées : Soleil dominant en matinée de ce mardi, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce mercredi.\n\n    Massif central : Ambiance lourde et estivale ce mardi. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.\n\n    Vosges : Temps très chaud et généreusement ensoleillé ce mardi. Quelques nuages de beau temps l'après-midi sans intempérie.\n\n    Jura : Chaleur estivale et soleil dominant ce mardi, avant quelques passages nuageux inoffensifs en soirée.\n\n    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du mardi 29 septembre 2026.",
         "summaryTitle": "Prévisions pour la journée du MARDI 29 SEPTEMBRE 2026",
         "summaryMorning": "Ce mardi matin, le ciel se partage entre éclaircies et nuages sur l'ensemble du territoire. Des pluies faibles sont attendues localement, notamment sur la Normandie et la Bretagne. À Brest, les précipitations atteignent 3.3 mm, accompagnées d'un vent modéré de 30 km/h avec des rafales pouvant atteindre 55 km/h. Des pluies faibles sont également observées à Rouen et Caen (0.1 mm). Les températures minimales sont douces pour la saison, avec 13°C à Paris, 14°C à Lille et Laon, et 16°C à Nantes. Le vent reste généralement modéré, avec des rafales à 40 km/h près de Laon et 50 km/h sur Nantes.",
@@ -531,7 +531,7 @@
       "form": {
         "observationsRaw": "St-Hilaire-sur-Helpe (59) 29\nValenciennes (59) 30\nTroisvilles (59) 30\nMaubeuge (59) 29\nDouai (59) 31\nLille (59) 30\nRoubaix (59) 29\nSteenvoorde (59) 29\nWatten (59) 29\nDunkerque (59) 26\nSaulty (62) 30\nArras (62) 30\nFiefs (62) 29\nHumières (62) 29\nCambrai / Epinoy (62) 30\nRadinghem (62) 29\nAttin (62) 30\nNielles-lès-Bléquin (62) 27\nBainghen (62) 27\nBoulogne (62) 28\nCalais / Marck (62) 28\nCap Gris-Nez (62) 28\nLe Touquet (62) 29\n",
         "alert": "🟡 Vigilance JAUNE (20 dép.) :\n🟡 Orages : Aude (11), Calvados(14), Charente-Maritime(17), Gers(32), Gironde(33), Ille-et-Vilaine(35), Landes(40), Lot-et-Garonne(47), Manche(50), Nord(59), Orne(61), Pas-de-Calais(62), Pyrénées-Atlantiques(64), Hautes-Pyrénées(65), Pyrénées-Orientales(66), Seine-Maritime(76)\n🟡 Pluie-inondation, Orages : Gard(30), Hérault(34), Lozère(48)\n🟡 Orages, Accueil, Vigilance Accessible : Somme(80)",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1790607973",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1790615082",
         "todaySummary": "",
         "summaryLancement": "☀️ UN APRÈS-MIDI PLÉBISCITÉ PAR LE SOLEIL : Après une matinée grise et humide sur le littoral, le ciel se dégage rapidement pour offrir une fin de journée estivale sur le Nord, avec des pointes à 29°C à Dunkerque et Valenciennes.",
         "summaryTitle": "Prévisions pour la journée du MARDI 29 SEPTEMBRE 2026",
@@ -790,7 +790,7 @@
       "form": {
         "observationsRaw": "La Rochelle 37\nChassiron 28\nGond-Pontouvre 38\nBlanzac-Porcheresse 36\nJarnac 37\nMontbron 37\nLa Couronne 37\nSoyaux 37\nCognac 37\nAngoulême 37\nRouillac 37\nSaint-Michel 37\nLa Rochefoucauld 38\nNersac 37\nConfolens 37\nBarbezieux-Saint-Hilaire 36\nChâteauneuf-sur-Charente 37\n",
         "alert": "🟡 Vigilance JAUNE (20 dép.) :\n🟡 Orages : Aude (11), Calvados(14), Charente-Maritime(17), Gers(32), Gironde(33), Ille-et-Vilaine(35), Landes(40), Lot-et-Garonne(47), Manche(50), Nord(59), Orne(61), Pas-de-Calais(62), Pyrénées-Atlantiques(64), Hautes-Pyrénées(65), Pyrénées-Orientales(66), Seine-Maritime(76)\n🟡 Pluie-inondation, Orages : Gard(30), Hérault(34), Lozère(48)\n🟡 Orages, Accueil, Vigilance Accessible : Somme(80)",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_NAQ_tomorrow.png?t=1790608067",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_NAQ_tomorrow.png?t=1790615083",
         "todaySummary": "",
         "summaryLancement": "☀️ SOLEIL ET CHALEUR ESTIVALE : Un ciel très ensoleillé s'impose ce mardi sur la région, avec des maximales grimpant jusqu'à 31°C.",
         "summaryTitle": "Prévisions pour la journée du MARDI 29 SEPTEMBRE 2026",
@@ -1019,7 +1019,7 @@
       "form": {
         "observationsRaw": "Leffrinckoucke 26\nGravelines 24\nOffekerque 28\nMarck 28\nLefaux 29\nGroffliers 29\nRemilly-Wirquin 28\nRacquinghem 28\nRobecq 31\nCauchy-à-la-Tour 30\nBoulogne Sur Mer 13\nLe Touquet-Paris-Plage 29\nAbbeville 31\n",
         "alert": "🟡 Vigilance JAUNE (20 dép.) :\n🟡 Orages : Aude (11), Calvados(14), Charente-Maritime(17), Gers(32), Gironde(33), Ille-et-Vilaine(35), Landes(40), Lot-et-Garonne(47), Manche(50), Nord(59), Orne(61), Pas-de-Calais(62), Pyrénées-Atlantiques(64), Hautes-Pyrénées(65), Pyrénées-Orientales(66), Seine-Maritime(76)\n🟡 Pluie-inondation, Orages : Gard(30), Hérault(34), Lozère(48)\n🟡 Orages, Accueil, Vigilance Accessible : Somme(80)",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1790608205",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1790615084",
         "todaySummary": "",
         "summaryLancement": "🌧️ PASSAGE PLUVIEUX ET NUAGEUX : Des précipitations et des averses traversent la région ce mardi, avec des températures évoluant de 14°C le matin jusqu'à 29°C l'après-midi.",
         "summaryTitle": "Prévisions pour la journée du MARDI 29 SEPTEMBRE 2026",
@@ -1331,7 +1331,7 @@
       "form": {
         "observationsRaw": "St-Hilaire-sur-Helpe (59) 29\nValenciennes (59) 30\nTroisvilles (59) 30\nMaubeuge (59) 29\nDouai (59) 31\nLille (59) 30\nRoubaix (59) 29\nSteenvoorde (59) 29\nWatten (59) 29\nDunkerque (59) 26\nSaulty (62) 30\nArras (62) 30\nFiefs (62) 29\nHumières (62) 29\nCambrai / Epinoy (62) 30\nRadinghem (62) 29\nAttin (62) 30\nNielles-lès-Bléquin (62) 27\nBainghen (62) 27\nBoulogne (62) 28\nCalais / Marck (62) 28\nCap Gris-Nez (62) 28\nLe Touquet (62) 29\n",
         "alert": "🟡 Vigilance JAUNE (20 dép.) :\n🟡 Orages : Aude (11), Calvados(14), Charente-Maritime(17), Gers(32), Gironde(33), Ille-et-Vilaine(35), Landes(40), Lot-et-Garonne(47), Manche(50), Nord(59), Orne(61), Pas-de-Calais(62), Pyrénées-Atlantiques(64), Hautes-Pyrénées(65), Pyrénées-Orientales(66), Seine-Maritime(76)\n🟡 Pluie-inondation, Orages : Gard(30), Hérault(34), Lozère(48)\n🟡 Orages, Accueil, Vigilance Accessible : Somme(80)",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1790608264",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1790615085",
         "todaySummary": "",
         "summaryLancement": "🌧️ PASSAGE PLUVIEUX ET NUAGEUX : Des précipitations et des averses traversent la région ce mardi, avec des températures évoluant de 14°C le matin jusqu'à 29°C l'après-midi.",
         "summaryTitle": "Prévisions pour la journée du MARDI 29 SEPTEMBRE 2026",
@@ -1521,7 +1521,7 @@
       "form": {
         "observationsRaw": "Rouen 33\nCaen 27\nLe Havre 32\nCherbourg 27\nEvreux 34\nAlençon 35\nDieppe 31\nLisieux 33\n",
         "alert": "🟡 Vigilance JAUNE (20 dép.) :\n🟡 Orages : Aude (11), Calvados(14), Charente-Maritime(17), Gers(32), Gironde(33), Ille-et-Vilaine(35), Landes(40), Lot-et-Garonne(47), Manche(50), Nord(59), Orne(61), Pas-de-Calais(62), Pyrénées-Atlantiques(64), Hautes-Pyrénées(65), Pyrénées-Orientales(66), Seine-Maritime(76)\n🟡 Pluie-inondation, Orages : Gard(30), Hérault(34), Lozère(48)\n🟡 Orages, Accueil, Vigilance Accessible : Somme(80)",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_NOR_tomorrow.png?t=1790608353",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_NOR_tomorrow.png?t=1790615086",
         "todaySummary": "",
         "summaryLancement": "🌤️ TEMPS CALME ET LUMINEUX : Un ciel agréablement dégagé s'impose ce mardi sur la région, avec des températures évoluant de 12°C le matin jusqu'à 29°C l'après-midi.",
         "summaryTitle": "Prévisions pour la journée du MARDI 29 SEPTEMBRE 2026",
