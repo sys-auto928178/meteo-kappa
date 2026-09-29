@@ -13,36 +13,34 @@ FICHIER SOURCE : /home/runner/work/meteo-kappa/meteo-kappa/cnews/BULLETINS_AUTOM
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce mardi matin, le ciel se partage entre éclaircies généreuses et passages nuageux. Des pluies faibles à modérées affectent l'ouest du pays. Ainsi, à Brest, la pluie atteint 5.0 mm avec des rafales de vent à 60 km/h, tandis que Rennes enregistre 9.6 mm de précipitations et des rafales à 50 km/h. Nantes connaît également des pluies avec 0.6 mm et des rafales de 50 km/h. Les températures minimales sont douces, avec 16°C à Nantes et Rennes, et 15°C à Brest. Plus à l'est, le soleil domine de Lille à Paris et Tours, où les minimales sont de 14°C à Lille et Paris, et 15°C à Tours. Le vent reste modéré sur l'ensemble du territoire.
+Ce mercredi matin, le temps se montre particulièrement instable sur une large partie nord de la France. Des pluies intenses s'abattent sur Rouen, où la minimale atteint 18°C. Paris et Tours connaissent également des passages pluvieux marqués, avec respectivement 12.1 mm et 13.4 mm de précipitations relevées, pour des températures autour de 17°C à Paris et 19°C à Tours. Sur la pointe bretonne, à Brest, la matinée est couverte et pluvieuse avec 7.6 mm de pluie, et les vents soufflent fortement, atteignant 40 km/h avec des rafales jusqu'à 70 km/h. Plus à l'est, Laon bénéficie d'un ciel peu nuageux, avec une minimale de 16°C.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce mardi après-midi, l'ouest de la France reste sous l'influence d'un ciel couvert et pluvieux. Des pluies faibles sont attendues sur Rouen et Caen, tandis que Brest et Rennes connaîtront des précipitations plus soutenues, avec des cumuls respectifs de 5 mm et 9,6 mm. Le vent y soufflera en rafales, atteignant 60 km/h à Brest et 50 km/h à Rennes. Plus à l'est, le temps sera plus clément. Paris et Tours bénéficieront d'un soleil dominant avec des températures maximales de 28°C et 29°C. Lille affichera également un grand soleil et 27°C. Les températures resteront élevées sur l'ensemble du territoire, atteignant 29°C à Laon et Poitiers.
+Ce mercredi après-midi, une météo contrastée s'installe sur la France. Des averses parfois soutenues sont attendues sur une large partie du territoire, notamment à Paris où 12.1 mm de pluie sont prévus, à Tours avec 13.4 mm, et à Lille avec 0.3 mm. Le vent se montrera particulièrement actif sur le littoral breton, avec des rafales atteignant 70 km/h à Brest, nécessitant une vigilance particulière. Les températures maximales s'établiront autour de 22°C à Lille et Brest, 24°C à Nantes et Poitiers, tandis que Laon profitera d'un ciel peu nuageux et d'une maximale de 26°C.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
-🌧️ Pluies & Humidité : Temps sec sur la région ce mardi avec maintien de la sécheresse de surface.
-🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce mardi. Aucun coup de vent à craindre.
-⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce mardi.
+🌧️ Pluies & Humidité : Temps sec sur la région ce mercredi avec maintien de la sécheresse de surface.
+🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce mercredi. Aucun coup de vent à craindre.
+⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce mercredi.
 🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement.
 🏔️ Météo montagne
 
-    Alpes : Chaleur marquée en vallée ce mardi et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.
+    Alpes : Chaleur marquée en vallée ce mercredi et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.
 
-    Pyrénées : Soleil dominant en matinée de ce mardi, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce mercredi.
+    Pyrénées : Soleil dominant en matinée de ce mercredi, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce jeudi.
 
-    Massif central : Ambiance lourde et estivale ce mardi. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.
+    Massif central : Ambiance lourde et estivale ce mercredi. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.
 
-    Vosges : Temps très chaud et généreusement ensoleillé ce mardi. Quelques nuages de beau temps l'après-midi sans intempérie.
+    Vosges : Temps très chaud et généreusement ensoleillé ce mercredi. Quelques nuages de beau temps l'après-midi sans intempérie.
 
-    Jura : Chaleur estivale et soleil dominant ce mardi, avant quelques passages nuageux inoffensifs en soirée.
+    Jura : Chaleur estivale et soleil dominant ce mercredi, avant quelques passages nuageux inoffensifs en soirée.
 
-    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du mardi 29 septembre 2026.
+    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du mercredi 30 septembre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-▶ jeudi 1 octobre : Le ciel reste chargé sur le nord-est avec des pluies faibles, notamment 1,1 mm attendu à Lille et 0,8 mm à Laon. Ailleurs, les éclaircies l’emportent et les températures maximales redescendent entre 20 et 24 °C. Le vent demeure modéré, de 10 à 20 km/h.
-
-▶ vendredi 2 octobre : Temps sec et ensoleillé sur l’ensemble du pays. Les maximales sont douces, de 21 à 24 °C, tandis que les matinées deviennent fraîches avec des minimales de 9 à 11 °C du nord au sud. Le vent est faible à modéré, ne dépassant pas 15 km/h.
-
-▶ samedi 3 octobre : Le soleil continue de régner, seules quelques régions du Centre-Ouest connaissent un voile nuageux sans précipitation. Les températures restent stables, entre 20 et 23 °C l’après-midi, et le vent est généralement faible, sauf sur les côtes où des rafales atteignent 40 km/h.
+▶ vendredi 2 octobre : Le soleil s'impose sur l'ensemble du territoire, avec un ciel dégagé ou peu nuageux. Les températures maximales sont comprises entre 21 et 24°C, du nord au sud. Le vent reste faible, ne dépassant pas 15 km/h.
+▶ samedi 3 octobre : Le temps reste sec et ensoleillé sur la majeure partie du pays. Les températures maximales atteignent encore 23°C dans les terres, tandis que le vent se renforce légèrement sur les côtes atlantiques, avec des rafales jusqu'à 40 km/h à Nantes.
+▶ dimanche 4 octobre : Le soleil domine toujours, avec un ciel clair sur l'ensemble des régions. Les températures maximales sont en légère baisse, de 19 à 23°C, sous un vent modéré, notamment en Bretagne et dans le Centre-Ouest.
 
 
 --------------------------------------------------------------------------------
@@ -54,59 +52,59 @@ Ce mardi après-midi, l'ouest de la France reste sous l'influence d'un ciel couv
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce mardi matin, le ciel se montre variable sur la région, alternant entre éclaircies et passages nuageux. Des températures minimales de 14°C sont relevées à Valenciennes, Lille et Roubaix, tandis que Maubeuge affiche 16°C. Le littoral, notamment à Dunkerque, connaît des averses avec 1.2 mm de pluie, et Watten enregistre 0.4 mm. Le vent souffle modérément, atteignant 25 km/h à Troisvilles avec des rafales jusqu'à 40 km/h, et 20 km/h à Valenciennes et Douai, également avec des rafales de 40 km/h. L'intérieur des terres bénéficie d'un soleil plus dominant, mais les nuages restent présents, notamment sur les côtes.
+Ce mercredi matin, le temps se montre contrasté sur la région. Des pluies faibles s'invitent sur Lille, Roubaix et Steenvoorde, où les températures minimales affichent respectivement 16°C et 18°C. Le vent y souffle modérément, avec des rafales atteignant 40 km/h à Lille. Plus à l'intérieur des terres, le soleil domine à Troisvilles, Maubeuge et Douai, où les minimales varient de 19°C à 21°C. St-Hilaire-sur-Helpe et Valenciennes bénéficient d'un ciel peu nuageux avec des températures de 18°C. Sur le littoral, Dunkerque connaît également un ciel peu nuageux et 18°C, tandis que Watten profite du soleil avec 17°C, malgré des pluies significatives enregistrées.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce mardi après-midi, la région Nord bénéficie d'un temps majoritairement ensoleillé. Le soleil domine sur l'ensemble du territoire, avec quelques voiles nuageux discrets par endroits, notamment du côté de Saint-Hilaire-sur-Helpe. Les températures maximales atteignent 29°C à Valenciennes et Douai, 28°C à Dunkerque, et 27°C à Lille et Roubaix. Le vent souffle faiblement, généralement entre 10 et 25 km/h. Quelques rafales pourront atteindre 40 km/h localement, notamment à Troisvilles et Douai. Aucune précipitation significative n'est attendue pour cette après-midi, à l'exception de très faibles pluies résiduelles sur Steenvoorde (0.1 mm), Watten (0.4 mm) et Dunkerque (1.2 mm).
+Ce mercredi après-midi, le temps s'annonce contrasté sur la région. Un soleil dominant est attendu sur une grande partie de l'intérieur des terres, notamment à Troisvilles et Maubeuge où le ciel sera dégagé. Les températures maximales atteindront 26°C à St-Hilaire-sur-Helpe et Valenciennes. Le littoral et l'ouest de la région verront un ciel plus voilé, comme à Lille et Roubaix, avec des températures plus fraîches, autour de 22°C. Quelques pluies faibles sont signalées à Lille (0.3 mm) et Roubaix (0.1 mm), tandis que des passages pluvieux plus marqués sont prévus à Steenvoorde (7.2 mm) et Dunkerque (9.7 mm). Le vent soufflera généralement autour de 20 km/h, avec des rafales pouvant atteindre 40 km/h à Valenciennes et Lille.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
-🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (mardi 29 septembre 2026)
+🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (mercredi 30 septembre 2026)
 
 🌴 Dunkerque / Malo-les-Bains / Bray-Dunes
-☀️ Installation d'un marais barométrique estival assurant un temps sec et lumineux sur la côte. Températures de 16°C le matin à 29°C l'après-midi.
-🌊 Température de l’eau : 18°C à 19°C
+☀️ Circulation d'un flux océanique d'ouest perturbé et humide sur la côte. Températures de 18°C le matin à 26°C l'après-midi.
+🌊 Température de l’eau : 17°C à 18°C
 
 🌴 Le Touquet / Berck / Baie de Somme
-☀️ Ambiance agréable sur le littoral ce mardi. Maximales atteignant 30°C sur le sable.
-🌊 Température de l’eau : 19°C
+☀️ Ambiance agréable sur le littoral ce mercredi. Maximales atteignant 27°C sur le sable.
+🌊 Température de l’eau : 18°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE – CÔTE D’OPALE & MER DU NORD (mardi 29 septembre 2026)
+🌊 MÉTÉO MARINE – CÔTE D’OPALE & MER DU NORD (mercredi 30 septembre 2026)
 
 📍 Zones : Dunkerque • Calais • Boulogne-sur-Mer • Le Touquet
 
-☀️ Situation générale : Installation d'un marais barométrique estival assurant un temps sec et lumineux.
-🌬️ Vent : Vent de Nord-Est modéré (25 km/h avec rafales atteignant 40 km/h) ce mardi.
-🌊 État de la mer : Mer peu agitée à agitée au large (vagues 0.8m à 1.3m), prudence pour la baignade.
+☀️ Situation générale : Circulation d'un flux océanique d'ouest perturbé et humide.
+🌬️ Vent : Vent de Nord-Est modéré (20 km/h avec rafales atteignant 40 km/h) ce mercredi.
+🌊 État de la mer : Mer peu agitée (vagues 0.4m à 0.8m), idéale pour les activités nautiques.
 ⚠️ Visibilité : Bonne sur l'ensemble du littoral.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
-🌧️ Pluies & Humidité : Temps sec sur la région ce mardi avec maintien de la sécheresse de surface.
-🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce mardi. Aucun coup de vent à craindre.
-⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce mardi.
+🌧️ Pluies & Humidité : Temps sec sur la région ce mercredi avec maintien de la sécheresse de surface.
+🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce mercredi. Aucun coup de vent à craindre.
+⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce mercredi.
 🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement.
 🏔️ Météo montagne
 
-    Alpes : Chaleur marquée en vallée ce mardi et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.
+    Alpes : Chaleur marquée en vallée ce mercredi et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.
 
-    Pyrénées : Soleil dominant en matinée de ce mardi, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce mercredi.
+    Pyrénées : Soleil dominant en matinée de ce mercredi, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce jeudi.
 
-    Massif central : Ambiance lourde et estivale ce mardi. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.
+    Massif central : Ambiance lourde et estivale ce mercredi. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.
 
-    Vosges : Temps très chaud et généreusement ensoleillé ce mardi. Quelques nuages de beau temps l'après-midi sans intempérie.
+    Vosges : Temps très chaud et généreusement ensoleillé ce mercredi. Quelques nuages de beau temps l'après-midi sans intempérie.
 
-    Jura : Chaleur estivale et soleil dominant ce mardi, avant quelques passages nuageux inoffensifs en soirée.
+    Jura : Chaleur estivale et soleil dominant ce mercredi, avant quelques passages nuageux inoffensifs en soirée.
 
-    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du mardi 29 septembre 2026.
+    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du mercredi 30 septembre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-📉 Tendance – 3 jours suivants (jeudi 1 octobre au samedi 3 octobre)
-
-▶ jeudi 1 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 13°C. L'après-midi, le mercure grimpe jusqu'à 22°C sous abri. Attention aux rafales de vent atteignant 40 km/h.
+📉 Tendance – 3 jours suivants (vendredi 2 octobre au dimanche 4 octobre)
 
 ▶ vendredi 2 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 9°C. L'après-midi, le mercure grimpe jusqu'à 22°C sous abri. Le vent souffle de manière modérée.
 
 ▶ samedi 3 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 8°C. L'après-midi, le mercure grimpe jusqu'à 21°C sous abri. Le vent souffle de manière modérée.
+
+▶ dimanche 4 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 10°C. L'après-midi, le mercure grimpe jusqu'à 21°C sous abri. Le vent souffle de manière modérée.
 
 
 --------------------------------------------------------------------------------
@@ -118,59 +116,59 @@ Ce mardi après-midi, la région Nord bénéficie d'un temps majoritairement ens
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce mardi matin, le temps se montre contrasté sur la région. De belles éclaircies prédominent sur l'intérieur des terres, notamment à Chassiron, Jarnac et Montbron où le soleil s'impose. Les températures minimales y atteignent 18°C à Chassiron et 20°C à Jarnac.
+Ce mercredi matin, le ciel de la Charente-Maritime et de la Charente présente un contraste notable. Des éclaircies dominent sur le littoral, comme à Chassiron où le soleil règne avec une minimale de 17°C. À l'intérieur des terres, notamment à Blanzac-Porcheresse et Jarnac, le soleil est également bien présent, avec des températures atteignant 19°C.
 
-Cependant, le littoral et l'Angoumois connaissent un ciel plus nuageux. À La Rochelle, les nuages masquent partiellement le soleil avec une minimale de 19°C. Des rafales de vent atteignant 85 km/h sont à signaler sur le littoral rochelais, et 75 km/h à Chassiron. Quelques faibles pluies sont enregistrées à Chassiron (4.5 mm) et Cognac (0.2 mm).
+Cependant, des passages nuageux plus importants sont observés sur La Rochelle et Angoulême, où les minimales affichent 21°C. Des averses faibles sont attendues sur l'ensemble de la région, avec des cumuls variant de 0.1 mm à Cognac à 2.1 mm à Chassiron. Le vent souffle modérément, atteignant 35 km/h à Chassiron, avec des rafales pouvant atteindre 55 km/h.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce mardi après-midi, le ciel de la Charente-Maritime et de la Charente présente un contraste marqué. Tandis que l'intérieur des terres, de Blanzac-Porcheresse à Jarnac, bénéficie d'un soleil dominant avec des maximales atteignant 30°C, le littoral est sous l'influence de nuages. À La Rochelle, le ciel est nuageux avec un mercure de 31°C, et des rafales de vent atteignant 85 km/h sont à prévoir, justifiant une vigilance particulière. À Chassiron, malgré un soleil généreux et 24°C, des pluies faibles sont signalées et les rafales de vent peuvent atteindre 75 km/h. Angoulême et Soyaux connaissent également un temps nuageux avec 31°C.
+Ce mercredi après-midi, le ciel se montrera partagé sur la région. Des averses parfois faibles sont attendues, notamment sur La Rochelle où le mercure atteindra 27°C, ainsi qu'à Gond-Pontouvre et Angoulême avec des maximales de 29°C. Ces passages pluvieux s'accompagneront d'un vent modéré, soufflant jusqu'à 50 km/h en rafales sur La Rochelle. L'intérieur des terres, comme à Chassiron et Blanzac-Porcheresse, profitera d'un soleil dominant avec 25°C, et un vent plus soutenu près du littoral.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
-🏖️ MÉTÉO DES PLAGES – LITTORAL CHARENTAIS (mardi 29 septembre 2026)
+🏖️ MÉTÉO DES PLAGES – LITTORAL CHARENTAIS (mercredi 30 septembre 2026)
 
 🌴 La Rochelle / Île de Ré / Île d’Oléron
-☀️ Installation d'un marais barométrique estival assurant un temps sec et lumineux sur l'ensemble des plages charentaises ce mardi.
-🌡️ Température sur le littoral : 21°C à 31°C
+☀️ Installation d'un marais barométrique estival assurant un temps sec et lumineux sur l'ensemble des plages charentaises ce mercredi.
+🌡️ Température sur le littoral : 20°C à 29°C
 🌊 Température de l’eau : 22°C à 23°C
 
 🌴 Royan / Côte de Beauté / Rochefort
-☀️ Ensoleillement généreux ce mardi, maximales de 32°C tempérées par la brise marine.
+☀️ Ensoleillement généreux ce mercredi, maximales de 30°C tempérées par la brise marine.
 🌊 Température de l’eau : 23°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO LITTORALE & MARINE – CHARENTE-MARITIME (mardi 29 septembre 2026)
+🌊 MÉTÉO LITTORALE & MARINE – CHARENTE-MARITIME (mercredi 30 septembre 2026)
 
 📍 Zones : La Rochelle • Rochefort • Royan • Pertuis Breton & d'Antioche
 
 ☀️ Situation synoptique : Installation d'un marais barométrique estival assurant un temps sec et lumineux.
-🌬️ Vent : Régime de brises thermiques (50 km/h avec rafales atteignant 85 km/h).
+🌬️ Vent : Régime de brises thermiques (35 km/h avec rafales atteignant 55 km/h).
 🌊 État de la mer : Mer peu agitée à agitée au large (vagues 0.8m à 1.3m), prudence pour la baignade.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
-🌧️ Pluies & Humidité : Temps sec sur la région ce mardi avec maintien de la sécheresse de surface.
-🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce mardi. Aucun coup de vent à craindre.
-⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce mardi.
+🌧️ Pluies & Humidité : Temps sec sur la région ce mercredi avec maintien de la sécheresse de surface.
+🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce mercredi. Aucun coup de vent à craindre.
+⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce mercredi.
 🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement.
 🏔️ Météo montagne
 
-    Alpes : Chaleur marquée en vallée ce mardi et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.
+    Alpes : Chaleur marquée en vallée ce mercredi et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.
 
-    Pyrénées : Soleil dominant en matinée de ce mardi, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce mercredi.
+    Pyrénées : Soleil dominant en matinée de ce mercredi, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce jeudi.
 
-    Massif central : Ambiance lourde et estivale ce mardi. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.
+    Massif central : Ambiance lourde et estivale ce mercredi. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.
 
-    Vosges : Temps très chaud et généreusement ensoleillé ce mardi. Quelques nuages de beau temps l'après-midi sans intempérie.
+    Vosges : Temps très chaud et généreusement ensoleillé ce mercredi. Quelques nuages de beau temps l'après-midi sans intempérie.
 
-    Jura : Chaleur estivale et soleil dominant ce mardi, avant quelques passages nuageux inoffensifs en soirée.
+    Jura : Chaleur estivale et soleil dominant ce mercredi, avant quelques passages nuageux inoffensifs en soirée.
 
-    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du mardi 29 septembre 2026.
+    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du mercredi 30 septembre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-▶ jeudi 1 octobre : La journée s’annonce plus fraîche, avec des maximales entre 20 et 24°C. Le temps est variable : des pluies faibles à modérées touchent l’intérieur (9 mm à Gond-Pontouvre, 8,6 mm à Soyaux), tandis que le littoral reste plus sec. Le vent faiblit nettement, avec des rafales ne dépassant pas 40 km/h.
+▶ vendredi 2 octobre : Le soleil s’impose largement sur l’ensemble de la région. Les températures maximales atteignent 26°C à La Rochelle et 25°C dans l’intérieur. Le vent reste modéré, de 10 à 20 km/h, sans précipitations attendues.
 
-▶ vendredi 2 octobre : Retour d’un temps sec et globalement ensoleillé sur l’ensemble de la région. Les températures grimpent jusqu’à 26°C à La Rochelle et 25°C à Angoulême. Le vent est modéré (20 km/h sur la côte, 10 km/h dans les terres), et aucune précipitation n’est attendue.
+▶ samedi 3 octobre : Le ciel se couvre progressivement, surtout sur le secteur de La Rochelle et d’Angoulême, avec des averses faibles à modérées (jusqu’à 3 mm à Soyaux). Les maximales baissent légèrement, entre 23°C et 25°C. Le vent souffle jusqu’à 20 km/h sur le littoral.
 
-▶ samedi 3 octobre : La matinée est encore bien ensoleillée, mais l’après-midi voit le ciel se couvrir par endroits, notamment sur la Charente et le sud de la Charente-Maritime. Les températures restent douces, de 24 à 26°C, et le vent est faible à modéré. Aucune pluie n’est prévue.
+▶ dimanche 4 octobre : Le temps redevient sec sur la majeure partie du territoire, mais des pluies persistent sur le littoral rochelais et l’île de Ré (près de 7 mm à La Rochelle). Les températures restent douces, de 23°C à 25°C. Le vent se renforce, avec des rafales jusqu’à 40 km/h à Chassiron.
 
 
 --------------------------------------------------------------------------------
@@ -182,59 +180,61 @@ Ce mardi après-midi, le ciel de la Charente-Maritime et de la Charente présent
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce mardi matin, le ciel présente un aspect mitigé sur la région, avec des nuages et quelques éclaircies. Des averses sont observées localement, notamment à Leffrinckoucke où 2.1 mm de pluie sont relevés, et à Groffliers avec 4.0 mm. Les températures minimales affichent 15°C à Leffrinckoucke et Gravelines, tandis que l'intérieur des terres, à Cauchy-à-la-Tour, enregistre 13°C. Le vent souffle modérément, atteignant 20 km/h à Groffliers et Cauchy-à-la-Tour, et se maintient autour de 15 km/h sur le littoral.
+Ce mercredi matin, le temps se montre contrasté sur la région. Les éclaircies dominent sur le littoral et l'ouest des terres, avec un soleil généreux à Gravelines, Offekerque, Lefaux, Racquinghem et Cauchy-à-la-Tour. Les températures minimales s'établissent autour de 17°C à Gravelines et Offekerque, et 16°C à Lefaux et Racquinghem.
+
+En revanche, un ciel très nuageux couvre l'intérieur des terres, notamment à Marck, Groffliers, Remilly-Wirquin et Robecq. Des pluies faibles à modérées sont à prévoir sur ces secteurs, avec 11.7 mm à Marck, 12.4 mm à Groffliers, 17.2 mm à Remilly-Wirquin et 15.1 mm à Robecq. Le vent souffle modérément, entre 15 et 20 km/h, sans rafales significatives.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce mardi après-midi, le soleil domine largement sur l'ensemble de la région. Aucun nuage n'est à signaler, garantissant un ciel dégagé partout. Des températures maximales élevées sont enregistrées, atteignant 28°C à Leffrinckoucke, 27°C à Remilly-Wirquin et 24°C à Racquinghem. Le vent reste faible à modéré, soufflant entre 10 et 20 km/h, sans rafales significatives. Malgré les fortes pluies matinales, l'après-midi s'annonce sec et ensoleillé.
+Ce mercredi après-midi, le ciel se partage entre éclaircies et couvertures nuageuses sur la région. Un soleil dominant est observé à Gravelines, Offekerque, Lefaux, Racquinghem et Cauchy-à-la-Tour, où les températures atteignent respectivement 21°C, 21°C, 20°C, 20°C et 22°C. Cependant, des passages pluvieux faibles à modérés sont attendus sur l'ensemble du territoire, avec des cumuls significatifs comme les 13.9 mm de Gravelines et les 17.2 mm de Remilly-Wirquin. Le vent souffle modérément, entre 15 et 20 km/h, sans rafales notables. Les températures maximales s'échelonnent de 20°C à Lefaux à 24°C à Leffrinckoucke, où le ciel sera peu nuageux malgré 4.0 mm de pluie.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
-🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (mardi 29 septembre 2026)
+🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (mercredi 30 septembre 2026)
 
 🌴 Dunkerque / Malo-les-Bains / Bray-Dunes
-☀️ Installation d'un marais barométrique estival assurant un temps sec et lumineux sur la côte. Températures de 15°C le matin à 28°C l'après-midi.
-🌊 Température de l’eau : 18°C à 19°C
+☀️ Circulation d'un flux océanique d'ouest perturbé et humide sur la côte. Températures de 18°C le matin à 24°C l'après-midi.
+🌊 Température de l’eau : 17°C à 18°C
 
 🌴 Le Touquet / Berck / Baie de Somme
-☀️ Ambiance agréable sur le littoral ce mardi. Maximales atteignant 29°C sur le sable.
-🌊 Température de l’eau : 19°C
+☀️ Ambiance agréable sur le littoral ce mercredi. Maximales atteignant 25°C sur le sable.
+🌊 Température de l’eau : 18°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE – CÔTE D’OPALE & MER DU NORD (mardi 29 septembre 2026)
+🌊 MÉTÉO MARINE – CÔTE D’OPALE & MER DU NORD (mercredi 30 septembre 2026)
 
 📍 Zones : Dunkerque • Calais • Boulogne-sur-Mer • Le Touquet
 
-☀️ Situation générale : Installation d'un marais barométrique estival assurant un temps sec et lumineux.
-🌬️ Vent : Vent de Nord-Est modéré (20 km/h) ce mardi.
+☀️ Situation générale : Circulation d'un flux océanique d'ouest perturbé et humide.
+🌬️ Vent : Vent de Nord-Est modéré (20 km/h avec rafales atteignant 35 km/h) ce mercredi.
 🌊 État de la mer : Mer peu agitée (vagues 0.4m à 0.8m), idéale pour les activités nautiques.
 ⚠️ Visibilité : Bonne sur l'ensemble du littoral.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
-🌧️ Pluies & Humidité : Temps sec sur la région ce mardi avec maintien de la sécheresse de surface.
-🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce mardi. Aucun coup de vent à craindre.
-⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce mardi.
+🌧️ Pluies & Humidité : Temps sec sur la région ce mercredi avec maintien de la sécheresse de surface.
+🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce mercredi. Aucun coup de vent à craindre.
+⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce mercredi.
 🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement.
 🏔️ Météo montagne
 
-    Alpes : Chaleur marquée en vallée ce mardi et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.
+    Alpes : Chaleur marquée en vallée ce mercredi et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.
 
-    Pyrénées : Soleil dominant en matinée de ce mardi, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce mercredi.
+    Pyrénées : Soleil dominant en matinée de ce mercredi, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce jeudi.
 
-    Massif central : Ambiance lourde et estivale ce mardi. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.
+    Massif central : Ambiance lourde et estivale ce mercredi. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.
 
-    Vosges : Temps très chaud et généreusement ensoleillé ce mardi. Quelques nuages de beau temps l'après-midi sans intempérie.
+    Vosges : Temps très chaud et généreusement ensoleillé ce mercredi. Quelques nuages de beau temps l'après-midi sans intempérie.
 
-    Jura : Chaleur estivale et soleil dominant ce mardi, avant quelques passages nuageux inoffensifs en soirée.
+    Jura : Chaleur estivale et soleil dominant ce mercredi, avant quelques passages nuageux inoffensifs en soirée.
 
-    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du mardi 29 septembre 2026.
+    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du mercredi 30 septembre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-📉 Tendance – 3 jours suivants (jeudi 1 octobre au samedi 3 octobre)
-
-▶ jeudi 1 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 13°C. L'après-midi, le mercure grimpe jusqu'à 21°C sous abri. Attention aux rafales de vent atteignant 45 km/h.
+📉 Tendance – 3 jours suivants (vendredi 2 octobre au dimanche 4 octobre)
 
 ▶ vendredi 2 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 10°C. L'après-midi, le mercure grimpe jusqu'à 21°C sous abri. Le vent souffle de manière modérée.
 
 ▶ samedi 3 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 9°C. L'après-midi, le mercure grimpe jusqu'à 21°C sous abri. Le vent souffle de manière modérée.
+
+▶ dimanche 4 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 10°C. L'après-midi, le mercure grimpe jusqu'à 19°C sous abri. Le vent souffle de manière modérée.
 
 
 --------------------------------------------------------------------------------
@@ -246,57 +246,61 @@ Ce mardi après-midi, le soleil domine largement sur l'ensemble de la région. A
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce mardi matin, le ciel se montre généreux en soleil sur l'ensemble de la région, offrant un début de journée lumineux. Quelques nuages épars sont observés du côté de St-Hilaire-sur-Helpe, où la minimale atteint 15°C. Les températures matinales s'établissent à 14°C à Valenciennes et Lille, tandis que Maubeuge enregistre 16°C. Le vent souffle modérément, avec des rafales pouvant atteindre 40 km/h sur Douai et Troisvilles. Des pluies faibles et localisées sont signalées sur le littoral, notamment à Dunkerque avec 1.2 mm et Watten avec 0.4 mm, contrastant avec l'intérieur des terres où le temps reste sec.
+Ce mercredi matin, le ciel se montrera variable sur la région. Un soleil dominant est attendu sur l'intérieur des terres, notamment à Troisvilles et Maubeuge où les minimales atteignent respectivement 19°C et 21°C. Le vent y soufflera modérément à 20 km/h.
+
+Plus à l'ouest, des passages nuageux plus denses sont observés. Lille, Roubaix et Steenvoorde connaîtront un ciel couvert, accompagné de pluies faibles à modérées. Des averses sont notamment prévues à Steenvoorde avec 7.2 mm et à Dunkerque avec 9.7 mm, où la température minimale est de 18°C. Le vent sera généralement modéré, avec des rafales pouvant atteindre 40 km/h à Valenciennes et Lille.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce mardi après-midi, le soleil dominera largement l'ensemble de la région, offrant un ciel dégagé sur la plupart des localités. Des températures estivales sont attendues, avec des maximales atteignant 29°C à Valenciennes et Douai, et 28°C à St-Hilaire-sur-Helpe. Le vent soufflera faiblement, avec des vitesses de 15 à 25 km/h et des rafales n'excédant pas 40 km/h à Troisvilles et Douai. Une légère brise côtière est à prévoir près du littoral, où les températures seront légèrement plus fraîches, comme à Watten avec 24°C et Dunkerque avec 28°C.
+Ce mercredi après-midi, le temps se montrera contrasté sur la région. Un soleil dominant illuminera le ciel de Maubeuge et Troisvilles, où les températures atteindront respectivement 23°C. Douai bénéficiera également d'un franc soleil avec 25°C, mais des pluies faibles sont attendues, totalisant 2.6 mm. Plus à l'ouest, le ciel sera couvert sur Lille et Roubaix avec des maximales de 22°C et des pluies faibles. C'est du côté de Steenvoorde et Dunkerque que les précipitations seront les plus importantes, avec 7.2 mm et 9.7 mm. Le vent soufflera modérément, atteignant 40 km/h en rafales à Valenciennes et Lille.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
-🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (mardi 29 septembre 2026)
+🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (mercredi 30 septembre 2026)
 
 🌴 Dunkerque / Malo-les-Bains / Bray-Dunes
-☀️ Installation d'un marais barométrique estival assurant un temps sec et lumineux sur la côte. Températures de 16°C le matin à 29°C l'après-midi.
-🌊 Température de l’eau : 18°C à 19°C
+☀️ Circulation d'un flux océanique d'ouest perturbé et humide sur la côte. Températures de 18°C le matin à 26°C l'après-midi.
+🌊 Température de l’eau : 17°C à 18°C
 
 🌴 Le Touquet / Berck / Baie de Somme
-☀️ Ambiance agréable sur le littoral ce mardi. Maximales atteignant 30°C sur le sable.
-🌊 Température de l’eau : 19°C
+☀️ Ambiance agréable sur le littoral ce mercredi. Maximales atteignant 27°C sur le sable.
+🌊 Température de l’eau : 18°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE – CÔTE D’OPALE & MER DU NORD (mardi 29 septembre 2026)
+🌊 MÉTÉO MARINE – CÔTE D’OPALE & MER DU NORD (mercredi 30 septembre 2026)
 
 📍 Zones : Dunkerque • Calais • Boulogne-sur-Mer • Le Touquet
 
-☀️ Situation générale : Installation d'un marais barométrique estival assurant un temps sec et lumineux.
-🌬️ Vent : Vent de Nord-Est modéré (25 km/h avec rafales atteignant 40 km/h) ce mardi.
-🌊 État de la mer : Mer peu agitée à agitée au large (vagues 0.8m à 1.3m), prudence pour la baignade.
+☀️ Situation générale : Circulation d'un flux océanique d'ouest perturbé et humide.
+🌬️ Vent : Vent de Nord-Est modéré (20 km/h avec rafales atteignant 40 km/h) ce mercredi.
+🌊 État de la mer : Mer peu agitée (vagues 0.4m à 0.8m), idéale pour les activités nautiques.
 ⚠️ Visibilité : Bonne sur l'ensemble du littoral.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
-🌧️ Pluies & Humidité : Temps sec sur la région ce mardi avec maintien de la sécheresse de surface.
-🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce mardi. Aucun coup de vent à craindre.
-⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce mardi.
+🌧️ Pluies & Humidité : Temps sec sur la région ce mercredi avec maintien de la sécheresse de surface.
+🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce mercredi. Aucun coup de vent à craindre.
+⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce mercredi.
 🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement.
 🏔️ Météo montagne
 
-    Alpes : Chaleur marquée en vallée ce mardi et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.
+    Alpes : Chaleur marquée en vallée ce mercredi et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.
 
-    Pyrénées : Soleil dominant en matinée de ce mardi, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce mercredi.
+    Pyrénées : Soleil dominant en matinée de ce mercredi, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce jeudi.
 
-    Massif central : Ambiance lourde et estivale ce mardi. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.
+    Massif central : Ambiance lourde et estivale ce mercredi. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.
 
-    Vosges : Temps très chaud et généreusement ensoleillé ce mardi. Quelques nuages de beau temps l'après-midi sans intempérie.
+    Vosges : Temps très chaud et généreusement ensoleillé ce mercredi. Quelques nuages de beau temps l'après-midi sans intempérie.
 
-    Jura : Chaleur estivale et soleil dominant ce mardi, avant quelques passages nuageux inoffensifs en soirée.
+    Jura : Chaleur estivale et soleil dominant ce mercredi, avant quelques passages nuageux inoffensifs en soirée.
 
-    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du mardi 29 septembre 2026.
+    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du mercredi 30 septembre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-▶ jeudi 1 octobre : Le temps se dégrade sensiblement avec un ciel chargé et des averses éparses. Les températures chutent nettement, avec des maximales ne dépassant pas 21°C à Lille et Valenciennes. Le vent se renforce avec des rafales à 40 km/h sur le littoral dunkerquois.
+📉 Tendance – 3 jours suivants (vendredi 2 octobre au dimanche 4 octobre)
 
-▶ vendredi 2 octobre : Une nette amélioration se profile avec le retour d’un soleil généreux sur l’ensemble de la région. Les minimales sont fraîches, tombant localement à 9°C à Maubeuge et Troisvilles. L’après-midi reste agréable avec des pointes à 22°C à Lille et Roubaix, sous un vent faible.
+▶ vendredi 2 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 9°C. L'après-midi, le mercure grimpe jusqu'à 22°C sous abri. Le vent souffle de manière modérée.
 
-▶ samedi 3 octobre : La douceur s’installe durablement avec un ciel clair et sec. Les températures grimpent jusqu’à 21°C à Valenciennes et St-Hilaire-sur-Helpe. Les nuits restent fraîches, avec des minimales descendant à 8°C sur l’Avesnois. Un temps idéal pour les activités de plein air.
+▶ samedi 3 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 8°C. L'après-midi, le mercure grimpe jusqu'à 21°C sous abri. Le vent souffle de manière modérée.
+
+▶ dimanche 4 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 10°C. L'après-midi, le mercure grimpe jusqu'à 21°C sous abri. Le vent souffle de manière modérée.
 
 
 --------------------------------------------------------------------------------
@@ -308,58 +312,54 @@ Ce mardi après-midi, le soleil dominera largement l'ensemble de la région, off
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce mardi matin, la Normandie se réveille sous des conditions météorologiques contrastées. Les minimales affichent 13°C à Rouen et Lisieux, 14°C à Dieppe et Le Havre, et 15°C à Caen, Cherbourg et Alençon.
-
-Le ciel se partage entre éclaircies et passages nuageux. Des averses se déclenchent sur Caen, Cherbourg, Lisieux et Alençon, tandis que Rouen, Le Havre et Dieppe connaissent un temps nuageux. Le soleil domine sur Evreux.
-
-Le vent souffle modérément sur l'ensemble de la région, avec des pointes à 45 km/h en rafales sur Cherbourg et Alençon. Les températures maximales de la matinée atteindront 25°C à Cherbourg et 28°C à Rouen, Evreux et Lisieux, marquant un contraste notable entre le littoral et l'intérieur des terres.
+Ce mercredi matin, la Normandie se réveille sous un ciel mitigé, alternant entre éclaircies et passages nuageux porteurs de pluies. Des averses se déclenchent sur une grande partie de la région, notamment à Rouen où 14.8 mm sont enregistrés, ainsi qu'à Évreux avec 21.5 mm. Caen et Le Havre connaissent également des averses, bien que plus faibles. Les températures minimales affichent 16°C à Rouen et 19°C à Alençon. Le vent souffle modérément, atteignant 20 km/h sur le littoral du Havre et de Dieppe, avec des rafales maximales de 45 km/h au Havre. L'intérieur des terres, comme Alençon et Lisieux, bénéficie de conditions plus clémentes avec un ciel peu nuageux.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce mardi après-midi, la Normandie connaît un temps contrasté. Le soleil domine largement sur l'est de la région, notamment à Rouen et Evreux où le ciel est dégagé et les températures atteignent 28°C. Plus à l'ouest, un ciel plus nuageux s'installe, avec des passages nuageux sur Caen, Cherbourg, Alençon et Lisieux. Des pluies faibles sont attendues sur Caen et Dieppe, ainsi qu'au Havre, où les maximales atteignent respectivement 26°C, 26°C et 27°C. Le vent souffle modérément, avec des rafales pouvant atteindre 45 km/h sur Cherbourg et Alençon, sans toutefois nécessiter une vigilance particulière.
+Ce mercredi après-midi, la Normandie connaît un temps contrasté. Des pluies parfois soutenues affectent une grande partie de la région, notamment à Rouen où 14.8 mm sont attendus et à Évreux avec 21.5 mm. Le Havre et Dieppe enregistrent également des pluies, avec des rafales de vent atteignant 45 km/h au Havre et 40 km/h à Dieppe. Les températures maximales atteignent 24°C à Caen et 25°C à Alençon. Dans l'ouest, Cherbourg et Alençon bénéficient d'un ciel peu nuageux, avec des températures agréables. Le vent souffle modérément, sans dépasser les 20 km/h en dehors des rafales côtières.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
-🏖️ MÉTÉO DES PLAGES – CÔTE D’ALBÂTRE & MANCHE (mardi 29 septembre 2026)
+🏖️ MÉTÉO DES PLAGES – CÔTE D’ALBÂTRE & MANCHE (mercredi 30 septembre 2026)
 
 🌴 Le Havre / Deauville / Cabourg
-☀️ Temps agréable ce mardi. Températures sur les plages : 15°C à 28°C.
+☀️ Temps agréable ce mercredi. Températures sur les plages : 18°C à 25°C.
 🌊 Température de l’eau : 18°C à 19°C
 
 🌴 Dieppe / Fécamp / Cherbourg
-☀️ Belle luminosité ce mardi, brise littorale rafraîchissante avec maximales de 28°C.
+☀️ Belle luminosité ce mercredi, brise littorale rafraîchissante avec maximales de 25°C.
 🌊 Température de l’eau : 18°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE – MANCHE & LITTORAL NORMAND (mardi 29 septembre 2026)
+🌊 MÉTÉO MARINE – MANCHE & LITTORAL NORMAND (mercredi 30 septembre 2026)
 
 📍 Zones : Baie de Seine • Le Havre • Fécamp • Dieppe • Cherbourg
 
-☀️ Situation générale : Installation d'un marais barométrique estival assurant un temps sec et lumineux.
-🌬️ Vent : Vent modéré de Nord-Est (20 km/h avec rafales atteignant 45 km/h) ce mardi.
+☀️ Situation générale : Circulation d'un flux océanique d'ouest perturbé et humide.
+🌬️ Vent : Vent modéré de Nord-Est (20 km/h avec rafales atteignant 45 km/h) ce mercredi.
 🌊 État de la mer : Mer peu agitée (vagues 0.4m à 0.8m), idéale pour les activités nautiques.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
-🌧️ Pluies & Humidité : Temps sec sur la région ce mardi avec maintien de la sécheresse de surface.
-🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce mardi. Aucun coup de vent à craindre.
-⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce mardi.
+🌧️ Pluies & Humidité : Temps sec sur la région ce mercredi avec maintien de la sécheresse de surface.
+🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce mercredi. Aucun coup de vent à craindre.
+⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce mercredi.
 🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement.
 🏔️ Météo montagne
 
-    Alpes : Chaleur marquée en vallée ce mardi et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.
+    Alpes : Chaleur marquée en vallée ce mercredi et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.
 
-    Pyrénées : Soleil dominant en matinée de ce mardi, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce mercredi.
+    Pyrénées : Soleil dominant en matinée de ce mercredi, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce jeudi.
 
-    Massif central : Ambiance lourde et estivale ce mardi. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.
+    Massif central : Ambiance lourde et estivale ce mercredi. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.
 
-    Vosges : Temps très chaud et généreusement ensoleillé ce mardi. Quelques nuages de beau temps l'après-midi sans intempérie.
+    Vosges : Temps très chaud et généreusement ensoleillé ce mercredi. Quelques nuages de beau temps l'après-midi sans intempérie.
 
-    Jura : Chaleur estivale et soleil dominant ce mardi, avant quelques passages nuageux inoffensifs en soirée.
+    Jura : Chaleur estivale et soleil dominant ce mercredi, avant quelques passages nuageux inoffensifs en soirée.
 
-    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du mardi 29 septembre 2026.
+    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du mercredi 30 septembre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-▶ jeudi 1 octobre : Le soleil fait un retour en force sur l'ensemble de la région. Les températures baissent nettement, oscillant entre 19°C au Havre et 22°C à Évreux, sous un vent modéré qui pourra atteindre 40 km/h en rafales sur le littoral.
+▶ vendredi 2 octobre : Le soleil s'impose sur l'ensemble de la Normandie avec un ciel dégagé toute la journée. Les températures minimales sont fraîches, comprises entre 8°C à Alençon et 11°C à Cherbourg, tandis que les maximales atteignent 20°C à 23°C. Le vent est faible, autour de 10 km/h.
 
-▶ vendredi 2 octobre : Le ciel reste dégagé pour cette première journée d'octobre. Les minimales sont fraîches, descendant jusqu'à 8°C à Alençon, mais les après-midi restent très doux avec des maximales de 21 à 23°C. Le vent est quasiment absent.
+▶ samedi 3 octobre : Le temps reste sec et bien ensoleillé sur toute la région. Les minimales vont de 8°C à Lisieux à 12°C à Cherbourg, et les maximales s'échelonnent de 19°C au Havre à 22°C à Cherbourg et Évreux. Le vent est toujours faible, avec un ressenti agréable.
 
-▶ samedi 3 octobre : Le week-end conserve les mêmes atouts avec un grand soleil. Les matinées sont fraîches (8°C à Lisieux, 9°C à Rouen) pour des après-midi agréables de 19°C au Havre à 22°C à Évreux et Cherbourg. Le vent reste faible.
+▶ dimanche 4 octobre : Le soleil continue de dominer sur l'ensemble de la Normandie. Les températures minimales sont moins fraîches, entre 9°C à Évreux et 14°C à Rouen, pour des maximales de 19°C à Dieppe à 22°C à Cherbourg. Le vent se montre un peu plus soutenu sur le littoral, avec 15 km/h.
 
