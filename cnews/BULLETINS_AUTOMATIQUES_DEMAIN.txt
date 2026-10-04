@@ -13,12 +13,10 @@ FICHIER SOURCE : /home/runner/work/meteo-kappa/meteo-kappa/cnews/BULLETINS_AUTOM
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce lundi matin, la France se réveille sous un ciel majoritairement dégagé, annonçant une journée ensoleillée sur une grande partie du territoire. Les minimales s'établissent à 9°C à Laon et Paris, 10°C à Lille et Caen, et 14°C à Brest et Nantes.
-
-Le soleil domine franchement de la Bretagne aux Hauts-de-France, en passant par le Centre-Val de Loire et la Nouvelle-Aquitaine. Des nuages plus nombreux sont observés en Normandie, notamment du côté de Caen, ainsi qu'en Île-de-France avec un ciel très nuageux sur Paris. Le vent reste faible sur l'ensemble du pays, avec des brises ne dépassant pas les 15 km/h sur le littoral atlantique. Les températures se montrent douces pour la saison, particulièrement dans l'intérieur des terres.
+Ce lundi matin, la France se réveille sous un ciel majoritairement ensoleillé. Les températures minimales affichent 9°C à Laon et Paris, 10°C à Lille et Caen, et 14°C à Brest et Nantes. Un soleil dominant est observé sur la majeure partie du territoire, notamment de la Bretagne aux Hauts-de-France, avec des villes comme Rennes, Nantes, Lille, Laon, Rouen, Tours et Poitiers profitant d'un ciel dégagé. Quelques nuages couvrent néanmoins le ciel de Caen et Paris. Le vent reste faible sur l'ensemble du pays, avec des brises ne dépassant pas les 15 km/h.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce lundi après-midi, la France profite d'un temps majoritairement ensoleillé et doux. Le soleil domine largement sur une grande partie du territoire, notamment à Rennes et Nantes où les températures atteignent 28°C. Le vent reste faible, soufflant autour de 10 à 15 km/h sur l'ensemble du pays. Quelques passages nuageux sont observés, notamment sur la Normandie et l'Île-de-France, avec un ciel nuageux à Caen et Paris, où le thermomètre affichera respectivement 22°C et 26°C. Plus au nord, Lille et Rouen bénéficient également de belles éclaircies. Aucune précipitation n'est attendue pour cet après-midi.
+Ce lundi après-midi, la France métropolitaine bénéficie d'un temps majoritairement ensoleillé et doux. Le soleil dominera largement sur la façade ouest, de la Bretagne aux Pays de la Loire, avec des maximales atteignant 28°C à Rennes et Nantes. Un léger voile nuageux est cependant attendu sur la Normandie, notamment à Caen, ainsi qu'en Île-de-France, où Paris verra le soleil masqué par des nuages. Les températures restent élevées pour la saison, avec 27°C à Laon et 23°C à Lille. Le vent soufflera faiblement sur l'ensemble du territoire, avec des brises côtières ne dépassant pas les 15 km/h.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce lundi avec maintien de la sécheresse de surface.
@@ -40,11 +38,11 @@ Ce lundi après-midi, la France profite d'un temps majoritairement ensoleillé e
     Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du lundi 5 octobre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-▶ mercredi 7 octobre : Le temps se dégrade nettement avec l’arrivée d’une perturbation. Des pluies parfois soutenues arrosent le nord-ouest et le centre, avec des cumuls importants (20,8 mm à Caen, 18,7 mm à Nantes). Le vent se renforce fortement sur les côtes, avec des rafales jusqu’à 65 km/h à Brest. Les températures maximales baissent, entre 17°C à Brest et 23°C à Tours.
+▶ mercredi 7 octobre : Une dégradation pluvieuse touche l'ouest du pays, avec des cumuls importants attendus de Brest à Nantes (15 à 22 mm). Le vent se renforce fortement sur les côtes bretonnes et ligériennes, avec des rafales jusqu'à 60 km/h. Les températures maximales baissent, de 17°C à Brest à 23°C à Tours.
 
-▶ jeudi 8 octobre : La perturbation persiste mais s’atténue un peu. De nouvelles pluies touchent le nord et l’est, notamment Lille (13,6 mm) et Laon (7,4 mm). Le vent reste soutenu, avec des rafales de 50 à 60 km/h sur le littoral atlantique. Les maximales sont fraîches, de 14°C à Lille à 17°C à Tours et Poitiers.
+▶ jeudi 8 octobre : Le temps reste instable mais les précipitations deviennent plus éparses. Le ciel est très nuageux sur la moitié nord, avec des averses résiduelles possibles. Le vent souffle encore modérément, avec des rafales de 40 à 55 km/h sur les côtes. Les maximales chutent nettement, de 14°C à Lille à 17°C à Rouen et Tours.
 
-▶ vendredi 9 octobre : Le temps s’améliore progressivement par l’ouest. Des averses résiduelles concernent encore le nord (Lille 15 mm) et le centre, mais le soleil revient sur la Bretagne et les Pays de la Loire. Le vent faiblit, avec des rafales de 40 à 55 km/h. Les températures restent de saison, de 15°C à Lille à 18°C à Rouen.
+▶ vendredi 9 octobre : Une nouvelle perturbation apporte des pluies parfois soutenues sur le nord et l'est, notamment à Lille (15 mm) et Rouen (6,6 mm). Le vent reste actif, avec des rafales jusqu'à 65 km/h à Caen. Les températures restent fraîches, de 15°C à Lille à 18°C à Rouen, tandis que l'ouest retrouve un temps plus sec.
 
 
 --------------------------------------------------------------------------------
@@ -56,10 +54,10 @@ Ce lundi après-midi, la France profite d'un temps majoritairement ensoleillé e
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce lundi matin, le Nord-Pas-de-Calais se réveille sous un ciel dégagé et un soleil dominant sur l'ensemble de la région. Les températures minimales sont fraîches, avec 8°C enregistrés à Valenciennes et 9°C à Watten et Troisvilles. Le littoral, notamment à Dunkerque, bénéficie d'une douceur relative avec 10°C, tandis que l'intérieur des terres, comme à St-Hilaire-sur-Helpe ou Maubeuge, affiche 11°C. Un vent léger souffle sur la région, atteignant 15 km/h sur le littoral dunkerquois et se maintenant autour de 10 km/h dans les terres. Aucune précipitation n'est à signaler.
+Ce lundi matin, la région Nord se réveille sous un ciel dégagé et un soleil dominant. Les températures minimales affichent 8°C à Valenciennes et Watten, tandis que Lille et Roubaix enregistrent 10°C. Sur le littoral, Dunkerque bénéficie également de 10°C. Le vent reste faible sur l'ensemble du territoire, avec des brises ne dépassant pas les 10 km/h, offrant une atmosphère calme et agréable. Aucune précipitation n'est à signaler, garantissant un début de journée sec et lumineux pour tous les habitants.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce lundi après-midi, le ciel se montre généreux sur l'ensemble de la région, offrant un ensoleillement dominant. Aucune précipitation n'est à signaler. Les températures maximales atteignent 23°C à Lille, 23°C à Valenciennes et 20°C à Steenvoorde. Le vent reste faible, soufflant entre 5 et 15 km/h, sans rafales notables. Les conditions météorologiques s'annoncent particulièrement clémentes, avec un contraste thermique peu marqué entre le littoral et l'intérieur des terres, où les valeurs restent globalement douces pour la saison.
+Ce lundi après-midi, un temps largement ensoleillé caractérise l'ensemble de la région, avec un ciel dégagé sur la quasi-totalité des départements. Les températures maximales atteignent 23°C à Lille et Douai, 22°C à Maubeuge, et 20°C à Steenvoorde et Watten. Le vent reste faible, soufflant entre 5 et 10 km/h sur l'ensemble du territoire, sans rafales notables. Aucune précipitation n'est à signaler. Le contraste thermique entre le littoral et l'intérieur des terres reste modéré.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
 🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (lundi 5 octobre 2026)
@@ -78,8 +76,8 @@ Ce lundi après-midi, le ciel se montre généreux sur l'ensemble de la région,
 📍 Zones : Dunkerque • Calais • Boulogne-sur-Mer • Le Touquet
 
 ☀️ Situation générale : Influence anticyclonique calme assurant un temps sec et modérément doux.
-🌬️ Vent : Vent de Nord-Est modéré (15 km/h) ce lundi.
-🌊 État de la mer : Mer peu agitée (vagues 0.4m à 0.8m), idéale pour les activités nautiques.
+🌬️ Vent : Vent de Nord-Est modéré (10 km/h) ce lundi.
+🌊 État de la mer : Mer belle et calme (vagues < 0.4m), excellente pour la baignade.
 ⚠️ Visibilité : Bonne sur l'ensemble du littoral.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
@@ -102,9 +100,11 @@ Ce lundi après-midi, le ciel se montre généreux sur l'ensemble de la région,
     Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du lundi 5 octobre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-▶ mercredi 7 octobre : Le ciel se voile progressivement avec l’arrivée de précipitations faibles à modérées. Les maximales oscillent entre 17 et 22°C, mais le vent se renforce, surtout sur le littoral où des rafales atteignent 60 km/h à Dunkerque. Des pluies plus marquées sont attendues sur Steenvoorde et Watten.
-▶ jeudi 8 octobre : La dégradation s’accentue avec un temps très nuageux et des pluies soutenues, notamment sur Lille et Roubaix. Les températures chutent nettement, ne dépassant pas 14°C en journée. Le vent reste fort, avec des rafales de 50 à 60 km/h sur l’ensemble de la région.
-▶ vendredi 9 octobre : Le temps reste instable avec des averses et un vent toujours présent, atteignant 65 km/h en rafales sur Dunkerque. Les maximales peinent à grimper, entre 13 et 16°C. Les précipitations les plus importantes sont attendues sur Lille et Roubaix.
+▶ mercredi 7 octobre : Le ciel se voile progressivement avec des passages nuageux porteurs de pluies faibles à modérées, notamment sur le littoral où les cumuls atteignent 10 à 12 mm à Dunkerque et Watten. Le vent se renforce, soufflant entre 20 et 35 km/h avec des rafales jusqu’à 60 km/h sur les côtes. Les températures restent douces, de 11 à 22°C selon les secteurs.
+
+▶ jeudi 8 octobre : Temps très perturbé avec des pluies soutenues et généralisées, les cumuls dépassant 10 mm sur la plupart des stations, jusqu’à près de 15 mm à Maubeuge et Roubaix. Le vent reste fort, de 20 à 35 km/h, avec des rafales de 50 à 60 km/h. Les maximales chutent nettement, ne dépassant pas 14°C, et les minimales s’échelonnent de 8 à 12°C.
+
+▶ vendredi 9 octobre : Encore des pluies fréquentes, surtout sur l’ouest et le nord de la région, avec des intensités variables (2 à 15 mm selon les lieux). Le vent souffle toujours fort, entre 25 et 30 km/h, avec des rafales atteignant 65 km/h à Dunkerque. Les températures baissent encore, avec des maximales de 13 à 18°C et des minimales de 6 à 11°C.
 
 
 --------------------------------------------------------------------------------
@@ -116,17 +116,17 @@ Ce lundi après-midi, le ciel se montre généreux sur l'ensemble de la région,
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce lundi matin, la région se réveille sous un ciel dégagé et un soleil omniprésent. Aucune précipitation n'est à signaler. Les températures minimales affichent 14°C à La Rochelle, 18°C à Chassiron, et 13°C à Montbron, marquant un contraste léger entre le littoral et l'intérieur des terres. Le vent souffle faiblement, avec une brise de 15 km/h sur La Rochelle et 20 km/h à Chassiron. Les conditions météorologiques sont stables, sans risque orageux ni de vent fort.
+Ce lundi matin, la Charente-Maritime et la Charente se réveillent sous un ciel dégagé et ensoleillé. Le soleil domine l'ensemble de la région, offrant une visibilité parfaite dès les premières heures. Les températures minimales sont douces, avec 14°C enregistrés à La Rochelle, 18°C à Chassiron et à Angoulême, et 13°C à Jarnac. Le vent souffle faiblement, autour de 10 à 15 km/h, sans aucune précipitation à signaler. Les conditions météorologiques sont donc idéales pour entamer cette nouvelle semaine, avec un temps calme et lumineux sur l'ensemble du territoire.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce lundi après-midi, la région bénéficie d'un temps estival avec un soleil dominant sur l'ensemble des départements. Aucune précipitation n'est à signaler. Les températures maximales atteignent des niveaux élevés pour la saison, avec 29°C à La Rochelle, 28°C à Angoulême et Soyaux, et 26°C à Chassiron. Le vent reste modéré, soufflant entre 10 et 20 km/h, sans rafales notables. Les brises côtières maintiennent des températures légèrement plus douces sur le littoral par rapport à l'intérieur des terres, où la chaleur est plus marquée.
+Ce lundi après-midi, un temps estival s'installe durablement sur l'ensemble de la région. Le soleil dominera largement le ciel, offrant un ensoleillement généreux de la côte vers l'intérieur des terres. Aucune précipitation n'est à signaler. Les températures maximales atteindront des niveaux très élevés pour la saison, avec 29°C à La Rochelle, 28°C à Angoulême et La Couronne, et 27°C à Jarnac et Cognac. Le vent soufflera faiblement, avec des brises côtières n'excédant pas les 15 km/h.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
 🏖️ MÉTÉO DES PLAGES – LITTORAL CHARENTAIS (lundi 5 octobre 2026)
 
 🌴 La Rochelle / Île de Ré / Île d’Oléron
 ☀️ Installation d'un marais barométrique estival assurant un temps sec et lumineux sur l'ensemble des plages charentaises ce lundi.
-🌡️ Température sur le littoral : 16°C à 29°C
+🌡️ Température sur le littoral : 15°C à 29°C
 🌊 Température de l’eau : 22°C à 23°C
 
 🌴 Royan / Côte de Beauté / Rochefort
@@ -139,7 +139,7 @@ Ce lundi après-midi, la région bénéficie d'un temps estival avec un soleil d
 📍 Zones : La Rochelle • Rochefort • Royan • Pertuis Breton & d'Antioche
 
 ☀️ Situation synoptique : Installation d'un marais barométrique estival assurant un temps sec et lumineux.
-🌬️ Vent : Régime de brises thermiques (20 km/h avec rafales atteignant 35 km/h).
+🌬️ Vent : Régime de brises thermiques (15 km/h).
 🌊 État de la mer : Mer peu agitée (vagues 0.4m à 0.8m), idéale pour les activités nautiques.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
@@ -162,9 +162,11 @@ Ce lundi après-midi, la région bénéficie d'un temps estival avec un soleil d
     Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du lundi 5 octobre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-▶ mercredi 7 octobre : Le ciel se couvre nettement avec l’arrivée d’une perturbation. Des pluies modérées à fortes sont attendues sur l’intérieur des terres, notamment en Charente, avec des cumuls de 15 à 24 mm. Le vent se renforce, avec des rafales atteignant 50 km/h. Les températures maximales baissent à 22-23°C.
-▶ jeudi 8 octobre : Le temps reste très agité, surtout sur le littoral où le vent souffle en tempête avec des rafales jusqu’à 65 km/h. Des pluies sont encore possibles, mais moins abondantes (8 à 13 mm sur la côte). Les températures chutent nettement, avec des maximales de 15 à 19°C.
-▶ vendredi 9 octobre : Accalmie significative. Le vent faiblit et le soleil revient par moments. Les températures minimales sont fraîches, descendant jusqu’à 6°C dans l’intérieur, mais les maximales remontent à 18-19°C.
+▶ mercredi 7 octobre : Le temps se dégrade nettement avec l'arrivée d'une perturbation. Le vent se renforce fortement sur le littoral, avec des rafales jusqu'à 65 km/h à Chassiron, et des pluies parfois abondantes touchent l'intérieur des terres, notamment en Charente. Les températures maximales baissent, oscillant entre 19 et 23°C.
+
+▶ jeudi 8 octobre : Le vent reste très présent sur la côte, avec des rafales atteignant 70 km/h, mais les précipitations deviennent plus éparses. L'intérieur des terres bénéficie d'un temps plus sec et plus calme, sous un ciel variable. Les températures continuent de baisser, avec des maximales de 15 à 19°C et des minimales fraîches autour de 11-13°C.
+
+▶ vendredi 9 octobre : L'accalmie s'installe avec un vent nettement plus faible sur l'ensemble de la région. Le ciel est partagé entre éclaircies et passages nuageux, sans pluie attendue. Les températures maximales restent douces, entre 17 et 19°C, mais les minimales deviennent très fraîches, notamment à La Rochelle avec 6°C au petit matin.
 
 
 --------------------------------------------------------------------------------
@@ -176,10 +178,10 @@ Ce lundi après-midi, la région bénéficie d'un temps estival avec un soleil d
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce lundi matin, le soleil domine largement l'ensemble de la région, offrant un ciel dégagé et lumineux. Aucune précipitation n'est à signaler. Les températures minimales s'établissent entre 8°C à Racquinghem et 12°C à Marck, avec 10°C à Leffrinckoucke et Groffliers. Le vent souffle faiblement, avec une brise de 10 à 15 km/h, sans rafales notables. Le contraste thermique entre le littoral et l'intérieur des terres reste modéré, avec des valeurs homogènes sous un soleil généreux.
+Ce lundi matin, le soleil domine largement l'ensemble de la région. Le ciel se présente dégagé, offrant des conditions météorologiques agréables dès le lever du jour. Les températures minimales affichent 10°C à Leffrinckoucke, 12°C à Gravelines et 9°C à Remilly-Wirquin. Le vent souffle faiblement, avec des valeurs autour de 10 à 15 km/h, sans rafales significatives. Une légère brise marine est perceptible sur le littoral, tandis que l'intérieur des terres bénéficie d'un air calme. Aucune précipitation n'est à signaler pour cette matinée.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce lundi après-midi, un temps pleinement ensoleillé caractérise l'ensemble de la région. Le ciel se maintient dégagé, sans aucune formation nuageuse significative. Les températures maximales atteignent 23°C à Leffrinckoucke et 21°C à Remilly-Wirquin, tandis que Lefaux enregistre 18°C et Robecq 20°C. Le vent souffle faiblement, avec des vitesses ne dépassant pas les 15 km/h, principalement une brise légère. Aucune précipitation n'est à signaler. Le contraste thermique entre le littoral et l'intérieur des terres reste modéré.
+Ce lundi après-midi, un temps résolument ensoleillé prédomine sur l'ensemble de la région. Le ciel est dégagé, offrant un soleil dominant sans aucune perturbation nuageuse. Les températures maximales atteignent 23°C à Leffrinckoucke, 20°C à Gravelines et Marck, et 21°C à Remilly-Wirquin et Racquinghem. Le vent souffle faiblement, autour de 10 à 15 km/h, sans rafales notables. Aucune précipitation n'est à signaler, et l'air reste sec.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
 🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (lundi 5 octobre 2026)
@@ -222,11 +224,11 @@ Ce lundi après-midi, un temps pleinement ensoleillé caractérise l'ensemble de
     Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du lundi 5 octobre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-▶ mercredi 7 octobre : Le temps se dégrade fortement avec l'arrivée d'un vent soutenu de 25 à 40 km/h et des rafales pouvant atteindre 70 km/h sur le littoral. Des précipitations modérées à localement fortes traversent la région, avec des cumuls de 5 à 10 mm. Les températures maximales chutent entre 16°C et 21°C, marquant un net rafraîchissement.
+▶ mercredi 7 octobre : Le ciel se charge et les averses font leur retour, accompagnées d'un vent soutenu. Les rafales atteindront 60 km/h sur le littoral, et les cumuls de pluie pourront dépasser 10 mm localement. Les températures maximales restent douces, entre 16 et 21°C.
 
-▶ jeudi 8 octobre : Le vent reste puissant, avec des rafales jusqu'à 70 km/h, et le ciel se montre très nuageux à couvert sur la moitié sud de la région. Les averses persistent, surtout dans l'intérieur, avec des cumuls de 3 à 8 mm. Les maximales baissent encore, ne dépassant pas 13°C à 16°C, et les minimales descendent jusqu'à 9°C.
+▶ jeudi 8 octobre : La dégradation se poursuit avec un ciel très nuageux et des précipitations parfois soutenues. Le vent reste fort, avec des rafales jusqu'à 70 km/h près des côtes. Les températures maximales chutent, ne dépassant pas 14 à 16°C.
 
-▶ vendredi 9 octobre : Le vent faiblit légèrement mais reste sensible, avec des rafales de 45 à 65 km/h. Le temps demeure perturbé : ciel très nuageux à couvert et pluies parfois abondantes, notamment sur le littoral et l'ouest de la région (cumuls de 5 à 15 mm). Les températures restent fraîches, avec des maximales de 15°C à 17°C et des minimales autour de 7°C à 11°C.
+▶ vendredi 9 octobre : Une nouvelle perturbation apporte des pluies copieuses, notamment sur le littoral où les cumuls pourraient atteindre 30 mm. Le vent se renforce encore, avec des rafales proches de 70 km/h. Les températures restent fraîches, entre 7 et 18°C selon les secteurs.
 
 
 --------------------------------------------------------------------------------
@@ -238,10 +240,10 @@ Ce lundi après-midi, un temps pleinement ensoleillé caractérise l'ensemble de
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce lundi matin, le soleil domine largement sur l'ensemble de la région, offrant un ciel dégagé et lumineux. Les températures minimales affichent 8°C à Valenciennes, 9°C à Troisvilles et Watten, et 10°C à Lille et Roubaix. Le vent se montre discret, soufflant en légère brise, avec des pointes de 10 à 15 km/h sur le littoral dunkerquois. Aucune précipitation n'est à signaler, et l'atmosphère se révèle agréable pour ce début de semaine.
+Ce lundi matin, le Nord de la France se réveille sous un ciel dégagé et ensoleillé. Le soleil domine l'ensemble de la région, offrant une matinée lumineuse. Les températures minimales affichent 8°C à Valenciennes, 9°C à Watten et Troisvilles, et 10°C à Lille et Roubaix. Le vent souffle faiblement, avec des brises légères ne dépassant pas les 10 km/h sur l'ensemble du territoire. Aucune précipitation n'est à signaler, garantissant un début de semaine sec et agréable.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce lundi après-midi, le ciel se maintient dégagé sur l'ensemble de la région, avec un soleil dominant. Aucune précipitation n'est attendue. Les températures maximales atteignent 23°C à Lille et Douai, 22°C à Maubeuge et Troisvilles, et 20°C à Steenvoorde et Watten. Le vent soufflera faiblement, avec des vitesses n'excédant pas 15 km/h le long du littoral à Dunkerque, et autour de 5 à 10 km/h dans les terres. Les conditions météorologiques demeurent calmes et ensoleillées.
+Ce lundi après-midi, la région bénéficie d'un temps remarquablement ensoleillé. Le soleil domine largement l'ensemble du territoire, sans la moindre trace de nuage. Les températures maximales atteignent des niveaux très agréables pour la saison, avec 23°C à Lille et Dunkerque, 22°C à Maubeuge et Troisvilles. Le vent reste très faible, soufflant à 5 à 10 km/h sur l'ensemble des localités, sans distinction notable entre le littoral et l'intérieur des terres. Aucune précipitation n'est à signaler.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
 🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (lundi 5 octobre 2026)
@@ -260,8 +262,8 @@ Ce lundi après-midi, le ciel se maintient dégagé sur l'ensemble de la région
 📍 Zones : Dunkerque • Calais • Boulogne-sur-Mer • Le Touquet
 
 ☀️ Situation générale : Influence anticyclonique calme assurant un temps sec et modérément doux.
-🌬️ Vent : Vent de Nord-Est modéré (15 km/h) ce lundi.
-🌊 État de la mer : Mer peu agitée (vagues 0.4m à 0.8m), idéale pour les activités nautiques.
+🌬️ Vent : Vent de Nord-Est modéré (10 km/h) ce lundi.
+🌊 État de la mer : Mer belle et calme (vagues < 0.4m), excellente pour la baignade.
 ⚠️ Visibilité : Bonne sur l'ensemble du littoral.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
@@ -284,11 +286,13 @@ Ce lundi après-midi, le ciel se maintient dégagé sur l'ensemble de la région
     Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du lundi 5 octobre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-▶ mercredi 7 octobre : Le temps devient plus nuageux avec des averses éparses en cours de journée. Les températures maximales restent douces, entre 17°C et 22°C, mais le vent se renforce, atteignant 20 à 35 km/h avec des rafales jusqu’à 60 km/h sur le littoral. Les cumuls de pluie restent modérés, de 1,6 mm à Roubaix à 11,9 mm à Watten.
+📉 Tendance – 3 jours suivants (mercredi 7 octobre au vendredi 9 octobre)
 
-▶ jeudi 8 octobre : Dégradation nette avec un ciel très nuageux et des pluies soutenues sur l’ensemble de la région. Les températures chutent, ne dépassant pas 14°C à 15°C, et le vent souffle fort, avec des rafales de 50 à 60 km/h. Les précipitations sont abondantes, de 5,3 mm à Watten à 14,9 mm à Roubaix.
+▶ mercredi 7 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 10°C. L'après-midi, le mercure grimpe jusqu'à 22°C sous abri. Attention aux rafales de vent atteignant 60 km/h.
 
-▶ vendredi 9 octobre : Temps encore perturbé avec des averses fréquentes et un vent toujours fort, rafales jusqu’à 65 km/h à Dunkerque. Les maximales restent fraîches, entre 13°C et 18°C, et les cumuls de pluie varient de 2,1 mm à St‑Hilaire‑sur‑Helpe à 15,0 mm à Lille. Une fin de semaine à surveiller.
+▶ jeudi 8 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 8°C. L'après-midi, le mercure grimpe jusqu'à 15°C sous abri. Attention aux rafales de vent atteignant 60 km/h.
+
+▶ vendredi 9 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 6°C. L'après-midi, le mercure grimpe jusqu'à 18°C sous abri. Attention aux rafales de vent atteignant 65 km/h.
 
 
 --------------------------------------------------------------------------------
@@ -300,12 +304,10 @@ Ce lundi après-midi, le ciel se maintient dégagé sur l'ensemble de la région
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce lundi matin, la Normandie se réveille sous des conditions météorologiques contrastées. Les températures minimales affichent 5°C à Rouen, 10°C à Caen et 12°C à Cherbourg. Sur le littoral, le vent souffle faiblement, autour de 10 km/h, tandis qu'à l'intérieur des terres, il reste une légère brise à 5 km/h. Une grande partie de la région, notamment les secteurs de Caen, Le Havre, Rouen et Évreux, connaît un ciel très nuageux. Cependant, des éclaircies dominent sur l'ouest de la région, de Cherbourg à Alençon, où le soleil est bien présent. Quelques averses isolées sont à signaler sur le pays de Caux.
+Ce lundi matin, la Normandie se réveille sous des conditions météorologiques contrastées. Le soleil domine largement sur l'ouest de la région, notamment à Cherbourg et Alençon où le ciel est dégagé, avec des températures minimales de 12°C et 10°C respectivement. Plus à l'est, un voile nuageux s'installe, avec un ciel très nuageux sur Caen (10°C), Le Havre (11°C), Rouen (5°C) et Evreux (8°C). Quelques averses sont également attendues sur le littoral de Seine-Maritime. Le vent reste faible sur l'ensemble de la région, soufflant autour de 5 à 10 km/h.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce lundi après-midi, la Normandie connaîtra un temps majoritairement ensoleillé sur une grande partie de la région, notamment à Cherbourg et Alençon où le soleil dominera largement. Les températures maximales atteindront 23°C à Cherbourg et 24°C à Alençon.
-
-Cependant, un ciel plus nuageux est attendu sur l'est et le centre de la région. Rouen, Caen et Le Havre verront ainsi un temps très nuageux, avec des maximales de 23°C à Rouen et 21°C au Havre. Le vent restera faible, soufflant à 5 à 10 km/h sur l'ensemble du territoire normand. Aucune précipitation n'est à signaler pour cet après-midi.
+Ce lundi après-midi, la Normandie connaît un temps contrasté. Le soleil domine largement sur l'ouest de la région, notamment à Cherbourg et Alençon, où le ciel apparaît dégagé. Vers l'est, un voile nuageux plus dense s'installe, avec un ciel très nuageux sur Rouen, Caen, Le Havre et Evreux. Aucune précipitation n'est à signaler sur l'ensemble du territoire. Les températures maximales atteignent 25°C à Evreux, 24°C à Dieppe et Alençon, et 23°C à Rouen et Cherbourg. Le vent reste faible, soufflant entre 5 et 10 km/h sur l'ensemble de la région.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
 🏖️ MÉTÉO DES PLAGES – CÔTE D’ALBÂTRE & MANCHE (lundi 5 octobre 2026)
@@ -347,9 +349,9 @@ Cependant, un ciel plus nuageux est attendu sur l'est et le centre de la région
     Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du lundi 5 octobre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-▶ mercredi 7 octobre : Le temps se dégrade nettement avec un ciel chargé et des pluies parfois soutenues sur la région. Le vent se renforce avec des rafales de 45 à 55 km/h, notamment près des côtes. Les températures restent douces, autour de 17 à 19°C, mais les minimales varient de 8 à 15°C selon les secteurs.
+▶ mercredi 7 octobre : Le temps se dégrade avec un vent qui se renforce, atteignant 20 à 25 km/h et des rafales jusqu’à 55 km/h sur le littoral. Des averses éparses arrosent la région, notamment à Cherbourg et Alençon (jusqu’à 5 mm). Les températures maximales plafonnent à 19°C, les minimales oscillent entre 8°C à Rouen et 15°C au Havre.
 
-▶ jeudi 8 octobre : Le ciel reste maussade et majoritairement couvert, avec quelques averses encore possibles sur les zones côtières. Le vent reste soutenu, avec des rafales proches de 50 à 55 km/h. Les maximales cèdent du terrain et retombent entre 14 et 16°C.
+▶ jeudi 8 octobre : Le ciel reste très nuageux sur l’ensemble de la Normandie, mais les précipitations s’effacent. Le vent souffle toujours fort, avec des rafales de 40 à 55 km/h, surtout sur les côtes. Les maximales baissent, comprises entre 14°C au Havre et 16°C à Cherbourg, pour des minimales de 8°C à Dieppe à 11°C à Caen.
 
-▶ vendredi 9 octobre : Le temps devient plus sec mais garde un caractère instable, avec des averses dispersées surtout près du littoral. Les minimales se rafraîchissent nettement, de 6 à 10°C, tandis que les maximales se maintiennent entre 15 et 17°C. Le vent faiblit légèrement mais souffle encore en rafales localement.
+▶ vendredi 9 octobre : Une nouvelle dégradation pluvieuse et venteuse s’annonce. Les rafales atteignent 75 km/h au Havre et à Cherbourg, et les cumuls de pluie sont significatifs : 12,9 mm à Dieppe, 6,8 mm à Rouen. Les températures restent stables, avec des maximales de 15 à 17°C et des minimales fraîches (6°C à Évreux et Dieppe).
 
