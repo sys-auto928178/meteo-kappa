@@ -13,38 +13,34 @@ FICHIER SOURCE : /home/runner/work/meteo-kappa/meteo-kappa/cnews/BULLETINS_AUTOM
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce dimanche matin, la France se réveille sous un ciel majoritairement dégagé, annonçant une journée ensoleillée sur une grande partie du territoire. Les températures minimales affichent 10°C à Lille et Laon, 12°C à Rouen et 14°C à Brest. Un vent léger souffle sur l'ensemble du pays, autour de 10 à 20 km/h, sans rafales significatives.
-
-Quelques nuages s'invitent toutefois sur le Centre-Ouest et le Sud-Ouest. À Tours et Poitiers, le soleil se montre plus timide, masqué par des passages nuageux, sans précipitations. Le contraste littoral/intérieur des terres est peu marqué ce matin, les températures restant homogènes.
+Ce lundi matin, la France se réveille sous un ciel majoritairement dégagé. Les températures minimales sont douces pour la saison, avec 14°C à Nantes, 12°C à Rennes et 10°C à Paris. Le soleil domine largement sur la majeure partie du territoire, notamment de la Bretagne aux Hauts-de-France, où les brises restent faibles, autour de 5 à 15 km/h. Quelques nuages couvrent néanmoins la région parisienne, mais sans précipitation. Le contraste thermique est peu marqué entre littoral et intérieur des terres.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce dimanche après-midi, la France bénéficiera d'un temps majoritairement ensoleillé. Le soleil dominera largement sur la plupart des régions, de la Normandie aux Hauts-de-France, avec 23°C à Lille et 26°C à Rennes. Des températures élevées sont également attendues dans le Centre-Val de Loire, où Tours atteindra 26°C sous un ciel peu nuageux, et à Paris avec 25°C.
-
-Quelques nuages feront leur apparition dans le Centre-Ouest, notamment à Poitiers, où le ciel sera nuageux, sans précipitations. Le vent restera faible sur l'ensemble du territoire, avec des brises côtières modérées sur le littoral breton, atteignant 40 km/h en rafales à Brest, où la température maximale sera de 20°C.
+Ce lundi après-midi, la France métropolitaine bénéficiera d'un temps majoritairement ensoleillé. Les températures maximales atteindront 29°C à Rennes et Nantes, et 28°C à Tours et Poitiers. Le soleil dominera sur l'ensemble du territoire, notamment dans le Nord et l'Ouest. Un voile nuageux est attendu sur la région parisienne, où la maximale sera de 25°C. Les vents resteront faibles, généralement inférieurs à 15 km/h, avec une légère brise côtière sur les façades atlantiques. Aucune précipitation n'est prévue pour cette période.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
-🌧️ Pluies & Humidité : Temps sec sur la région ce dimanche avec maintien de la sécheresse de surface.
-🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce dimanche. Aucun coup de vent à craindre.
-⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce dimanche.
+🌧️ Pluies & Humidité : Temps sec sur la région ce lundi avec maintien de la sécheresse de surface.
+🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce lundi. Aucun coup de vent à craindre.
+⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce lundi.
 🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement.
 🏔️ Météo montagne
 
-    Alpes : Chaleur marquée en vallée ce dimanche et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.
+    Alpes : Chaleur marquée en vallée ce lundi et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.
 
-    Pyrénées : Soleil dominant en matinée de ce dimanche, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce lundi.
+    Pyrénées : Soleil dominant en matinée de ce lundi, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce mardi.
 
-    Massif central : Ambiance lourde et estivale ce dimanche. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.
+    Massif central : Ambiance lourde et estivale ce lundi. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.
 
-    Vosges : Temps très chaud et généreusement ensoleillé ce dimanche. Quelques nuages de beau temps l'après-midi sans intempérie.
+    Vosges : Temps très chaud et généreusement ensoleillé ce lundi. Quelques nuages de beau temps l'après-midi sans intempérie.
 
-    Jura : Chaleur estivale et soleil dominant ce dimanche, avant quelques passages nuageux inoffensifs en soirée.
+    Jura : Chaleur estivale et soleil dominant ce lundi, avant quelques passages nuageux inoffensifs en soirée.
 
-    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du dimanche 4 octobre 2026.
+    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du lundi 5 octobre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-▶ mardi 6 octobre : Le soleil reste généreux sur la majeure partie du pays avec un temps sec. Les températures grimpent encore, avec des maximales atteignant 26°C à Paris et jusqu'à 29°C à Tours. Le vent est faible, de 5 à 20 km/h selon les régions.
-▶ mercredi 7 octobre : Une dégradation nette se produit avec le retour d'un temps pluvieux et venteux. Des averses traversent le pays, de la Bretagne à l'Île-de-France, avec des cumuls notables (13,8 mm à Caen). Le vent se renforce, avec des rafales atteignant 45 km/h dans l'ouest et jusqu'à 65 km/h à Brest. Les températures baissent, ne dépassant pas 20°C.
-▶ jeudi 8 octobre : Le temps reste très agité, particulièrement venteux sur les régions du nord. Les rafales soufflent jusqu'à 55 km/h à Lille et Laon. Le ciel est très nuageux avec des pluies résiduelles, notamment 7,5 mm attendus à Lille. Les températures sont fraîches pour la saison, avec des maximales comprises entre 14°C et 17°C.
+▶ mercredi 7 octobre : Pluies abondantes sur le nord-ouest, avec des cumuls dépassant 10 mm à Rouen, Caen ou Paris. Les vents se renforcent, avec des rafales atteignant 60 km/h sur la pointe bretonne. Les températures maximales chutent, oscillant entre 17°C à Brest et 24°C à Tours.
+▶ jeudi 8 octobre : Le temps reste perturbé avec des pluies modérées sur la moitié nord, notamment à Lille et Laon. Les rafales restent fortes, jusqu'à 55 km/h en Bretagne. Les maximales baissent encore, de 14°C à Lille à 17°C à Tours.
+▶ vendredi 9 octobre : Amélioration avec des éclaircies, mais des averses résiduelles persistent sur le nord-est et la région parisienne. Le vent faiblit, avec des rafales de 40 km/h. Les températures minimales deviennent fraîches, de 4°C à Laon à 11°C à Rouen, et les maximales remontent légèrement, de 15°C à Lille à 18°C à Rouen.
 
 
 --------------------------------------------------------------------------------
@@ -56,57 +52,57 @@ Quelques nuages feront leur apparition dans le Centre-Ouest, notamment à Poitie
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce dimanche matin, la région se réveille sous un ciel dégagé et un soleil dominant. Les températures minimales s'établissent entre 9°C à Watten et 13°C à St-Hilaire-sur-Helpe et Steenvoorde. On relève également 10°C à Valenciennes et Lille. Le vent souffle faiblement, autour de 10 à 15 km/h sur l'ensemble du territoire, sans rafales notables. Aucune précipitation n'est à signaler, garantissant une matinée sèche et lumineuse. Le contraste thermique entre le littoral et l'intérieur des terres reste modéré.
+Ce lundi matin, le Nord-Pas-de-Calais se réveille sous un ciel dégagé et ensoleillé sur l'ensemble du territoire. Les températures minimales affichent 9°C à Valenciennes et Lille, tandis que St-Hilaire-sur-Helpe et Maubeuge enregistrent 11°C. Le vent, léger, souffle généralement autour de 10 km/h, avec des pointes à 5 km/h sur Lille et Valenciennes, sans perturber cette atmosphère calme et lumineuse. Les conditions sont particulièrement agréables, offrant une matinée radieuse sur toutes les localités.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce dimanche après-midi, un soleil généreux dominera l'ensemble de la région, offrant un ciel dégagé et lumineux. Aucune précipitation n'est à prévoir. Les températures maximales atteindront 23°C à Lille et Valenciennes, 24°C à Maubeuge, et 20°C à Steenvoorde et Watten, marquant un léger contraste entre l'intérieur des terres et le littoral. Le vent soufflera faiblement, autour de 10 à 15 km/h, sans direction dominante notable. Les conditions météorologiques resteront stables et agréables sur l'ensemble du territoire.
+Ce lundi après-midi, un soleil généreux dominera l'ensemble de la région, offrant un ciel dégagé et lumineux. Aucune précipitation n'est à prévoir. Les températures maximales atteindront 24°C à St-Hilaire-sur-Helpe et Douai, tandis que Lille et Roubaix afficheront 23°C. Le vent restera faible, soufflant généralement entre 5 et 10 km/h sur l'ensemble des localités, sans distinction notable entre le littoral et l'intérieur des terres.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
-🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (dimanche 4 octobre 2026)
+🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (lundi 5 octobre 2026)
 
 🌴 Dunkerque / Malo-les-Bains / Bray-Dunes
 ☀️ Influence anticyclonique calme assurant un temps sec et modérément doux sur la côte. Températures de 11°C le matin à 24°C l'après-midi.
 🌊 Température de l’eau : 17°C à 18°C
 
 🌴 Le Touquet / Berck / Baie de Somme
-☀️ Ambiance agréable sur le littoral ce dimanche. Maximales atteignant 25°C sur le sable.
+☀️ Ambiance agréable sur le littoral ce lundi. Maximales atteignant 25°C sur le sable.
 🌊 Température de l’eau : 18°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE – CÔTE D’OPALE & MER DU NORD (dimanche 4 octobre 2026)
+🌊 MÉTÉO MARINE – CÔTE D’OPALE & MER DU NORD (lundi 5 octobre 2026)
 
 📍 Zones : Dunkerque • Calais • Boulogne-sur-Mer • Le Touquet
 
 ☀️ Situation générale : Influence anticyclonique calme assurant un temps sec et modérément doux.
-🌬️ Vent : Vent de Nord-Est modéré (15 km/h) ce dimanche.
-🌊 État de la mer : Mer peu agitée (vagues 0.4m à 0.8m), idéale pour les activités nautiques.
+🌬️ Vent : Vent de Nord-Est modéré (10 km/h) ce lundi.
+🌊 État de la mer : Mer belle et calme (vagues < 0.4m), excellente pour la baignade.
 ⚠️ Visibilité : Bonne sur l'ensemble du littoral.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
-🌧️ Pluies & Humidité : Temps sec sur la région ce dimanche avec maintien de la sécheresse de surface.
-🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce dimanche. Aucun coup de vent à craindre.
-⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce dimanche.
+🌧️ Pluies & Humidité : Temps sec sur la région ce lundi avec maintien de la sécheresse de surface.
+🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce lundi. Aucun coup de vent à craindre.
+⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce lundi.
 🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement.
 🏔️ Météo montagne
 
-    Alpes : Chaleur marquée en vallée ce dimanche et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.
+    Alpes : Chaleur marquée en vallée ce lundi et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.
 
-    Pyrénées : Soleil dominant en matinée de ce dimanche, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce lundi.
+    Pyrénées : Soleil dominant en matinée de ce lundi, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce mardi.
 
-    Massif central : Ambiance lourde et estivale ce dimanche. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.
+    Massif central : Ambiance lourde et estivale ce lundi. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.
 
-    Vosges : Temps très chaud et généreusement ensoleillé ce dimanche. Quelques nuages de beau temps l'après-midi sans intempérie.
+    Vosges : Temps très chaud et généreusement ensoleillé ce lundi. Quelques nuages de beau temps l'après-midi sans intempérie.
 
-    Jura : Chaleur estivale et soleil dominant ce dimanche, avant quelques passages nuageux inoffensifs en soirée.
+    Jura : Chaleur estivale et soleil dominant ce lundi, avant quelques passages nuageux inoffensifs en soirée.
 
-    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du dimanche 4 octobre 2026.
+    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du lundi 5 octobre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-▶ mardi 6 octobre : Le soleil continue de briller généreusement sur toute la région avec un ciel parfaitement dégagé. Les températures maximales restent douces, comprises entre 19°C à Steenvoorde et 24°C à Dunkerque ou Valenciennes, avec des minimales de 8°C à Watten. Le vent demeure faible, autour de 10 km/h, maintenant une impression de douceur agréable.
+▶ mercredi 7 octobre : Le ciel se voile progressivement avec l'arrivée de nuages, notamment sur le littoral et l'ouest de la région. Les températures baissent légèrement, avec des maximales de 17°C à 22°C selon les secteurs. Le vent se renforce, atteignant 15 à 30 km/h, avec des rafales possibles jusqu'à 50 km/h sur Dunkerque.
 
-▶ mercredi 7 octobre : Le temps se dégrade nettement avec l'arrivée de pluies éparses concernant la majorité des villes, notamment Lille, Roubaix ou Dunkerque. Les cumuls attendus restent modérés, entre 1,2 mm à Douai et 7,5 mm à St-Hilaire-sur-Helpe. Le vent se renforce sensiblement sur le littoral avec des rafales atteignant 45 km/h à Steenvoorde et 65 km/h à Dunkerque, tandis que les maximales chutent entre 17°C et 19°C.
+▶ jeudi 8 octobre : Une dégradation nette s'installe avec un ciel très nuageux à couvert et des pluies parfois soutenues, surtout près des côtes. Les températures chutent nettement : minimales de 8°C à 12°C, maximales de 13°C à 15°C. Le vent devient fort, soufflant en rafales de 50 à 65 km/h, rendant la journée désagréable.
 
-▶ jeudi 8 octobre : La dégradation s'intensifie avec un ciel chargé et des pluies plus soutenues, notamment sur Roubaix avec 10,2 mm et Lille avec 7,5 mm. Les températures perdent plusieurs degrés avec des maximales comprises entre 13°C et 15°C seulement. Le vent souffle fort sur l'ensemble du territoire avec des rafales de 50 à 65 km/h, particulièrement sur le littoral dunkerquois, rendant l'ambiance franchement automnale.
+▶ vendredi 9 octobre : Le temps reste perturbé avec des averses fréquentes et un vent encore soutenu (20 à 25 km/h, rafales jusqu'à 55 km/h). Les températures restent fraîches : minimales de 6°C à 11°C, maximales de 11°C à 16°C. Le ciel alterne entre nuages et éclaircies, mais la pluie reste présente.
 
 
 --------------------------------------------------------------------------------
@@ -118,57 +114,55 @@ Ce dimanche après-midi, un soleil généreux dominera l'ensemble de la région,
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce dimanche matin, le temps s'annonce mitigé sur la région. La Rochelle enregistre 16°C avec des averses. Sur le littoral, Chassiron profite d'un soleil dominant malgré un vent modéré soufflant à 25 km/h avec des rafales atteignant 40 km/h, pour une température de 18°C. À l'intérieur des terres, Angoulême et Gond-Pontouvre affichent 17°C, sous un ciel nuageux. Le vent reste faible, autour de 15 km/h sur l'ensemble du territoire, sans risque de vigilance particulière.
+Ce lundi matin, la Charente-Maritime et les départements voisins bénéficient d'un ciel parfaitement dégagé. Le soleil domine l'ensemble de la région, offrant une matinée lumineuse. Les températures minimales affichent 15°C à La Rochelle, 18°C à Chassiron et 17°C à Angoulême. Le vent souffle faiblement, avec une brise de 15 km/h sur le littoral rochelais et 20 km/h à Chassiron, tandis qu'il reste modéré dans l'intérieur des terres, autour de 10 à 15 km/h. Aucune précipitation n'est à signaler.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce dimanche après-midi, le temps se montre variable sur la région. La Rochelle connaît des averses parfois soutenues avec 27°C. À Chassiron, le soleil domine malgré de faibles précipitations, et les températures atteignent 25°C. Les vents y soufflent à 25 km/h, avec des rafales maximales de 40 km/h. Dans l'intérieur des terres, comme à Angoulême et Cognac, le ciel est plus clément. Angoulême affiche 26°C sous un ciel nuageux, tandis que Cognac profite d'un soleil généreux avec 26°C. Le vent reste modéré sur l'ensemble du territoire, autour de 15 km/h.
+Ce lundi après-midi, la région de La Rochelle bénéficie d'un ensoleillement généreux. Le ciel est dégagé sur l'ensemble du territoire, sans aucune perturbation nuageuse. Les températures maximales atteignent 29°C à La Rochelle, Angoulême et Gond-Pontouvre, tandis que Chassiron enregistre 25°C, marquant un léger contraste thermique entre le littoral et l'intérieur des terres. Un vent modéré souffle à 20 km/h à Chassiron, et autour de 10 à 15 km/h sur les autres localités, n'occasionnant aucune rafale significative. Aucune précipitation n'est à signaler pour cet après-midi.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
-🏖️ MÉTÉO DES PLAGES – LITTORAL CHARENTAIS (dimanche 4 octobre 2026)
+🏖️ MÉTÉO DES PLAGES – LITTORAL CHARENTAIS (lundi 5 octobre 2026)
 
 🌴 La Rochelle / Île de Ré / Île d’Oléron
-☀️ Installation d'un marais barométrique estival assurant un temps sec et lumineux sur l'ensemble des plages charentaises ce dimanche.
-🌡️ Température sur le littoral : 19°C à 27°C
+☀️ Installation d'un marais barométrique estival assurant un temps sec et lumineux sur l'ensemble des plages charentaises ce lundi.
+🌡️ Température sur le littoral : 16°C à 29°C
 🌊 Température de l’eau : 22°C à 23°C
 
 🌴 Royan / Côte de Beauté / Rochefort
-☀️ Ensoleillement généreux ce dimanche, maximales de 28°C tempérées par la brise marine.
+☀️ Ensoleillement généreux ce lundi, maximales de 30°C tempérées par la brise marine.
 🌊 Température de l’eau : 23°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO LITTORALE & MARINE – CHARENTE-MARITIME (dimanche 4 octobre 2026)
+🌊 MÉTÉO LITTORALE & MARINE – CHARENTE-MARITIME (lundi 5 octobre 2026)
 
 📍 Zones : La Rochelle • Rochefort • Royan • Pertuis Breton & d'Antioche
 
 ☀️ Situation synoptique : Installation d'un marais barométrique estival assurant un temps sec et lumineux.
-🌬️ Vent : Régime de brises thermiques (25 km/h avec rafales atteignant 40 km/h).
-🌊 État de la mer : Mer peu agitée à agitée au large (vagues 0.8m à 1.3m), prudence pour la baignade.
+🌬️ Vent : Régime de brises thermiques (20 km/h).
+🌊 État de la mer : Mer peu agitée (vagues 0.4m à 0.8m), idéale pour les activités nautiques.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
-🌧️ Pluies & Humidité : Temps sec sur la région ce dimanche avec maintien de la sécheresse de surface.
-🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce dimanche. Aucun coup de vent à craindre.
-⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce dimanche.
+🌧️ Pluies & Humidité : Temps sec sur la région ce lundi avec maintien de la sécheresse de surface.
+🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce lundi. Aucun coup de vent à craindre.
+⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce lundi.
 🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement.
 🏔️ Météo montagne
 
-    Alpes : Chaleur marquée en vallée ce dimanche et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.
+    Alpes : Chaleur marquée en vallée ce lundi et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.
 
-    Pyrénées : Soleil dominant en matinée de ce dimanche, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce lundi.
+    Pyrénées : Soleil dominant en matinée de ce lundi, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce mardi.
 
-    Massif central : Ambiance lourde et estivale ce dimanche. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.
+    Massif central : Ambiance lourde et estivale ce lundi. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.
 
-    Vosges : Temps très chaud et généreusement ensoleillé ce dimanche. Quelques nuages de beau temps l'après-midi sans intempérie.
+    Vosges : Temps très chaud et généreusement ensoleillé ce lundi. Quelques nuages de beau temps l'après-midi sans intempérie.
 
-    Jura : Chaleur estivale et soleil dominant ce dimanche, avant quelques passages nuageux inoffensifs en soirée.
+    Jura : Chaleur estivale et soleil dominant ce lundi, avant quelques passages nuageux inoffensifs en soirée.
 
-    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du dimanche 4 octobre 2026.
+    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du lundi 5 octobre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-▶ mardi 6 octobre : Le soleil s’impose largement sur l’ensemble du territoire, avec un ciel clair et sec. Les températures grimpent jusqu’à 30°C dans l’intérieur (Gond-Pontouvre, Angoulême) et 27°C sur le littoral. Vent faible à modéré, de 15 à 20 km/h.
-
-▶ mercredi 7 octobre : Le temps se dégrade nettement avec l’arrivée d’une perturbation. Les précipitations sont généralisées (5 à 6 mm attendus) et le vent se renforce, atteignant 30 km/h avec des rafales jusqu’à 55 km/h sur Chassiron. Les maximales chutent entre 20 et 24°C.
-
-▶ jeudi 8 octobre : Le ciel reste très nuageux, avec quelques averses résiduelles possibles le matin, mais les précipitations s’arrêtent. Le vent demeure soutenu (25 à 35 km/h, rafales 45 à 55 km/h sur la côte). Les températures baissent encore : de 12 à 18°C selon les secteurs.
+▶ mercredi 7 octobre : Le vent se renforce nettement avec des rafales atteignant 50 à 55 km/h, notamment sur le littoral. Le ciel se couvre et des pluies parfois soutenues touchent l’intérieur des terres (jusqu’à 22 mm localement), tandis que le littoral reste plus sec. Les températures baissent, avec des maximales de 21 à 23°C.
+▶ jeudi 8 octobre : Le vent reste fort, avec des rafales jusqu’à 60 km/h à Chassiron. Le ciel est variable, mais les précipitations deviennent faibles ou nulles sur la majeure partie de la région. Les températures chutent nettement : minimales de 9 à 14°C, maximales de 15 à 18°C.
+▶ vendredi 9 octobre : Le vent faiblit, mais reste modéré (15 à 30 km/h). Le ciel est partagé entre éclaircies et passages nuageux, avec quelques averses possibles sur le littoral. Les températures restent fraîches, avec des minimales descendant jusqu’à 5°C dans l’intérieur et des maximales de 15 à 18°C.
 
 
 --------------------------------------------------------------------------------
@@ -180,57 +174,57 @@ Ce dimanche après-midi, le temps se montre variable sur la région. La Rochelle
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce dimanche matin, un soleil dominant s'impose sur l'ensemble de la région, offrant un ciel dégagé et lumineux. Les températures minimales affichent 11°C à Leffrinckoucke et Lefaux, tandis que Gravelines et Marck enregistrent 10°C. À Racquinghem et Remilly-Wirquin, le mercure descend à 9°C. Le vent souffle légèrement, avec une brise de 15 km/h sur Leffrinckoucke, Racquinghem et Robecq, et 10 km/h sur les autres localités. Aucune précipitation n'est à signaler pour ce début de journée.
+Ce lundi matin, un temps radieux et ensoleillé s'installe sur l'ensemble de la région, offrant un ciel dégagé sans le moindre nuage. Les températures minimales affichent 7°C à Racquinghem, 8°C à Remilly-Wirquin et 11°C à Leffrinckoucke et Gravelines. Le vent souffle faiblement, avec des brises ne dépassant pas les 15 km/h sur le littoral et 10 km/h dans les terres. Cette absence de vent notable contribue à une atmosphère calme et agréable. Le contraste thermique entre le littoral et l'intérieur des terres reste modéré, avec des valeurs matinales relativement homogènes.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce dimanche après-midi, un temps pleinement ensoleillé s'impose sur l'ensemble de la région. Le ciel reste dégagé, offrant un soleil dominant sans aucune nébulosité. Les températures maximales atteignent 23°C à Leffrinckoucke, 21°C à Groffliers et 22°C à Cauchy-à-la-Tour. Le vent se maintient faible, soufflant entre 10 et 15 km/h sur l'ensemble du territoire, sans rafales significatives. Aucune précipitation n'est à signaler pour cette période de l'après-midi. Les conditions météorologiques demeurent stables et agréables, avec un contraste thermique modéré entre le littoral et l'intérieur des terres.
+Ce lundi après-midi, un temps pleinement ensoleillé domine l'ensemble de la région, sous un ciel dégagé. Aucune précipitation n'est à signaler. Le vent souffle faiblement, autour de 10 à 15 km/h, sans rafales notables. Les températures maximales atteignent 23°C à Leffrinckoucke, 20°C à Gravelines et 22°C à Racquinghem. Un contraste thermique se dessine entre le littoral et l'intérieur des terres, où les valeurs sont légèrement plus élevées.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
-🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (dimanche 4 octobre 2026)
+🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (lundi 5 octobre 2026)
 
 🌴 Dunkerque / Malo-les-Bains / Bray-Dunes
-☀️ Influence anticyclonique calme assurant un temps sec et modérément doux sur la côte. Températures de 10°C le matin à 23°C l'après-midi.
+☀️ Influence anticyclonique calme assurant un temps sec et modérément doux sur la côte. Températures de 9°C le matin à 23°C l'après-midi.
 🌊 Température de l’eau : 17°C à 18°C
 
 🌴 Le Touquet / Berck / Baie de Somme
-☀️ Ambiance agréable sur le littoral ce dimanche. Maximales atteignant 24°C sur le sable.
+☀️ Ambiance agréable sur le littoral ce lundi. Maximales atteignant 24°C sur le sable.
 🌊 Température de l’eau : 18°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE – CÔTE D’OPALE & MER DU NORD (dimanche 4 octobre 2026)
+🌊 MÉTÉO MARINE – CÔTE D’OPALE & MER DU NORD (lundi 5 octobre 2026)
 
 📍 Zones : Dunkerque • Calais • Boulogne-sur-Mer • Le Touquet
 
 ☀️ Situation générale : Influence anticyclonique calme assurant un temps sec et modérément doux.
-🌬️ Vent : Vent de Nord-Est modéré (15 km/h) ce dimanche.
+🌬️ Vent : Vent de Nord-Est modéré (15 km/h) ce lundi.
 🌊 État de la mer : Mer peu agitée (vagues 0.4m à 0.8m), idéale pour les activités nautiques.
 ⚠️ Visibilité : Bonne sur l'ensemble du littoral.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
-🌧️ Pluies & Humidité : Temps sec sur la région ce dimanche avec maintien de la sécheresse de surface.
-🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce dimanche. Aucun coup de vent à craindre.
-⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce dimanche.
+🌧️ Pluies & Humidité : Temps sec sur la région ce lundi avec maintien de la sécheresse de surface.
+🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce lundi. Aucun coup de vent à craindre.
+⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce lundi.
 🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement.
 🏔️ Météo montagne
 
-    Alpes : Chaleur marquée en vallée ce dimanche et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.
+    Alpes : Chaleur marquée en vallée ce lundi et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.
 
-    Pyrénées : Soleil dominant en matinée de ce dimanche, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce lundi.
+    Pyrénées : Soleil dominant en matinée de ce lundi, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce mardi.
 
-    Massif central : Ambiance lourde et estivale ce dimanche. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.
+    Massif central : Ambiance lourde et estivale ce lundi. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.
 
-    Vosges : Temps très chaud et généreusement ensoleillé ce dimanche. Quelques nuages de beau temps l'après-midi sans intempérie.
+    Vosges : Temps très chaud et généreusement ensoleillé ce lundi. Quelques nuages de beau temps l'après-midi sans intempérie.
 
-    Jura : Chaleur estivale et soleil dominant ce dimanche, avant quelques passages nuageux inoffensifs en soirée.
+    Jura : Chaleur estivale et soleil dominant ce lundi, avant quelques passages nuageux inoffensifs en soirée.
 
-    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du dimanche 4 octobre 2026.
+    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du lundi 5 octobre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-▶ mardi 6 octobre : Le soleil reste généreux avec un temps sec et ensoleillé sur l’ensemble de la région. Les températures maximales grimperont jusqu’à 24°C, pour des minimales comprises entre 6 et 14°C. Le vent sera faible, de 5 à 10 km/h, offrant une journée calme et lumineuse.
+▶ mercredi 7 octobre : Le ciel se charge fortement avec l'arrivée d'une perturbation active. Des pluies modérées à fortes arrosent la région, notamment sur le littoral où les cumuls atteignent près de 10 mm. Le vent se renforce nettement avec des rafales de 50 à 70 km/h, et les températures maximales chutent entre 17°C et 21°C.
 
-▶ mercredi 7 octobre : Une dégradation notable avec l’arrivée d’un vent fort, avec des rafales pouvant atteindre 65 km/h. Des précipitations parfois abondantes sont attendues, avec des cumuls de pluie pouvant dépasser 15 mm localement. Les températures maximales baisseront, ne dépassant pas 18°C.
+▶ jeudi 8 octobre : La dégradation s'accentue avec un temps très agité. Des pluies parfois soutenues persistent, avec des cumuls localement importants dépassant les 20 mm à Leffrinckoucke. Le vent souffle en tempête sur les côtes, avec des rafales atteignant 75 km/h à Gravelines. Les maximales baissent sensiblement, ne dépassant pas 14°C à 16°C.
 
-▶ jeudi 8 octobre : Le temps reste perturbé avec un vent encore soutenu, des rafales jusqu’à 65 km/h. Les précipitations seront moins généralisées mais encore possibles, et les températures continueront de baisser, avec des maximales de 13 à 16°C. Une journée fraîche et venteuse.
+▶ vendredi 9 octobre : Le temps reste instable et humide, avec des averses encore fréquentes sur l'ensemble du territoire. Les cumuls de pluie restent significatifs, atteignant 14,7 mm à Lefaux. Le vent faiblit légèrement mais reste soutenu, avec des rafales de 40 à 55 km/h. Les températures maximales peinent à grimper, oscillant entre 14°C et 17°C.
 
 
 --------------------------------------------------------------------------------
@@ -242,57 +236,55 @@ Ce dimanche après-midi, un temps pleinement ensoleillé s'impose sur l'ensemble
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce dimanche matin, le ciel se montre généreux sur l'ensemble de la région, offrant un soleil dominant et éclatant. Aucune précipitation n'est à signaler. Les températures minimales sont douces pour la saison, avec 10°C à Lille et Valenciennes, 12°C à Maubeuge et Douai, et 13°C à St-Hilaire-sur-Helpe et Steenvoorde. Le vent souffle faiblement, autour de 10 à 15 km/h, sans impact notable. Les conditions météorologiques sont calmes et agréables sur tout le territoire.
+Ce lundi matin, le soleil domine l'ensemble de la région, offrant un ciel dégagé et lumineux. Les températures minimales s'établissent entre 9°C à Lille et Valenciennes, et 13°C à Steenvoorde, tandis que Dunkerque enregistre 11°C. Le vent, léger, souffle généralement autour de 10 km/h sur la plupart des localités, avec des pointes à 5 km/h sur Lille et Valenciennes. Aucune précipitation n'est à signaler, et l'atmosphère reste calme.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce dimanche après-midi, la région bénéficie d'un ensoleillement généreux et dominant sur l'ensemble des départements. Le ciel se maintient dégagé, sans aucune formation nuageuse significative. Les températures maximales atteignent 24°C à Maubeuge, 23°C à Lille et Valenciennes, tandis que Steenvoorde et Watten enregistrent 20°C. Le vent souffle faiblement, autour de 10 à 15 km/h, sans impact notable sur les conditions météorologiques. Aucune précipitation n'est attendue.
+Ce lundi après-midi, le soleil dominera largement sur l'ensemble de la région, offrant un ciel dégagé et lumineux. Aucune précipitation n'est à signaler. Le vent soufflera faiblement, avec des vitesses ne dépassant pas les 10 km/h, notamment à St-Hilaire-sur-Helpe et Douai. Les températures maximales afficheront 24°C à St-Hilaire-sur-Helpe, 23°C à Lille et Valenciennes, tandis que Steenvoorde connaîtra une maximale de 20°C. Les températures resteront agréables, avec un léger contraste entre le littoral et l'intérieur des terres, où les valeurs seront légèrement plus élevées.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
-🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (dimanche 4 octobre 2026)
+🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (lundi 5 octobre 2026)
 
 🌴 Dunkerque / Malo-les-Bains / Bray-Dunes
 ☀️ Influence anticyclonique calme assurant un temps sec et modérément doux sur la côte. Températures de 11°C le matin à 24°C l'après-midi.
 🌊 Température de l’eau : 17°C à 18°C
 
 🌴 Le Touquet / Berck / Baie de Somme
-☀️ Ambiance agréable sur le littoral ce dimanche. Maximales atteignant 25°C sur le sable.
+☀️ Ambiance agréable sur le littoral ce lundi. Maximales atteignant 25°C sur le sable.
 🌊 Température de l’eau : 18°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE – CÔTE D’OPALE & MER DU NORD (dimanche 4 octobre 2026)
+🌊 MÉTÉO MARINE – CÔTE D’OPALE & MER DU NORD (lundi 5 octobre 2026)
 
 📍 Zones : Dunkerque • Calais • Boulogne-sur-Mer • Le Touquet
 
 ☀️ Situation générale : Influence anticyclonique calme assurant un temps sec et modérément doux.
-🌬️ Vent : Vent de Nord-Est modéré (15 km/h) ce dimanche.
-🌊 État de la mer : Mer peu agitée (vagues 0.4m à 0.8m), idéale pour les activités nautiques.
+🌬️ Vent : Vent de Nord-Est modéré (10 km/h) ce lundi.
+🌊 État de la mer : Mer belle et calme (vagues < 0.4m), excellente pour la baignade.
 ⚠️ Visibilité : Bonne sur l'ensemble du littoral.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
-🌧️ Pluies & Humidité : Temps sec sur la région ce dimanche avec maintien de la sécheresse de surface.
-🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce dimanche. Aucun coup de vent à craindre.
-⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce dimanche.
+🌧️ Pluies & Humidité : Temps sec sur la région ce lundi avec maintien de la sécheresse de surface.
+🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce lundi. Aucun coup de vent à craindre.
+⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce lundi.
 🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement.
 🏔️ Météo montagne
 
-    Alpes : Chaleur marquée en vallée ce dimanche et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.
+    Alpes : Chaleur marquée en vallée ce lundi et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.
 
-    Pyrénées : Soleil dominant en matinée de ce dimanche, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce lundi.
+    Pyrénées : Soleil dominant en matinée de ce lundi, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce mardi.
 
-    Massif central : Ambiance lourde et estivale ce dimanche. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.
+    Massif central : Ambiance lourde et estivale ce lundi. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.
 
-    Vosges : Temps très chaud et généreusement ensoleillé ce dimanche. Quelques nuages de beau temps l'après-midi sans intempérie.
+    Vosges : Temps très chaud et généreusement ensoleillé ce lundi. Quelques nuages de beau temps l'après-midi sans intempérie.
 
-    Jura : Chaleur estivale et soleil dominant ce dimanche, avant quelques passages nuageux inoffensifs en soirée.
+    Jura : Chaleur estivale et soleil dominant ce lundi, avant quelques passages nuageux inoffensifs en soirée.
 
-    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du dimanche 4 octobre 2026.
+    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du lundi 5 octobre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-▶ mardi 6 octobre : Le soleil continue de briller avec des températures encore estivales, de 19 à 24°C selon les secteurs. Le vent est faible, de 10 km/h, et aucune précipitation n'est attendue. Une belle journée en perspective.
-
-▶ mercredi 7 octobre : Le temps se dégrade nettement avec l'arrivée de pluies modérées et un vent qui se renforce, notamment sur le littoral avec des rafales jusqu'à 65 km/h. Les températures baissent, maximales entre 17 et 19°C. Prudence sur les routes et en bord de mer.
-
-▶ jeudi 8 octobre : La perturbation s'installe durablement avec des pluies parfois soutenues et un vent encore fort, rafales atteignant 55 à 65 km/h. Les températures chutent encore, ne dépassant pas 13 à 15°C. Une journée très automnale.
+▶ mercredi 7 octobre : Le ciel se voile progressivement avec l’arrivée de nuages porteurs d’averses, notamment sur le nord-ouest de la région. Les températures maximales baissent légèrement, de 17°C à Douai à 22°C à Saint-Hilaire-sur-Helpe, tandis que le vent se renforce jusqu’à 15-20 km/h. Des pluies faibles à modérées sont attendues localement, avec des cumuls pouvant atteindre 11 mm à Saint-Hilaire-sur-Helpe.
+▶ jeudi 8 octobre : Une dégradation marquée s’installe avec un vent fort, jusqu’à 30 km/h et des rafales proches de 65 km/h sur le littoral. Les températures chutent nettement, ne dépassant pas 13-15°C, et des pluies abondantes touchent toute la région, avec des cumuls de 10 à 23 mm selon les secteurs. Le ciel reste très nuageux et les averses fréquentes.
+▶ vendredi 9 octobre : Le temps reste instable et humide, avec des averses encore présentes, mais moins intenses que la veille. Les températures maximales peinent à grimper, de 11°C à Troisvilles à 16°C à Steenvoorde, et le vent souffle entre 20 et 25 km/h, avec des rafales jusqu’à 55 km/h sur la côte. Les cumuls de pluie attendus sont de 6 à 9 mm.
 
 
 --------------------------------------------------------------------------------
@@ -304,54 +296,54 @@ Ce dimanche après-midi, la région bénéficie d'un ensoleillement généreux e
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce dimanche matin, la Normandie se réveille sous un ciel dégagé et un soleil dominant sur l'ensemble de la région. Aucune précipitation n'est à signaler. Les températures minimales affichent 8°C à Rouen et Dieppe, 10°C à Caen et Évreux, et 14°C au Havre. Un vent léger souffle uniformément sur la région, avec des vitesses avoisinant les 10 à 15 km/h. Le contraste thermique entre le littoral et l'intérieur des terres reste modéré ce matin.
+Ce lundi matin, la Normandie se réveille sous des conditions météorologiques contrastées. Le soleil domine largement sur l'ouest de la région, notamment à Caen où le thermomètre affiche 10°C, à Cherbourg avec 12°C, et à Evreux où il fait 9°C. Un ciel peu nuageux est observé sur le Nord-Cotentin et Fécamp. Cependant, des nuages plus nombreux sont présents sur l'est, avec un ciel très nuageux au Havre et à Rouen, où la température minimale est de 6°C. Le vent reste faible sur l'ensemble du territoire, n'excédant pas les 10 km/h. Aucune précipitation n'est à signaler pour cette matinée.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce dimanche après-midi, la Normandie bénéficie d'un temps ensoleillé sur l'ensemble de la région. Le ciel reste dégagé et lumineux, sans aucune précipitation à signaler. Les températures maximales affichent 25°C à Évreux, 23°C à Rouen et Lisieux, et 20°C au Havre. Un léger vent souffle sur la région, avec des vitesses de 10 à 15 km/h, sans aucune rafale notable. Les conditions météorologiques sont donc idéales pour cette fin de week-end d'octobre, avec un contraste thermique marqué entre l'intérieur des terres et le littoral.
+Ce lundi après-midi, la Normandie bénéficie d'un temps généralement ensoleillé. Le soleil domine largement sur l'ensemble de la région, notamment à Caen, Cherbourg, Evreux et Lisieux où les maximales atteignent respectivement 22°C, 23°C, 25°C et 25°C. Quelques nuages plus nombreux sont observés sur le littoral de la Seine-Maritime, avec un ciel très nuageux au Havre où la température maximale est de 20°C, et à Rouen où il fait 23°C. Le vent reste faible, soufflant autour de 5 à 10 km/h sur l'ensemble du territoire normand. Aucune précipitation n'est à signaler pour cette période.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
-🏖️ MÉTÉO DES PLAGES – CÔTE D’ALBÂTRE & MANCHE (dimanche 4 octobre 2026)
+🏖️ MÉTÉO DES PLAGES – CÔTE D’ALBÂTRE & MANCHE (lundi 5 octobre 2026)
 
 🌴 Le Havre / Deauville / Cabourg
-☀️ Temps agréable ce dimanche. Températures sur les plages : 10°C à 25°C.
+☀️ Temps agréable ce lundi. Températures sur les plages : 8°C à 25°C.
 🌊 Température de l’eau : 18°C à 19°C
 
 🌴 Dieppe / Fécamp / Cherbourg
-☀️ Belle luminosité ce dimanche, brise littorale rafraîchissante avec maximales de 25°C.
+☀️ Belle luminosité ce lundi, brise littorale rafraîchissante avec maximales de 25°C.
 🌊 Température de l’eau : 18°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE – MANCHE & LITTORAL NORMAND (dimanche 4 octobre 2026)
+🌊 MÉTÉO MARINE – MANCHE & LITTORAL NORMAND (lundi 5 octobre 2026)
 
 📍 Zones : Baie de Seine • Le Havre • Fécamp • Dieppe • Cherbourg
 
 ☀️ Situation générale : Influence anticyclonique calme assurant un temps sec et modérément doux.
-🌬️ Vent : Vent modéré de Nord-Est (15 km/h) ce dimanche.
-🌊 État de la mer : Mer peu agitée (vagues 0.4m à 0.8m), idéale pour les activités nautiques.
+🌬️ Vent : Vent modéré de Nord-Est (10 km/h) ce lundi.
+🌊 État de la mer : Mer belle et calme (vagues < 0.4m), excellente pour la baignade.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
-🌧️ Pluies & Humidité : Temps sec sur la région ce dimanche avec maintien de la sécheresse de surface.
-🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce dimanche. Aucun coup de vent à craindre.
-⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce dimanche.
+🌧️ Pluies & Humidité : Temps sec sur la région ce lundi avec maintien de la sécheresse de surface.
+🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce lundi. Aucun coup de vent à craindre.
+⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce lundi.
 🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement.
 🏔️ Météo montagne
 
-    Alpes : Chaleur marquée en vallée ce dimanche et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.
+    Alpes : Chaleur marquée en vallée ce lundi et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.
 
-    Pyrénées : Soleil dominant en matinée de ce dimanche, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce lundi.
+    Pyrénées : Soleil dominant en matinée de ce lundi, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce mardi.
 
-    Massif central : Ambiance lourde et estivale ce dimanche. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.
+    Massif central : Ambiance lourde et estivale ce lundi. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.
 
-    Vosges : Temps très chaud et généreusement ensoleillé ce dimanche. Quelques nuages de beau temps l'après-midi sans intempérie.
+    Vosges : Temps très chaud et généreusement ensoleillé ce lundi. Quelques nuages de beau temps l'après-midi sans intempérie.
 
-    Jura : Chaleur estivale et soleil dominant ce dimanche, avant quelques passages nuageux inoffensifs en soirée.
+    Jura : Chaleur estivale et soleil dominant ce lundi, avant quelques passages nuageux inoffensifs en soirée.
 
-    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du dimanche 4 octobre 2026.
+    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du lundi 5 octobre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-▶ mardi 6 octobre : Le soleil poursuit sa domination sur toute la région avec des températures encore très élevées pour la saison, de 22°C à 26°C selon les secteurs. Les minimales restent douces, notamment sur le littoral avec 15°C à Cherbourg, le vent est faible et les précipitations insignifiantes.
+▶ mercredi 7 octobre : Une dégradation brutale s'annonce avec l'arrivée d'une perturbation active. Le ciel devient très nuageux à couvert sur l'ensemble de la région, accompagné de pluies modérées à fortes (10 à 17 mm selon les secteurs). Le vent se renforce nettement, atteignant 25 à 30 km/h avec des rafales jusqu'à 60 km/h sur le littoral. Les températures maximales plafonnent entre 18 et 21°C.
 
-▶ mercredi 7 octobre : La dégradation est brutale et généralisée avec un ciel devenant très nuageux et des pluies parfois soutenues, de 5 à 16 mm selon les villes. Les températures chutent de près de 8 degrés, atteignant à peine 17°C à Rouen, avec un vent qui se renforce nettement, jusqu'à 25 km/h et des rafales possibles de 55 km/h sur le Cotentin.
+▶ jeudi 8 octobre : Le temps reste instable mais les précipitations se font plus éparses, avec des averses résiduelles surtout sur le littoral (0 à 2,7 mm). Le vent souffle encore fort, de 20 à 30 km/h avec des rafales jusqu'à 55 km/h. Les maximales baissent sensiblement, de 13°C à Dieppe à 16°C à Caen et Alençon.
 
-▶ jeudi 8 octobre : Le ciel reste chargé mais les pluies s'estompent, ne laissant que quelques traces sur le littoral et l'est de la région. Les températures baissent encore, avec des maximales de 14°C à Dieppe à 16°C à Alençon, sous un vent modéré de 20 à 25 km/h avec des rafales de 45 à 50 km/h.
+▶ vendredi 9 octobre : Une légère accalmie s'installe avec un ciel variable alternant éclaircies et passages nuageux. Quelques averses faibles persistent, notamment sur le littoral (0,6 à 3 mm). Le vent faiblit un peu, de 20 à 25 km/h avec des rafales jusqu'à 50 km/h. Les températures restent fraîches, avec des minimales descendant à 6°C à Rouen et Lisieux, et des maximales de 15 à 17°C.
 
