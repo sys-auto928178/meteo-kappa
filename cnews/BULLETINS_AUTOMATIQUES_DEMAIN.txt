@@ -13,10 +13,10 @@ FICHIER SOURCE : /home/runner/work/meteo-kappa/meteo-kappa/cnews/BULLETINS_AUTOM
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce jeudi matin, la France se réveille sous un ciel partagé. Des averses sont attendues sur les Hauts-de-France, notamment à Lille où 19 mm de pluie sont relevés, avec des rafales de vent atteignant 60 km/h. Des pluies faibles touchent également Nantes et Paris, où le soleil tente de percer. Ailleurs, de belles éclaircies dominent, notamment de la Bretagne à la Normandie, avec des températures minimales de 7°C à Rennes, 9°C à Paris et 10°C à Brest. Le vent reste modéré sur l'ensemble du territoire.
+Ce jeudi matin, la France se réveille sous des cieux contrastés. Le Nord-Pas-de-Calais est particulièrement arrosé, avec de fortes pluies sur Lille où le vent souffle à 30 km/h avec des rafales atteignant 60 km/h. Des averses sont également signalées sur Nantes, tandis que Paris bénéficie d'un soleil dominant malgré un vent modéré. Plus à l'ouest, de la Bretagne à la Normandie, des éclaircies se dessinent, comme à Brest et Caen, où le vent reste modéré. Les températures minimales affichent 9°C à Paris, 10°C à Lille, et 7°C à Rennes, marquant une certaine fraîcheur matinale sur l'intérieur des terres.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce jeudi après-midi, le ciel se montrera variable sur une large partie du pays. Des averses parfois soutenues sont attendues sur les Hauts-de-France, notamment à Lille où 19 mm de pluie sont prévus, avec un vent atteignant 25 km/h et des rafales à 60 km/h. Des averses plus faibles toucheront également la région nantaise. À Paris, le soleil dominera, tandis que le ciel sera peu nuageux de la Normandie à la Bretagne, avec des températures maximales de 17°C à Rouen et Brest. Les vents resteront modérés sur l'ensemble du territoire.
+Ce jeudi après-midi, le temps s'annonce contrasté sur le pays. Le nord-ouest et le nord-est seront sous l'influence de passages nuageux, avec des averses parfois soutenues. Lille et Nantes connaîtront des averses, accompagnées de rafales de vent atteignant 60 km/h pour la première. Le vent soufflera également sur les côtes bretonnes, avec des rafales autour de 50 km/h. Le centre du pays et le sud bénéficieront d'un temps plus clément, avec un soleil dominant. Les températures maximales afficheront 16°C à Paris, 17°C à Rouen et 20°C à Rennes.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce jeudi avec maintien de la sécheresse de surface.
@@ -38,11 +38,11 @@ Ce jeudi après-midi, le ciel se montrera variable sur une large partie du pays.
     Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du jeudi 8 octobre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-▶ samedi 10 octobre : Un temps calme et peu nuageux s’installe sur la majeure partie du pays. Quelques averses résiduelles touchent encore Laon (2,2 mm) et Nantes (3,3 mm), mais le soleil domine largement ailleurs. Les températures sont douces, de 9°C le matin à 21°C l’après-midi à Rennes, avec un vent modéré de 20 à 25 km/h.
+▶ samedi 10 octobre : Le ciel reste partagé. Les régions du nord et de l'ouest connaissent encore des averses, notamment sur Lille et Nantes, avec un vent soutenu (rafales jusqu'à 55 km/h). Ailleurs, le temps s'améliore avec des éclaircies et des températures maximales de 16°C à 21°C, de Rennes à Tours.
 
-▶ dimanche 11 octobre : Le ciel devient plus variable, avec des passages nuageux sur le nord et le centre. Des pluies faibles sont possibles à Laon, Rouen et Paris (0,3 à 0,6 mm), mais l’ouest reste sec et lumineux. Les maximales atteignent 17 à 18°C, le vent faiblit nettement (5 à 15 km/h).
+▶ dimanche 11 octobre : Une accalmie s'installe sur la majeure partie du territoire. Les nuages dominent sur le nord et l'ouest, mais les précipitations deviennent rares. Le vent faiblit nettement (5 à 15 km/h). Les maximales restent douces, entre 16°C et 18°C, avec un ressenti agréable.
 
-▶ lundi 12 octobre : La journée débute sous un ciel souvent couvert, surtout sur l’ouest où le vent se renforce avec des rafales jusqu’à 50 km/h à Brest et 2,7 mm de pluie. Ailleurs, le temps reste sec et les éclaircies percent, avec des températures maximales de 17 à 20°C. Le vent modéré souffle de 10 à 25 km/h.
+▶ lundi 12 octobre : Le retour d'un temps plus sec et lumineux. Le soleil reprend ses droits sur l'ensemble du pays, sauf en Bretagne où quelques averses sont possibles (Brest, 3,6 mm). Les températures grimpent jusqu'à 20°C dans l'ouest et le centre. Le vent reste modéré, avec des rafales jusqu'à 50 km/h sur le Finistère.
 
 
 --------------------------------------------------------------------------------
@@ -54,10 +54,14 @@ Ce jeudi après-midi, le ciel se montrera variable sur une large partie du pays.
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce jeudi matin, la région est partagée entre des éclaircies et des passages pluvieux. Des pluies faibles à fortes s'invitent notamment sur Lille (10°C), Roubaix (10°C), St-Hilaire-sur-Helpe (10°C), Valenciennes (10°C) et Steenvoorde (12°C). Le vent souffle modérément, atteignant 60 km/h en rafales sur la plupart des localités. Une vigilance est de mise sur le littoral de Dunkerque (10°C), où les rafales peuvent atteindre 75 km/h. L'intérieur des terres, comme à Troisvilles (9°C), Maubeuge (10°C), Douai (10°C) et Watten (9°C), profite d'un ciel plus dégagé avec un soleil dominant, malgré quelques nuages pour Dunkerque.
+Ce jeudi matin, la région est partagée entre éclaircies et passages nuageux, accompagnés d'averses. Les températures minimales s'échelonnent de 9°C à Troisvilles et Watten à 10°C à St-Hilaire-sur-Helpe, Valenciennes, Maubeuge, Douai, Lille, Roubaix et Dunkerque, et jusqu'à 12°C à Steenvoorde.
+
+Des averses se déclenchent sur plusieurs secteurs, notamment à St-Hilaire-sur-Helpe, Valenciennes, Lille, Roubaix et Steenvoorde. Le ciel demeure nuageux à Dunkerque, tandis que le soleil domine à Troisvilles, Maubeuge, Douai et Watten.
+
+Le vent souffle de manière modérée sur l'ensemble du territoire, avec des rafales atteignant 75 km/h à Dunkerque, justifiant une vigilance particulière sur le littoral. Ailleurs, les rafales demeurent sous le seuil des 70 km/h, avec 55 km/h à St-Hilaire-sur-Helpe et Steenvoorde, et 60 km/h à Valenciennes, Maubeuge, Douai, Lille et Roubaix.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce jeudi après-midi, le ciel reste majoritairement couvert sur la région, avec des passages pluvieux marqués. Des averses parfois soutenues sont attendues sur une large partie du territoire, notamment à Lille où la maximale atteindra 16°C, et à Roubaix avec également 16°C. Plus à l'intérieur des terres, Maubeuge et Douai connaîtront un ciel couvert avec des températures avoisinant les 15°C. Les pluies seront particulièrement importantes sur ces secteurs. Le vent soufflera modérément, avec des rafales pouvant atteindre 60 km/h sur la plupart des villes. Cependant, une vigilance est de mise sur le littoral, notamment à Dunkerque, où les rafales de vent pourront atteindre 75 km/h, accompagnées d'un ciel nuageux et d'une maximale de 15°C.
+Ce jeudi après-midi, le temps s'annonce mitigé sur la région. Des averses sont attendues sur une grande partie du territoire, notamment à St-Hilaire-sur-Helpe et Valenciennes où le ciel sera nuageux avec des précipitations. Les températures maximales atteindront 14°C à St-Hilaire-sur-Helpe et Maubeuge, 15°C à Valenciennes et Dunkerque, et jusqu'à 16°C à Lille et Roubaix. Le vent soufflera modérément, avec des rafales pouvant atteindre 75 km/h à Dunkerque, nécessitant une vigilance particulière sur le littoral. Dans l'intérieur des terres, les rafales se maintiendront entre 55 et 65 km/h. Quelques éclaircies pourront percer par intermittence, notamment à Troisvilles, Maubeuge, Douai et Watten, où le soleil dominera.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
 🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (jeudi 8 octobre 2026)
@@ -76,7 +80,7 @@ Ce jeudi après-midi, le ciel reste majoritairement couvert sur la région, avec
 📍 Zones : Dunkerque • Calais • Boulogne-sur-Mer • Le Touquet
 
 ☀️ Situation générale : Circulation d'un flux océanique d'ouest perturbé et humide.
-🌬️ Vent : Vent de Nord-Est modéré (40 km/h avec rafales atteignant 75 km/h) ce jeudi.
+🌬️ Vent : Vent de Nord-Est modéré (35 km/h avec rafales atteignant 75 km/h) ce jeudi.
 🌊 État de la mer : Mer peu agitée à agitée au large (vagues 0.8m à 1.3m), prudence pour la baignade.
 ⚠️ Visibilité : Bonne sur l'ensemble du littoral.
 
@@ -100,9 +104,11 @@ Ce jeudi après-midi, le ciel reste majoritairement couvert sur la région, avec
     Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du jeudi 8 octobre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-▶ samedi 10 octobre : Le ciel reste mitigé avec des passages nuageux et quelques averses éparses, notamment sur le sud de la région. Les températures oscillent entre 9°C et 17°C, avec un vent modéré de 20 à 30 km/h et des rafales jusqu'à 55 km/h. Le littoral conserve un temps plus sec mais toujours venté.
-▶ dimanche 11 octobre : Une accalmie s'installe avec un ciel variable et des éclaircies de plus en plus larges. Les températures baissent légèrement, de 8°C à 16°C, et le vent faiblit nettement, ne dépassant pas 25 km/h. Quelques rares gouttes restent possibles sur les hauteurs du Nord.
-▶ lundi 12 octobre : Le soleil reprend ses droits sur l'ensemble du territoire avec un ciel dégagé et un temps sec. Les températures remontent doucement, de 4°C à 18°C selon les secteurs, pour un vent très faible. Une belle journée d'automne s'annonce.
+▶ samedi 10 octobre : Le ciel reste très variable avec des averses éparses sur l’ensemble du territoire, parfois modérées. Les températures minimales sont comprises entre 9°C et 12°C, les maximales atteignent 16°C à 17°C. Le vent souffle modérément, avec des rafales de 40 à 55 km/h, surtout près des côtes.
+
+▶ dimanche 11 octobre : La matinée est souvent nuageuse, mais les précipitations deviennent rares, laissant place à des éclaircies l’après-midi. Les minimales baissent légèrement, de 7°C à 11°C, pour des maximales de 14°C à 16°C. Le vent faiblit, avec des rafales ne dépassant pas 40 km/h sur le littoral.
+
+▶ lundi 12 octobre : Le temps s’améliore nettement avec un ciel peu nuageux à clair sur la majeure partie de la région. Aucune pluie n’est attendue. Les températures minimales sont fraîches, de 5°C à 11°C, tandis que les maximales grimpent jusqu’à 17°C ou 18°C dans l’intérieur. Le vent devient faible, de 10 à 20 km/h.
 
 
 --------------------------------------------------------------------------------
@@ -114,14 +120,10 @@ Ce jeudi après-midi, le ciel reste majoritairement couvert sur la région, avec
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce jeudi matin, la région connaît un temps majoritairement ensoleillé. Les températures minimales s'établissent autour de 9°C à Jarnac et Montbron, 10°C à La Rochelle et Blanzac-Porcheresse, et 12°C à La Couronne, Soyaux et Angoulême.
-
-Le soleil domine sur l'ensemble de l'intérieur des terres, de Gond-Pontouvre à Angoulême, en passant par Cognac, où le ciel est dégagé. Sur le littoral, Chassiron bénéficie d'un soleil éclatant. Quelques nuages isolés sont observés à La Rochelle, où le ciel est peu nuageux, ainsi qu'à Jarnac et Montbron, où le temps est nuageux.
-
-Le vent souffle modérément, atteignant 25 km/h à La Rochelle, avec des rafales maximales de 55 km/h. Sur Chassiron, le vent est plus soutenu, avec une vitesse de 45 km/h et des rafales pouvant atteindre 60 km/h. Ailleurs, les vents sont plus faibles, autour de 20 à 25 km/h, avec des rafales ne dépassant pas les 40 km/h. Aucune précipitation n'est signalée, à l'exception de faibles traces de pluie à Chassiron et Montbron.
+Ce jeudi matin, le temps se montre contrasté sur la région. Le littoral charentais-maritime, notamment autour de La Rochelle où le mercure affiche 10°C, connaît un ciel nuageux avec quelques averses faibles. Le vent y souffle modérément, atteignant 25 km/h avec des rafales de 50 km/h. Plus à l'ouest, à Chassiron, le soleil domine avec 14°C, mais le vent est plus soutenu, 45 km/h et des rafales à 60 km/h. Dans l'intérieur des terres, de Gond-Pontouvre (12°C) à Angoulême (12°C), le soleil s'impose largement, avec un vent plus faible, autour de 20 km/h. Quelques nuages voilent le ciel sur le sud-est de la Charente.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce jeudi après-midi, le temps s'annonce majoritairement ensoleillé sur l'ensemble de la région. Le soleil dominera largement le ciel, notamment à Gond-Pontouvre et Angoulême où les températures atteindront 19°C. Quelques rares nuages, sans conséquence, pourront voiler très légèrement l'astre solaire par endroits, comme à La Rochelle avec 18°C ou Montbron où le mercure affichera 16°C. Le vent soufflera modérément, avec des vitesses de 20 à 25 km/h dans l'intérieur des terres, et jusqu'à 45 km/h près de Chassiron, où des rafales de 60 km/h sont prévues, générant une brise côtière sensible. Aucune précipitation n'est attendue.
+Ce jeudi après-midi, la Charente-Maritime et la Charente bénéficient d'un temps majoritairement ensoleillé. Le soleil domine largement sur l'ensemble du territoire, notamment à Angoulême, Cognac et Jarnac où les températures atteignent respectivement 19°C, 18°C et 18°C. Seule La Rochelle connaît un ciel plus nuageux, avec une maximale de 18°C et de faibles averses isolées, totalisant 0.1 mm de pluie. Le vent souffle modérément, avec des vitesses avoisinant les 20 à 25 km/h dans l'intérieur des terres. Sur le littoral, à Chassiron, le vent est plus soutenu, atteignant 45 km/h avec des rafales jusqu'à 60 km/h.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
 🏖️ MÉTÉO DES PLAGES – LITTORAL CHARENTAIS (jeudi 8 octobre 2026)
@@ -164,11 +166,9 @@ Ce jeudi après-midi, le temps s'annonce majoritairement ensoleillé sur l'ensem
     Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du jeudi 8 octobre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-▶ samedi 10 octobre : Le ciel se voile légèrement sur l'ensemble de la région avec des passages nuageux parfois soutenus. Les températures restent douces, oscillant entre 13°C et 21°C, avec un vent modéré atteignant 35 km/h sur le littoral. Quelques faibles pluies sont possibles, notamment sur le secteur de La Rochelle.
-
-▶ dimanche 11 octobre : Le temps s'améliore nettement avec un retour d'un soleil généreux sur la majeure partie du territoire. Les températures maximales restent stables, comprises entre 17°C et 20°C, tandis que le vent faiblit considérablement, ne dépassant pas 10 km/h. Le ciel demeure toutefois parfois nuageux sur les secteurs de La Rochelle et de l'agglomération angoumoisine.
-
-▶ lundi 12 octobre : Le soleil s'impose à nouveau largement sur l'ensemble de la région, offrant une journée lumineuse et agréable. Les températures maximales progressent légèrement, atteignant 21°C dans l'intérieur des terres. Le vent reste faible à modéré, avec des rafales limitées à 10 km/h. Quelques averses isolées pourraient toutefois se développer en fin de journée sur les secteurs de Cognac et de Jarnac.
+▶ samedi 10 octobre : Le ciel se couvre progressivement avec des averses faibles attendues sur l’ensemble de la région, notamment 2,3 mm à La Rochelle et 0,6 mm à Cognac. Le vent se renforce sur le littoral (35 km/h, rafales 50 km/h) tandis que les températures restent douces, de 13 à 21°C. L’intérieur des terres connaît un temps plus variable avec quelques passages nuageux.
+▶ dimanche 11 octobre : Le temps s’apaise nettement avec un vent très faible (5 à 15 km/h) et un ciel souvent voilé mais sans précipitations. Les minimales chutent localement (6°C à Montbron, 7°C à Jarnac) tandis que les maximales atteignent 17 à 20°C. Le littoral reste plus doux, avec 17°C à Chassiron et un soleil généreux.
+▶ lundi 12 octobre : Le soleil reprend le dessus sur toute la région, avec un ciel dégagé et un vent léger (10-15 km/h). Les températures grimpent nettement : de 8°C le matin à La Rochelle jusqu’à 22°C l’après-midi à Angoulême. Quelques rares averses résiduelles (moins de 1 mm) peuvent encore toucher le sud de la Charente.
 
 
 --------------------------------------------------------------------------------
@@ -180,10 +180,10 @@ Ce jeudi après-midi, le temps s'annonce majoritairement ensoleillé sur l'ensem
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce jeudi matin, le temps se montre contrasté sur la région. Les températures minimales s'établissent entre 8°C à Racquinghem et 12°C à Robecq. Le littoral connaît un début de journée agité avec des averses et un vent soutenu. À Leffrinckoucke, le ciel est nuageux et des averses se déclenchent, accompagnées de rafales atteignant 75 km/h, nécessitant une vigilance particulière. Des pluies plus importantes sont observées à Robecq et Cauchy-à-la-Tour, où les précipitations atteignent respectivement 4.4 mm et 4.5 mm. Dans l'intérieur des terres, le soleil domine largement, notamment à Gravelines, Marck et Racquinghem, où les éclaircies sont généreuses et le vent modéré.
+Ce jeudi matin, le ciel se montre contrasté sur la région. Des averses sont observées, notamment à Leffrinckoucke avec 10°C et à Remilly-Wirquin où le thermomètre affiche 9°C. Robecq connaît même de fortes pluies, avec une minimale de 12°C. Le vent est présent sur le littoral, atteignant 40 km/h à Leffrinckoucke avec des rafales pouvant aller jusqu'à 70 km/h, nécessitant une vigilance particulière. À Gravelines, le vent souffle à 35 km/h avec des rafales de 70 km/h. Dans l'intérieur des terres, comme à Cauchy-à-la-Tour, le soleil domine avec 8°C, et le vent se maintient autour de 30 km/h. Les températures minimales varient de 8°C à Cauchy-à-la-Tour à 12°C à Robecq.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce jeudi après-midi, le temps se montrera contrasté sur la région. Une perturbation active apporte des pluies parfois soutenues sur Robecq, où 4.4 mm sont attendus, et sur Cauchy-à-la-Tour avec 4.5 mm. Des averses sont également prévues à Leffrinckoucke (2.9 mm) et Remilly-Wirquin (0.3 mm). Le vent soufflera fort, notamment sur Leffrinckoucke avec des rafales atteignant 75 km/h, nécessitant une vigilance particulière. Ailleurs, le soleil dominera largement, notamment à Gravelines, Offekerque et Marck, avec des températures maximales de 14°C à Gravelines et Offekerque, et 16°C à Marck et Robecq.
+Ce jeudi après-midi, le ciel présente un visage contrasté sur la région. Des averses parfois soutenues sont attendues. Leffrinckoucke et Remilly-Wirquin connaîtront des averses avec des maximales de 15°C et 14°C respectivement. Robecq sera touchée par de fortes pluies et une température de 16°C. Le littoral, de Gravelines (14°C) à Marck (16°C), bénéficie d'un soleil dominant, malgré un vent de 40 km/h à Leffrinckoucke avec des rafales atteignant 70 km/h. Les températures intérieures des terres sont légèrement plus fraîches, comme à Racquinghem avec 13°C.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
 🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (jeudi 8 octobre 2026)
@@ -202,7 +202,7 @@ Ce jeudi après-midi, le temps se montrera contrasté sur la région. Une pertur
 📍 Zones : Dunkerque • Calais • Boulogne-sur-Mer • Le Touquet
 
 ☀️ Situation générale : Circulation d'un flux océanique d'ouest perturbé et humide.
-🌬️ Vent : Vent de Nord-Est modéré (40 km/h avec rafales atteignant 75 km/h) ce jeudi.
+🌬️ Vent : Vent de Nord-Est modéré (40 km/h avec rafales atteignant 70 km/h) ce jeudi.
 🌊 État de la mer : Mer peu agitée à agitée au large (vagues 0.8m à 1.3m), prudence pour la baignade.
 ⚠️ Visibilité : Bonne sur l'ensemble du littoral.
 
@@ -226,13 +226,11 @@ Ce jeudi après-midi, le temps se montrera contrasté sur la région. Une pertur
     Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du jeudi 8 octobre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-📉 Tendance – 3 jours suivants (samedi 10 octobre au lundi 12 octobre)
+▶ samedi 10 octobre : Le vent reste soutenu sur le littoral avec des rafales jusqu’à 70 km/h à Marck. Le ciel se montre variable, avec quelques faibles pluies résiduelles sur l’intérieur (Robecq, Cauchy-à-la-Tour). Les températures maximales atteignent 17°C à Leffrinckoucke et Marck, pour des minimales de 9°C à Remilly-Wirquin.
 
-▶ samedi 10 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 9°C. L'après-midi, le mercure grimpe jusqu'à 17°C sous abri. Attention aux rafales de vent atteignant 60 km/h.
+▶ dimanche 11 octobre : Le vent faiblit légèrement mais souffle encore à 35 km/h avec des rafales de 70 km/h à Marck. Le temps reste sec et plutôt ensoleillé sur la majorité du territoire, avec un peu de nuages sur Leffrinckoucke et Groffliers. Les maximales plafonnent à 16°C, les minimales descendent à 8°C dans l’intérieur.
 
-▶ dimanche 11 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 7°C. L'après-midi, le mercure grimpe jusqu'à 17°C sous abri. Attention aux rafales de vent atteignant 55 km/h.
-
-▶ lundi 12 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 6°C. L'après-midi, le mercure grimpe jusqu'à 18°C sous abri. Attention aux rafales de vent atteignant 40 km/h.
+▶ lundi 12 octobre : Le vent se calme nettement, avec des rafales ne dépassant pas 40 km/h. Le soleil domine largement, même si quelques passages nuageux sont possibles sur le littoral. Les températures grimpent jusqu’à 18°C à Gravelines et Offekerque, pour des minimales de 7°C à Lefaux et Cauchy-à-la-Tour.
 
 
 --------------------------------------------------------------------------------
@@ -244,10 +242,10 @@ Ce jeudi après-midi, le temps se montrera contrasté sur la région. Une pertur
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce jeudi matin, le ciel se montrera majoritairement couvert sur la région, avec des passages pluvieux notables. Des averses sont attendues sur une large partie du territoire, notamment à Lille où 19 mm de pluie sont relevés, ainsi qu'à Roubaix et Valenciennes où les précipitations atteignent environ 10 mm. Les températures minimales s'établissent autour de 10°C à Lille, 9°C à Troisvilles et 10°C à Maubeuge. Le vent soufflera modérément, avec des rafales pouvant atteindre 60 km/h dans l'intérieur des terres, tandis que sur le littoral, à Dunkerque, des rafales de 75 km/h sont prévues, justifiant une vigilance particulière.
+Ce jeudi matin, le ciel présente un contraste marqué entre le littoral et l'intérieur des terres. Des averses se déclenchent sur plusieurs localités, notamment à St-Hilaire-sur-Helpe et Valenciennes, où les températures minimales s'établissent à 10°C. Lille et Roubaix connaissent également des averses, avec des températures minimales de 10°C. Le vent souffle modérément, atteignant 35 km/h à Dunkerque, avec des rafales pouvant atteindre 75 km/h sur le littoral, nécessitant une vigilance particulière. Dans l'intérieur des terres, comme à Troisvilles et Douai, le soleil domine avec des minimales de 9°C et 10°C respectivement.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce jeudi après-midi, le temps se montrera contrasté sur la région. De nombreuses averses sont attendues sur une grande partie du territoire, notamment à St-Hilaire-sur-Helpe, Valenciennes, Lille, Roubaix et Steenvoorde. Ces averses seront parfois soutenues et accompagnées de pluies significatives. Les maximales atteindront 16°C à Lille et Roubaix, et 15°C à Valenciennes et Maubeuge. Le vent soufflera modérément, avec des rafales atteignant 75 km/h sur le littoral dunkerquois, où le ciel sera nuageux. À l'intérieur des terres, des éclaircies domineront à Troisvilles, Maubeuge, Douai et Watten, avec des températures similaires.
+Ce jeudi après-midi, le ciel se montrera partagé sur la région. Un soleil dominant est attendu sur l'intérieur des terres, notamment à Douai et Maubeuge où les maximales atteindront 15°C et 14°C respectivement. Cependant, une couverture nuageuse plus dense s'imposera sur le littoral et l'ouest, avec des passages très nuageux sur Roubaix (16°C) et Lille (16°C). Des averses éparses sont également prévues sur ces secteurs, notamment à St-Hilaire-sur-Helpe et Valenciennes. Le vent soufflera modérément, avec des rafales atteignant 75 km/h à Dunkerque, justifiant une vigilance particulière sur le littoral.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
 🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (jeudi 8 octobre 2026)
@@ -266,7 +264,7 @@ Ce jeudi après-midi, le temps se montrera contrasté sur la région. De nombreu
 📍 Zones : Dunkerque • Calais • Boulogne-sur-Mer • Le Touquet
 
 ☀️ Situation générale : Circulation d'un flux océanique d'ouest perturbé et humide.
-🌬️ Vent : Vent de Nord-Est modéré (40 km/h avec rafales atteignant 75 km/h) ce jeudi.
+🌬️ Vent : Vent de Nord-Est modéré (35 km/h avec rafales atteignant 75 km/h) ce jeudi.
 🌊 État de la mer : Mer peu agitée à agitée au large (vagues 0.8m à 1.3m), prudence pour la baignade.
 ⚠️ Visibilité : Bonne sur l'ensemble du littoral.
 
@@ -294,9 +292,9 @@ Ce jeudi après-midi, le temps se montrera contrasté sur la région. De nombreu
 
 ▶ samedi 10 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 9°C. L'après-midi, le mercure grimpe jusqu'à 17°C sous abri. Attention aux rafales de vent atteignant 55 km/h.
 
-▶ dimanche 11 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 8°C. L'après-midi, le mercure grimpe jusqu'à 16°C sous abri. Attention aux rafales de vent atteignant 40 km/h.
+▶ dimanche 11 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 7°C. L'après-midi, le mercure grimpe jusqu'à 16°C sous abri. Attention aux rafales de vent atteignant 50 km/h.
 
-▶ lundi 12 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 4°C. L'après-midi, le mercure grimpe jusqu'à 18°C sous abri. Attention aux rafales de vent atteignant 40 km/h.
+▶ lundi 12 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 5°C. L'après-midi, le mercure grimpe jusqu'à 18°C sous abri. Attention aux rafales de vent atteignant 40 km/h.
 
 
 --------------------------------------------------------------------------------
@@ -308,12 +306,10 @@ Ce jeudi après-midi, le temps se montrera contrasté sur la région. De nombreu
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce jeudi matin, la Normandie se réveille sous un ciel partagé entre éclaircies généreuses et passages nuageux. Le soleil domine notamment du côté du Havre et d'Évreux, tandis que des nuages parsèment le ciel de Cherbourg, Caen, Rouen et Dieppe. Quelques averses isolées sont attendues localement, notamment dans le Calvados.
-
-Les températures minimales s'établissent à 7°C à Dieppe, 9°C à Rouen et Évreux, et 11°C à Caen et Le Havre. Le vent sera modéré sur l'ensemble de la région, avec des pointes à 65 km/h au Havre et 60 km/h à Cherbourg. Une vigilance est de mise sur le littoral de Dieppe où les rafales pourront atteindre 70 km/h.
+Ce jeudi matin, la Normandie se réveille sous un ciel partagé. Si le soleil domine largement sur l'Eure et l'est de la Seine-Maritime, avec 9°C à Évreux et 7°C à Dieppe, des passages nuageux plus denses concernent l'ouest de la région. À Caen, où la température minimale atteint 11°C, des averses sont signalées, tandis que Cherbourg, avec 10°C, connaît également un ciel peu nuageux. Le vent, modéré, souffle entre 20 et 35 km/h sur l'ensemble de la région, avec des rafales pouvant atteindre 70 km/h sur le littoral dieppois, nécessitant une vigilance particulière.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce jeudi après-midi, la Normandie bénéficie d'un temps majoritairement ensoleillé. Le soleil domine sur Le Havre et Évreux, tandis que des passages nuageux n'altèrent que peu l'impression de beau temps sur le reste de la région. Aucun phénomène pluvieux n'est à signaler. Les températures maximales atteignent 16°C à Caen et Lisieux, 15°C à Rouen et Le Havre, et 14°C à Dieppe. Le vent souffle modérément, avec des rafales pouvant atteindre 70 km/h sur Dieppe, nécessitant une vigilance particulière sur le littoral.
+Ce jeudi après-midi, la Normandie bénéficie d'un temps majoritairement ensoleillé. Le soleil domine notamment du côté du Havre et d'Évreux, où le ciel apparaît dégagé. Ailleurs, des passages nuageux sont observés, mais ils n'altèrent que très peu l'impression générale de beau temps. Des averses faibles sont toutefois attendues sur Caen, avec 0.2 mm de précipitations. Les températures maximales atteignent 17°C à Alençon, 16°C à Caen et Cherbourg, et 15°C à Rouen et Le Havre. Le vent, de secteur ouest, souffle entre 20 et 35 km/h, avec des rafales pouvant atteindre 70 km/h à Dieppe, nécessitant une vigilance particulière sur le littoral.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
 🏖️ MÉTÉO DES PLAGES – CÔTE D’ALBÂTRE & MANCHE (jeudi 8 octobre 2026)
@@ -355,7 +351,9 @@ Ce jeudi après-midi, la Normandie bénéficie d'un temps majoritairement ensole
     Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du jeudi 8 octobre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-▶ samedi 10 octobre : Un ciel alternant entre éclaircies et passages nuageux, avec un risque d'averses faibles du côté de Rouen, du Havre et de Dieppe. Le vent souffle modérément, avec des rafales pouvant atteindre 55 km/h sur le littoral. Les températures restent douces, de 10 à 18°C.
-▶ dimanche 11 octobre : La journée s'annonce plus nuageuse sur l'ensemble de la région, avec un risque de pluies éparses, notamment sur Le Havre et Cherbourg. Le vent faiblit nettement, devenant léger à modéré. Les maximales perdent un à deux degrés, avec 16°C à 17°C attendus.
-▶ lundi 12 octobre : Le soleil fait son retour, mais un voile nuageux persiste sur les côtes du Havre à Cherbourg. Le vent reste modéré, avec des rafales de 40 km/h sur Dieppe et Lisieux. Les températures grimpent légèrement, atteignant 19°C à Caen et Alençon.
+▶ samedi 10 octobre : Le ciel alterne entre éclaircies et passages nuageux, avec de faibles averses attendues sur Rouen, Le Havre et Lisieux (moins de 1 mm). Les températures maximales oscillent entre 15°C au Havre et 18°C à Lisieux, pour des minimales de 8 à 13°C. Le vent d'ouest souffle entre 20 et 25 km/h, avec des rafales jusqu'à 55 km/h sur le littoral.
+
+▶ dimanche 11 octobre : La journée est dominée par un ciel très nuageux, avec des averses possibles localement (moins de 1 mm). Les maximales baissent légèrement, de 15°C à Dieppe et Rouen à 17°C à Alençon. Le vent s'affaiblit, avec des rafales ne dépassant pas 50 km/h en bord de mer.
+
+▶ lundi 12 octobre : Le soleil fait un retour franc sur l'ensemble de la région, avec un ciel peu nuageux et quasiment aucune précipitation. Les températures grimpent nettement : de 17°C à Dieppe à 19°C à Caen, Cherbourg et Alençon. Le vent modéré de secteur ouest souffle entre 15 et 25 km/h, avec des rafales jusqu'à 40 km/h sur les côtes.
 
