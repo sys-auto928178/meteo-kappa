@@ -13,10 +13,10 @@ FICHIER SOURCE : /home/runner/work/meteo-kappa/meteo-kappa/cnews/BULLETINS_AUTOM
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce vendredi matin, une perturbation active traverse le pays, apportant un ciel souvent très nuageux et des averses généralisées. Des pluies faibles à modérées sont observées sur une grande partie du territoire. Les minimales affichent 7°C à Lille, 3°C à Laon, 8°C à Rouen et 9°C à Brest. Le vent, modéré, souffle entre 20 et 25 km/h sur le nord-ouest, avec des rafales atteignant 55 km/h près de Lille et 50 km/h sur la côte bretonne. Seul le sud-est de la France bénéficie d'un temps plus clément, avec un soleil dominant et des températures plus douces.
+Ce vendredi matin, une perturbation traverse le nord de la France, apportant un ciel nuageux et des averses. À Lille, la minimale est de 7°C avec des averses et un vent modéré de 25 km/h, pouvant atteindre 45 km/h en rafales. Rouen enregistre 9°C et des pluies faibles, sous un vent de 20 km/h avec des rafales jusqu'à 50 km/h. À Paris, le thermomètre indique 6°C, accompagné d'averses et d'un vent léger de 15 km/h. Plus au sud, des éclaircies dominent, notamment en Occitanie et en Provence-Alpes-Côte d'Azur, où le soleil est généreux. En Corse, des orages éclatent, avec des températures minimales de 16°C à 19°C.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce vendredi après-midi, une perturbation pluvieuse s'étendra sur la majeure partie du pays, apportant des averses parfois soutenues. Le Nord-Ouest sera particulièrement touché, avec des averses et un ciel nuageux de Brest (19°C) à Lille (18°C), où des rafales de vent atteindront 55 km/h. Des pluies faibles à modérées sont également prévues sur Paris (18°C) et Laon (15°C). Plus au sud, les averses seront plus éparses, avec quelques éclaircies possibles, notamment vers Rennes (22°C) et Nantes (20°C). Le vent soufflera généralement entre 15 et 25 km/h sur l'ensemble du territoire, avec des rafales pouvant atteindre 50 km/h sur les côtes bretonnes.
+Ce vendredi après-midi, une atmosphère instable persistera sur une grande partie du pays. Des averses parfois soutenues sont attendues sur le nord et l'ouest, notamment de la Bretagne aux Hauts-de-France, avec des cumuls significatifs comme à Lille (9.6 mm). Le vent soufflera modérément, atteignant 55 km/h en rafales sur la côte normande, notamment à Caen. Les températures maximales afficheront 19°C à Lille, 18°C à Paris et 20°C à Rennes. Le ciel restera couvert sur Rouen avec 0.5 mm de pluies faibles. Les régions plus au sud bénéficieront d'un temps plus clément avec des éclaircies.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce vendredi avec maintien de la sécheresse de surface.
@@ -38,11 +38,13 @@ Ce vendredi après-midi, une perturbation pluvieuse s'étendra sur la majeure pa
     Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du vendredi 9 octobre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-▶ dimanche 11 octobre : Le ciel reste partagé avec des passages nuageux sur la moitié nord et un vent de sud-ouest modéré. Les températures maximales grimpent jusqu'à 21°C à Rennes, mais Brest subit des rafales à 55 km/h et 4,8 mm de pluie. Les minimales sont douces, entre 7°C à Tours et 10°C à Brest.
+📉 Tendance – 3 jours suivants (dimanche 11 octobre au mardi 13 octobre)
 
-▶ lundi 12 octobre : Une nouvelle perturbation aborde la Bretagne avec des pluies faibles et un vent toujours actif, jusqu'à 50 km/h en rafales sur Brest. Ailleurs, le temps reste sec et peu nuageux, avec des maximales de 19 à 20°C. Les minimales sont stables, de 6°C à Laon à 11°C à Rouen.
+▶ dimanche 11 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 6°C. L'après-midi, le mercure grimpe jusqu'à 20°C sous abri. Attention aux rafales de vent atteignant 50 km/h.
 
-▶ mardi 13 octobre : Le ciel devient plus variable, avec des nuages et quelques averses éparses sur l'ouest (0,6 mm à Brest, 0,9 mm à Paris). Les températures sont douces, de 18°C à Lille à 22°C à Poitiers. Le vent faiblit, ne dépassant pas 15 km/h sur la plupart des régions.
+▶ lundi 12 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 7°C. L'après-midi, le mercure grimpe jusqu'à 21°C sous abri. Attention aux rafales de vent atteignant 45 km/h.
+
+▶ mardi 13 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 10°C. L'après-midi, le mercure grimpe jusqu'à 23°C sous abri. Le vent souffle de manière modérée.
 
 
 --------------------------------------------------------------------------------
@@ -54,20 +56,20 @@ Ce vendredi après-midi, une perturbation pluvieuse s'étendra sur la majeure pa
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce vendredi matin, le temps se caractérise par une atmosphère instable sur l'ensemble de la région. Des averses se déclenchent notamment sur la côte, avec 10.9 mm de pluie à Dunkerque et 14.8 mm à Roubaix. L'intérieur des terres n'est pas épargné, des pluies faibles sont relevées à Troisvilles (1.1 mm) et Douai (2.9 mm). Les températures minimales affichent 6°C à Maubeuge et 7°C à Lille. Le vent souffle modérément, avec des rafales atteignant 60 km/h à Watten et Dunkerque, et 55 km/h à Valenciennes, Lille et Roubaix.
+Ce vendredi matin, le Nord-Pas-de-Calais est sous l'influence d'un ciel couvert, marqué par de fréquentes averses. Les températures minimales s'établissent à 7°C à Lille et Valenciennes, et 8°C à Dunkerque. Le vent souffle modérément sur l'ensemble de la région, avec des rafales atteignant 60 km/h sur le littoral, notamment à Watten et Dunkerque. Des pluies sont observées, particulièrement intenses à Dunkerque avec 15.4 mm et à Lille avec 9.6 mm. L'intérieur des terres connaît également des précipitations, comme à Douai (3.1 mm) et St-Hilaire-sur-Helpe (1.3 mm).
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce vendredi après-midi, le ciel du Nord-Pas-de-Calais présente un contraste marqué. Les secteurs intérieurs, comme Maubeuge et Douai, bénéficient d'un soleil dominant, avec des températures atteignant respectivement 12°C et 15°C. En revanche, les zones côtières et l'ouest de la région connaissent un temps plus nuageux, avec des averses parfois soutenues. Lille et Roubaix enregistrent des précipitations importantes (10.9 mm et 14.8 mm) sous un ciel nuageux, avec des maximales de 18°C. Le vent souffle modérément, avec des rafales pouvant atteindre 60 km/h à Watten et Dunkerque, où des averses sont également prévues.
+Ce vendredi après-midi, le ciel de la région Nord se partagera entre éclaircies et passages nuageux porteurs d'averses. Des précipitations sont notamment attendues sur le littoral, avec 15.4 mm relevés à Dunkerque où les rafales de vent atteindront 60 km/h. Les averses seront également présentes à Lille (9.6 mm) et Roubaix (7.1 mm), où les maximales atteindront 19°C. À l'intérieur des terres, comme à Douai (15°C) ou Maubeuge (13°C), le soleil sera plus généreux, mais le vent soufflera modérément, avec des rafales pouvant atteindre 50 km/h. Les températures varieront de 13°C à Maubeuge à 19°C sur le littoral.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
 🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (vendredi 9 octobre 2026)
 
 🌴 Dunkerque / Malo-les-Bains / Bray-Dunes
-☀️ Circulation d'un flux océanique d'ouest perturbé et humide sur la côte. Températures de 8°C le matin à 20°C l'après-midi.
+☀️ Circulation d'un flux océanique d'ouest perturbé et humide sur la côte. Températures de 9°C le matin à 19°C l'après-midi.
 🌊 Température de l’eau : 16°C à 17°C
 
 🌴 Le Touquet / Berck / Baie de Somme
-☀️ Ambiance agréable sur le littoral ce vendredi. Maximales atteignant 21°C sur le sable.
+☀️ Ambiance agréable sur le littoral ce vendredi. Maximales atteignant 20°C sur le sable.
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
@@ -100,9 +102,13 @@ Ce vendredi après-midi, le ciel du Nord-Pas-de-Calais présente un contraste ma
     Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du vendredi 9 octobre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-▶ dimanche 11 octobre : Un temps sec et globalement calme. Les nuages seront présents par moments mais sans pluie significative. Températures matinales fraîches entre 7 et 11°C, maximales douces de 14 à 17°C. Vent faible à modéré, 15 à 20 km/h.
-▶ lundi 12 octobre : Encore une journée sans précipitations. Le soleil alternera avec des passages nuageux. Les minimales seront fraîches (5 à 10°C), les maximales plus douces (16 à 18°C). Vent léger, 10 à 15 km/h.
-▶ mardi 13 octobre : Temps sec et ensoleillé dans l’ensemble, mais attention au vent qui se renforce sur le littoral avec des rafales jusqu’à 40 km/h. Quelques gouttes possibles à Dunkerque et Watten. Températures en hausse : minimales de 8 à 14°C, maximales de 16 à 20°C.
+📉 Tendance – 3 jours suivants (dimanche 11 octobre au mardi 13 octobre)
+
+▶ dimanche 11 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 7°C. L'après-midi, le mercure grimpe jusqu'à 16°C sous abri. Attention aux rafales de vent atteignant 40 km/h.
+
+▶ lundi 12 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 7°C. L'après-midi, le mercure grimpe jusqu'à 18°C sous abri. Attention aux rafales de vent atteignant 40 km/h.
+
+▶ mardi 13 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 11°C. L'après-midi, le mercure grimpe jusqu'à 21°C sous abri. Attention aux rafales de vent atteignant 40 km/h.
 
 
 --------------------------------------------------------------------------------
@@ -114,10 +120,10 @@ Ce vendredi après-midi, le ciel du Nord-Pas-de-Calais présente un contraste ma
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce vendredi matin, le ciel se partage entre éclaircies généreuses et passages nuageux sur la région. Un soleil dominant est observé sur Chassiron et Blanzac-Porcheresse, où les minimales atteignent respectivement 10°C et 7°C. Plus à l'est, des nuages couvrent le ciel d'Angoulême, Soyaux et La Couronne, avec des températures douces autour de 10°C. À La Rochelle, le ciel est peu nuageux et la température minimale est de 5°C. Le vent sera faible à modéré, oscillant entre 5 et 25 km/h, plus sensible sur le littoral. Aucune précipitation n'est attendue, à l'exception de Chassiron où de faibles pluies sont signalées.
+Ce vendredi matin, le ciel se présente sous un aspect variable sur la région. Des éclaircies dominent l'intérieur des terres, notamment à Blanzac-Porcheresse et Jarnac, où le soleil est bien présent avec des minimales de 7°C. Sur le littoral, le temps est plus nuageux, comme à La Rochelle où la température minimale est de 6°C et à Chassiron avec 10°C. Des averses faibles sont à noter sur La Rochelle et Chassiron, avec 0.1 mm de pluie. Le vent souffle modérément, atteignant 25 km/h à Chassiron, tandis qu'il reste plus faible à l'intérieur, autour de 10 km/h.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce vendredi après-midi, le ciel de la région présentera un visage contrasté. Sur le littoral, La Rochelle connaîtra un temps nuageux avec des maximales atteignant 18°C, tandis que Chassiron bénéficiera d'un soleil dominant, accompagné de légères pluies faibles et d'un vent de 25 km/h. À l'intérieur des terres, les conditions seront plus clémentes avec un ciel très nuageux sur Angoulême, La Couronne, Gond-Pontouvre et Soyaux, où les températures grimperont jusqu'à 21°C. Le vent restera faible sur l'ensemble de l'intérieur des terres, ne dépassant pas les 10 km/h.
+Ce vendredi après-midi, le ciel de la région présentera un contraste notable. Des éclaircies généreuses domineront l'ouest et le sud, notamment à Chassiron où la température atteindra 19°C, ainsi qu'à Blanzac-Porcheresse et Cognac où le soleil sera franc avec respectivement 15°C et 17°C. Cependant, des passages nuageux plus importants couvriront l'est, avec un ciel nuageux sur La Rochelle (18°C), Angoulême (21°C) et La Couronne (21°C). Des pluies faibles sont attendues sur La Rochelle et Chassiron, avec 0.1 mm de précipitations. Le vent soufflera modérément, atteignant 25 km/h à Chassiron, tandis qu'il restera plus faible dans l'intérieur des terres, autour de 10 km/h.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
 🏖️ MÉTÉO DES PLAGES – LITTORAL CHARENTAIS (vendredi 9 octobre 2026)
@@ -160,13 +166,11 @@ Ce vendredi après-midi, le ciel de la région présentera un visage contrasté.
     Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du vendredi 9 octobre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-📉 Tendance – 3 jours suivants (dimanche 11 octobre au mardi 13 octobre)
+▶ dimanche 11 octobre : Le ciel reste partagé. Sur le littoral, des nuages porteurs de pluies faibles à modérées persistent, avec 3 à 6 mm attendus de La Rochelle à Chassiron. À l’intérieur, le soleil domine largement, notamment à Cognac et Jarnac où les maximales atteignent 17 à 20 °C. Le vent se calme, ne dépassant pas 10 km/h dans les terres.
 
-▶ dimanche 11 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 8°C. L'après-midi, le mercure grimpe jusqu'à 21°C sous abri. Le vent souffle de manière modérée.
+▶ lundi 12 octobre : Une amélioration s’amorce, mais le littoral reste humide. La Rochelle et Chassiron enregistrent encore 4 mm de précipitations sous un ciel variable. Ailleurs, le soleil l’emporte, avec des températures maximales en hausse : 22 °C à Angoulême et La Couronne. Le vent, modéré sur la côte (20-25 km/h), est faible à l’intérieur.
 
-▶ lundi 12 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 8°C. L'après-midi, le mercure grimpe jusqu'à 21°C sous abri. Le vent souffle de manière modérée.
-
-▶ mardi 13 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 8°C. L'après-midi, le mercure grimpe jusqu'à 23°C sous abri. Le vent souffle de manière modérée.
+▶ mardi 13 octobre : La douceur s’accentue nettement. Les maximales atteignent 25 °C dans l’intérieur (Gond-Pontouvre, Angoulême), sous un ciel dégagé. Le littoral reste plus frais (21 °C à Chassiron) et subit encore quelques averses résiduelles (1,5 à 3,3 mm). Le vent faiblit partout, avec des rafales inférieures à 20 km/h.
 
 
 --------------------------------------------------------------------------------
@@ -178,22 +182,20 @@ Ce vendredi après-midi, le ciel de la région présentera un visage contrasté.
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce vendredi matin, le temps se montre instable sur la région, marqué par des averses et des pluies. Les minimales s'établissent à 7°C à Leffrinckoucke et Cauchy-à-la-Tour, 9°C à Gravelines, et 11°C à Robecq et Lefaux.
-
-Des averses se déclenchent notamment sur Leffrinckoucke, Marck et Robecq, tandis que des pluies plus soutenues sont observées à Groffliers et Remilly-Wirquin. Le vent souffle modérément, avec des vitesses de 30 à 40 km/h. Des rafales atteignent 60 à 65 km/h sur la plupart des localités, mais un vent fort est à signaler à Groffliers, où les rafales peuvent atteindre 75 km/h. Le littoral présente des températures légèrement plus douces que l'intérieur des terres.
+Ce vendredi matin, la région se réveille sous un ciel mitigé et des conditions venteuses. Des averses sont attendues sur le littoral, notamment à Leffrinckoucke (8°C) et Marck (11°C), où les pluies seront plus marquées. Plus à l'intérieur des terres, comme à Groffliers (11°C) et Remilly-Wirquin (6°C), de fortes pluies sont à prévoir. Le vent souffle modérément, avec des rafales atteignant 70 km/h à Gravelines, Offekerque et Marck, et même 75 km/h à Groffliers, nécessitant une vigilance particulière. Les températures minimales varient de 6°C à Remilly-Wirquin à 11°C sur le littoral.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce vendredi après-midi, le ciel de la région sera contrasté. Des averses parfois soutenues sont attendues sur le littoral, notamment à Leffrinckoucke (16°C) et Marck (20°C), avec un vent d'ouest soufflant jusqu'à 60-65 km/h en rafales. Plus au sud, Groffliers connaîtra également un ciel couvert avec des rafales atteignant 75 km/h, nécessitant une vigilance particulière. L'intérieur des terres, comme à Gravelines (20°C) et Racquinghem (17°C), bénéficiera de périodes plus ensoleillées malgré quelques passages nuageux, avec des vents modérés. Les températures maximales varieront de 16°C à Cauchy-à-la-Tour à 20°C à Robecq.
+Ce vendredi après-midi, le temps s'annonce mitigé sur la région. Des averses sont attendues notamment sur Leffrinckoucke où la température maximale atteindra 16°C, ainsi qu'à Marck et Robecq avec des averses et des maximales de 19°C. Le vent sera présent avec des rafales pouvant atteindre 75 km/h à Groffliers, justifiant une vigilance particulière. Sur le littoral, des rafales de 70 km/h sont également prévues à Gravelines et Offekerque, où le soleil dominera et les températures avoisineront les 19°C. Les zones intérieures, comme Remilly-Wirquin, connaîtront un soleil voilé avec 18°C.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
 🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (vendredi 9 octobre 2026)
 
 🌴 Dunkerque / Malo-les-Bains / Bray-Dunes
-☀️ Circulation d'un flux océanique d'ouest perturbé et humide sur la côte. Températures de 8°C le matin à 20°C l'après-midi.
+☀️ Circulation d'un flux océanique d'ouest perturbé et humide sur la côte. Températures de 8°C le matin à 19°C l'après-midi.
 🌊 Température de l’eau : 16°C à 17°C
 
 🌴 Le Touquet / Berck / Baie de Somme
-☀️ Ambiance agréable sur le littoral ce vendredi. Maximales atteignant 21°C sur le sable.
+☀️ Ambiance agréable sur le littoral ce vendredi. Maximales atteignant 20°C sur le sable.
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
@@ -202,7 +204,7 @@ Ce vendredi après-midi, le ciel de la région sera contrasté. Des averses parf
 📍 Zones : Dunkerque • Calais • Boulogne-sur-Mer • Le Touquet
 
 ☀️ Situation générale : Circulation d'un flux océanique d'ouest perturbé et humide.
-🌬️ Vent : Vent de Nord-Est modéré (40 km/h avec rafales atteignant 75 km/h) ce vendredi.
+🌬️ Vent : Vent de Nord-Est modéré (45 km/h avec rafales atteignant 75 km/h) ce vendredi.
 🌊 État de la mer : Mer peu agitée à agitée au large (vagues 0.8m à 1.3m), prudence pour la baignade.
 ⚠️ Visibilité : Bonne sur l'ensemble du littoral.
 
@@ -228,11 +230,11 @@ Ce vendredi après-midi, le ciel de la région sera contrasté. Des averses parf
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
 📉 Tendance – 3 jours suivants (dimanche 11 octobre au mardi 13 octobre)
 
-▶ dimanche 11 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 7°C. L'après-midi, le mercure grimpe jusqu'à 17°C sous abri. Attention aux rafales de vent atteignant 60 km/h.
+▶ dimanche 11 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 8°C. L'après-midi, le mercure grimpe jusqu'à 16°C sous abri. Attention aux rafales de vent atteignant 65 km/h.
 
-▶ lundi 12 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 7°C. L'après-midi, le mercure grimpe jusqu'à 18°C sous abri. Attention aux rafales de vent atteignant 40 km/h.
+▶ lundi 12 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 8°C. L'après-midi, le mercure grimpe jusqu'à 19°C sous abri. Attention aux rafales de vent atteignant 40 km/h.
 
-▶ mardi 13 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 10°C. L'après-midi, le mercure grimpe jusqu'à 20°C sous abri. Attention aux rafales de vent atteignant 40 km/h.
+▶ mardi 13 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 13°C. L'après-midi, le mercure grimpe jusqu'à 21°C sous abri. Attention aux rafales de vent atteignant 40 km/h.
 
 
 --------------------------------------------------------------------------------
@@ -244,20 +246,20 @@ Ce vendredi après-midi, le ciel de la région sera contrasté. Des averses parf
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce vendredi matin, le ciel se présente majoritairement nuageux sur l'ensemble de la région, avec des passages pluvieux et des averses qui s'invitent localement. Des averses sont notamment observées sur Troisvilles, Maubeuge, Douai et Watten. Les températures minimales s'établissent autour de 6°C à St-Hilaire-sur-Helpe et Maubeuge, atteignant 7°C à Valenciennes, Lille et Dunkerque, et jusqu'à 11°C à Steenvoorde. Le vent souffle modérément, avec des vitesses de 25 à 30 km/h, et des rafales pouvant atteindre 60 km/h sur Watten et Dunkerque.
+Ce vendredi matin, le ciel se présente majoritairement nuageux sur l'ensemble de la région. Des averses sont attendues notamment sur Troisvilles, Maubeuge et Douai, où les précipitations atteindront 1.5 mm, 1.3 mm et 5.1 mm respectivement. Les températures minimales s'établissent autour de 7°C à St-Hilaire-sur-Helpe et Lille, et 8°C à Dunkerque. Le vent soufflera modérément, avec des vitesses de 25 à 30 km/h et des rafales pouvant atteindre 65 km/h sur le littoral, notamment à Dunkerque. Les températures maximales varieront de 12°C à Maubeuge à 19°C à Lille et Roubaix, offrant un contraste notable entre l'intérieur des terres et le littoral.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce vendredi après-midi, le ciel reste mitigé sur la région avec des averses éparses. Les températures maximales atteindront 18°C à Lille et Roubaix, tandis que Steenvoorde profitera de 20°C. Des averses sont attendues notamment sur le littoral, avec 19.2 mm de pluie à Watten et 14.8 mm à Roubaix. Le vent soufflera modérément, avec des rafales pouvant atteindre 60 km/h à Dunkerque et Watten, nécessitant une vigilance particulière. L'intérieur des terres, comme à Douai et Maubeuge, bénéficiera d'un soleil dominant malgré des températures plus fraîches.
+Ce vendredi après-midi, le temps reste instable sur l'ensemble de la région, avec une alternance de nuages et d'éclaircies. Des averses sont attendues sur une grande partie du territoire, notamment à Lille où 10.8 mm de pluie sont relevés, ainsi qu'à Roubaix (7.1 mm) et Dunkerque (7.8 mm). Le vent de secteur ouest souffle entre 25 et 30 km/h, avec des rafales atteignant 65 km/h sur le littoral dunkerquois. Les températures maximales varient de 12°C à Maubeuge à 19°C à Lille et Roubaix, tandis que Dunkerque affiche 16°C.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
 🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (vendredi 9 octobre 2026)
 
 🌴 Dunkerque / Malo-les-Bains / Bray-Dunes
-☀️ Circulation d'un flux océanique d'ouest perturbé et humide sur la côte. Températures de 8°C le matin à 20°C l'après-midi.
+☀️ Circulation d'un flux océanique d'ouest perturbé et humide sur la côte. Températures de 9°C le matin à 19°C l'après-midi.
 🌊 Température de l’eau : 16°C à 17°C
 
 🌴 Le Touquet / Berck / Baie de Somme
-☀️ Ambiance agréable sur le littoral ce vendredi. Maximales atteignant 21°C sur le sable.
+☀️ Ambiance agréable sur le littoral ce vendredi. Maximales atteignant 20°C sur le sable.
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
@@ -266,7 +268,7 @@ Ce vendredi après-midi, le ciel reste mitigé sur la région avec des averses �
 📍 Zones : Dunkerque • Calais • Boulogne-sur-Mer • Le Touquet
 
 ☀️ Situation générale : Circulation d'un flux océanique d'ouest perturbé et humide.
-🌬️ Vent : Vent de Nord-Est modéré (30 km/h avec rafales atteignant 60 km/h) ce vendredi.
+🌬️ Vent : Vent de Nord-Est modéré (30 km/h avec rafales atteignant 65 km/h) ce vendredi.
 🌊 État de la mer : Mer peu agitée à agitée au large (vagues 0.8m à 1.3m), prudence pour la baignade.
 ⚠️ Visibilité : Bonne sur l'ensemble du littoral.
 
@@ -292,11 +294,11 @@ Ce vendredi après-midi, le ciel reste mitigé sur la région avec des averses �
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
 📉 Tendance – 3 jours suivants (dimanche 11 octobre au mardi 13 octobre)
 
-▶ dimanche 11 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 7°C. L'après-midi, le mercure grimpe jusqu'à 17°C sous abri. Attention aux rafales de vent atteignant 40 km/h.
+▶ dimanche 11 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 7°C. L'après-midi, le mercure grimpe jusqu'à 16°C sous abri. Attention aux rafales de vent atteignant 40 km/h.
 
-▶ lundi 12 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 5°C. L'après-midi, le mercure grimpe jusqu'à 18°C sous abri. Le vent souffle de manière modérée.
+▶ lundi 12 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 7°C. L'après-midi, le mercure grimpe jusqu'à 18°C sous abri. Attention aux rafales de vent atteignant 40 km/h.
 
-▶ mardi 13 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 8°C. L'après-midi, le mercure grimpe jusqu'à 20°C sous abri. Attention aux rafales de vent atteignant 40 km/h.
+▶ mardi 13 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 11°C. L'après-midi, le mercure grimpe jusqu'à 21°C sous abri. Attention aux rafales de vent atteignant 40 km/h.
 
 
 --------------------------------------------------------------------------------
@@ -308,22 +310,20 @@ Ce vendredi après-midi, le ciel reste mitigé sur la région avec des averses �
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce vendredi matin, la Normandie se réveille sous un ciel majoritairement nuageux, avec des passages pluvieux qui s'invitent sur plusieurs secteurs. Les températures minimales affichent 4°C à Rouen et 6°C à Evreux et Lisieux, tandis que le littoral bénéficie d'une certaine douceur avec 9°C à Caen et 12°C au Havre.
-
-Des pluies faibles sont observées sur Caen (1.5 mm), Evreux (0.9 mm) et Lisieux (1.0 mm). Le Havre et Alençon connaissent des pluies plus soutenues, avec 1.3 mm et 0.0 mm respectivement. Les vents soufflent modérément, atteignant 40 km/h au Havre avec des rafales pouvant aller jusqu'à 70 km/h, nécessitant une vigilance particulière. Des rafales de 65 km/h sont également attendues à Cherbourg et Dieppe, où le vent souffle à 30 km/h.
+Ce vendredi matin, la Normandie connaît une matinée nuageuse avec des éclaircies. Les températures minimales affichent 5°C à Rouen et 6°C à Dieppe, tandis que le littoral, comme à Cherbourg et Le Havre, enregistre 11°C et 12°C respectivement. Des averses faibles sont observées sur Le Havre et Dieppe, ainsi qu'à Cherbourg, Rouen et Lisieux. Le vent souffle modérément sur l'ensemble de la région, avec des rafales atteignant 70 km/h au Havre et à Cherbourg, et 75 km/h à Dieppe, nécessitant une vigilance particulière sur ces zones côtières.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce vendredi après-midi, la Normandie sera sous l'influence d'un ciel majoritairement nuageux avec des averses généralisées. Des pluies parfois soutenues sont attendues sur le littoral, notamment au Havre et à Alençon, où les précipitations pourront être plus marquées. Les températures maximales atteindront 18°C à Caen et au Havre, tandis que Rouen enregistrera 17°C. Le vent d'ouest soufflera avec des rafales notables, atteignant 70 km/h au Havre, nécessitant une vigilance particulière sur le littoral.
+Ce vendredi après-midi, la Normandie connaîtra un ciel majoritairement nuageux. Des éclaircies tenteront de percer, notamment sur les secteurs de Rouen et Caen où les températures atteindront respectivement 17°C et 18°C. Cependant, des averses sont attendues sur le littoral, notamment au Havre et à Alençon, avec des maximales de 18°C pour ces deux villes. Le vent soufflera de manière notable, avec des rafales atteignant 70 km/h au Havre et à Cherbourg, et même 75 km/h à Dieppe, nécessitant une vigilance particulière. Les températures maximales varieront entre 16°C à Dieppe et 18°C sur une grande partie de la région.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
 🏖️ MÉTÉO DES PLAGES – CÔTE D’ALBÂTRE & MANCHE (vendredi 9 octobre 2026)
 
 🌴 Le Havre / Deauville / Cabourg
-☀️ Temps agréable ce vendredi. Températures sur les plages : 6°C à 19°C.
+☀️ Temps agréable ce vendredi. Températures sur les plages : 7°C à 18°C.
 🌊 Température de l’eau : 17°C à 18°C
 
 🌴 Dieppe / Fécamp / Cherbourg
-☀️ Belle luminosité ce vendredi, brise littorale rafraîchissante avec maximales de 19°C.
+☀️ Belle luminosité ce vendredi, brise littorale rafraîchissante avec maximales de 18°C.
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
@@ -332,7 +332,7 @@ Ce vendredi après-midi, la Normandie sera sous l'influence d'un ciel majoritair
 📍 Zones : Baie de Seine • Le Havre • Fécamp • Dieppe • Cherbourg
 
 ☀️ Situation générale : Circulation d'un flux océanique d'ouest perturbé et humide.
-🌬️ Vent : Vent modéré de Nord-Est (40 km/h avec rafales atteignant 70 km/h) ce vendredi.
+🌬️ Vent : Vent modéré de Nord-Est (40 km/h avec rafales atteignant 75 km/h) ce vendredi.
 🌊 État de la mer : Mer peu agitée à agitée au large (vagues 0.8m à 1.3m), prudence pour la baignade.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
@@ -355,9 +355,11 @@ Ce vendredi après-midi, la Normandie sera sous l'influence d'un ciel majoritair
     Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du vendredi 9 octobre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-▶ dimanche 11 octobre : Le ciel reste variable avec des passages nuageux et quelques faibles pluies sur le nord-est (Rouen, Le Havre, Dieppe). Les températures maximales sont stables, entre 16 et 18°C, et le vent modéré de secteur ouest ne dépasse pas 15 km/h. Le sud de la région (Caen, Alençon, Lisieux) profite d’éclaircies plus franches.
+📉 Tendance – 3 jours suivants (dimanche 11 octobre au mardi 13 octobre)
 
-▶ lundi 12 octobre : Une nette amélioration s’amorce avec un temps sec et souvent ensoleillé sur l’ensemble de la Normandie. Les températures grimpent jusqu’à 19°C à Caen et Alençon, et le vent d’ouest se renforce légèrement (20 km/h, rafales 40-45 km/h sur les côtes). Les minimales restent fraîches, de 6°C à Dieppe à 10°C à Cherbourg.
+▶ dimanche 11 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 8°C. L'après-midi, le mercure grimpe jusqu'à 18°C sous abri. Attention aux rafales de vent atteignant 40 km/h.
 
-▶ mardi 13 octobre : La douceur s’accentue avec des maximales atteignant 20°C à Caen et Cherbourg, mais le ciel se voile par moments, notamment sur le Cotentin et l’Orne où de faibles pluies sont possibles (Alençon, Lisieux). Le vent reste modéré, sauf sur Cherbourg avec des rafales jusqu’à 45 km/h. Les matinées sont plus douces, entre 10 et 14°C.
+▶ lundi 12 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 7°C. L'après-midi, le mercure grimpe jusqu'à 20°C sous abri. Attention aux rafales de vent atteignant 45 km/h.
+
+▶ mardi 13 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 12°C. L'après-midi, le mercure grimpe jusqu'à 22°C sous abri. Attention aux rafales de vent atteignant 45 km/h.
 
