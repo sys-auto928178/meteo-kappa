@@ -19,16 +19,15 @@ Ce vendredi matin, une perturbation pluvieuse traverse une grande partie nord de
 Ce vendredi après-midi, une perturbation pluvieuse s'étire sur une grande partie du pays. Des averses parfois soutenues sont attendues sur les régions du Nord et de l'Ouest, notamment à Lille où le mercure atteindra 19°C, et à Rouen avec 19°C. Le vent soufflera modérément, avec des rafales pouvant atteindre 55 km/h sur la côte normande, notamment à Caen (18°C). Le Centre et le Sud-Ouest ne seront pas épargnés, avec des averses et des températures plus fraîches, comme à Tours (16°C). Le Sud-Est bénéficiera d'un temps plus clément, avec de belles éclaircies et des températures plus douces.
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (vendredi 9 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ EN MER (BMS OFFICIEL) :
 • Avis de Grand Frais.
-• En cours et valable jusqu'au jeudi 8 octobre à 08H00 UTC
-• VENT : Nord à Nord-Ouest 7 en mer du Nord. Rafales.
-• Reprise du vendredi 9 octobre à 03H00 UTC au vendredi 9 octobre à 09H00 UTC au moins
+• VENT : Ouest à Sud-Ouest 7. Rafales.
 
-🌐 Situation générale : Dépression 1004 hPa sur le Danemark, s'évacuant vers l'est. Dorsale des Acores jusqu'au nord des îles britanniques, pivotant progressivement sur le golfe de Gascogne. Nouvelle perturbation atlantique abordant la Manche en soirée.
+🌐 Situation générale : Dorsale du nord des Açores aux îles Britanniques s'affaissant en pivotant vers le sud du golfe de Gascogne.
+Perturbation atlantique à l'ouest de l'Irlande se décalant vers l'est, prévue sur les îles Britanniques la nuit prochaine. Elle traverse la Manche, la Mer du Nord et le nord du golfe de Gascogne vendredi.
 
 📅 Prévisions pour la journée du vendredi 9 octobre :
 🌬️ VENT : Sud-Ouest 6 à 7. Fortes rafales.
@@ -95,16 +94,15 @@ Cependant, des passages nuageux plus denses sont attendus sur d'autres secteurs,
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (vendredi 9 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ EN MER (BMS OFFICIEL) :
 • Avis de Grand Frais.
-• En cours et valable jusqu'au jeudi 8 octobre à 08H00 UTC
-• VENT : Nord à Nord-Ouest 7 en mer du Nord. Rafales.
-• Reprise du vendredi 9 octobre à 03H00 UTC au vendredi 9 octobre à 09H00 UTC au moins
+• VENT : Ouest à Sud-Ouest 7. Rafales.
 
-🌐 Situation générale : Dépression 1004 hPa sur le Danemark, s'évacuant vers l'est. Dorsale des Acores jusqu'au nord des îles britanniques, pivotant progressivement sur le golfe de Gascogne. Nouvelle perturbation atlantique abordant la Manche en soirée.
+🌐 Situation générale : Dorsale du nord des Açores aux îles Britanniques s'affaissant en pivotant vers le sud du golfe de Gascogne.
+Perturbation atlantique à l'ouest de l'Irlande se décalant vers l'est, prévue sur les îles Britanniques la nuit prochaine. Elle traverse la Manche, la Mer du Nord et le nord du golfe de Gascogne vendredi.
 
 📅 Prévisions pour la journée du vendredi 9 octobre :
 🌬️ VENT : Sud-Ouest 6 à 7. Fortes rafales.
@@ -170,17 +168,18 @@ Ce vendredi après-midi, le ciel de la région présentera des nuances variées.
 🌊 Température de l’eau : 21°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "AIGUILLON - FRONTIÈRE ESPAGNOLE" MIDI (vendredi 9 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "AIGUILLON - FRONTIÈRE ESPAGNOLE" SOIR
 📍 Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du jeudi 8 octobre 2026 à 12H30 légales.
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du jeudi 8 octobre 2026 à 18H15 légales.
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Dépression 1004 hPa sur le Danemark, s'évacuant vers l'est. Dorsale des Acores jusqu'au nord des îles britanniques, pivotant progressivement sur le golfe de Gascogne. Nouvelle perturbation atlantique abordant la Manche en soirée.
+🌐 Situation générale : Dorsale du nord des Açores aux îles Britanniques s'affaissant en pivotant vers le sud du golfe de Gascogne.
+Perturbation atlantique à l'ouest de l'Irlande se décalant vers l'est, prévue sur les îles Britanniques la nuit prochaine. Elle traverse la Manche, la Mer du Nord et le nord du golfe de Gascogne vendredi.
 
 📅 Prévisions pour la journée du vendredi 9 octobre :
 🌬️ VENT : 
-- au nord de Lacanau : Variable 1 à 3, s'orientant Ouest 3 à 4 en matinée, parfois 5 sur la côte Charente en fin de journée.
+- au nord de Lacanau : fraîchissant Ouest 3 à 4 en matinée, parfois 5 sur la côte Charente en fin de journée.
 - au sud de Lacanau : Sud à Sud-Est 1 à 3, virant secteur Nord-Ouest l'après-midi.
 🌊 MER : peu agitée à agitée par houle de Nord-Ouest.
 🌊 HOULE : Nord-Ouest 1 à 1.5 m du nord au sud.
@@ -189,8 +188,8 @@ Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la fro
 
 📉 Tendance pour la nuit du 9  au 10, et la journée du samedi 10 octobre :
 • VENT : 
-- au nord de Lacanau : Ouest 3 à 4, parfois 5 sur la côte Charente, mollissant secteur Nord 2 à 4 à la mi-journée.
-- au sud de Lacanau : secteur Ouest 1 à 3, fraîchissant 3 à 4 en fin de nuit, puis virant Nord de Lacanau à Mimizan dans l'après-midi.
+- au nord de Lacanau : Ouest 3 à 4, parfois 5 sur la côte Charente, mollissant secteur Nord 3 à 4 à la mi-journée.
+- au sud de Lacanau : secteur Ouest 1 à 3, fraîchissant 3 à 4 en fin de nuit, puis virant Nord dans l'après-midi.
 • MER : peu agitée à agitée, devenant agitée en matinée.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
@@ -246,16 +245,15 @@ Ce vendredi après-midi, la région connaît un temps instable avec des averses 
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (vendredi 9 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ EN MER (BMS OFFICIEL) :
 • Avis de Grand Frais.
-• En cours et valable jusqu'au jeudi 8 octobre à 08H00 UTC
-• VENT : Nord à Nord-Ouest 7 en mer du Nord. Rafales.
-• Reprise du vendredi 9 octobre à 03H00 UTC au vendredi 9 octobre à 09H00 UTC au moins
+• VENT : Ouest à Sud-Ouest 7. Rafales.
 
-🌐 Situation générale : Dépression 1004 hPa sur le Danemark, s'évacuant vers l'est. Dorsale des Acores jusqu'au nord des îles britanniques, pivotant progressivement sur le golfe de Gascogne. Nouvelle perturbation atlantique abordant la Manche en soirée.
+🌐 Situation générale : Dorsale du nord des Açores aux îles Britanniques s'affaissant en pivotant vers le sud du golfe de Gascogne.
+Perturbation atlantique à l'ouest de l'Irlande se décalant vers l'est, prévue sur les îles Britanniques la nuit prochaine. Elle traverse la Manche, la Mer du Nord et le nord du golfe de Gascogne vendredi.
 
 📅 Prévisions pour la journée du vendredi 9 octobre :
 🌬️ VENT : Sud-Ouest 6 à 7. Fortes rafales.
@@ -322,16 +320,15 @@ Ce vendredi après-midi, le temps s'annonce mitigé sur la région. Des averses 
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (vendredi 9 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ EN MER (BMS OFFICIEL) :
 • Avis de Grand Frais.
-• En cours et valable jusqu'au jeudi 8 octobre à 08H00 UTC
-• VENT : Nord à Nord-Ouest 7 en mer du Nord. Rafales.
-• Reprise du vendredi 9 octobre à 03H00 UTC au vendredi 9 octobre à 09H00 UTC au moins
+• VENT : Ouest à Sud-Ouest 7. Rafales.
 
-🌐 Situation générale : Dépression 1004 hPa sur le Danemark, s'évacuant vers l'est. Dorsale des Acores jusqu'au nord des îles britanniques, pivotant progressivement sur le golfe de Gascogne. Nouvelle perturbation atlantique abordant la Manche en soirée.
+🌐 Situation générale : Dorsale du nord des Açores aux îles Britanniques s'affaissant en pivotant vers le sud du golfe de Gascogne.
+Perturbation atlantique à l'ouest de l'Irlande se décalant vers l'est, prévue sur les îles Britanniques la nuit prochaine. Elle traverse la Manche, la Mer du Nord et le nord du golfe de Gascogne vendredi.
 
 📅 Prévisions pour la journée du vendredi 9 octobre :
 🌬️ VENT : Sud-Ouest 6 à 7. Fortes rafales.
@@ -398,24 +395,25 @@ Ce vendredi après-midi, la Normandie connaît un temps mitigé. Le ciel est maj
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "BAIE DE SOMME - LA HAGUE" MIDI (vendredi 9 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "BAIE DE SOMME - LA HAGUE" SOIR
 📍 Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du jeudi 8 octobre 2026 à 12H30 légales.
+Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du jeudi 8 octobre 2026 à 18H15 légales.
 
 ⚠️ AVIS DE SÉCURITÉ EN MER (BMS OFFICIEL) :
 • Avis de grand frais.
-• VENT : Ouest à Sud-Ouest 7, à l'exception de la baie de Seine.
+• VENT : Ouest à Sud-Ouest 7. Rafales.
 
-🌐 Situation générale : Dépression 1004 hPa sur le Danemark, s'évacuant vers l'est. Dorsale des Acores jusqu'au nord des îles britanniques, pivotant progressivement sur le golfe de Gascogne. Nouvelle perturbation atlantique abordant la Manche en soirée.
+🌐 Situation générale : Dorsale du nord des Açores aux îles Britanniques s'affaissant en pivotant vers le sud du golfe de Gascogne.
+Perturbation atlantique à l'ouest de l'Irlande se décalant vers l'est, prévue sur les îles Britanniques la nuit prochaine. Elle traverse la Manche, la Mer du Nord et le nord du golfe de Gascogne vendredi.
 
 📅 Prévisions pour la journée du vendredi 9 octobre :
 🌬️ VENT : Ouest à Sud-Ouest 6 à 7. Rafales.
-🌊 MER : agitée à forte.
+🌊 MER : devenant agitée à forte.
 ⛅ TEMPS : ciel couvert et pluvieux.
 👁️ VISIBILITE : mauvaise sous pluie.
 
 📉 Tendance pour la nuit du 9  au 10, et la journée du samedi 10 octobre :
-• VENT : Ouest à Sud-Ouest 6 à 7, mollissant Ouest à Nord-Ouest 5 à 6 dans la nuit.. Rafales.
+• VENT : mollissant Ouest à Nord-Ouest 5 à 6. Rafales.
 • MER : agitée à forte, s'atténuant peu agitée à agitée dans la nuit.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
