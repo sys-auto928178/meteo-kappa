@@ -529,6 +529,16 @@ def generate_local_fallback_texts(client_name, cities, day_offset):
         beach_text = ""
         marine_text = ""
 
+    # ponytail: enrichissement en direct de la météo marine via l'API officielle Météo-France (BMR/BMS Token 0)
+    # Source : https://meteofrance.com/meteo-marine/frontiere-belge-baie-de-somme/BMSCOTE-01-01
+    try:
+        from fetch_marine import get_marine_text_for_client
+        mf_marine = get_marine_text_for_client(client_name, day_offset, date_j1)
+        if mf_marine:
+            marine_text = mf_marine
+    except Exception as e:
+        print(f"[ai_helper] Fallback marine statique : {e}")
+
     summary_lancement2 = f"🌤️ PREVISIONS DU {wd2.upper()} : Poursuite d'un temps calme et ensoleillé sur la région avec des températures de saison."
     forecast_lancement = f"📉 EVOLUTION DE LA TENDANCE : Un temps sec et lumineux prédomine pour la suite de la semaine avec une douceur estivale durable."
 
