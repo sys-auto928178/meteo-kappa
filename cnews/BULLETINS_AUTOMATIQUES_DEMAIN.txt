@@ -18,6 +18,28 @@ Ce vendredi matin, une perturbation traverse le nord de la France, apportant un 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
 Ce vendredi après-midi, une atmosphère instable persistera sur une grande partie du pays. Des averses parfois soutenues sont attendues sur le nord et l'ouest, notamment de la Bretagne aux Hauts-de-France, avec des cumuls significatifs comme à Lille (9.6 mm). Le vent soufflera modérément, atteignant 55 km/h en rafales sur la côte normande, notamment à Caen. Les températures maximales afficheront 19°C à Lille, 18°C à Paris et 20°C à Rennes. Le ciel restera couvert sur Rouen avec 0.5 mm de pluies faibles. Les régions plus au sud bénéficieront d'un temps plus clément avec des éclaircies.
 
+🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
+📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
+
+⚠️ AVIS DE SÉCURITÉ EN MER (BMS OFFICIEL) :
+• Avis de Grand Frais.
+• En cours et valable jusqu'au jeudi 8 octobre à 08H00 UTC
+• VENT : Nord à Nord-Ouest 7 en mer du Nord. Rafales.
+• Reprise du vendredi 9 octobre à 03H00 UTC au vendredi 9 octobre à 09H00 UTC au moins
+
+🌐 Situation générale : Dépression 1004 hPa sur le Danemark, s'évacuant vers l'est. Dorsale des Acores jusqu'au nord des îles britanniques, pivotant progressivement sur le golfe de Gascogne. Nouvelle perturbation atlantique abordant la Manche en soirée.
+
+📅 Prévisions pour la journée du vendredi 9 octobre :
+🌬️ VENT : Sud-Ouest 6 à 7. Fortes rafales.
+🌊 MER : agitée à forte.
+⛅ TEMPS : pluie.
+👁️ VISIBILITE : mauvaise sous pluie.
+
+📉 Tendance pour la nuit du 9  au 10, et la journée du samedi 10 octobre :
+• VENT : Sud-Ouest 6 à 7, mollissant Ouest à Nord-Ouest 5 à 6 dans la nuit. Rafales.
+• MER : agitée à forte, s'atténuant peu agitée à agitée dans la nuit.
+
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce vendredi avec maintien de la sécheresse de surface.
 🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce vendredi. Aucun coup de vent à craindre.
@@ -73,14 +95,26 @@ Ce vendredi après-midi, le ciel de la région Nord se partagera entre éclairci
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE – CÔTE D’OPALE & MER DU NORD (vendredi 9 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
+📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
-📍 Zones : Dunkerque • Calais • Boulogne-sur-Mer • Le Touquet
+⚠️ AVIS DE SÉCURITÉ EN MER (BMS OFFICIEL) :
+• Avis de Grand Frais.
+• En cours et valable jusqu'au jeudi 8 octobre à 08H00 UTC
+• VENT : Nord à Nord-Ouest 7 en mer du Nord. Rafales.
+• Reprise du vendredi 9 octobre à 03H00 UTC au vendredi 9 octobre à 09H00 UTC au moins
 
-☀️ Situation générale : Circulation d'un flux océanique d'ouest perturbé et humide.
-🌬️ Vent : Vent de Nord-Est modéré (30 km/h avec rafales atteignant 60 km/h) ce vendredi.
-🌊 État de la mer : Mer peu agitée à agitée au large (vagues 0.8m à 1.3m), prudence pour la baignade.
-⚠️ Visibilité : Bonne sur l'ensemble du littoral.
+🌐 Situation générale : Dépression 1004 hPa sur le Danemark, s'évacuant vers l'est. Dorsale des Acores jusqu'au nord des îles britanniques, pivotant progressivement sur le golfe de Gascogne. Nouvelle perturbation atlantique abordant la Manche en soirée.
+
+📅 Prévisions pour la journée du vendredi 9 octobre :
+🌬️ VENT : Sud-Ouest 6 à 7. Fortes rafales.
+🌊 MER : agitée à forte.
+⛅ TEMPS : pluie.
+👁️ VISIBILITE : mauvaise sous pluie.
+
+📉 Tendance pour la nuit du 9  au 10, et la journée du samedi 10 octobre :
+• VENT : Sud-Ouest 6 à 7, mollissant Ouest à Nord-Ouest 5 à 6 dans la nuit. Rafales.
+• MER : agitée à forte, s'atténuant peu agitée à agitée dans la nuit.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce vendredi avec maintien de la sécheresse de surface.
@@ -138,13 +172,28 @@ Ce vendredi après-midi, le ciel de la région présentera un contraste notable.
 🌊 Température de l’eau : 21°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO LITTORALE & MARINE – CHARENTE-MARITIME (vendredi 9 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "AIGUILLON - FRONTIÈRE ESPAGNOLE" MIDI
+📍 Origine Météo-France. 
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du jeudi 8 octobre 2026 à 12H30 légales.
 
-📍 Zones : La Rochelle • Rochefort • Royan • Pertuis Breton & d'Antioche
+⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-☀️ Situation synoptique : Influence anticyclonique calme assurant un temps sec et modérément doux.
-🌬️ Vent : Régime de brises thermiques (25 km/h avec rafales atteignant 35 km/h).
-🌊 État de la mer : Mer peu agitée à agitée au large (vagues 0.8m à 1.3m), prudence pour la baignade.
+🌐 Situation générale : Dépression 1004 hPa sur le Danemark, s'évacuant vers l'est. Dorsale des Acores jusqu'au nord des îles britanniques, pivotant progressivement sur le golfe de Gascogne. Nouvelle perturbation atlantique abordant la Manche en soirée.
+
+📅 Prévisions pour la journée du vendredi 9 octobre :
+🌬️ VENT : 
+- au nord de Lacanau : Variable 1 à 3, s'orientant Ouest 3 à 4 en matinée, parfois 5 sur la côte Charente en fin de journée.
+- au sud de Lacanau : Sud à Sud-Est 1 à 3, virant secteur Nord-Ouest l'après-midi.
+🌊 MER : peu agitée à agitée par houle de Nord-Ouest.
+🌊 HOULE : Nord-Ouest 1 à 1.5 m du nord au sud.
+⛅ TEMPS : se couvrant progressivement par le nord, quelques pluies en fin de journée sur la côte Charente.
+👁️ VISIBILITE : bonne, parfois moyenne sous pluie.
+
+📉 Tendance pour la nuit du 9  au 10, et la journée du samedi 10 octobre :
+• VENT : 
+- au nord de Lacanau : Ouest 3 à 4, parfois 5 sur la côte Charente, mollissant secteur Nord 2 à 4 à la mi-journée.
+- au sud de Lacanau : secteur Ouest 1 à 3, fraîchissant 3 à 4 en fin de nuit, puis virant Nord de Lacanau à Mimizan dans l'après-midi.
+• MER : peu agitée à agitée, devenant agitée en matinée.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce vendredi avec maintien de la sécheresse de surface.
@@ -199,14 +248,26 @@ Ce vendredi après-midi, le temps s'annonce mitigé sur la région. Des averses 
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE – CÔTE D’OPALE & MER DU NORD (vendredi 9 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
+📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
-📍 Zones : Dunkerque • Calais • Boulogne-sur-Mer • Le Touquet
+⚠️ AVIS DE SÉCURITÉ EN MER (BMS OFFICIEL) :
+• Avis de Grand Frais.
+• En cours et valable jusqu'au jeudi 8 octobre à 08H00 UTC
+• VENT : Nord à Nord-Ouest 7 en mer du Nord. Rafales.
+• Reprise du vendredi 9 octobre à 03H00 UTC au vendredi 9 octobre à 09H00 UTC au moins
 
-☀️ Situation générale : Circulation d'un flux océanique d'ouest perturbé et humide.
-🌬️ Vent : Vent de Nord-Est modéré (45 km/h avec rafales atteignant 75 km/h) ce vendredi.
-🌊 État de la mer : Mer peu agitée à agitée au large (vagues 0.8m à 1.3m), prudence pour la baignade.
-⚠️ Visibilité : Bonne sur l'ensemble du littoral.
+🌐 Situation générale : Dépression 1004 hPa sur le Danemark, s'évacuant vers l'est. Dorsale des Acores jusqu'au nord des îles britanniques, pivotant progressivement sur le golfe de Gascogne. Nouvelle perturbation atlantique abordant la Manche en soirée.
+
+📅 Prévisions pour la journée du vendredi 9 octobre :
+🌬️ VENT : Sud-Ouest 6 à 7. Fortes rafales.
+🌊 MER : agitée à forte.
+⛅ TEMPS : pluie.
+👁️ VISIBILITE : mauvaise sous pluie.
+
+📉 Tendance pour la nuit du 9  au 10, et la journée du samedi 10 octobre :
+• VENT : Sud-Ouest 6 à 7, mollissant Ouest à Nord-Ouest 5 à 6 dans la nuit. Rafales.
+• MER : agitée à forte, s'atténuant peu agitée à agitée dans la nuit.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce vendredi avec maintien de la sécheresse de surface.
@@ -263,14 +324,26 @@ Ce vendredi après-midi, le temps reste instable sur l'ensemble de la région, a
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE – CÔTE D’OPALE & MER DU NORD (vendredi 9 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
+📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
-📍 Zones : Dunkerque • Calais • Boulogne-sur-Mer • Le Touquet
+⚠️ AVIS DE SÉCURITÉ EN MER (BMS OFFICIEL) :
+• Avis de Grand Frais.
+• En cours et valable jusqu'au jeudi 8 octobre à 08H00 UTC
+• VENT : Nord à Nord-Ouest 7 en mer du Nord. Rafales.
+• Reprise du vendredi 9 octobre à 03H00 UTC au vendredi 9 octobre à 09H00 UTC au moins
 
-☀️ Situation générale : Circulation d'un flux océanique d'ouest perturbé et humide.
-🌬️ Vent : Vent de Nord-Est modéré (30 km/h avec rafales atteignant 65 km/h) ce vendredi.
-🌊 État de la mer : Mer peu agitée à agitée au large (vagues 0.8m à 1.3m), prudence pour la baignade.
-⚠️ Visibilité : Bonne sur l'ensemble du littoral.
+🌐 Situation générale : Dépression 1004 hPa sur le Danemark, s'évacuant vers l'est. Dorsale des Acores jusqu'au nord des îles britanniques, pivotant progressivement sur le golfe de Gascogne. Nouvelle perturbation atlantique abordant la Manche en soirée.
+
+📅 Prévisions pour la journée du vendredi 9 octobre :
+🌬️ VENT : Sud-Ouest 6 à 7. Fortes rafales.
+🌊 MER : agitée à forte.
+⛅ TEMPS : pluie.
+👁️ VISIBILITE : mauvaise sous pluie.
+
+📉 Tendance pour la nuit du 9  au 10, et la journée du samedi 10 octobre :
+• VENT : Sud-Ouest 6 à 7, mollissant Ouest à Nord-Ouest 5 à 6 dans la nuit. Rafales.
+• MER : agitée à forte, s'atténuant peu agitée à agitée dans la nuit.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce vendredi avec maintien de la sécheresse de surface.
@@ -327,13 +400,25 @@ Ce vendredi après-midi, la Normandie connaîtra un ciel majoritairement nuageux
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE – MANCHE & LITTORAL NORMAND (vendredi 9 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "BAIE DE SOMME - LA HAGUE" MIDI
+📍 Origine Météo-France. 
+Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du jeudi 8 octobre 2026 à 12H30 légales.
 
-📍 Zones : Baie de Seine • Le Havre • Fécamp • Dieppe • Cherbourg
+⚠️ AVIS DE SÉCURITÉ EN MER (BMS OFFICIEL) :
+• Avis de grand frais.
+• VENT : Ouest à Sud-Ouest 7, à l'exception de la baie de Seine.
 
-☀️ Situation générale : Circulation d'un flux océanique d'ouest perturbé et humide.
-🌬️ Vent : Vent modéré de Nord-Est (40 km/h avec rafales atteignant 75 km/h) ce vendredi.
-🌊 État de la mer : Mer peu agitée à agitée au large (vagues 0.8m à 1.3m), prudence pour la baignade.
+🌐 Situation générale : Dépression 1004 hPa sur le Danemark, s'évacuant vers l'est. Dorsale des Acores jusqu'au nord des îles britanniques, pivotant progressivement sur le golfe de Gascogne. Nouvelle perturbation atlantique abordant la Manche en soirée.
+
+📅 Prévisions pour la journée du vendredi 9 octobre :
+🌬️ VENT : Ouest à Sud-Ouest 6 à 7. Rafales.
+🌊 MER : agitée à forte.
+⛅ TEMPS : ciel couvert et pluvieux.
+👁️ VISIBILITE : mauvaise sous pluie.
+
+📉 Tendance pour la nuit du 9  au 10, et la journée du samedi 10 octobre :
+• VENT : Ouest à Sud-Ouest 6 à 7, mollissant Ouest à Nord-Ouest 5 à 6 dans la nuit.. Rafales.
+• MER : agitée à forte, s'atténuant peu agitée à agitée dans la nuit.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce vendredi avec maintien de la sécheresse de surface.
