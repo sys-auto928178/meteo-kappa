@@ -271,6 +271,17 @@ def main():
             except Exception as e:
                 print(f"Warning: Could not fetch vigilance: {e}")
 
+            # Inject live marine weather from Météo-France (BMR/BMS Token 0)
+            try:
+                from fetch_marine import get_marine_text_for_client
+                mf_marine = get_marine_text_for_client(name, args.day_offset)
+                if mf_marine:
+                    form["marine"] = mf_marine
+                    c.setdefault("display", {})["marine"] = True
+                    print(f" - Synchronized live marine bulletin for '{name}' (display.marine=True)")
+            except Exception as e:
+                print(f"Warning: Could not fetch marine bulletin for '{name}': {e}")
+
             # Synchronisation automatique de la carte de vigilance (alertImageUrl)
             try:
                 opts = c.get("options", {})
@@ -306,6 +317,9 @@ def main():
                     if "recordsRaw" in ai_texts and ai_texts["recordsRaw"]:
                         form["recordsRaw"] = ai_texts["recordsRaw"]
                         form["surveillanceItems"] = [{"id": "auto_records", "type": "text", "content": ai_texts["recordsRaw"]}]
+
+                    if form.get("marine"):
+                        c.setdefault("display", {})["marine"] = True
             
             # Store public raw GitHub URL instead of heavy Base64 to keep JSON size under 100KB
             base_url = "https://raw.githubusercontent.com/gregorylanglet59264-byte/meteo-kappa/main/cartes_alertes"
