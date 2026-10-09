@@ -1,6 +1,6 @@
 ================================================================================
 📡 RAPPORT EXHAUSTIF DES PRÉVISIONS VISUELLES (MODE VISIO EN PLATEAU)
-DATE CIBLE : VENDREDI 9 OCTOBRE 2026
+DATE CIBLE : SAMEDI 10 OCTOBRE 2026
 FICHIER SOURCE : /home/runner/work/meteo-kappa/meteo-kappa/cnews/BULLETINS_AUTOMATIQUES_DEMAIN.json
 ================================================================================
 
@@ -19,25 +19,23 @@ Ce vendredi matin, une perturbation pluvieuse traverse une large partie nord-oue
 Ce vendredi après-midi, le temps s'annonce perturbé sur une grande partie du pays. Des averses sont attendues sur l'ensemble de la moitié nord, notamment de la Bretagne aux Hauts-de-France. Des pluies faibles concerneront la Normandie, notamment Rouen où le mercure atteindra 19°C. Les averses seront parfois soutenues sur Lille avec 5.6 mm de précipitations, et les rafales de vent pourront atteindre 50 km/h. Plus au sud, le temps sera plus clément, avec des éclaircies dominantes sur la Nouvelle-Aquitaine et le pourtour méditerranéen. Les températures maximales afficheront 20°C à Nantes et 18°C à Paris.
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (vendredi 9 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ EN MER (BMS OFFICIEL) :
 • Avis de Grand Frais.
+• En cours et valable jusqu'au vendredi 9 octobre à 20H00 UTC
 • VENT : Ouest à Sud-Ouest 7. Rafales.
 
-🌐 Situation générale : Dorsale du nord des Açores aux îles Britanniques s'affaissant en pivotant vers le sud du golfe de Gascogne.
-Perturbation atlantique à l'ouest de l'Irlande se décalant vers l'est, prévue sur les îles Britanniques la nuit prochaine. Elle traverse la Manche, la Mer du Nord et le nord du golfe de Gascogne vendredi.
+🌐 Situation générale : Perturbation atlantique sur les îles Britanniques, traversant la Manche, la mer du Nord et le nord du golfe de Gascogne, puis s'évacuant vers l'est.
+Dorsale du nord des Açores au golfe de Gascogne, se renforçant jusqu'aux îles Britanniques en journée.
 
-📅 Prévisions pour la journée du vendredi 9 octobre :
-🌬️ VENT : Sud-Ouest 6 à 7. Fortes rafales.
-🌊 MER : agitée à forte.
-⛅ TEMPS : pluie.
-👁️ VISIBILITE : mauvaise sous pluie.
-
-📉 Tendance pour la nuit du 9  au 10, et la journée du samedi 10 octobre :
-• VENT : Sud-Ouest 6 à 7, mollissant Ouest à Nord-Ouest 5 à 6 dans la nuit. Rafales.
-• MER : agitée à forte, s'atténuant peu agitée à agitée dans la nuit.
+📅 Tendance pour la journée du samedi 10 octobre :
+🌬️ VENT : Ouest à Nord-Ouest 5 à 6.
+🌊 MER : agitée.
+🌊 HOULE : Sud-Ouest 1 à 1.5 m, s'atténuant 0.5 à 1 m l'après-midi.
+⛅ TEMPS : nuageux avec quelques averses.
+👁️ VISIBILITE : bonne, localement moyenne à mauvaise sous précipitations.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce vendredi avec maintien de la sécheresse de surface.
@@ -92,25 +90,23 @@ Ce vendredi après-midi, le Nord-Pas-de-Calais reste sous l'influence d'un régi
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (vendredi 9 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ EN MER (BMS OFFICIEL) :
 • Avis de Grand Frais.
+• En cours et valable jusqu'au vendredi 9 octobre à 20H00 UTC
 • VENT : Ouest à Sud-Ouest 7. Rafales.
 
-🌐 Situation générale : Dorsale du nord des Açores aux îles Britanniques s'affaissant en pivotant vers le sud du golfe de Gascogne.
-Perturbation atlantique à l'ouest de l'Irlande se décalant vers l'est, prévue sur les îles Britanniques la nuit prochaine. Elle traverse la Manche, la Mer du Nord et le nord du golfe de Gascogne vendredi.
+🌐 Situation générale : Perturbation atlantique sur les îles Britanniques, traversant la Manche, la mer du Nord et le nord du golfe de Gascogne, puis s'évacuant vers l'est.
+Dorsale du nord des Açores au golfe de Gascogne, se renforçant jusqu'aux îles Britanniques en journée.
 
-📅 Prévisions pour la journée du vendredi 9 octobre :
-🌬️ VENT : Sud-Ouest 6 à 7. Fortes rafales.
-🌊 MER : agitée à forte.
-⛅ TEMPS : pluie.
-👁️ VISIBILITE : mauvaise sous pluie.
-
-📉 Tendance pour la nuit du 9  au 10, et la journée du samedi 10 octobre :
-• VENT : Sud-Ouest 6 à 7, mollissant Ouest à Nord-Ouest 5 à 6 dans la nuit. Rafales.
-• MER : agitée à forte, s'atténuant peu agitée à agitée dans la nuit.
+📅 Tendance pour la journée du samedi 10 octobre :
+🌬️ VENT : Ouest à Nord-Ouest 5 à 6.
+🌊 MER : agitée.
+🌊 HOULE : Sud-Ouest 1 à 1.5 m, s'atténuant 0.5 à 1 m l'après-midi.
+⛅ TEMPS : nuageux avec quelques averses.
+👁️ VISIBILITE : bonne, localement moyenne à mauvaise sous précipitations.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce vendredi avec maintien de la sécheresse de surface.
@@ -168,29 +164,21 @@ Ce vendredi après-midi, le ciel de la Charente-Maritime et de la Charente prés
 🌊 Température de l’eau : 21°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "AIGUILLON - FRONTIÈRE ESPAGNOLE" SOIR (vendredi 9 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "AIGUILLON - FRONTIÈRE ESPAGNOLE" MATIN
 📍 Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du jeudi 8 octobre 2026 à 18H15 légales.
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du vendredi 9 octobre 2026 à 06H15 légales.
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Dorsale du nord des Açores aux îles Britanniques s'affaissant en pivotant vers le sud du golfe de Gascogne.
-Perturbation atlantique à l'ouest de l'Irlande se décalant vers l'est, prévue sur les îles Britanniques la nuit prochaine. Elle traverse la Manche, la Mer du Nord et le nord du golfe de Gascogne vendredi.
+🌐 Situation générale : Perturbation atlantique sur les îles Britanniques, traversant la Manche, la mer du Nord et le nord du golfe de Gascogne, puis s'évacuant vers l'est.
+Dorsale du nord des Açores au golfe de Gascogne, se renforçant jusqu'aux îles Britanniques en journée.
 
-📅 Prévisions pour la journée du vendredi 9 octobre :
-🌬️ VENT : 
-- au nord de Lacanau : fraîchissant Ouest 3 à 4 en matinée, parfois 5 sur la côte Charente en fin de journée.
-- au sud de Lacanau : Sud à Sud-Est 1 à 3, virant secteur Nord-Ouest l'après-midi.
-🌊 MER : peu agitée à agitée par houle de Nord-Ouest.
-🌊 HOULE : Nord-Ouest 1 à 1.5 m du nord au sud.
-⛅ TEMPS : se couvrant progressivement par le nord, quelques pluies en fin de journée sur la côte Charente.
-👁️ VISIBILITE : bonne, parfois moyenne sous pluie.
-
-📉 Tendance pour la nuit du 9  au 10, et la journée du samedi 10 octobre :
-• VENT : 
-- au nord de Lacanau : Ouest 3 à 4, parfois 5 sur la côte Charente, mollissant secteur Nord 3 à 4 à la mi-journée.
-- au sud de Lacanau : secteur Ouest 1 à 3, fraîchissant 3 à 4 en fin de nuit, puis virant Nord dans l'après-midi.
-• MER : peu agitée à agitée, devenant agitée en matinée.
+📅 Tendance pour la journée du samedi 10 octobre :
+🌬️ VENT : Ouest 3 à 4, parfois 5, localement Nord 3 à 4 au nord de Lacanau, mollissant progressivement secteur Nord 2 à 4 partout l'après-midi.
+🌊 MER : agitée.
+🌊 HOULE : Nord-Ouest 1.5 à 2 m.
+⛅ TEMPS : très nuageux à couvert et pluvieux.
+👁️ VISIBILITE : bonne, localement moyenne à mauvaise sous précipitations.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce vendredi avec maintien de la sécheresse de surface.
@@ -247,25 +235,23 @@ Ce vendredi après-midi, le temps s'annonce particulièrement instable sur la r�
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (vendredi 9 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ EN MER (BMS OFFICIEL) :
 • Avis de Grand Frais.
+• En cours et valable jusqu'au vendredi 9 octobre à 20H00 UTC
 • VENT : Ouest à Sud-Ouest 7. Rafales.
 
-🌐 Situation générale : Dorsale du nord des Açores aux îles Britanniques s'affaissant en pivotant vers le sud du golfe de Gascogne.
-Perturbation atlantique à l'ouest de l'Irlande se décalant vers l'est, prévue sur les îles Britanniques la nuit prochaine. Elle traverse la Manche, la Mer du Nord et le nord du golfe de Gascogne vendredi.
+🌐 Situation générale : Perturbation atlantique sur les îles Britanniques, traversant la Manche, la mer du Nord et le nord du golfe de Gascogne, puis s'évacuant vers l'est.
+Dorsale du nord des Açores au golfe de Gascogne, se renforçant jusqu'aux îles Britanniques en journée.
 
-📅 Prévisions pour la journée du vendredi 9 octobre :
-🌬️ VENT : Sud-Ouest 6 à 7. Fortes rafales.
-🌊 MER : agitée à forte.
-⛅ TEMPS : pluie.
-👁️ VISIBILITE : mauvaise sous pluie.
-
-📉 Tendance pour la nuit du 9  au 10, et la journée du samedi 10 octobre :
-• VENT : Sud-Ouest 6 à 7, mollissant Ouest à Nord-Ouest 5 à 6 dans la nuit. Rafales.
-• MER : agitée à forte, s'atténuant peu agitée à agitée dans la nuit.
+📅 Tendance pour la journée du samedi 10 octobre :
+🌬️ VENT : Ouest à Nord-Ouest 5 à 6.
+🌊 MER : agitée.
+🌊 HOULE : Sud-Ouest 1 à 1.5 m, s'atténuant 0.5 à 1 m l'après-midi.
+⛅ TEMPS : nuageux avec quelques averses.
+👁️ VISIBILITE : bonne, localement moyenne à mauvaise sous précipitations.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce vendredi avec maintien de la sécheresse de surface.
@@ -322,25 +308,23 @@ Ce vendredi après-midi, le temps s'annonce mitigé sur la région. Des averses 
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (vendredi 9 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ EN MER (BMS OFFICIEL) :
 • Avis de Grand Frais.
+• En cours et valable jusqu'au vendredi 9 octobre à 20H00 UTC
 • VENT : Ouest à Sud-Ouest 7. Rafales.
 
-🌐 Situation générale : Dorsale du nord des Açores aux îles Britanniques s'affaissant en pivotant vers le sud du golfe de Gascogne.
-Perturbation atlantique à l'ouest de l'Irlande se décalant vers l'est, prévue sur les îles Britanniques la nuit prochaine. Elle traverse la Manche, la Mer du Nord et le nord du golfe de Gascogne vendredi.
+🌐 Situation générale : Perturbation atlantique sur les îles Britanniques, traversant la Manche, la mer du Nord et le nord du golfe de Gascogne, puis s'évacuant vers l'est.
+Dorsale du nord des Açores au golfe de Gascogne, se renforçant jusqu'aux îles Britanniques en journée.
 
-📅 Prévisions pour la journée du vendredi 9 octobre :
-🌬️ VENT : Sud-Ouest 6 à 7. Fortes rafales.
-🌊 MER : agitée à forte.
-⛅ TEMPS : pluie.
-👁️ VISIBILITE : mauvaise sous pluie.
-
-📉 Tendance pour la nuit du 9  au 10, et la journée du samedi 10 octobre :
-• VENT : Sud-Ouest 6 à 7, mollissant Ouest à Nord-Ouest 5 à 6 dans la nuit. Rafales.
-• MER : agitée à forte, s'atténuant peu agitée à agitée dans la nuit.
+📅 Tendance pour la journée du samedi 10 octobre :
+🌬️ VENT : Ouest à Nord-Ouest 5 à 6.
+🌊 MER : agitée.
+🌊 HOULE : Sud-Ouest 1 à 1.5 m, s'atténuant 0.5 à 1 m l'après-midi.
+⛅ TEMPS : nuageux avec quelques averses.
+👁️ VISIBILITE : bonne, localement moyenne à mauvaise sous précipitations.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce vendredi avec maintien de la sécheresse de surface.
@@ -403,26 +387,24 @@ Cependant, les conditions se dégradent sur le littoral. Le Havre et Dieppe sont
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "BAIE DE SOMME - LA HAGUE" SOIR (vendredi 9 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "BAIE DE SOMME - LA HAGUE" MATIN
 📍 Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du jeudi 8 octobre 2026 à 18H15 légales.
+Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du vendredi 9 octobre 2026 à 06H30 légales.
 
 ⚠️ AVIS DE SÉCURITÉ EN MER (BMS OFFICIEL) :
 • Avis de grand frais.
+• En cours et valable jusqu'au vendredi 9 octobre à 20H00 UTC
 • VENT : Ouest à Sud-Ouest 7. Rafales.
 
-🌐 Situation générale : Dorsale du nord des Açores aux îles Britanniques s'affaissant en pivotant vers le sud du golfe de Gascogne.
-Perturbation atlantique à l'ouest de l'Irlande se décalant vers l'est, prévue sur les îles Britanniques la nuit prochaine. Elle traverse la Manche, la Mer du Nord et le nord du golfe de Gascogne vendredi.
+🌐 Situation générale : Perturbation atlantique sur les îles Britanniques, traversant la Manche, la mer du Nord et le nord du golfe de Gascogne, puis s'évacuant vers l'est.
+Dorsale du nord des Açores au golfe de Gascogne, se renforçant jusqu'aux îles Britanniques en journée.
 
-📅 Prévisions pour la journée du vendredi 9 octobre :
-🌬️ VENT : Ouest à Sud-Ouest 6 à 7. Rafales.
-🌊 MER : devenant agitée à forte.
-⛅ TEMPS : ciel couvert et pluvieux.
-👁️ VISIBILITE : mauvaise sous pluie.
-
-📉 Tendance pour la nuit du 9  au 10, et la journée du samedi 10 octobre :
-• VENT : mollissant Ouest à Nord-Ouest 5 à 6. Rafales.
-• MER : agitée à forte, s'atténuant peu agitée à agitée dans la nuit.
+📅 Tendance pour la journée du samedi 10 octobre :
+🌬️ VENT : Ouest à Nord-Ouest 5 à 6.
+🌊 MER : agitée, localement peu agitée à agitée en baie de Seine.
+🌊 HOULE : Ouest 0.5 à 1 m.
+⛅ TEMPS : nuageux avec quelques averses.
+👁️ VISIBILITE : bonne, localement moyenne à mauvaise sous précipitations.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce vendredi avec maintien de la sécheresse de surface.
