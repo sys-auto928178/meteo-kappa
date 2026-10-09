@@ -21,23 +21,27 @@ Des pluies faibles sont attendues sur un axe allant de Laon, où 1.6 mm sont rel
 Ce samedi après-midi, le ciel français présente une dominante nuageuse sur une large partie du territoire. Des éclaircies sont néanmoins attendues, notamment sur les régions de l'Ouest. Un passage pluvieux est prévu sur Laon et Rouen, avec des pluies faibles à modérées. Des averses isolées sont également possibles sur Nantes et Rennes. Le vent soufflera modérément, avec des rafales atteignant 45 km/h près de Lille. Les températures maximales atteindront 20°C à Rennes, 18°C à Paris et 16°C à Lille. Le contraste thermique entre le littoral et l'intérieur des terres reste peu marqué sous cette couverture nuageuse.
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (samedi 10 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ EN MER (BMS OFFICIEL) :
 • Avis de Grand Frais.
-• En cours et valable jusqu'au vendredi 9 octobre à 20H00 UTC
-• VENT : Ouest à Sud-Ouest 7. Rafales.
+• En cours et valable jusqu'au vendredi 9 octobre à 21H00 UTC
+• VENT : Ouest 7. Rafales.
 
-🌐 Situation générale : Perturbation atlantique sur les îles Britanniques, traversant la Manche, la mer du Nord et le nord du golfe de Gascogne, puis s'évacuant vers l'est.
-Dorsale du nord des Açores au golfe de Gascogne, se renforçant jusqu'aux îles Britanniques en journée.
+🌐 Situation générale : Dépression en mer de Norvège et perturbation sur les îles Britanniques, se décalant vers l'est cette nuit.
+Dorsale atlantique se renforçant sur le Golfe de Gascogne.
 
-📅 Tendance pour la journée du samedi 10 octobre :
+📅 Prévisions pour la journée du samedi 10 octobre :
 🌬️ VENT : Ouest à Nord-Ouest 5 à 6.
 🌊 MER : agitée.
 🌊 HOULE : Sud-Ouest 1 à 1.5 m, s'atténuant 0.5 à 1 m l'après-midi.
 ⛅ TEMPS : nuageux avec quelques averses.
 👁️ VISIBILITE : bonne, localement moyenne à mauvaise sous précipitations.
+
+📉 Tendance pour la nuit du 10  au 11, et la journée du dimanche 11 octobre :
+• VENT : Ouest à Nord-Ouest 5 à 6, mollissant 3 à 5 en matinée, puis mollissant Ouest à Sud-Ouest 2 à 4 l'après-midi.
+• MER : agitée, devenant progressivement peu agitée en journée.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce samedi avec maintien de la sécheresse de surface.
@@ -94,23 +98,27 @@ Ce samedi après-midi, le ciel présente des nuances contrastées sur la région
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (samedi 10 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ EN MER (BMS OFFICIEL) :
 • Avis de Grand Frais.
-• En cours et valable jusqu'au vendredi 9 octobre à 20H00 UTC
-• VENT : Ouest à Sud-Ouest 7. Rafales.
+• En cours et valable jusqu'au vendredi 9 octobre à 21H00 UTC
+• VENT : Ouest 7. Rafales.
 
-🌐 Situation générale : Perturbation atlantique sur les îles Britanniques, traversant la Manche, la mer du Nord et le nord du golfe de Gascogne, puis s'évacuant vers l'est.
-Dorsale du nord des Açores au golfe de Gascogne, se renforçant jusqu'aux îles Britanniques en journée.
+🌐 Situation générale : Dépression en mer de Norvège et perturbation sur les îles Britanniques, se décalant vers l'est cette nuit.
+Dorsale atlantique se renforçant sur le Golfe de Gascogne.
 
-📅 Tendance pour la journée du samedi 10 octobre :
+📅 Prévisions pour la journée du samedi 10 octobre :
 🌬️ VENT : Ouest à Nord-Ouest 5 à 6.
 🌊 MER : agitée.
 🌊 HOULE : Sud-Ouest 1 à 1.5 m, s'atténuant 0.5 à 1 m l'après-midi.
 ⛅ TEMPS : nuageux avec quelques averses.
 👁️ VISIBILITE : bonne, localement moyenne à mauvaise sous précipitations.
+
+📉 Tendance pour la nuit du 10  au 11, et la journée du dimanche 11 octobre :
+• VENT : Ouest à Nord-Ouest 5 à 6, mollissant 3 à 5 en matinée, puis mollissant Ouest à Sud-Ouest 2 à 4 l'après-midi.
+• MER : agitée, devenant progressivement peu agitée en journée.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce samedi avec maintien de la sécheresse de surface.
@@ -166,21 +174,25 @@ Ce samedi après-midi, le temps se montre contrasté sur la région. Des averses
 🌊 Température de l’eau : 21°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "AIGUILLON - FRONTIÈRE ESPAGNOLE" MATIN (samedi 10 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "AIGUILLON - FRONTIÈRE ESPAGNOLE" SOIR
 📍 Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du vendredi 9 octobre 2026 à 06H15 légales.
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du vendredi 9 octobre 2026 à 18H15 légales.
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Perturbation atlantique sur les îles Britanniques, traversant la Manche, la mer du Nord et le nord du golfe de Gascogne, puis s'évacuant vers l'est.
-Dorsale du nord des Açores au golfe de Gascogne, se renforçant jusqu'aux îles Britanniques en journée.
+🌐 Situation générale : Dépression en mer de Norvège et perturbation sur les îles Britanniques, se décalant vers l'est cette nuit.
+Dorsale atlantique se renforçant sur le Golfe de Gascogne.
 
-📅 Tendance pour la journée du samedi 10 octobre :
+📅 Prévisions pour la journée du samedi 10 octobre :
 🌬️ VENT : Ouest 3 à 4, parfois 5, localement Nord 3 à 4 au nord de Lacanau, mollissant progressivement secteur Nord 2 à 4 partout l'après-midi.
-🌊 MER : agitée.
+🌊 MER : agitée, localement peu agitée à agitée sur côte Charente.
 🌊 HOULE : Nord-Ouest 1.5 à 2 m.
 ⛅ TEMPS : très nuageux à couvert et pluvieux.
 👁️ VISIBILITE : bonne, localement moyenne à mauvaise sous précipitations.
+
+📉 Tendance pour la nuit du 10  au 11, et la journée du dimanche 11 octobre :
+• VENT : devenant Variable 1 à 3 en début de période, s'établissant secteur Sud-Est 2 à 3 en matinée, puis virant Sud l'après-midi.
+• MER : agitée, localement peu agitée à agitée sur côte Charente.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce samedi avec maintien de la sécheresse de surface.
@@ -237,23 +249,27 @@ Ce samedi après-midi, le ciel se montrera variable sur l'ensemble de la région
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (samedi 10 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ EN MER (BMS OFFICIEL) :
 • Avis de Grand Frais.
-• En cours et valable jusqu'au vendredi 9 octobre à 20H00 UTC
-• VENT : Ouest à Sud-Ouest 7. Rafales.
+• En cours et valable jusqu'au vendredi 9 octobre à 21H00 UTC
+• VENT : Ouest 7. Rafales.
 
-🌐 Situation générale : Perturbation atlantique sur les îles Britanniques, traversant la Manche, la mer du Nord et le nord du golfe de Gascogne, puis s'évacuant vers l'est.
-Dorsale du nord des Açores au golfe de Gascogne, se renforçant jusqu'aux îles Britanniques en journée.
+🌐 Situation générale : Dépression en mer de Norvège et perturbation sur les îles Britanniques, se décalant vers l'est cette nuit.
+Dorsale atlantique se renforçant sur le Golfe de Gascogne.
 
-📅 Tendance pour la journée du samedi 10 octobre :
+📅 Prévisions pour la journée du samedi 10 octobre :
 🌬️ VENT : Ouest à Nord-Ouest 5 à 6.
 🌊 MER : agitée.
 🌊 HOULE : Sud-Ouest 1 à 1.5 m, s'atténuant 0.5 à 1 m l'après-midi.
 ⛅ TEMPS : nuageux avec quelques averses.
 👁️ VISIBILITE : bonne, localement moyenne à mauvaise sous précipitations.
+
+📉 Tendance pour la nuit du 10  au 11, et la journée du dimanche 11 octobre :
+• VENT : Ouest à Nord-Ouest 5 à 6, mollissant 3 à 5 en matinée, puis mollissant Ouest à Sud-Ouest 2 à 4 l'après-midi.
+• MER : agitée, devenant progressivement peu agitée en journée.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce samedi avec maintien de la sécheresse de surface.
@@ -312,23 +328,27 @@ Ce samedi après-midi, le ciel présente un aspect variable sur la région. Des 
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (samedi 10 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ EN MER (BMS OFFICIEL) :
 • Avis de Grand Frais.
-• En cours et valable jusqu'au vendredi 9 octobre à 20H00 UTC
-• VENT : Ouest à Sud-Ouest 7. Rafales.
+• En cours et valable jusqu'au vendredi 9 octobre à 21H00 UTC
+• VENT : Ouest 7. Rafales.
 
-🌐 Situation générale : Perturbation atlantique sur les îles Britanniques, traversant la Manche, la mer du Nord et le nord du golfe de Gascogne, puis s'évacuant vers l'est.
-Dorsale du nord des Açores au golfe de Gascogne, se renforçant jusqu'aux îles Britanniques en journée.
+🌐 Situation générale : Dépression en mer de Norvège et perturbation sur les îles Britanniques, se décalant vers l'est cette nuit.
+Dorsale atlantique se renforçant sur le Golfe de Gascogne.
 
-📅 Tendance pour la journée du samedi 10 octobre :
+📅 Prévisions pour la journée du samedi 10 octobre :
 🌬️ VENT : Ouest à Nord-Ouest 5 à 6.
 🌊 MER : agitée.
 🌊 HOULE : Sud-Ouest 1 à 1.5 m, s'atténuant 0.5 à 1 m l'après-midi.
 ⛅ TEMPS : nuageux avec quelques averses.
 👁️ VISIBILITE : bonne, localement moyenne à mauvaise sous précipitations.
+
+📉 Tendance pour la nuit du 10  au 11, et la journée du dimanche 11 octobre :
+• VENT : Ouest à Nord-Ouest 5 à 6, mollissant 3 à 5 en matinée, puis mollissant Ouest à Sud-Ouest 2 à 4 l'après-midi.
+• MER : agitée, devenant progressivement peu agitée en journée.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce samedi avec maintien de la sécheresse de surface.
@@ -385,24 +405,28 @@ Les températures maximales atteindront 18°C à Caen et Alençon, tandis que Le
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "BAIE DE SOMME - LA HAGUE" MATIN (samedi 10 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "BAIE DE SOMME - LA HAGUE" SOIR
 📍 Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du vendredi 9 octobre 2026 à 06H30 légales.
+Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du vendredi 9 octobre 2026 à 18H15 légales.
 
 ⚠️ AVIS DE SÉCURITÉ EN MER (BMS OFFICIEL) :
 • Avis de grand frais.
-• En cours et valable jusqu'au vendredi 9 octobre à 20H00 UTC
+• En cours et valable jusqu'au vendredi 9 octobre à 21H00 UTC
 • VENT : Ouest à Sud-Ouest 7. Rafales.
 
-🌐 Situation générale : Perturbation atlantique sur les îles Britanniques, traversant la Manche, la mer du Nord et le nord du golfe de Gascogne, puis s'évacuant vers l'est.
-Dorsale du nord des Açores au golfe de Gascogne, se renforçant jusqu'aux îles Britanniques en journée.
+🌐 Situation générale : Dépression en mer de Norvège et perturbation sur les îles Britanniques, se décalant vers l'est cette nuit.
+Dorsale atlantique se renforçant sur le Golfe de Gascogne.
 
-📅 Tendance pour la journée du samedi 10 octobre :
+📅 Prévisions pour la journée du samedi 10 octobre :
 🌬️ VENT : Ouest à Nord-Ouest 5 à 6.
 🌊 MER : agitée, localement peu agitée à agitée en baie de Seine.
-🌊 HOULE : Ouest 0.5 à 1 m.
+🌊 HOULE : Ouest 1 à 1.5 m, s'atténuant 0.5 à 1 m en mi-journée.
 ⛅ TEMPS : nuageux avec quelques averses.
 👁️ VISIBILITE : bonne, localement moyenne à mauvaise sous précipitations.
+
+📉 Tendance pour la nuit du 10  au 11, et la journée du dimanche 11 octobre :
+• VENT : Ouest à Nord-Ouest 4 à 5, parfois 6 à l'est du Havre au début, mollissant Ouest 3 à 4 en matinée, puis revenant Ouest à Sud-Ouest l'après-midi.
+• MER :  agitée, localement peu agitée à agitée en baie de Seine, devenant peu agitée en matinée, localement belle en baie de Seine.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce samedi avec maintien de la sécheresse de surface.
