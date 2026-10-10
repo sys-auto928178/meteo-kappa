@@ -13,15 +13,13 @@ FICHIER SOURCE : /home/runner/work/meteo-kappa/meteo-kappa/cnews/BULLETINS_AUTOM
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce dimanche matin, la France se réveille sous un ciel mitigé. Des averses sont attendues sur une large partie du territoire, notamment de la Normandie aux Pays de la Loire, en passant par l'Île-de-France. À Rouen, où le thermomètre affiche 9°C, et à Paris, avec 9°C, des averses sont signalées. Des pluies faibles sont également présentes à Laon, où la température minimale est de 8°C.
-
-Le vent souffle modérément sur la Bretagne, avec des rafales atteignant 40 km/h à Brest, où le mercure indique 10°C. Le reste du pays connaît un vent faible à modéré, autour de 10 à 15 km/h. Seul le Nord-Pas-de-Calais bénéficie d'un soleil dominant, comme à Lille où la minimale est de 8°C. Les températures restent douces pour la saison, avec un contraste peu marqué entre le littoral et l'intérieur des terres.
+Ce dimanche matin, la France se réveille sous un ciel souvent nuageux, accompagné de passages pluvieux. Des averses se déclenchent sur une large partie du territoire, notamment de la Normandie aux Pays de la Loire, en passant par l'Île-de-France. On relève 8°C à Laon et Rouen, où des averses sont signalées, et 9°C à Paris, également sous les averses. Seul le Nord-Pas-de-Calais bénéficie d'un soleil dominant, avec 7°C à Lille. Le vent souffle modérément sur le littoral breton, atteignant 25 km/h à Brest, avec des rafales pouvant atteindre 40 km/h. Les températures minimales s'échelonnent de 6°C à Rennes à 10°C à Brest.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce dimanche après-midi, le ciel français se partagera entre éclaircies généreuses et passages nuageux, avec quelques pluies faibles localisées. Sur le Nord-Pas-de-Calais, Lille profitera d'un soleil dominant avec 16°C. Plus à l'ouest, de la Bretagne à la Normandie, en passant par l'Île-de-France, le temps sera peu nuageux. Des pluies faibles sont attendues sur Laon (17°C) et Paris (17°C). Le vent restera modéré, avec des rafales atteignant 40 km/h sur les côtes bretonnes, notamment à Brest (18°C). Les températures demeureront douces pour la saison, atteignant 19°C à Nantes.
+Ce dimanche après-midi, le ciel français présente un visage majoritairement nuageux, mais les précipitations restent rares. De belles éclaircies dominent sur les Hauts-de-France, notamment à Lille où le soleil s'impose avec 16°C. Plus à l'ouest, de la Bretagne aux Pays de la Loire, un voile nuageux s'installe, laissant filtrer le soleil par intermittence. À Brest, le vent souffle modérément avec des rafales atteignant 40 km/h, et quelques faibles averses sont possibles, comme à Rouen et Paris. Les températures maximales atteindront 19°C à Rennes et Nantes, tandis que Poitiers enregistrera 18°C.
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (dimanche 11 octobre 2026)
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
@@ -62,11 +60,11 @@ Dorsale atlantique se renforçant sur le Golfe de Gascogne, avec l'isolement d'u
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
 📉 Tendance – 3 jours suivants (mardi 13 octobre au jeudi 15 octobre)
 
-▶ mardi 13 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 12°C. L'après-midi, le mercure grimpe jusqu'à 24°C sous abri. Attention aux rafales de vent atteignant 45 km/h.
+▶ mardi 13 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 10°C. L'après-midi, le mercure grimpe jusqu'à 24°C sous abri. Attention aux rafales de vent atteignant 60 km/h.
 
-▶ mercredi 14 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 11°C. L'après-midi, le mercure grimpe jusqu'à 22°C sous abri. Le vent souffle de manière modérée.
+▶ mercredi 14 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 11°C. L'après-midi, le mercure grimpe jusqu'à 23°C sous abri. Le vent souffle de manière modérée.
 
-▶ jeudi 15 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 9°C. L'après-midi, le mercure grimpe jusqu'à 24°C sous abri. Le vent souffle de manière modérée.
+▶ jeudi 15 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 9°C. L'après-midi, le mercure grimpe jusqu'à 25°C sous abri. Attention aux rafales de vent atteignant 60 km/h.
 
 
 --------------------------------------------------------------------------------
@@ -78,16 +76,18 @@ Dorsale atlantique se renforçant sur le Golfe de Gascogne, avec l'isolement d'u
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce dimanche matin, le ciel se montre généreux en soleil sur une grande partie de la région. Les températures minimales s'établissent à 6°C à Troisvilles et Maubeuge, tandis que St-Hilaire-sur-Helpe et Valenciennes affichent 7°C. Le soleil domine largement, notamment à Lille, Douai et Roubaix. Quelques nuages discrets sont observés du côté de St-Hilaire-sur-Helpe, Valenciennes et Dunkerque, sans pour autant masquer l'astre solaire. Le vent souffle modérément, atteignant 25 km/h à Dunkerque avec des rafales pouvant atteindre 50 km/h sur le littoral, tandis qu'il reste plus faible dans les terres. Aucune précipitation n'est à signaler pour cette matinée.
+Ce dimanche matin, le ciel se montre généreux en soleil sur une grande partie de la région. De Lille à Roubaix, en passant par Douai et Watten, le soleil domine largement, offrant des conditions agréables. Les températures minimales s'établissent autour de 7°C à St-Hilaire-sur-Helpe, Valenciennes et Lille, atteignant 8°C à Douai et 12°C à Steenvoorde.
+
+Quelques nuages épars sont observés du côté de St-Hilaire-sur-Helpe, Valenciennes et Dunkerque, mais sans incidence sur l'ensoleillement général. Le vent souffle modérément, avec une brise de 10 à 15 km/h sur l'intérieur des terres. Sur le littoral, notamment à Dunkerque, le vent est plus sensible, atteignant 25 km/h avec des rafales pouvant aller jusqu'à 50 km/h. Aucune précipitation n'est à signaler pour cette matinée.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce dimanche après-midi, la région Nord bénéficie d'un temps généralement ensoleillé. Le soleil domine largement sur l'intérieur des terres, notamment à Troisvilles, Maubeuge, Douai, Lille, Roubaix, Steenvoorde et Watten. Quelques nuages parsèment le ciel à St-Hilaire-sur-Helpe, Valenciennes et Dunkerque. Les températures maximales atteignent 16°C à Valenciennes, Lille, Roubaix et Steenvoorde. Le vent souffle modérément, avec des vitesses de 10 à 25 km/h. Sur le littoral, à Dunkerque, des rafales de vent de 50 km/h sont enregistrées, sans atteindre les seuils de vigilance.
+Ce dimanche après-midi, le ciel du Nord se montre généralement clément. Un soleil dominant est attendu sur la majeure partie de la région, notamment à Lille, Douai et Roubaix où les maximales atteindront 16°C. Quelques voiles nuageux sont toutefois présents localement, comme à St-Hilaire-sur-Helpe et Valenciennes, où le thermomètre affichera respectivement 14°C et 16°C. Le vent souffle modérément, avec des vitesses de 10 à 15 km/h sur l'intérieur des terres. Sur le littoral, à Dunkerque, le vent est plus soutenu, atteignant 25 km/h avec des rafales pouvant aller jusqu'à 50 km/h. Aucune précipitation n'est prévue.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
 🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (dimanche 11 octobre 2026)
 
 🌴 Dunkerque / Malo-les-Bains / Bray-Dunes
-☀️ Influence anticyclonique calme assurant un temps sec et modérément doux sur la côte. Températures de 8°C le matin à 16°C l'après-midi.
+☀️ Influence anticyclonique calme assurant un temps sec et modérément doux sur la côte. Températures de 9°C le matin à 16°C l'après-midi.
 🌊 Température de l’eau : 16°C à 17°C
 
 🌴 Le Touquet / Berck / Baie de Somme
@@ -95,7 +95,7 @@ Ce dimanche après-midi, la région Nord bénéficie d'un temps généralement e
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (dimanche 11 octobre 2026)
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
@@ -134,9 +134,13 @@ Dorsale atlantique se renforçant sur le Golfe de Gascogne, avec l'isolement d'u
     Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du dimanche 11 octobre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-▶ mardi 13 octobre : La journée de mardi sera marquée par un ciel variable avec des passages nuageux et quelques averses éparses, notamment sur le sud de la région. Les températures seront plus douces, avec des maximales comprises entre 19 et 21°C. Le vent restera modéré, avec des rafales pouvant atteindre 40 à 50 km/h sur le littoral.
-▶ mercredi 14 octobre : Mercredi, le temps s'améliore nettement avec un retour du soleil sur l'ensemble du territoire. Les températures restent stables, entre 18 et 20°C l'après-midi. Le vent faiblit, devenant léger.
-▶ jeudi 15 octobre : Jeudi, le soleil continue de briller généreusement. Les maximales grimpent jusqu'à 21°C dans l'intérieur des terres. Le vent reste faible, offrant une belle journée automnale.
+📉 Tendance – 3 jours suivants (mardi 13 octobre au jeudi 15 octobre)
+
+▶ mardi 13 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 12°C. L'après-midi, le mercure grimpe jusqu'à 21°C sous abri. Attention aux rafales de vent atteignant 60 km/h.
+
+▶ mercredi 14 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 10°C. L'après-midi, le mercure grimpe jusqu'à 19°C sous abri. Le vent souffle de manière modérée.
+
+▶ jeudi 15 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 11°C. L'après-midi, le mercure grimpe jusqu'à 22°C sous abri. Attention aux rafales de vent atteignant 45 km/h.
 
 
 --------------------------------------------------------------------------------
@@ -148,25 +152,25 @@ Dorsale atlantique se renforçant sur le Golfe de Gascogne, avec l'isolement d'u
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce dimanche matin, la région connaît un temps partagé entre nuages et éclaircies. Les températures minimales affichent 7°C à La Rochelle et Blanzac-Porcheresse, tandis que Chassiron bénéficie de 13°C. L'intérieur des terres, comme à Jarnac et Montbron, enregistre des valeurs plus fraîches avec 6°C. Le vent souffle faiblement, autour de 10 km/h à La Rochelle et 15 km/h à Chassiron. Aucune précipitation n'est à signaler sur l'ensemble du territoire pour ce début de journée. Le ciel reste majoritairement nuageux sur le littoral rochelais et l'Angoumois, tandis que des éclaircies dominent sur le reste de la Charente.
+Ce dimanche matin, le ciel se présente sous un aspect variable sur la région. Des éclaircies dominent largement l'intérieur des terres, notamment à Blanzac-Porcheresse, Jarnac ou Cognac, où le soleil s'impose dès le lever du jour avec des températures minimales de 8°C à Blanzac-Porcheresse et 6°C à Jarnac. En revanche, le littoral et les zones proches connaissent une couverture nuageuse plus importante. À La Rochelle, le ciel est nuageux avec 8°C, tandis qu'à Angoulême et La Couronne, des nuages masquent partiellement le soleil pour des minimales de 10°C. Le vent reste faible sur l'ensemble du territoire, avec des brises légères ne dépassant pas les 15 km/h à Chassiron. Aucune précipitation n'est à signaler pour cette matinée.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce dimanche après-midi, le ciel de la région se partage entre de belles éclaircies et une présence nuageuse variable. Le soleil domine largement sur l'intérieur des terres, notamment à Chassiron, Blanzac-Porcheresse, Jarnac, Montbron et Cognac. Le littoral, autour de La Rochelle, ainsi que les secteurs de Gond-Pontouvre, La Couronne, Soyaux et Angoulême, connaissent un ciel peu nuageux. Aucune précipitation n'est à signaler. Les températures maximales atteignent 19°C à La Rochelle, 18°C à Chassiron et Cognac, et jusqu'à 20°C à Gond-Pontouvre, La Couronne, Soyaux et Angoulême. Le vent reste faible, soufflant entre 5 et 15 km/h, sans rafales significatives, principalement une légère brise côtière sur le littoral.
+Ce dimanche après-midi, le ciel de la région présentera un aspect variable. Des éclaircies généreuses domineront sur le littoral et l'intérieur des terres, notamment à Chassiron où le soleil sera dominant avec 18°C, ainsi qu'à Blanzac-Porcheresse et Jarnac, où les températures atteindront respectivement 16°C et 17°C. Cependant, un voile nuageux plus épais est attendu sur La Rochelle, Angoulême et La Couronne, où le soleil sera partiellement masqué, avec des maximales de 19°C. Le vent restera faible, soufflant à environ 10 km/h sur La Rochelle et 15 km/h à Chassiron, avec des valeurs encore plus modérées dans l'intérieur des terres, autour de 5 km/h. Aucune précipitation n'est à prévoir.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
 🏖️ MÉTÉO DES PLAGES – LITTORAL CHARENTAIS (dimanche 11 octobre 2026)
 
 🌴 La Rochelle / Île de Ré / Île d’Oléron
 ☀️ Influence anticyclonique calme assurant un temps sec et modérément doux sur l'ensemble des plages charentaises ce dimanche.
-🌡️ Température sur le littoral : 9°C à 20°C
+🌡️ Température sur le littoral : 9°C à 19°C
 🌊 Température de l’eau : 20°C à 21°C
 
 🌴 Royan / Côte de Beauté / Rochefort
-☀️ Ensoleillement généreux ce dimanche, maximales de 21°C tempérées par la brise marine.
+☀️ Ensoleillement généreux ce dimanche, maximales de 20°C tempérées par la brise marine.
 🌊 Température de l’eau : 21°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "AIGUILLON - FRONTIÈRE ESPAGNOLE" SOIR
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "AIGUILLON - FRONTIÈRE ESPAGNOLE" SOIR (dimanche 11 octobre 2026)
 📍 Origine Météo-France. 
 Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du samedi 10 octobre 2026 à 18H15 légales.
 
@@ -206,13 +210,11 @@ Dorsale atlantique se renforçant sur le Golfe de Gascogne, avec l'isolement d'u
     Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du dimanche 11 octobre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-📉 Tendance – 3 jours suivants (mardi 13 octobre au jeudi 15 octobre)
+▶ mardi 13 octobre : Le soleil s'impose largement sur l'ensemble du territoire, avec un ciel clair toute la journée. Les températures grimpent fortement, de 9°C le matin à La Rochelle jusqu'à 25°C l'après-midi dans l'intérieur. Le vent reste modéré, autour de 10 à 15 km/h, sans rafales notables.
 
-▶ mardi 13 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 10°C. L'après-midi, le mercure grimpe jusqu'à 25°C sous abri. Le vent souffle de manière modérée.
+▶ mercredi 14 octobre : Nouvelle journée radieuse et très douce, avec un ensoleillement total. Les minimales sont comprises entre 13°C et 16°C, les maximales atteignent 26°C à La Rochelle et 25°C dans les terres. Le vent se renforce légèrement sur le littoral, soufflant jusqu'à 20 km/h à Chassiron.
 
-▶ mercredi 14 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 11°C. L'après-midi, le mercure grimpe jusqu'à 25°C sous abri. Le vent souffle de manière modérée.
-
-▶ jeudi 15 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 8°C. L'après-midi, le mercure grimpe jusqu'à 25°C sous abri. Le vent souffle de manière modérée.
+▶ jeudi 15 octobre : Le temps reste sec et lumineux, mais le vent de secteur sud-ouest se fait plus présent, avec des rafales pouvant atteindre 40 km/h sur la côte. Les températures continuent de monter : de 12°C le matin à Cognac à 27°C l'après-midi à La Rochelle et Angoulême. Attention aux rafales sur le littoral.
 
 
 --------------------------------------------------------------------------------
@@ -224,10 +226,10 @@ Dorsale atlantique se renforçant sur le Golfe de Gascogne, avec l'isolement d'u
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce dimanche matin, le ciel se montre généreux sur une grande partie de la région. Le soleil domine largement, notamment de Gravelines à Racquinghem, où les minimales affichent respectivement 10°C et 5°C, et jusqu'à Cauchy-à-la-Tour avec 6°C. Quelques nuages parsèment le littoral du côté de Leffrinckoucke, où la température minimale est de 8°C. Le vent souffle modérément sur la côte, atteignant 30 km/h à Leffrinckoucke avec des rafales jusqu'à 50 km/h, tandis qu'il reste plus faible dans les terres, autour de 15 à 20 km/h. Aucune précipitation n'est à signaler pour cette matinée.
+Ce dimanche matin, la région se réveille sous un ciel majoritairement ensoleillé. Les éclaircies dominent largement sur l'ensemble du territoire, offrant un début de journée lumineux. Quelques nuages isolés sont observés, notamment du côté de Leffrinckoucke où le ciel est peu nuageux, mais sans impact sur le temps sensible. Les températures minimales s'établissent entre 5°C à Racquinghem et 13°C sur le littoral, à l'image de Groffliers. Le vent souffle modérément, avec des vitesses avoisinant les 20 à 25 km/h, et des rafales n'excédant pas les 45 km/h sur le littoral, notamment à Leffrinckoucke. Aucune précipitation n'est à signaler pour cette matinée.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce dimanche après-midi, un temps largement ensoleillé domine sur l'ensemble de la région. Le ciel se dégage progressivement, laissant place à de belles éclaircies, voire un soleil dominant sur de nombreuses localités. Des températures douces sont observées, atteignant 16°C à Leffrinckoucke et Marck, et 15°C à Gravelines. Le vent souffle modérément, avec des pointes à 50 km/h à Leffrinckoucke et 40 km/h à Groffliers. Aucune précipitation n'est attendue.
+Ce dimanche après-midi, le temps s'annonce globalement ensoleillé sur une grande partie de la région. Le soleil dominera largement le ciel, comme à Gravelines, Offekerque et Marck où les températures atteindront respectivement 15°C et 16°C. Quelques passages nuageux sont toutefois attendus à Leffrinckoucke, où le mercure affichera 16°C. Le vent soufflera modérément, avec des vitesses avoisinant les 20 à 25 km/h, et des rafales pouvant atteindre 45 km/h sur le littoral, notamment à Leffrinckoucke. Les températures maximales varieront de 14°C à Cauchy-à-la-Tour à 16°C à Robecq.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
 🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (dimanche 11 octobre 2026)
@@ -241,7 +243,7 @@ Ce dimanche après-midi, un temps largement ensoleillé domine sur l'ensemble de
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (dimanche 11 octobre 2026)
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
@@ -280,11 +282,11 @@ Dorsale atlantique se renforçant sur le Golfe de Gascogne, avec l'isolement d'u
     Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du dimanche 11 octobre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-▶ mardi 13 octobre : Le ciel se voile légèrement avec des passages nuageux, mais le soleil reste présent. Les températures grimpent jusqu’à 20-21°C, avec un vent plus soutenu atteignant 60 km/h en rafales sur la côte. Quelques averses isolées sont possibles, notamment sur le secteur de Gravelines à Offekerque.
+▶ mardi 13 octobre : Le vent se renforce nettement, avec des rafales jusqu’à 70 km/h sur le littoral. Le ciel devient variable, et de faibles averses sont attendues, notamment en matinée. Les températures restent douces, de 13 à 21°C selon les secteurs.
 
-▶ mercredi 14 octobre : Retour d’un temps calme et ensoleillé sur l’ensemble de la région. Les maximales baissent légèrement, entre 17 et 20°C, et le vent devient faible, ne dépassant pas 15 km/h. Aucune précipitation à signaler.
+▶ mercredi 14 octobre : Le calme revient avec un vent modéré ne dépassant pas 20 km/h. Le ciel alterne entre éclaircies et passages nuageux, mais sans pluie. Les maximales s’échelonnent de 17 à 19°C, les minimales sont plus fraîches, jusqu’à 8°C dans l’intérieur.
 
-▶ jeudi 15 octobre : Le soleil reste généreux avec un ciel peu nuageux. Les températures remontent, atteignant 20-21°C dans l’intérieur des terres. Le vent se renforce un peu sur le littoral, avec des rafales jusqu’à 45 km/h, mais toujours sec.
+▶ jeudi 15 octobre : Le soleil s’impose à nouveau sur l’ensemble du territoire. Le vent reste modéré, avec des rafales jusqu’à 45 km/h sur la côte. Les températures grimpent jusqu’à 22°C, pour une journée très agréable.
 
 
 --------------------------------------------------------------------------------
@@ -296,16 +298,16 @@ Dorsale atlantique se renforçant sur le Golfe de Gascogne, avec l'isolement d'u
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce dimanche matin, le ciel se montre généreux en éclaircies sur une grande partie de la région. Le soleil domine largement de Lille à Maubeuge, où les minimales s'établissent à 8°C et 6°C respectivement. Quelques nuages discrets sont observés du côté de Dunkerque, avec 8°C, et de St-Hilaire-sur-Helpe, où le thermomètre affiche 7°C. Le vent souffle modérément, atteignant 25 km/h à Dunkerque, avec des rafales pouvant aller jusqu'à 50 km/h sur le littoral. Dans l'intérieur des terres, une brise légère de 10 à 20 km/h est relevée. Aucune précipitation n'est attendue pour cette matinée.
+Ce dimanche matin, le ciel se montre généreux en soleil sur une grande partie de la région. Un soleil dominant est observé de Lille à Roubaix, où les températures minimales atteignent 7°C. Douai et Watten bénéficient également d'un ciel dégagé, avec des minimales respectives de 8°C. Quelques nuages parsèment le ciel à St-Hilaire-sur-Helpe et Valenciennes, où le mercure affiche 7°C. Sur le littoral, à Dunkerque, la présence de quelques nuages n'empêche pas une température de 8°C. Le vent y souffle modérément, avec des rafales pouvant atteindre 50 km/h, tandis qu'il reste léger à modéré dans l'intérieur des terres, autour de 10 à 15 km/h. Aucune précipitation n'est à signaler pour cette matinée.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce dimanche après-midi, le ciel se montrera majoritairement ensoleillé sur l'ensemble de la région. Des éclaircies généreuses domineront, notamment de Lille à Douai où le soleil brillera sans entrave, avec des maximales atteignant 16°C. Quelques passages nuageux, sans conséquence, sont attendus sur le littoral, notamment à Dunkerque où le thermomètre affichera 16°C. Dans l'intérieur des terres, comme à Maubeuge et Troisvilles, le soleil sera également au rendez-vous avec des températures autour de 14°C. Le vent soufflera faiblement, généralement entre 10 et 25 km/h, avec des rafales pouvant atteindre 50 km/h sur le littoral dunkerquois.
+Ce dimanche après-midi, le ciel du nord de la France présente un tableau contrasté. Un soleil dominant est observé sur une grande partie de la région, notamment à Lille, Roubaix et Douai où les températures atteignent 16°C. Cependant, des passages nuageux sont également présents, avec un ciel peu nuageux à Valenciennes (16°C) et Dunkerque (16°C). Des averses localisées sont attendues sur l'est de la région, particulièrement à St-Hilaire-sur-Helpe où le mercure affichera 14°C. Le vent souffle modérément, atteignant 25 km/h à Dunkerque avec des rafales pouvant aller jusqu'à 50 km/h.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
 🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (dimanche 11 octobre 2026)
 
 🌴 Dunkerque / Malo-les-Bains / Bray-Dunes
-☀️ Influence anticyclonique calme assurant un temps sec et modérément doux sur la côte. Températures de 8°C le matin à 16°C l'après-midi.
+☀️ Influence anticyclonique calme assurant un temps sec et modérément doux sur la côte. Températures de 9°C le matin à 16°C l'après-midi.
 🌊 Température de l’eau : 16°C à 17°C
 
 🌴 Le Touquet / Berck / Baie de Somme
@@ -313,7 +315,7 @@ Ce dimanche après-midi, le ciel se montrera majoritairement ensoleillé sur l'e
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (dimanche 11 octobre 2026)
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
@@ -352,13 +354,9 @@ Dorsale atlantique se renforçant sur le Golfe de Gascogne, avec l'isolement d'u
     Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du dimanche 11 octobre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-📉 Tendance – 3 jours suivants (mardi 13 octobre au jeudi 15 octobre)
-
-▶ mardi 13 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 12°C. L'après-midi, le mercure grimpe jusqu'à 21°C sous abri. Attention aux rafales de vent atteignant 50 km/h.
-
-▶ mercredi 14 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 10°C. L'après-midi, le mercure grimpe jusqu'à 20°C sous abri. Attention aux rafales de vent atteignant 40 km/h.
-
-▶ jeudi 15 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 10°C. L'après-midi, le mercure grimpe jusqu'à 21°C sous abri. Le vent souffle de manière modérée.
+▶ mardi 13 octobre : Une dégradation pluvieuse traverse la région. Des averses modérées sont attendues, avec des cumuls de 1 à 6 mm selon les secteurs, notamment à Valenciennes et Saint-Hilaire-sur-Helpe. Le vent se renforce, atteignant 20 à 30 km/h avec des rafales de 40 à 60 km/h sur le littoral. Les températures maximales grimpent entre 19 et 21°C, mais l'ambiance reste humide.
+▶ mercredi 14 octobre : Accalmie nette avec un retour d'un temps sec et plus calme. Le ciel alterne entre éclaircies et passages nuageux, mais aucune pluie n'est prévue. Le vent faiblit nettement, soufflant à 10-15 km/h. Les maximales baissent légèrement, de 17 à 19°C, pour des après-midi agréables.
+▶ jeudi 15 octobre : Belle journée ensoleillée et douce. Le soleil domine largement sur l'ensemble du territoire, avec un vent modéré de 15 à 20 km/h et des rafales pouvant atteindre 40 km/h sur le littoral. Les températures remontent franchement, avec des maximales comprises entre 20 et 22°C, annonçant un temps estival pour un mois d'octobre.
 
 
 --------------------------------------------------------------------------------
@@ -370,16 +368,16 @@ Dorsale atlantique se renforçant sur le Golfe de Gascogne, avec l'isolement d'u
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce dimanche matin, la Normandie se réveille sous un ciel partagé. Des averses sont attendues sur le littoral de la Seine-Maritime, notamment à Dieppe où 6,4 mm de pluie sont relevés, et au Havre, où le vent soufflera modérément à 25 km/h avec des rafales atteignant 40 km/h. L'intérieur des terres, de Caen (9°C) à Alençon (9°C), en passant par Lisieux (8°C) et Évreux (9°C), bénéficie d'un temps plus clément avec un ciel nuageux mais sans précipitations significatives. Les températures minimales sont douces pour la saison, avec 8°C à Rouen où de faibles averses sont également possibles.
+Ce dimanche matin, la Normandie se réveille sous un ciel partagé entre nuages et averses. Les températures minimales s'établissent à 7°C à Rouen et 8°C à Dieppe, tandis que Cherbourg et Caen affichent 9°C. Des averses sont observées sur le littoral, notamment au Havre et à Dieppe où les cumuls sont plus significatifs, ainsi qu'à Evreux. Le vent souffle modérément, atteignant 25 km/h au Havre et à Dieppe, avec des rafales pouvant aller jusqu'à 50 km/h sur cette dernière localité. L'intérieur des terres bénéficie d'un temps légèrement plus clément, avec des éclaircies dominantes malgré une couverture nuageuse persistante.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce dimanche après-midi, la Normandie connaît un temps contrasté. Des averses parfois faibles sont attendues, notamment sur Rouen où 0.2 mm de pluie sont prévus, et sur Dieppe avec 6.4 mm. Le Havre et Rouen enregistrent des maximales de 15°C. Ailleurs, le soleil se montre plus généreux avec un ciel peu nuageux sur Caen, Cherbourg, Evreux, Alençon et Lisieux. Les températures maximales atteignent 17°C à Caen, Cherbourg, Alençon et Lisieux. Le vent souffle modérément, avec des pointes à 45 km/h sur Dieppe et 40 km/h au Havre.
+Ce dimanche après-midi, la Normandie connaît un ciel partagé entre nuages et éclaircies. Des averses sont attendues notamment sur le littoral, avec Dieppe où des averses parfois soutenues sont prévues et 3.9 mm de pluie. Le vent soufflera modérément, atteignant 40 km/h en rafales au Havre et 50 km/h à Dieppe, mais sans vigilance particulière. Les températures maximales s'échelonnent de 15°C à Rouen et au Havre, jusqu'à 17°C à Caen, Cherbourg et Alençon. Les régions intérieures, comme Évreux, affichent 15°C.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
 🏖️ MÉTÉO DES PLAGES – CÔTE D’ALBÂTRE & MANCHE (dimanche 11 octobre 2026)
 
 🌴 Le Havre / Deauville / Cabourg
-☀️ Temps agréable ce dimanche. Températures sur les plages : 10°C à 17°C.
+☀️ Temps agréable ce dimanche. Températures sur les plages : 9°C à 17°C.
 🌊 Température de l’eau : 17°C à 18°C
 
 🌴 Dieppe / Fécamp / Cherbourg
@@ -387,7 +385,7 @@ Ce dimanche après-midi, la Normandie connaît un temps contrasté. Des averses 
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "BAIE DE SOMME - LA HAGUE" SOIR
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "BAIE DE SOMME - LA HAGUE" SOIR (dimanche 11 octobre 2026)
 📍 Origine Météo-France. 
 Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du samedi 10 octobre 2026 à 18H15 légales.
 
@@ -427,9 +425,9 @@ Dorsale atlantique se renforçant sur le Golfe de Gascogne, avec l'isolement d'u
     Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du dimanche 11 octobre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-▶ mardi 13 octobre : Une nette amélioration s'opère avec un ciel généralement peu nuageux sur l'ensemble de la Normandie, seul Cherbourg conserve un voile nuageux. Les températures sont en hausse marquée, avec des maximales atteignant 22°C à Rouen, Caen et Alençon, et jusqu'à 23°C à Lisieux. Le vent reste faible à modéré, avec des rafales possibles jusqu'à 60 km/h sur Cherbourg.
+▶ mardi 13 octobre : Le temps reste instable avec un ciel nuageux et quelques averses éparses, notamment sur Dieppe et Cherbourg. Les températures grimpent nettement, de 19°C à Cherbourg à 23°C à Évreux. Le vent d’ouest se renforce, avec des rafales jusqu’à 70 km/h sur le Cotentin.
 
-▶ mercredi 14 octobre : Le temps demeure sec et souvent nuageux, avec un ciel variable sur la moitié ouest de la région. Les maximales baissent légèrement pour se situer entre 19°C sur le littoral et 21°C à Alençon. Le vent faiblit nettement et les minimales sont en baisse, comprises entre 10°C et 13°C.
+▶ mercredi 14 octobre : Les averses s’effacent et laissent place à un ciel variable, souvent très nuageux sur la moitié ouest de la région. Les maximales restent douces, entre 19°C et 21°C selon les localités. Le vent faiblit nettement, avec des rafales ne dépassant pas 30 km/h.
 
-▶ jeudi 15 octobre : Le soleil impose son retour sur toute la Normandie avec un ciel clair à peu nuageux, seul Le Havre garde quelques passages nuageux. Les températures sont particulièrement douces avec des maximales atteignant 21°C à Caen, Cherbourg, Évreux, Alençon et Lisieux. Le vent reste modéré, principalement sur la pointe du Cotentin avec des rafales à 40 km/h.
+▶ jeudi 15 octobre : Le soleil reprend ses droits sur l’ensemble de la Normandie. Le ciel est largement dégagé et les températures s’envolent, de 21°C sur le littoral à 23°C dans l’Eure. Le vent reste faible à modéré, assurant une agréable journée d’arrière-saison.
 
