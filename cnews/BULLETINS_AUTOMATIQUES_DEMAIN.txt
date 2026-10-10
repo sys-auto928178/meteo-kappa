@@ -21,21 +21,24 @@ Le vent souffle modérément sur la Bretagne, avec des rafales atteignant 40 km/
 Ce dimanche après-midi, le ciel français se partagera entre éclaircies généreuses et passages nuageux, avec quelques pluies faibles localisées. Sur le Nord-Pas-de-Calais, Lille profitera d'un soleil dominant avec 16°C. Plus à l'ouest, de la Bretagne à la Normandie, en passant par l'Île-de-France, le temps sera peu nuageux. Des pluies faibles sont attendues sur Laon (17°C) et Paris (17°C). Le vent restera modéré, avec des rafales atteignant 40 km/h sur les côtes bretonnes, notamment à Brest (18°C). Les températures demeureront douces pour la saison, atteignant 19°C à Nantes.
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (dimanche 11 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Dépression en mer de Norvège se prolongeant par un thalweg sur le nord de la France, se décalant vers le sud.
-Dorsale atlantique se renforçant sur le Golfe de Gascogne, avec l'isolement d'un Anticyclone 1019 hPa sur le sud-ouest de la France dimanche.
-Arrivée d'un nouveau thalweg sur la pointe Bretagne dimanche après-midi.
+🌐 Situation générale : Système dépressionnaire 995 hPa en mer de Norvège, se décalant en mer Baltique cette nuit, maintenant un flux de Nord-Ouest en Manche et mer du Nord.
+Dorsale atlantique se renforçant sur le Golfe de Gascogne, avec l'isolement d'un anticyclone 1020 hPa sur le sud-ouest de la France demain.
 
-📅 Tendance pour la journée du dimanche 11 octobre :
-🌬️ VENT : Ouest à Nord-Ouest 4 à 5, mollissant 2 à 4 à la mi-journée, puis revenant Sud-Ouest l'après-midi.
-🌊 MER : peu agitée à agitée, s'atténuant peu agitée l'après-midi.
-🌊 HOULE : Sud-Ouest 0.5 à 1 m et Nord 0.5 à 1 m en mer du Nord.
-⛅ TEMPS : ensoleillé, avec passages nuageux en mer du nord.
+📅 Prévisions pour la journée du dimanche 11 octobre :
+🌬️ VENT : Nord-Ouest 4 à 5, mollissant 2 à 4 à la mi-journée, puis revenant Ouest à Sud-Ouest en milieu d'après-midi.
+🌊 MER : peu agitée, mais temporairement agitée le matin vers la frontière Belge.
+🌊 HOULE : Ouest à Sud-Ouest 0.5 à 1 m en Manche, mais Nord 0.5 à 1 m en mer du Nord, s'amortissant localement dans le détroit en milieu d'après-midi.
+⛅ TEMPS : peu nuageux à nuageux.
 👁️ VISIBILITE : bonne.
+
+📉 Tendance pour la nuit du 11  au 12, et la journée du lundi 12 octobre :
+• VENT : Ouest à Sud-Ouest 2 à 4, fraîchissant Sud 4 à 5 en seconde partie de nuit, puis localement 5 à 6 à la mi-journée en Manche.
+• MER : belle à peu agitée, devenant peu agitée à agitée le matin.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce dimanche avec maintien de la sécheresse de surface.
@@ -92,21 +95,24 @@ Ce dimanche après-midi, la région Nord bénéficie d'un temps généralement e
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (dimanche 11 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Dépression en mer de Norvège se prolongeant par un thalweg sur le nord de la France, se décalant vers le sud.
-Dorsale atlantique se renforçant sur le Golfe de Gascogne, avec l'isolement d'un Anticyclone 1019 hPa sur le sud-ouest de la France dimanche.
-Arrivée d'un nouveau thalweg sur la pointe Bretagne dimanche après-midi.
+🌐 Situation générale : Système dépressionnaire 995 hPa en mer de Norvège, se décalant en mer Baltique cette nuit, maintenant un flux de Nord-Ouest en Manche et mer du Nord.
+Dorsale atlantique se renforçant sur le Golfe de Gascogne, avec l'isolement d'un anticyclone 1020 hPa sur le sud-ouest de la France demain.
 
-📅 Tendance pour la journée du dimanche 11 octobre :
-🌬️ VENT : Ouest à Nord-Ouest 4 à 5, mollissant 2 à 4 à la mi-journée, puis revenant Sud-Ouest l'après-midi.
-🌊 MER : peu agitée à agitée, s'atténuant peu agitée l'après-midi.
-🌊 HOULE : Sud-Ouest 0.5 à 1 m et Nord 0.5 à 1 m en mer du Nord.
-⛅ TEMPS : ensoleillé, avec passages nuageux en mer du nord.
+📅 Prévisions pour la journée du dimanche 11 octobre :
+🌬️ VENT : Nord-Ouest 4 à 5, mollissant 2 à 4 à la mi-journée, puis revenant Ouest à Sud-Ouest en milieu d'après-midi.
+🌊 MER : peu agitée, mais temporairement agitée le matin vers la frontière Belge.
+🌊 HOULE : Ouest à Sud-Ouest 0.5 à 1 m en Manche, mais Nord 0.5 à 1 m en mer du Nord, s'amortissant localement dans le détroit en milieu d'après-midi.
+⛅ TEMPS : peu nuageux à nuageux.
 👁️ VISIBILITE : bonne.
+
+📉 Tendance pour la nuit du 11  au 12, et la journée du lundi 12 octobre :
+• VENT : Ouest à Sud-Ouest 2 à 4, fraîchissant Sud 4 à 5 en seconde partie de nuit, puis localement 5 à 6 à la mi-journée en Manche.
+• MER : belle à peu agitée, devenant peu agitée à agitée le matin.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce dimanche avec maintien de la sécheresse de surface.
@@ -160,22 +166,25 @@ Ce dimanche après-midi, le ciel de la région se partage entre de belles éclai
 🌊 Température de l’eau : 21°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "AIGUILLON - FRONTIÈRE ESPAGNOLE" MATIN (dimanche 11 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "AIGUILLON - FRONTIÈRE ESPAGNOLE" SOIR
 📍 Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du samedi 10 octobre 2026 à 06H15 légales.
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du samedi 10 octobre 2026 à 18H15 légales.
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Dépression en mer de Norvège se prolongeant par un thalweg sur le nord de la France, se décalant vers le sud.
-Dorsale atlantique se renforçant sur le Golfe de Gascogne, avec l'isolement d'un Anticyclone 1019 hPa sur le sud-ouest de la France dimanche.
-Arrivée d'un nouveau thalweg sur la pointe Bretagne dimanche après-midi.
+🌐 Situation générale : Système dépressionnaire 995 hPa en mer de Norvège, se décalant en mer Baltique cette nuit, maintenant un flux de Nord-Ouest en Manche et mer du Nord.
+Dorsale atlantique se renforçant sur le Golfe de Gascogne, avec l'isolement d'un anticyclone 1020 hPa sur le sud-ouest de la France demain.
 
-📅 Tendance pour la journée du dimanche 11 octobre :
-🌬️ VENT : Est à Sud-Est 2 à 4, virant Sud à Sud-Est l'après-midi.
-🌊 MER : agitée, localement peu agitée à agitée sur côte Charente.
-🌊 HOULE : Nord-Ouest 1.5 à 2 m.
-⛅ TEMPS : très nuageux, quelques pluies au sud d'Arcachon l'après-midi.
+📅 Prévisions pour la journée du dimanche 11 octobre :
+🌬️ VENT : secteur Sud-Est 2 à 4, virant localement secteur Ouest 1 à 3 en milieu d'après-midi sur côte Basque.
+🌊 MER : agitée et dominée par la houle, mais localement peu agitée à agitée sur côte Charente.
+🌊 HOULE : Nord-Ouest 1.5 à 2 m, mais localement Ouest à Nord-Ouest 1 à 1.5 m sur côte Charente.
+⛅ TEMPS : très nuageux, quelques pluies éparses l'après-midi.
 👁️ VISIBILITE : bonne, localement moyenne sous précipitations.
+
+📉 Tendance pour la nuit du 11  au 12, et la journée du lundi 12 octobre :
+• VENT : fraîchissant Sud à Sud-Est 3 à 5, mais localement secteur Ouest 1 à 3 sur côte Basque et sud-Landes la nuit, mollissant Variable 1 à 3 l'après-midi.
+• MER : agitée, mais localement peu agitée à agitée au nord de Lacanau la nuit et le matin.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce dimanche avec maintien de la sécheresse de surface.
@@ -232,21 +241,24 @@ Ce dimanche après-midi, un temps largement ensoleillé domine sur l'ensemble de
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (dimanche 11 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Dépression en mer de Norvège se prolongeant par un thalweg sur le nord de la France, se décalant vers le sud.
-Dorsale atlantique se renforçant sur le Golfe de Gascogne, avec l'isolement d'un Anticyclone 1019 hPa sur le sud-ouest de la France dimanche.
-Arrivée d'un nouveau thalweg sur la pointe Bretagne dimanche après-midi.
+🌐 Situation générale : Système dépressionnaire 995 hPa en mer de Norvège, se décalant en mer Baltique cette nuit, maintenant un flux de Nord-Ouest en Manche et mer du Nord.
+Dorsale atlantique se renforçant sur le Golfe de Gascogne, avec l'isolement d'un anticyclone 1020 hPa sur le sud-ouest de la France demain.
 
-📅 Tendance pour la journée du dimanche 11 octobre :
-🌬️ VENT : Ouest à Nord-Ouest 4 à 5, mollissant 2 à 4 à la mi-journée, puis revenant Sud-Ouest l'après-midi.
-🌊 MER : peu agitée à agitée, s'atténuant peu agitée l'après-midi.
-🌊 HOULE : Sud-Ouest 0.5 à 1 m et Nord 0.5 à 1 m en mer du Nord.
-⛅ TEMPS : ensoleillé, avec passages nuageux en mer du nord.
+📅 Prévisions pour la journée du dimanche 11 octobre :
+🌬️ VENT : Nord-Ouest 4 à 5, mollissant 2 à 4 à la mi-journée, puis revenant Ouest à Sud-Ouest en milieu d'après-midi.
+🌊 MER : peu agitée, mais temporairement agitée le matin vers la frontière Belge.
+🌊 HOULE : Ouest à Sud-Ouest 0.5 à 1 m en Manche, mais Nord 0.5 à 1 m en mer du Nord, s'amortissant localement dans le détroit en milieu d'après-midi.
+⛅ TEMPS : peu nuageux à nuageux.
 👁️ VISIBILITE : bonne.
+
+📉 Tendance pour la nuit du 11  au 12, et la journée du lundi 12 octobre :
+• VENT : Ouest à Sud-Ouest 2 à 4, fraîchissant Sud 4 à 5 en seconde partie de nuit, puis localement 5 à 6 à la mi-journée en Manche.
+• MER : belle à peu agitée, devenant peu agitée à agitée le matin.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce dimanche avec maintien de la sécheresse de surface.
@@ -301,21 +313,24 @@ Ce dimanche après-midi, le ciel se montrera majoritairement ensoleillé sur l'e
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (dimanche 11 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Dépression en mer de Norvège se prolongeant par un thalweg sur le nord de la France, se décalant vers le sud.
-Dorsale atlantique se renforçant sur le Golfe de Gascogne, avec l'isolement d'un Anticyclone 1019 hPa sur le sud-ouest de la France dimanche.
-Arrivée d'un nouveau thalweg sur la pointe Bretagne dimanche après-midi.
+🌐 Situation générale : Système dépressionnaire 995 hPa en mer de Norvège, se décalant en mer Baltique cette nuit, maintenant un flux de Nord-Ouest en Manche et mer du Nord.
+Dorsale atlantique se renforçant sur le Golfe de Gascogne, avec l'isolement d'un anticyclone 1020 hPa sur le sud-ouest de la France demain.
 
-📅 Tendance pour la journée du dimanche 11 octobre :
-🌬️ VENT : Ouest à Nord-Ouest 4 à 5, mollissant 2 à 4 à la mi-journée, puis revenant Sud-Ouest l'après-midi.
-🌊 MER : peu agitée à agitée, s'atténuant peu agitée l'après-midi.
-🌊 HOULE : Sud-Ouest 0.5 à 1 m et Nord 0.5 à 1 m en mer du Nord.
-⛅ TEMPS : ensoleillé, avec passages nuageux en mer du nord.
+📅 Prévisions pour la journée du dimanche 11 octobre :
+🌬️ VENT : Nord-Ouest 4 à 5, mollissant 2 à 4 à la mi-journée, puis revenant Ouest à Sud-Ouest en milieu d'après-midi.
+🌊 MER : peu agitée, mais temporairement agitée le matin vers la frontière Belge.
+🌊 HOULE : Ouest à Sud-Ouest 0.5 à 1 m en Manche, mais Nord 0.5 à 1 m en mer du Nord, s'amortissant localement dans le détroit en milieu d'après-midi.
+⛅ TEMPS : peu nuageux à nuageux.
 👁️ VISIBILITE : bonne.
+
+📉 Tendance pour la nuit du 11  au 12, et la journée du lundi 12 octobre :
+• VENT : Ouest à Sud-Ouest 2 à 4, fraîchissant Sud 4 à 5 en seconde partie de nuit, puis localement 5 à 6 à la mi-journée en Manche.
+• MER : belle à peu agitée, devenant peu agitée à agitée le matin.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce dimanche avec maintien de la sécheresse de surface.
@@ -372,22 +387,25 @@ Ce dimanche après-midi, la Normandie connaît un temps contrasté. Des averses 
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "BAIE DE SOMME - LA HAGUE" MATIN (dimanche 11 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "BAIE DE SOMME - LA HAGUE" SOIR
 📍 Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du samedi 10 octobre 2026 à 06H30 légales.
+Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du samedi 10 octobre 2026 à 18H15 légales.
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Dépression en mer de Norvège se prolongeant par un thalweg sur le nord de la France, se décalant vers le sud.
-Dorsale atlantique se renforçant sur le Golfe de Gascogne, avec l'isolement d'un Anticyclone 1019 hPa sur le sud-ouest de la France dimanche.
-Arrivée d'un nouveau thalweg sur la pointe Bretagne dimanche après-midi.
+🌐 Situation générale : Système dépressionnaire 995 hPa en mer de Norvège, se décalant en mer Baltique cette nuit, maintenant un flux de Nord-Ouest en Manche et mer du Nord.
+Dorsale atlantique se renforçant sur le Golfe de Gascogne, avec l'isolement d'un anticyclone 1020 hPa sur le sud-ouest de la France demain.
 
-📅 Tendance pour la journée du dimanche 11 octobre :
-🌬️ VENT : Ouest à Nord-Ouest 2 à 4, parfois 5 en début de matinée, revenant Sud-Ouest l'après-midi.
-🌊 MER : s'atténuant peu agitée, localement belle à peu agitée en baie de Seine.
-🌊 HOULE : Ouest à Nord-Ouest 0.5 à 1 m, s'amortissant en fin de journée.
+📅 Prévisions pour la journée du dimanche 11 octobre :
+🌬️ VENT : Ouest à Nord-Ouest 3 à 4, parfois 5 en début de matinée, revenant progressivement Ouest à Sud-Ouest 2 à 4 par l'ouest l'après-midi.
+🌊 MER : peu agitée, mais temporairement agitée en début de journée de la Baie de Somme à Étretat, s'atténuant belle à peu agitée en baie de Seine l'après-midi.
+🌊 HOULE : Ouest à Nord-Ouest 0.5 à 1 m, s'amortissant en fin de journée en baie de Seine.
 ⛅ TEMPS : nuageux avec averses.
-👁️ VISIBILITE : bonne, localement moyenne à mauvaise sous averses.
+👁️ VISIBILITE : bonne, mais localement moyenne sous averses.
+
+📉 Tendance pour la nuit du 11  au 12, et la journée du lundi 12 octobre :
+• VENT : fraîchissant Sud à Sud-Ouest 4 à 5, puis progressivement Sud 5 à 6 par l'ouest en fin de nuit, avec menace de 7 le matin vers La Hague. Rafales.
+• MER : belle à peu agitée, devenant progressivement peu agitée à agitée par l'ouest en seconde partie de nuit, localement forte au large de La Hague en fin de matinée.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce dimanche avec maintien de la sécheresse de surface.
