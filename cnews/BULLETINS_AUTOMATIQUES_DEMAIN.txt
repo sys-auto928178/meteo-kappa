@@ -13,13 +13,13 @@ FICHIER SOURCE : /home/runner/work/meteo-kappa/meteo-kappa/cnews/BULLETINS_AUTOM
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce mardi matin, la France se réveille sous un ciel souvent nuageux avec des passages pluvieux. Des averses sont observées sur une grande partie du territoire, notamment de la Bretagne aux Hauts-de-France. À Brest, où la minimale est de 15°C, des averses sont présentes avec un vent de 25 km/h et des rafales atteignant 50 km/h. Paris enregistre 14°C avec des averses et un vent modéré de 15 km/h, soufflant en rafales jusqu'à 40 km/h. Plus à l'est, Laon connaît également des averses pour une minimale de 14°C. Le vent reste généralement modéré sur l'ensemble du pays.
+Ce mardi matin, une ambiance maussade prédomine sur une grande partie du pays. Les températures minimales s'établissent à 15°C à Lille, 13°C à Laon et 15°C à Paris. Un ciel très nuageux à couvert s'impose sur les régions du nord et de l'ouest. Des averses se déclenchent du Nord-Pas-de-Calais à la Bretagne, en passant par l'Île-de-France et les Pays de la Loire. Le vent souffle modérément, atteignant 25 km/h avec des rafales de 50 km/h sur Lille, Rouen et Caen. Quelques éclaircies timides percent par intermittence sur la Normandie et la Bretagne, notamment près de Caen et Rennes, où le ciel est peu nuageux. Le sud-est bénéficie d'un temps plus clément, avec un soleil dominant et des températures plus douces.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce mardi après-midi, une atmosphère instable domine sur une large partie nord de la France. Des averses sont attendues de la Bretagne aux Hauts-de-France, avec des pluies plus marquées sur Paris (4.3 mm) et Nantes (1.0 mm). Le vent soufflera modérément, atteignant des rafales de 50 km/h sur Caen et Brest. Les températures maximales afficheront 23°C à Paris, 22°C à Lille et 20°C à Brest. Le Sud-Ouest bénéficiera d'un temps plus clément avec un soleil dominant et des températures agréables.
+Ce mardi après-midi, un temps instable dominera sur une grande partie de la France. Des averses, parfois faibles, sont attendues du Nord-Pas-de-Calais à la Bretagne, en passant par l'Île-de-France et les Pays de la Loire. Lille enregistrera 20°C sous des averses, tandis que Paris atteindra 21°C avec également des averses. Plus à l'ouest, Rennes bénéficiera d'un ciel peu nuageux avec 22°C. Le vent soufflera modérément, avec des rafales pouvant atteindre 50 km/h sur les côtes de la Manche, notamment à Lille et Rouen.
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (mardi 13 octobre 2026)
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
@@ -59,11 +59,11 @@ Ce mardi après-midi, une atmosphère instable domine sur une large partie nord 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
 📉 Tendance – 3 jours suivants (jeudi 15 octobre au samedi 17 octobre)
 
-▶ jeudi 15 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 8°C. L'après-midi, le mercure grimpe jusqu'à 26°C sous abri. Attention aux rafales de vent atteignant 40 km/h.
+▶ jeudi 15 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 4°C. L'après-midi, le mercure grimpe jusqu'à 25°C sous abri. Le vent souffle de manière modérée.
 
-▶ vendredi 16 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 10°C. L'après-midi, le mercure grimpe jusqu'à 19°C sous abri. Attention aux rafales de vent atteignant 55 km/h.
+▶ vendredi 16 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 9°C. L'après-midi, le mercure grimpe jusqu'à 21°C sous abri. Attention aux rafales de vent atteignant 55 km/h.
 
-▶ samedi 17 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 7°C. L'après-midi, le mercure grimpe jusqu'à 16°C sous abri. Attention aux rafales de vent atteignant 55 km/h.
+▶ samedi 17 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 9°C. L'après-midi, le mercure grimpe jusqu'à 17°C sous abri. Attention aux rafales de vent atteignant 50 km/h.
 
 
 --------------------------------------------------------------------------------
@@ -75,16 +75,16 @@ Ce mardi après-midi, une atmosphère instable domine sur une large partie nord 
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce mardi matin, le ciel présente des nuances contrastées sur la région. Des averses sont observées localement, notamment à St-Hilaire-sur-Helpe où 1.7 mm de pluie sont relevés, et sur le littoral dunkerquois avec 0.1 mm. Les températures minimales s'établissent à 12°C à Troisvilles et Maubeuge, et atteignent 14°C à Lille et Dunkerque. Le vent souffle modérément, avec des rafales pouvant atteindre 55 km/h sur le secteur de Watten et Dunkerque, et 45 km/h à Lille et Roubaix. Des éclaircies dominent par endroits, comme à Douai et Watten, tandis que des passages nuageux sont présents sur Valenciennes et Steenvoorde.
+Ce mardi matin, le ciel du Nord présente un visage contrasté. Des averses se déclenchent sur plusieurs secteurs, notamment à St-Hilaire-sur-Helpe, Lille et Roubaix, où les températures minimales avoisinent les 13°C à 15°C. Un vent modéré souffle, atteignant 25 km/h à Lille et Roubaix, avec des rafales pouvant atteindre 50 km/h sur Douai. Sur le littoral, à Dunkerque, le vent se renforce à 30 km/h avec des rafales de 60 km/h, sous un ciel peu nuageux et une minimale de 14°C. D'autres zones, comme Maubeuge et Watten, bénéficient d'un soleil dominant avec des températures similaires.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce mardi après-midi, le ciel du Nord présente un contraste marqué. Des averses sont attendues sur le secteur de St-Hilaire-sur-Helpe, où le thermomètre affichera 19°C. Plus à l'ouest, un soleil dominant est observé à Troisvilles et Maubeuge, avec des températures atteignant 19°C. Sur le littoral et la métropole lilloise, les éclaircies prédominent, comme à Dunkerque et Lille, où les maximales atteindront 22°C. Le vent d'ouest soufflera entre 20 et 25 km/h, avec des rafales pouvant atteindre 55 km/h sur le littoral, notamment à Dunkerque et Watten.
+Ce mardi après-midi, le ciel du Nord présente un visage mitigé. Des averses éparses sont attendues, notamment sur St-Hilaire-sur-Helpe, Lille et Roubaix, où des pluies faibles sont relevées. Le littoral, comme à Dunkerque, bénéficie d'un ciel peu nuageux, tandis que l'intérieur des terres, notamment à Troisvilles, Maubeuge et Douai, profite d'un ensoleillement plus généreux. Les températures maximales atteindront 22°C à Douai, 20°C à Valenciennes et 19°C à St-Hilaire-sur-Helpe. Le vent soufflera entre 20 et 30 km/h, avec des rafales pouvant atteindre 60 km/h sur Dunkerque et 55 km/h sur Steenvoorde et Watten, marquant une légère brise côtière.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
 🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (mardi 13 octobre 2026)
 
 🌴 Dunkerque / Malo-les-Bains / Bray-Dunes
-☀️ Circulation d'un flux océanique d'ouest perturbé et humide sur la côte. Températures de 14°C le matin à 22°C l'après-midi.
+☀️ Circulation d'un flux océanique d'ouest perturbé et humide sur la côte. Températures de 15°C le matin à 22°C l'après-midi.
 🌊 Température de l’eau : 17°C à 18°C
 
 🌴 Le Touquet / Berck / Baie de Somme
@@ -92,7 +92,7 @@ Ce mardi après-midi, le ciel du Nord présente un contraste marqué. Des averse
 🌊 Température de l’eau : 18°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (mardi 13 octobre 2026)
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
@@ -130,11 +130,11 @@ Ce mardi après-midi, le ciel du Nord présente un contraste marqué. Des averse
     Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du mardi 13 octobre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-▶ jeudi 15 octobre : Une journée radieuse s'annonce sur l'ensemble du Nord, avec un soleil généreux et aucun risque de pluie. Les températures maximales seront très douces, comprises entre 19°C et 23°C, pour des minimales de 9°C à 13°C. Le vent, modéré de 15 à 20 km/h, ne gênera pas les activités extérieures.
+▶ jeudi 15 octobre : ▶ jeudi 15 octobre : Le soleil s'impose largement sur l'ensemble de la région avec un ciel parfaitement dégagé. Les minimales sont fraîches au lever du jour, de 7°C à St-Hilaire-sur-Helpe à 11°C à Steenvoorde, avant une douceur retrouvée l'après-midi avec 21°C à Lille et Valenciennes. Le vent est faible et régulier, ne dépassant pas 15 km/h.
 
-▶ vendredi 16 octobre : Le temps se dégrade nettement avec l'arrivée d'un front pluvieux. Des averses parfois soutenues sont attendues sur toute la région, avec des cumuls pouvant atteindre 5,4 mm à Dunkerque et Watten. Le vent se renforce, avec des rafales de 50 à 60 km/h sur le littoral, et les maximales baissent entre 17°C et 20°C.
+▶ vendredi 16 octobre : ☁️ Le ciel se charge progressivement en nuages sur toute la région avant l'arrivée de pluies faibles en fin de journée. Le vent se renforce avec des rafales de 40 à 45 km/h sur les terres, atteignant 65 km/h sur Dunkerque. Les températures sont en légère baisse avec des maximales de 18°C. Les cumuls de pluie restent modestes, mais les sols pourraient être localement glissants.
 
-▶ samedi 17 octobre : La journée reste perturbée et fraîche, sous un ciel très nuageux à couvert. De nouvelles averses traversent le secteur, notamment sur le littoral où les cumuls atteignent 9,6 mm à Watten et 6 mm à Dunkerque. Les températures maximales chutent entre 14°C et 16°C, avec un vent toujours soutenu et des rafales jusqu'à 65 km/h sur la côte.
+▶ samedi 17 octobre : 🌧️ Le temps devient instable avec un ciel très nuageux à couvert et des averses fréquentes sur l'ensemble du territoire. Les températures chutent nettement, peinant à dépasser les 15°C l'après-midi, avec des minimales de 8°C à Maubeuge et Troisvilles. Les pluies sont plus marquées sur le littoral, notamment à Dunkerque où l'on attend près de 9 mm de précipitations, sous un vent soutenu.
 
 
 --------------------------------------------------------------------------------
@@ -146,25 +146,25 @@ Ce mardi après-midi, le ciel du Nord présente un contraste marqué. Des averse
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce mardi matin, le ciel de la Charente-Maritime et de la Charente présente un tableau mitigé. Des averses se déclenchent sur le littoral rochelais, où la température minimale atteint 15°C, et à Chassiron avec 17°C, accompagnées d'un vent modéré de 15 à 20 km/h. Plus à l'intérieur des terres, le soleil domine à Blanzac-Porcheresse et Jarnac, où les minimales sont de 16°C et 17°C. Quelques nuages parsèment le ciel d'Angoulême et de La Couronne, où le mercure affiche 15°C, avec un vent léger de 10 km/h.
+Ce mardi matin, des averses s'invitent sur une partie du département, notamment à La Rochelle où 2.7 mm de pluie sont attendus avec une minimale de 16°C. Des précipitations sont également signalées à Gond-Pontouvre (15°C) et Angoulême (15°C). Le vent souffle modérément, atteignant 20 km/h à Chassiron où le soleil domine et la température affiche 17°C. L'intérieur des terres, comme à Jarnac et Cognac (17°C), bénéficie d'un ciel ensoleillé et de températures plus douces, contrastant avec le littoral.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce mardi après-midi, le ciel de la Charente-Maritime et de la Charente présente des nuances. Sur le littoral, La Rochelle connaîtra des averses, avec une maximale de 21°C et un vent de 15 km/h. À Chassiron, le soleil dominera, avec 20°C et un vent plus soutenu à 20 km/h. L'intérieur des terres sera plus clément, avec un ciel peu nuageux à Angoulême et La Couronne, où le mercure atteindra 24°C. Le vent restera faible sur l'ensemble de la région, ne dépassant pas les 15 km/h.
+Ce mardi après-midi, le ciel de la région sera partagé entre éclaircies et passages nuageux porteurs d'averses. Des averses sont ainsi attendues sur La Rochelle, avec une maximale de 20°C, ainsi qu'à Gond-Pontouvre et Angoulême, où le mercure atteindra 23°C. Le vent soufflera modérément, autour de 15 km/h sur le littoral rochelais. Dans l'intérieur des terres, comme à Jarnac et Cognac, le temps restera plus clément, avec un soleil dominant et des températures agréables pouvant atteindre 23°C. Une brise légère de 10 à 15 km/h accompagnera ces conditions.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
 🏖️ MÉTÉO DES PLAGES – LITTORAL CHARENTAIS (mardi 13 octobre 2026)
 
 🌴 La Rochelle / Île de Ré / Île d’Oléron
 ☀️ Circulation d'un flux océanique d'ouest perturbé et humide sur l'ensemble des plages charentaises ce mardi.
-🌡️ Température sur le littoral : 18°C à 24°C
+🌡️ Température sur le littoral : 18°C à 23°C
 🌊 Température de l’eau : 21°C à 22°C
 
 🌴 Royan / Côte de Beauté / Rochefort
-☀️ Ensoleillement généreux ce mardi, maximales de 25°C tempérées par la brise marine.
+☀️ Ensoleillement généreux ce mardi, maximales de 24°C tempérées par la brise marine.
 🌊 Température de l’eau : 22°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "AIGUILLON - FRONTIÈRE ESPAGNOLE" MIDI
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "AIGUILLON - FRONTIÈRE ESPAGNOLE" MIDI (mardi 13 octobre 2026)
 📍 Origine Météo-France. 
 Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du lundi 12 octobre 2026 à 12H30 légales.
 
@@ -205,13 +205,11 @@ Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la fro
     Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du mardi 13 octobre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-📉 Tendance – 3 jours suivants (jeudi 15 octobre au samedi 17 octobre)
+▶ jeudi 15 octobre : Le soleil s'impose durablement sur l'ensemble de la région avec un ciel parfaitement dégagé. Les températures grimpent nettement, avec des maximales comprises entre 24°C sur le littoral et 29°C à Angoulême. Le vent reste faible, orienté au secteur sud.
 
-▶ jeudi 15 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 12°C. L'après-midi, le mercure grimpe jusqu'à 31°C sous abri. Le vent souffle de manière modérée.
+▶ vendredi 16 octobre : Le ciel se charge progressivement avec l'arrivée de nuages porteurs de faibles pluies, notamment sur le nord du département. Les températures fléchissent légèrement, oscillant entre 19°C et 23°C. Le vent se renforce sensiblement avec des rafales atteignant 50 à 60 km/h sur les côtes.
 
-▶ vendredi 16 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 13°C. L'après-midi, le mercure grimpe jusqu'à 22°C sous abri. Attention aux rafales de vent atteignant 55 km/h.
-
-▶ samedi 17 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 8°C. L'après-midi, le mercure grimpe jusqu'à 18°C sous abri. Attention aux rafales de vent atteignant 65 km/h.
+▶ samedi 17 octobre : Le temps redevient sec mais le vent reste soutenu, avec des rafales proches de 55 km/h sur l'ensemble du territoire. Les températures chutent nettement, avec des minimales de 7°C dans les terres et des maximales ne dépassant pas 18°C. Le ciel alterne entre éclaircies et passages nuageux.
 
 
 --------------------------------------------------------------------------------
@@ -223,24 +221,24 @@ Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la fro
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce mardi matin, le temps se montre mitigé sur la région. Des averses sont observées par intermittence, notamment à Leffrinckoucke (14°C), Marck (15°C) et Robecq (15°C), où de faibles précipitations sont relevées. Ailleurs, le soleil domine, comme à Gravelines (15°C) et Offekerque (15°C), avec un ciel dégagé. Le vent souffle modérément sur l'ensemble du territoire, atteignant des rafales de 65 km/h à Gravelines et 60 km/h à Offekerque et Groffliers, sans toutefois atteindre le seuil de vigilance. Les températures minimales oscillent entre 12°C et 15°C, avec un léger contraste entre le littoral et l'intérieur des terres.
+Ce mardi matin, le temps se présente sous un aspect mitigé sur la région, avec des températures minimales oscillant entre 12°C à Racquinghem et 16°C sur le littoral à Gravelines et Offekerque. Des averses se déclenchent par endroits, notamment à Leffrinckoucke et Marck, où de faibles précipitations sont relevées. Plus à l'intérieur des terres, Remilly-Wirquin et Robecq connaissent des passages pluvieux plus marqués. Le vent souffle modérément, atteignant 35 km/h avec des rafales pouvant aller jusqu'à 70 km/h à Offekerque, nécessitant une vigilance particulière. Des éclaircies sont néanmoins présentes, notamment à Gravelines, Offekerque et Cauchy-à-la-Tour, offrant des moments ensoleillés.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce mardi après-midi, le ciel présente une alternance de soleil et de passages nuageux sur la région. Des averses sont attendues localement, notamment à Leffrinckoucke et Marck avec 0.1 mm de pluie, ainsi qu'à Robecq où 0.4 mm sont prévus. Les températures maximales atteignent 22°C à Leffrinckoucke, 21°C à Gravelines et 20°C à Racquinghem. Le vent souffle modérément, avec des rafales pouvant atteindre 65 km/h à Gravelines, et 60 km/h à Offekerque et Groffliers, sans risque de vigilance.
+Ce mardi après-midi, le temps s'annonce mitigé sur la région. Des éclaircies dominent sur le littoral, notamment à Gravelines et Offekerque où le soleil sera bien présent avec des maximales de 21°C. Toutefois, le vent d'ouest-sud-ouest soufflera avec des rafales atteignant 70 km/h à Offekerque, nécessitant une vigilance particulière. Dans les terres, le ciel se montrera plus nuageux. Des averses sont attendues à Leffrinckoucke (20°C) et Marck (20°C), tandis que le soleil voilé caractérisera l'après-midi à Remilly-Wirquin (19°C) et Robecq (20°C). Les températures maximales varieront de 19°C à Lefaux à 21°C à Racquinghem.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
 🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (mardi 13 octobre 2026)
 
 🌴 Dunkerque / Malo-les-Bains / Bray-Dunes
-☀️ Influence anticyclonique calme assurant un temps sec et modérément doux sur la côte. Températures de 14°C le matin à 22°C l'après-midi.
+☀️ Influence anticyclonique calme assurant un temps sec et modérément doux sur la côte. Températures de 14°C le matin à 21°C l'après-midi.
 🌊 Température de l’eau : 17°C à 18°C
 
 🌴 Le Touquet / Berck / Baie de Somme
-☀️ Ambiance agréable sur le littoral ce mardi. Maximales atteignant 23°C sur le sable.
+☀️ Ambiance agréable sur le littoral ce mardi. Maximales atteignant 22°C sur le sable.
 🌊 Température de l’eau : 18°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (mardi 13 octobre 2026)
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
@@ -278,11 +276,11 @@ Ce mardi après-midi, le ciel présente une alternance de soleil et de passages 
     Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du mardi 13 octobre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-▶ jeudi 15 octobre : Ciel dégagé et ensoleillé sur l’ensemble de la région, avec des températures maximales encore agréables, entre 20 et 22°C. Le vent reste faible, de 15 à 20 km/h, apportant une ambiance calme et lumineuse.
+▶ jeudi 15 octobre : Le soleil domine largement sur l’ensemble de la région, avec un vent modéré de 15 à 20 km/h. Les températures restent douces, de 8 à 11°C le matin, et 19 à 21°C l’après-midi. Aucune précipitation n’est attendue, offrant une journée idéale pour les activités extérieures.
 
-▶ vendredi 16 octobre : Le temps se dégrade nettement avec l’arrivée de pluies soutenues, cumulant jusqu’à 6-9 mm selon les endroits. Les rafales de vent atteignent 40 à 60 km/h, tandis que les maximales chutent à 16-18°C, annonçant un rafraîchissement marqué.
+▶ vendredi 16 octobre : Le temps se dégrade avec le retour d’averses et un vent plus soutenu, avec des rafales atteignant 60 à 65 km/h sur le littoral. Les précipitations cumulées varient de 1 à 5 mm selon les secteurs. Les températures maximales baissent légèrement, entre 17 et 19°C.
 
-▶ samedi 17 octobre : Le ciel reste très nuageux avec des averses résiduelles, notamment sur le littoral, mais des éclaircies plus larges possible à l’ouest. Les températures baissent encore, de 13 à 16°C au meilleur de la journée, et le vent se maintient avec des rafales jusqu’à 65 km/h près des côtes.
+▶ samedi 17 octobre : La perturbation persiste, avec un ciel très nuageux et de fréquentes averses, parfois soutenues (jusqu’à 9 mm localement). Le vent reste fort, avec des rafales de 45 à 60 km/h. Les températures chutent nettement, les maximales ne dépassant pas 14 à 16°C sur le littoral et 13°C dans les terres.
 
 
 --------------------------------------------------------------------------------
@@ -294,16 +292,16 @@ Ce mardi après-midi, le ciel présente une alternance de soleil et de passages 
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce mardi matin, le ciel se montre changeant sur la région, alternant entre éclaircies et passages nuageux. Des averses sont attendues localement, notamment à St-Hilaire-sur-Helpe où 1.7 mm de pluie sont relevés, et à Troisvilles avec 1.4 mm. Les températures minimales s'établissent à 12°C à Maubeuge et Troisvilles, et grimpent à 14°C à Lille et Dunkerque. Le vent souffle modérément, atteignant 25 km/h avec des rafales jusqu'à 55 km/h sur le littoral, notamment à Dunkerque et Watten.
+Ce mardi matin, le ciel présente un contraste notable sur la région. Des averses s'invitent notamment à St-Hilaire-sur-Helpe (13°C), Lille (15°C) et Roubaix (15°C), où le soleil peine à percer derrière les nuages. Ailleurs, les éclaircies sont plus généreuses, comme à Douai (13°C) et Maubeuge (13°C), où le soleil domine. Le vent est présent sur l'ensemble du territoire, soufflant entre 20 et 30 km/h. Des rafales atteignent 60 km/h sur Dunkerque, 55 km/h à Steenvoorde et Watten, et 50 km/h sur Lille et Douai. Les températures minimales oscillent entre 13°C et 15°C, marquant une certaine douceur pour la saison.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce mardi après-midi, le ciel présente des nuances variables sur la région. Des averses sont attendues sur St-Hilaire-sur-Helpe, où la température maximale atteindra 19°C. Plus à l'est, Maubeuge et Troisvilles bénéficieront d'un soleil dominant avec des maximales de 18°C et 19°C respectivement. Sur le littoral, à Dunkerque, le temps sera peu nuageux avec 22°C, mais le vent soufflera à 25 km/h avec des rafales pouvant atteindre 55 km/h. Les conditions restent venteuses sur l'ensemble de la région, notamment à Watten et Steenvoorde où les rafales pourront également atteindre 55 km/h et 50 km/h.
+Ce mardi après-midi, le temps demeure instable sur la région. Des averses éparses sont attendues, notamment sur les secteurs de Lille, Roubaix et Steenvoorde. Le littoral, à l'image de Dunkerque, bénéficie d'un ciel peu nuageux, tandis que l'intérieur des terres, comme à Douai et Maubeuge, profite d'un soleil dominant. Les températures maximales atteignent 22°C à Douai, 20°C à Valenciennes et 19°C à St-Hilaire-sur-Helpe. Le vent souffle de manière modérée, avec des rafales pouvant atteindre 60 km/h sur le littoral dunkerquois.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
 🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (mardi 13 octobre 2026)
 
 🌴 Dunkerque / Malo-les-Bains / Bray-Dunes
-☀️ Circulation d'un flux océanique d'ouest perturbé et humide sur la côte. Températures de 14°C le matin à 22°C l'après-midi.
+☀️ Circulation d'un flux océanique d'ouest perturbé et humide sur la côte. Températures de 15°C le matin à 22°C l'après-midi.
 🌊 Température de l’eau : 17°C à 18°C
 
 🌴 Le Touquet / Berck / Baie de Somme
@@ -311,7 +309,7 @@ Ce mardi après-midi, le ciel présente des nuances variables sur la région. De
 🌊 Température de l’eau : 18°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (mardi 13 octobre 2026)
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
@@ -349,11 +347,11 @@ Ce mardi après-midi, le ciel présente des nuances variables sur la région. De
     Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du mardi 13 octobre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-▶ jeudi 15 octobre : Le soleil s'impose largement sur l'ensemble du territoire avec un ciel clair et dégagé, sans aucune précipitation en vue. Le vent reste modéré, ne dépassant pas les 20 km/h, tandis que les températures sont très confortables, comprises entre 9°C et 13°C le matin, et 19°C à 23°C l'après-midi.
+▶ jeudi 15 octobre : Un temps sec et largement ensoleillé s’impose sur l’ensemble de la région. Les températures maximales restent douces, de 18 à 21°C, avec des minimales de 7 à 11°C. Vent faible, autour de 15 km/h.
 
-▶ vendredi 16 octobre : La dégradation est nette avec l'arrivée de nombreuses averses et un ciel couvert sur la quasi-totalité de la région. Les cumuls de pluie varient de 0.9 mm à plus de 5 mm sur les secteurs les plus arrosés du littoral. Le vent se renforce considérablement, avec des rafales atteignant 50 à 60 km/h, et les maximales chutent pour ne plus dépasser 17°C à 20°C.
+▶ vendredi 16 octobre : Le ciel se charge progressivement et des pluies modérées touchent l’ensemble du territoire, avec des cumuls de 2 à 5 mm. Les maximales baissent légèrement, oscillant entre 18 et 19°C. Le vent se renforce, surtout sur le littoral, avec des rafales jusqu’à 65 km/h à Dunkerque.
 
-▶ samedi 17 octobre : Le temps reste instable et perturbé avec des averses fréquentes, notamment sur la façade maritime où les cumuls restent importants (jusqu'à 9.6 mm localement). Le vent demeure soutenu, avec des rafales pouvant atteindre 65 km/h sur la côte. Les températures baissent sensiblement, se situant entre 7°C et 12°C le matin, et plafonnant entre 14°C et 16°C l'après-midi.
+▶ samedi 17 octobre : Le temps demeure instable, marqué par des averses localement soutenues, notamment sur le nord et la côte. Les températures maximales chutent franchement, de 13 à 16°C selon les secteurs. Vent encore soutenu, avec des rafales proches de 50 km/h sur les zones côtières.
 
 
 --------------------------------------------------------------------------------
@@ -365,24 +363,24 @@ Ce mardi après-midi, le ciel présente des nuances variables sur la région. De
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce mardi matin, la Normandie se réveille sous un ciel partagé. Des averses sont attendues sur le littoral de la Manche, notamment du côté de Caen et du Havre où le thermomètre affichera 15°C et 14°C respectivement. Ces précipitations s'étendront également vers l'intérieur des terres, touchant Lisieux et Alençon avec des minimales de 14°C et 15°C. Plus à l'est, Rouen et Dieppe connaîtront un temps nuageux avec 13°C, tandis qu'Evreux profitera d'un ciel similaire et d'une température de 14°C. Le vent soufflera modérément, avec des rafales pouvant atteindre 55 km/h sur Dieppe et 50 km/h sur le littoral ouest.
+Ce mardi matin, la Normandie se réveille sous un ciel partagé. Des averses sont observées sur une large partie de la région, notamment à Cherbourg et Rouen où le mercure affiche 14°C. À l'inverse, Caen et Lisieux bénéficient d'un temps peu nuageux avec 15°C. Le vent souffle modérément sur l'ensemble du territoire, avec des rafales atteignant 60 km/h sur Dieppe, et jusqu'à 50 km/h sur Le Havre et Cherbourg. Les températures minimales varient de 14°C sur le littoral à 15°C dans l'intérieur des terres.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce mardi après-midi, la Normandie connaîtra un temps majoritairement nuageux avec des averses éparses sur une grande partie de la région. Les pluies seront particulièrement présentes sur le Calvados, la Manche et l'Orne, notamment à Caen, Lisieux et Alençon. Quelques éclaircies pourront percer, notamment du côté de Rouen et Dieppe où le soleil sera plus généreux malgré la présence de quelques nuages. Les températures maximales atteindront 23°C à Évreux, 22°C à Rouen et 19°C à Cherbourg. Le vent soufflera modérément, avec des rafales pouvant atteindre 55 km/h sur le littoral dieppois, et jusqu'à 50 km/h sur les côtes de la Manche et du Pays de Caux.
+Ce mardi après-midi, la Normandie connaît un temps variable. Le soleil domine sur le littoral, notamment à Caen et Le Havre, où les températures atteignent 20°C et 19°C respectivement. Un vent de 25 à 30 km/h est présent sur ces zones, avec des rafales pouvant atteindre 50 km/h. Dans l'intérieur des terres, le ciel est plus nuageux, comme à Rouen et Alençon, où le mercure affiche 20°C. Les vents y sont plus modérés, autour de 20 km/h. Aucune précipitation n'est attendue sur l'ensemble de la région.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
 🏖️ MÉTÉO DES PLAGES – CÔTE D’ALBÂTRE & MANCHE (mardi 13 octobre 2026)
 
 🌴 Le Havre / Deauville / Cabourg
-☀️ Temps agréable ce mardi. Températures sur les plages : 15°C à 23°C.
-🌊 Température de l’eau : 18°C à 19°C
+☀️ Temps agréable ce mardi. Températures sur les plages : 16°C à 22°C.
+🌊 Température de l’eau : 17°C à 18°C
 
 🌴 Dieppe / Fécamp / Cherbourg
-☀️ Belle luminosité ce mardi, brise littorale rafraîchissante avec maximales de 23°C.
-🌊 Température de l’eau : 18°C
+☀️ Belle luminosité ce mardi, brise littorale rafraîchissante avec maximales de 22°C.
+🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "BAIE DE SOMME - LA HAGUE" MIDI
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "BAIE DE SOMME - LA HAGUE" MIDI (mardi 13 octobre 2026)
 📍 Origine Météo-France. 
 Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du lundi 12 octobre 2026 à 12H30 légales.
 
@@ -421,9 +419,9 @@ Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la H
     Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du mardi 13 octobre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-▶ jeudi 15 octobre : Une journée radieuse s’annonce sur l’ensemble de la région, avec un ciel dégagé et un soleil généreux. Les températures maximales grimpent jusqu’à 24°C à Évreux et Alençon, tandis que le vent reste modéré, ne dépassant pas 20 km/h. Les minimales sont fraîches, notamment 8°C à Rouen et 10°C à Évreux.
+▶ jeudi 15 octobre : Une journée radieuse et douce s’annonce sur toute la région. Le ciel reste dégagé du matin au soir, avec des températures maximales comprises entre 21°C et 24°C. Le vent est faible, de 10 à 15 km/h, offrant une accalmie bienvenue après les rafales des jours précédents.
 
-▶ vendredi 16 octobre : Le temps se dégrade nettement avec l’arrivée d’un flux perturbé. Des pluies faibles à modérées arrosent toute la Normandie, les cumuls les plus importants étant attendus sur Cherbourg (5,4 mm) et Le Havre (4,5 mm). Le vent se renforce, avec des rafales de 40 à 50 km/h, et les maximales chutent entre 16°C et 18°C.
+▶ vendredi 16 octobre : Le temps se dégrade nettement avec l’arrivée d’un front perturbé. Le ciel devient très nuageux à couvert, et des pluies éparses arrosent la région, notamment sur Cherbourg et Alençon (jusqu’à 3,6 mm). Le vent se renforce, avec des rafales atteignant 60 km/h sur le Cotentin. Les maximales baissent à 17-19°C.
 
-▶ samedi 17 octobre : Une matinée encore nuageuse laisse place à des éclaircies l’après-midi, mais quelques averses résiduelles persistent sur Dieppe (2,4 mm). Les températures baissent nettement, avec des maximales de 14°C à 16°C et des minimales descendant jusqu’à 7°C à Dieppe. Le vent reste soutenu, avec des rafales de 45 à 50 km/h sur les côtes.
+▶ samedi 17 octobre : La perturbation s’atténue mais le ciel reste chargé, alternant nuages et rares éclaircies. Le vent reste soutenu, de 20 à 25 km/h avec des rafales de 40 à 50 km/h. Les températures chutent encore, ne dépassant pas 14-15°C sur le littoral et 15°C dans l’intérieur. Quelques gouttes possibles, surtout sur Dieppe.
 
