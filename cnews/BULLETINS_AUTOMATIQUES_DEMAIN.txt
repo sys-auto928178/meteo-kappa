@@ -19,19 +19,23 @@ Ce mardi matin, la France se réveille sous un ciel souvent nuageux avec des pas
 Ce mardi après-midi, une atmosphère instable domine sur une large partie nord de la France. Des averses sont attendues de la Bretagne aux Hauts-de-France, avec des pluies plus marquées sur Paris (4.3 mm) et Nantes (1.0 mm). Le vent soufflera modérément, atteignant des rafales de 50 km/h sur Caen et Brest. Les températures maximales afficheront 23°C à Paris, 22°C à Lille et 20°C à Brest. Le Sud-Ouest bénéficiera d'un temps plus clément avec un soleil dominant et des températures agréables.
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (mardi 13 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
 🌐 Situation générale : Vaste système dépressionnaire 964 hPa entre le Groenland et l'Islande avec thalweg associé jusque sur le nord-ouest de la France. Flux perturbé de Sud-Ouest sur la Bretagne et la Manche. Dorsale atlantique se renforçant sur le sud du Golfe de Gascogne en journée.
 
-📅 Tendance pour la journée du mardi 13 octobre :
-🌬️ VENT : Sud à Sud-Ouest 4 à 5, parfois 6, fraîchissant Ouest à Sud-Ouest 5 à 6 en matinée, puis virant Ouest 4 à 5 l'après-midi. Rafales.
+📅 Prévisions pour la journée du mardi 13 octobre :
+🌬️ VENT : Sud à Sud-Ouest 4 à 5, parfois 6, fraîchissant Sud-Ouest 5 à 6, puis mollissant Ouest 4 à 5 l'après-midi. Rafales.
 🌊 MER : peu agitée à agitée.
 🌊 HOULE : Ouest à Sud-Ouest 0.5 à 1 m, parfois 1.5 m en Manche l'après-midi.
 ⛅ TEMPS : pluie ou averses, s'éclaircissant l'après-midi.
-👁️ VISIBILITE : moyenne à mauvaise sous précipitations.
+👁️ VISIBILITE : bonne, mais moyenne à mauvaise sous précipitations.
+
+📉 Tendance pour la nuit du 13  au 14, et la journée du mercredi 14 octobre :
+• VENT : Ouest à Nord-Ouest 4 à 5, mollissant progressivement 1 à 3 en fin de nuit, puis fraîchissant Sud à Sud-Ouest 3 à 4 l'après-midi.
+• MER : peu agitée à agitée, s'atténuant belle à peu agitée en matinée.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce mardi avec maintien de la sécheresse de surface.
@@ -88,19 +92,23 @@ Ce mardi après-midi, le ciel du Nord présente un contraste marqué. Des averse
 🌊 Température de l’eau : 18°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (mardi 13 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
 🌐 Situation générale : Vaste système dépressionnaire 964 hPa entre le Groenland et l'Islande avec thalweg associé jusque sur le nord-ouest de la France. Flux perturbé de Sud-Ouest sur la Bretagne et la Manche. Dorsale atlantique se renforçant sur le sud du Golfe de Gascogne en journée.
 
-📅 Tendance pour la journée du mardi 13 octobre :
-🌬️ VENT : Sud à Sud-Ouest 4 à 5, parfois 6, fraîchissant Ouest à Sud-Ouest 5 à 6 en matinée, puis virant Ouest 4 à 5 l'après-midi. Rafales.
+📅 Prévisions pour la journée du mardi 13 octobre :
+🌬️ VENT : Sud à Sud-Ouest 4 à 5, parfois 6, fraîchissant Sud-Ouest 5 à 6, puis mollissant Ouest 4 à 5 l'après-midi. Rafales.
 🌊 MER : peu agitée à agitée.
 🌊 HOULE : Ouest à Sud-Ouest 0.5 à 1 m, parfois 1.5 m en Manche l'après-midi.
 ⛅ TEMPS : pluie ou averses, s'éclaircissant l'après-midi.
-👁️ VISIBILITE : moyenne à mauvaise sous précipitations.
+👁️ VISIBILITE : bonne, mais moyenne à mauvaise sous précipitations.
+
+📉 Tendance pour la nuit du 13  au 14, et la journée du mercredi 14 octobre :
+• VENT : Ouest à Nord-Ouest 4 à 5, mollissant progressivement 1 à 3 en fin de nuit, puis fraîchissant Sud à Sud-Ouest 3 à 4 l'après-midi.
+• MER : peu agitée à agitée, s'atténuant belle à peu agitée en matinée.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce mardi avec maintien de la sécheresse de surface.
@@ -156,22 +164,26 @@ Ce mardi après-midi, le ciel de la Charente-Maritime et de la Charente présent
 🌊 Température de l’eau : 22°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "AIGUILLON - FRONTIÈRE ESPAGNOLE" MATIN (mardi 13 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "AIGUILLON - FRONTIÈRE ESPAGNOLE" MIDI
 📍 Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du lundi 12 octobre 2026 à 06H15 légales.
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du lundi 12 octobre 2026 à 12H30 légales.
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
 🌐 Situation générale : Vaste système dépressionnaire 964 hPa entre le Groenland et l'Islande avec thalweg associé jusque sur le nord-ouest de la France. Flux perturbé de Sud-Ouest sur la Bretagne et la Manche. Dorsale atlantique se renforçant sur le sud du Golfe de Gascogne en journée.
 
-📅 Tendance pour la journée du mardi 13 octobre :
+📅 Prévisions pour la journée du mardi 13 octobre :
 🌬️ VENT : 
 - au nord d'Arcachon : secteur Ouest 1 à 3.
-- au sud d'Arcachon : secteur Sud-Est 1 à 3, devenant secteur Nord 2 à 4 l'après-midi
+- au sud d'Arcachon : secteur Sud-Est 1 à 3, fraîchissant secteur Nord 2 à 4 l'après-midi
 🌊 MER : agitée, dominée par la houle.
 🌊 HOULE : Ouest à Nord-Ouest 1 à 2 m.
 ⛅ TEMPS : nuageux, averses éparses au nord d'Arcachon.
 👁️ VISIBILITE : bonne, localement moyenne sous averses.
+
+📉 Tendance pour la nuit du 13  au 14, et la journée du mercredi 14 octobre :
+• VENT : virant secteur Est 2 à 4.
+• MER : agitée, dominée par la houle, s'atténuant peu agitée à agitée en journée.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce mardi avec maintien de la sécheresse de surface.
@@ -228,19 +240,23 @@ Ce mardi après-midi, le ciel présente une alternance de soleil et de passages 
 🌊 Température de l’eau : 18°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (mardi 13 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
 🌐 Situation générale : Vaste système dépressionnaire 964 hPa entre le Groenland et l'Islande avec thalweg associé jusque sur le nord-ouest de la France. Flux perturbé de Sud-Ouest sur la Bretagne et la Manche. Dorsale atlantique se renforçant sur le sud du Golfe de Gascogne en journée.
 
-📅 Tendance pour la journée du mardi 13 octobre :
-🌬️ VENT : Sud à Sud-Ouest 4 à 5, parfois 6, fraîchissant Ouest à Sud-Ouest 5 à 6 en matinée, puis virant Ouest 4 à 5 l'après-midi. Rafales.
+📅 Prévisions pour la journée du mardi 13 octobre :
+🌬️ VENT : Sud à Sud-Ouest 4 à 5, parfois 6, fraîchissant Sud-Ouest 5 à 6, puis mollissant Ouest 4 à 5 l'après-midi. Rafales.
 🌊 MER : peu agitée à agitée.
 🌊 HOULE : Ouest à Sud-Ouest 0.5 à 1 m, parfois 1.5 m en Manche l'après-midi.
 ⛅ TEMPS : pluie ou averses, s'éclaircissant l'après-midi.
-👁️ VISIBILITE : moyenne à mauvaise sous précipitations.
+👁️ VISIBILITE : bonne, mais moyenne à mauvaise sous précipitations.
+
+📉 Tendance pour la nuit du 13  au 14, et la journée du mercredi 14 octobre :
+• VENT : Ouest à Nord-Ouest 4 à 5, mollissant progressivement 1 à 3 en fin de nuit, puis fraîchissant Sud à Sud-Ouest 3 à 4 l'après-midi.
+• MER : peu agitée à agitée, s'atténuant belle à peu agitée en matinée.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce mardi avec maintien de la sécheresse de surface.
@@ -295,19 +311,23 @@ Ce mardi après-midi, le ciel présente des nuances variables sur la région. De
 🌊 Température de l’eau : 18°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (mardi 13 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
 🌐 Situation générale : Vaste système dépressionnaire 964 hPa entre le Groenland et l'Islande avec thalweg associé jusque sur le nord-ouest de la France. Flux perturbé de Sud-Ouest sur la Bretagne et la Manche. Dorsale atlantique se renforçant sur le sud du Golfe de Gascogne en journée.
 
-📅 Tendance pour la journée du mardi 13 octobre :
-🌬️ VENT : Sud à Sud-Ouest 4 à 5, parfois 6, fraîchissant Ouest à Sud-Ouest 5 à 6 en matinée, puis virant Ouest 4 à 5 l'après-midi. Rafales.
+📅 Prévisions pour la journée du mardi 13 octobre :
+🌬️ VENT : Sud à Sud-Ouest 4 à 5, parfois 6, fraîchissant Sud-Ouest 5 à 6, puis mollissant Ouest 4 à 5 l'après-midi. Rafales.
 🌊 MER : peu agitée à agitée.
 🌊 HOULE : Ouest à Sud-Ouest 0.5 à 1 m, parfois 1.5 m en Manche l'après-midi.
 ⛅ TEMPS : pluie ou averses, s'éclaircissant l'après-midi.
-👁️ VISIBILITE : moyenne à mauvaise sous précipitations.
+👁️ VISIBILITE : bonne, mais moyenne à mauvaise sous précipitations.
+
+📉 Tendance pour la nuit du 13  au 14, et la journée du mercredi 14 octobre :
+• VENT : Ouest à Nord-Ouest 4 à 5, mollissant progressivement 1 à 3 en fin de nuit, puis fraîchissant Sud à Sud-Ouest 3 à 4 l'après-midi.
+• MER : peu agitée à agitée, s'atténuant belle à peu agitée en matinée.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce mardi avec maintien de la sécheresse de surface.
@@ -362,20 +382,24 @@ Ce mardi après-midi, la Normandie connaîtra un temps majoritairement nuageux a
 🌊 Température de l’eau : 18°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "BAIE DE SOMME - LA HAGUE" MATIN (mardi 13 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "BAIE DE SOMME - LA HAGUE" MIDI
 📍 Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du lundi 12 octobre 2026 à 06H30 légales.
+Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du lundi 12 octobre 2026 à 12H30 légales.
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
 🌐 Situation générale : Vaste système dépressionnaire 964 hPa entre le Groenland et l'Islande avec thalweg associé jusque sur le nord-ouest de la France. Flux perturbé de Sud-Ouest sur la Bretagne et la Manche. Dorsale atlantique se renforçant sur le sud du Golfe de Gascogne en journée.
 
-📅 Tendance pour la journée du mardi 13 octobre :
-🌬️ VENT : Sud-Ouest 5 à 6, mollissant Ouest 4 à 5 l'après-midi. Rafales.
-🌊 MER : peu agitée à agitée, parfois forte vers La Hague.
-🌊 HOULE : Ouest 0.5 à 1 m, localement 1.5 à 2 m sur nord-Cotentin.
+📅 Prévisions pour la journée du mardi 13 octobre :
+🌬️ VENT : fraîchissant Ouest à Sud-Ouest 5 à 6, puis mollissant Ouest 4 à 5 l'après-midi. Rafales.
+🌊 MER : peu agitée à agitée, s'amplifiant agitée à forte parages La Hague en matinée.
+🌊 HOULE : Ouest 0.5 à 1 m, s'amplifiant 1.5 à 2 m sur nord-Cotentin l'après-midi.
 ⛅ TEMPS : pluie ou averses, s'éclaircissant l'après-midi.
 👁️ VISIBILITE : moyenne, parfois mauvaise sous pluie, devenant bonne l'après-midi.
+
+📉 Tendance pour la nuit du 13  au 14, et la journée du mercredi 14 octobre :
+• VENT : Ouest 4 à 5, mollissant secteur Sud-Ouest 2 à 4 dans la nuit.
+• MER :  peu agitée à agitée, localement belle en baie de Seine.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce mardi avec maintien de la sécheresse de surface.
