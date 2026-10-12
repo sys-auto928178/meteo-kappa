@@ -1,6 +1,6 @@
 ================================================================================
 📡 RAPPORT EXHAUSTIF DES PRÉVISIONS VISUELLES (MODE VISIO EN PLATEAU)
-DATE CIBLE : LUNDI 12 OCTOBRE 2026
+DATE CIBLE : MARDI 13 OCTOBRE 2026
 FICHIER SOURCE : /home/runner/work/meteo-kappa/meteo-kappa/cnews/BULLETINS_AUTOMATIQUES_DEMAIN.json
 ================================================================================
 
@@ -19,23 +19,19 @@ Ce lundi matin, la France est coupée en deux avec une nette dégradation pluvie
 Ce lundi après-midi, la France se partage entre un ciel généreux au sud et une atmosphère plus perturbée au nord. Des averses sont attendues sur une large bande allant de la Bretagne aux Hauts-de-France. Les pluies seront plus soutenues sur la façade atlantique, notamment à Brest (21°C) où le vent soufflera jusqu'à 45 km/h en rafales, et à Rennes (21°C) où un passage pluvieux est prévu. Paris (17°C) connaîtra également des averses. En revanche, le soleil dominera sur l'est du pays, avec 19°C à Laon. Le contraste thermique sera marqué entre le littoral breton et l'intérieur des terres plus au sud.
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (lundi 12 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Dorsale atlantique sur la France, s'affaissant la nuit. Vaste système dépressionnaire au sud-ouest de l'Islande, générant un flux perturbé de Sud-Ouest sur le bassin.
+🌐 Situation générale : Vaste système dépressionnaire 964 hPa entre le Groenland et l'Islande avec thalweg associé jusque sur le nord-ouest de la France. Flux perturbé de Sud-Ouest sur la Bretagne et la Manche. Dorsale atlantique se renforçant sur le sud du Golfe de Gascogne en journée.
 
-📅 Prévisions pour la journée du lundi 12 octobre :
-🌬️ VENT : secteur Sud 4 à 5, fraîchissant localement 5 à 6 en Manche à la mi-journée.
-🌊 MER : devenant peu agitée à agitée.
-🌊 HOULE : s'établissant progressivement Ouest à Sud-Ouest 0.5 à 1 m.
-⛅ TEMPS : couvert, parfois pluie l'après-midi.
-👁️ VISIBILITE : bonne, parfois moyenne à mauvaise sous pluie l'après-midi.
-
-📉 Tendance pour la nuit du 12  au 13, et la journée du mardi 13 octobre :
-• VENT : Sud à Sud-Ouest 4 à 5, parfois 6, virant Ouest l'après-midi. Rafales.
-• MER : peu agitée à agitée.
+📅 Tendance pour la journée du mardi 13 octobre :
+🌬️ VENT : Sud à Sud-Ouest 4 à 5, parfois 6, fraîchissant Ouest à Sud-Ouest 5 à 6 en matinée, puis virant Ouest 4 à 5 l'après-midi. Rafales.
+🌊 MER : peu agitée à agitée.
+🌊 HOULE : Ouest à Sud-Ouest 0.5 à 1 m, parfois 1.5 m en Manche l'après-midi.
+⛅ TEMPS : pluie ou averses, s'éclaircissant l'après-midi.
+👁️ VISIBILITE : moyenne à mauvaise sous précipitations.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce lundi avec maintien de la sécheresse de surface.
@@ -92,23 +88,19 @@ Ce lundi après-midi, le ciel de la région Nord présente un aspect contrasté.
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (lundi 12 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Dorsale atlantique sur la France, s'affaissant la nuit. Vaste système dépressionnaire au sud-ouest de l'Islande, générant un flux perturbé de Sud-Ouest sur le bassin.
+🌐 Situation générale : Vaste système dépressionnaire 964 hPa entre le Groenland et l'Islande avec thalweg associé jusque sur le nord-ouest de la France. Flux perturbé de Sud-Ouest sur la Bretagne et la Manche. Dorsale atlantique se renforçant sur le sud du Golfe de Gascogne en journée.
 
-📅 Prévisions pour la journée du lundi 12 octobre :
-🌬️ VENT : secteur Sud 4 à 5, fraîchissant localement 5 à 6 en Manche à la mi-journée.
-🌊 MER : devenant peu agitée à agitée.
-🌊 HOULE : s'établissant progressivement Ouest à Sud-Ouest 0.5 à 1 m.
-⛅ TEMPS : couvert, parfois pluie l'après-midi.
-👁️ VISIBILITE : bonne, parfois moyenne à mauvaise sous pluie l'après-midi.
-
-📉 Tendance pour la nuit du 12  au 13, et la journée du mardi 13 octobre :
-• VENT : Sud à Sud-Ouest 4 à 5, parfois 6, virant Ouest l'après-midi. Rafales.
-• MER : peu agitée à agitée.
+📅 Tendance pour la journée du mardi 13 octobre :
+🌬️ VENT : Sud à Sud-Ouest 4 à 5, parfois 6, fraîchissant Ouest à Sud-Ouest 5 à 6 en matinée, puis virant Ouest 4 à 5 l'après-midi. Rafales.
+🌊 MER : peu agitée à agitée.
+🌊 HOULE : Ouest à Sud-Ouest 0.5 à 1 m, parfois 1.5 m en Manche l'après-midi.
+⛅ TEMPS : pluie ou averses, s'éclaircissant l'après-midi.
+👁️ VISIBILITE : moyenne à mauvaise sous précipitations.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce lundi avec maintien de la sécheresse de surface.
@@ -166,26 +158,22 @@ Ce lundi après-midi, le ciel de la région rochelaise et charentaise sera parta
 🌊 Température de l’eau : 21°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "AIGUILLON - FRONTIÈRE ESPAGNOLE" SOIR (lundi 12 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "AIGUILLON - FRONTIÈRE ESPAGNOLE" MATIN
 📍 Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du dimanche 11 octobre 2026 à 18H15 légales.
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du lundi 12 octobre 2026 à 06H15 légales.
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Dorsale atlantique sur la France, s'affaissant la nuit. Vaste système dépressionnaire au sud-ouest de l'Islande, générant un flux perturbé de Sud-Ouest sur le bassin.
+🌐 Situation générale : Vaste système dépressionnaire 964 hPa entre le Groenland et l'Islande avec thalweg associé jusque sur le nord-ouest de la France. Flux perturbé de Sud-Ouest sur la Bretagne et la Manche. Dorsale atlantique se renforçant sur le sud du Golfe de Gascogne en journée.
 
-📅 Prévisions pour la journée du lundi 12 octobre :
-🌬️ VENT : secteur Sud-Ouest 2 à 4, mollissant Variable 1 à 3 au sud d'Arcachon le matin.
-🌊 MER : devenant agitée dominée par la houle, parfois forte vers le large l'après-midi.
-🌊 HOULE : Ouest à Nord-Ouest 1 à 1.5 m, s'amplifiant progressivement 2 à 2.5 m.
-⛅ TEMPS : très nuageux, averses éparses au nord d'Arcachon.
+📅 Tendance pour la journée du mardi 13 octobre :
+🌬️ VENT : 
+- au nord d'Arcachon : secteur Ouest 1 à 3.
+- au sud d'Arcachon : secteur Sud-Est 1 à 3, devenant secteur Nord 2 à 4 l'après-midi
+🌊 MER : agitée, dominée par la houle.
+🌊 HOULE : Ouest à Nord-Ouest 1 à 2 m.
+⛅ TEMPS : nuageux, averses éparses au nord d'Arcachon.
 👁️ VISIBILITE : bonne, localement moyenne sous averses.
-
-📉 Tendance pour la nuit du 12  au 13, et la journée du mardi 13 octobre :
-• VENT : 
-- au nord d'Arcachon : Sud-Ouest 3 à 4, mollissant 1 à 3 en journée.
-- au sud d'Arcachon : Variable 1 à 3, fraîchissant secteur Nord 3 à 4 l'après-midi.
-• MER : agitée dominée par la houle, parfois forte vers le large le soir.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce lundi avec maintien de la sécheresse de surface.
@@ -242,23 +230,19 @@ Ce lundi après-midi, le temps se montrera variable sur l'ensemble de la région
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (lundi 12 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Dorsale atlantique sur la France, s'affaissant la nuit. Vaste système dépressionnaire au sud-ouest de l'Islande, générant un flux perturbé de Sud-Ouest sur le bassin.
+🌐 Situation générale : Vaste système dépressionnaire 964 hPa entre le Groenland et l'Islande avec thalweg associé jusque sur le nord-ouest de la France. Flux perturbé de Sud-Ouest sur la Bretagne et la Manche. Dorsale atlantique se renforçant sur le sud du Golfe de Gascogne en journée.
 
-📅 Prévisions pour la journée du lundi 12 octobre :
-🌬️ VENT : secteur Sud 4 à 5, fraîchissant localement 5 à 6 en Manche à la mi-journée.
-🌊 MER : devenant peu agitée à agitée.
-🌊 HOULE : s'établissant progressivement Ouest à Sud-Ouest 0.5 à 1 m.
-⛅ TEMPS : couvert, parfois pluie l'après-midi.
-👁️ VISIBILITE : bonne, parfois moyenne à mauvaise sous pluie l'après-midi.
-
-📉 Tendance pour la nuit du 12  au 13, et la journée du mardi 13 octobre :
-• VENT : Sud à Sud-Ouest 4 à 5, parfois 6, virant Ouest l'après-midi. Rafales.
-• MER : peu agitée à agitée.
+📅 Tendance pour la journée du mardi 13 octobre :
+🌬️ VENT : Sud à Sud-Ouest 4 à 5, parfois 6, fraîchissant Ouest à Sud-Ouest 5 à 6 en matinée, puis virant Ouest 4 à 5 l'après-midi. Rafales.
+🌊 MER : peu agitée à agitée.
+🌊 HOULE : Ouest à Sud-Ouest 0.5 à 1 m, parfois 1.5 m en Manche l'après-midi.
+⛅ TEMPS : pluie ou averses, s'éclaircissant l'après-midi.
+👁️ VISIBILITE : moyenne à mauvaise sous précipitations.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce lundi avec maintien de la sécheresse de surface.
@@ -315,23 +299,19 @@ Ce lundi après-midi, le ciel présente un aspect mitigé sur la région. Des é
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (lundi 12 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Dorsale atlantique sur la France, s'affaissant la nuit. Vaste système dépressionnaire au sud-ouest de l'Islande, générant un flux perturbé de Sud-Ouest sur le bassin.
+🌐 Situation générale : Vaste système dépressionnaire 964 hPa entre le Groenland et l'Islande avec thalweg associé jusque sur le nord-ouest de la France. Flux perturbé de Sud-Ouest sur la Bretagne et la Manche. Dorsale atlantique se renforçant sur le sud du Golfe de Gascogne en journée.
 
-📅 Prévisions pour la journée du lundi 12 octobre :
-🌬️ VENT : secteur Sud 4 à 5, fraîchissant localement 5 à 6 en Manche à la mi-journée.
-🌊 MER : devenant peu agitée à agitée.
-🌊 HOULE : s'établissant progressivement Ouest à Sud-Ouest 0.5 à 1 m.
-⛅ TEMPS : couvert, parfois pluie l'après-midi.
-👁️ VISIBILITE : bonne, parfois moyenne à mauvaise sous pluie l'après-midi.
-
-📉 Tendance pour la nuit du 12  au 13, et la journée du mardi 13 octobre :
-• VENT : Sud à Sud-Ouest 4 à 5, parfois 6, virant Ouest l'après-midi. Rafales.
-• MER : peu agitée à agitée.
+📅 Tendance pour la journée du mardi 13 octobre :
+🌬️ VENT : Sud à Sud-Ouest 4 à 5, parfois 6, fraîchissant Ouest à Sud-Ouest 5 à 6 en matinée, puis virant Ouest 4 à 5 l'après-midi. Rafales.
+🌊 MER : peu agitée à agitée.
+🌊 HOULE : Ouest à Sud-Ouest 0.5 à 1 m, parfois 1.5 m en Manche l'après-midi.
+⛅ TEMPS : pluie ou averses, s'éclaircissant l'après-midi.
+👁️ VISIBILITE : moyenne à mauvaise sous précipitations.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce lundi avec maintien de la sécheresse de surface.
@@ -388,24 +368,20 @@ Ce lundi après-midi, la Normandie connaîtra un temps mitigé. Des averses sont
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "BAIE DE SOMME - LA HAGUE" SOIR (lundi 12 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "BAIE DE SOMME - LA HAGUE" MATIN
 📍 Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du dimanche 11 octobre 2026 à 18H15 légales.
+Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du lundi 12 octobre 2026 à 06H30 légales.
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Dorsale atlantique sur la France, s'affaissant la nuit. Vaste système dépressionnaire au sud-ouest de l'Islande, générant un flux perturbé de Sud-Ouest sur le bassin.
+🌐 Situation générale : Vaste système dépressionnaire 964 hPa entre le Groenland et l'Islande avec thalweg associé jusque sur le nord-ouest de la France. Flux perturbé de Sud-Ouest sur la Bretagne et la Manche. Dorsale atlantique se renforçant sur le sud du Golfe de Gascogne en journée.
 
-📅 Prévisions pour la journée du lundi 12 octobre :
-🌬️ VENT : Sud 5 à 6, mollissant Sud à Sud-Ouest 4 à 5 l'après-midi. Rafales.
-🌊 MER : peu agitée à agitée, localement belle à peu agitée en baie de Seine.
-🌊 HOULE : Ouest 0.5 à 1 m, localement 1.5 m sur nord-Cotentin, mais non significative en baie de Seine.
-⛅ TEMPS : pluie ou averses.
-👁️ VISIBILITE : moyenne à mauvaise sous pluie ou averses.
-
-📉 Tendance pour la nuit du 12  au 13, et la journée du mardi 13 octobre :
-• VENT : Sud à Sud-Ouest 4 à 5, parfois 6, virant Ouest en journée. Rafales.
-• MER : peu agitée à agitée, parfois forte vers La Hague en journée.
+📅 Tendance pour la journée du mardi 13 octobre :
+🌬️ VENT : Sud-Ouest 5 à 6, mollissant Ouest 4 à 5 l'après-midi. Rafales.
+🌊 MER : peu agitée à agitée, parfois forte vers La Hague.
+🌊 HOULE : Ouest 0.5 à 1 m, localement 1.5 à 2 m sur nord-Cotentin.
+⛅ TEMPS : pluie ou averses, s'éclaircissant l'après-midi.
+👁️ VISIBILITE : moyenne, parfois mauvaise sous pluie, devenant bonne l'après-midi.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce lundi avec maintien de la sécheresse de surface.
