@@ -19,12 +19,12 @@ Ce mardi matin, une ambiance maussade prédomine sur une grande partie du pays. 
 Ce mardi après-midi, un temps instable dominera sur une grande partie de la France. Des averses, parfois faibles, sont attendues du Nord-Pas-de-Calais à la Bretagne, en passant par l'Île-de-France et les Pays de la Loire. Lille enregistrera 20°C sous des averses, tandis que Paris atteindra 21°C avec également des averses. Plus à l'ouest, Rennes bénéficiera d'un ciel peu nuageux avec 22°C. Le vent soufflera modérément, avec des rafales pouvant atteindre 50 km/h sur les côtes de la Manche, notamment à Lille et Rouen.
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (mardi 13 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Vaste système dépressionnaire 964 hPa entre le Groenland et l'Islande avec thalweg associé jusque sur le nord-ouest de la France. Flux perturbé de Sud-Ouest sur la Bretagne et la Manche. Dorsale atlantique se renforçant sur le sud du Golfe de Gascogne en journée.
+🌐 Situation générale : Vaste système dépressionnaire 965 hPa entre le Groenland et l'Islande avec thalweg associé circulant cette nuit et demain matin. Demain en journée, dorsale atlantique se renforçant.
 
 📅 Prévisions pour la journée du mardi 13 octobre :
 🌬️ VENT : Sud à Sud-Ouest 4 à 5, parfois 6, fraîchissant Sud-Ouest 5 à 6, puis mollissant Ouest 4 à 5 l'après-midi. Rafales.
@@ -92,12 +92,12 @@ Ce mardi après-midi, le ciel du Nord présente un visage mitigé. Des averses �
 🌊 Température de l’eau : 18°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (mardi 13 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Vaste système dépressionnaire 964 hPa entre le Groenland et l'Islande avec thalweg associé jusque sur le nord-ouest de la France. Flux perturbé de Sud-Ouest sur la Bretagne et la Manche. Dorsale atlantique se renforçant sur le sud du Golfe de Gascogne en journée.
+🌐 Situation générale : Vaste système dépressionnaire 965 hPa entre le Groenland et l'Islande avec thalweg associé circulant cette nuit et demain matin. Demain en journée, dorsale atlantique se renforçant.
 
 📅 Prévisions pour la journée du mardi 13 octobre :
 🌬️ VENT : Sud à Sud-Ouest 4 à 5, parfois 6, fraîchissant Sud-Ouest 5 à 6, puis mollissant Ouest 4 à 5 l'après-midi. Rafales.
@@ -164,13 +164,13 @@ Ce mardi après-midi, le ciel de la région sera partagé entre éclaircies et p
 🌊 Température de l’eau : 22°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "AIGUILLON - FRONTIÈRE ESPAGNOLE" MIDI (mardi 13 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "AIGUILLON - FRONTIÈRE ESPAGNOLE" SOIR
 📍 Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du lundi 12 octobre 2026 à 12H30 légales.
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du lundi 12 octobre 2026 à 18H15 légales.
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Vaste système dépressionnaire 964 hPa entre le Groenland et l'Islande avec thalweg associé jusque sur le nord-ouest de la France. Flux perturbé de Sud-Ouest sur la Bretagne et la Manche. Dorsale atlantique se renforçant sur le sud du Golfe de Gascogne en journée.
+🌐 Situation générale : Vaste système dépressionnaire 965 hPa entre le Groenland et l'Islande avec thalweg associé circulant cette nuit et demain matin. Demain en journée, dorsale atlantique se renforçant.
 
 📅 Prévisions pour la journée du mardi 13 octobre :
 🌬️ VENT : 
@@ -238,12 +238,12 @@ Ce mardi après-midi, le temps s'annonce mitigé sur la région. Des éclaircies
 🌊 Température de l’eau : 18°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (mardi 13 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Vaste système dépressionnaire 964 hPa entre le Groenland et l'Islande avec thalweg associé jusque sur le nord-ouest de la France. Flux perturbé de Sud-Ouest sur la Bretagne et la Manche. Dorsale atlantique se renforçant sur le sud du Golfe de Gascogne en journée.
+🌐 Situation générale : Vaste système dépressionnaire 965 hPa entre le Groenland et l'Islande avec thalweg associé circulant cette nuit et demain matin. Demain en journée, dorsale atlantique se renforçant.
 
 📅 Prévisions pour la journée du mardi 13 octobre :
 🌬️ VENT : Sud à Sud-Ouest 4 à 5, parfois 6, fraîchissant Sud-Ouest 5 à 6, puis mollissant Ouest 4 à 5 l'après-midi. Rafales.
@@ -309,12 +309,12 @@ Ce mardi après-midi, le temps demeure instable sur la région. Des averses épa
 🌊 Température de l’eau : 18°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (mardi 13 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Vaste système dépressionnaire 964 hPa entre le Groenland et l'Islande avec thalweg associé jusque sur le nord-ouest de la France. Flux perturbé de Sud-Ouest sur la Bretagne et la Manche. Dorsale atlantique se renforçant sur le sud du Golfe de Gascogne en journée.
+🌐 Situation générale : Vaste système dépressionnaire 965 hPa entre le Groenland et l'Islande avec thalweg associé circulant cette nuit et demain matin. Demain en journée, dorsale atlantique se renforçant.
 
 📅 Prévisions pour la journée du mardi 13 octobre :
 🌬️ VENT : Sud à Sud-Ouest 4 à 5, parfois 6, fraîchissant Sud-Ouest 5 à 6, puis mollissant Ouest 4 à 5 l'après-midi. Rafales.
@@ -380,13 +380,13 @@ Ce mardi après-midi, la Normandie connaît un temps variable. Le soleil domine 
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "BAIE DE SOMME - LA HAGUE" MIDI (mardi 13 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "BAIE DE SOMME - LA HAGUE" SOIR
 📍 Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du lundi 12 octobre 2026 à 12H30 légales.
+Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du lundi 12 octobre 2026 à 18H15 légales.
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Vaste système dépressionnaire 964 hPa entre le Groenland et l'Islande avec thalweg associé jusque sur le nord-ouest de la France. Flux perturbé de Sud-Ouest sur la Bretagne et la Manche. Dorsale atlantique se renforçant sur le sud du Golfe de Gascogne en journée.
+🌐 Situation générale : Vaste système dépressionnaire 965 hPa entre le Groenland et l'Islande avec thalweg associé circulant cette nuit et demain matin. Demain en journée, dorsale atlantique se renforçant.
 
 📅 Prévisions pour la journée du mardi 13 octobre :
 🌬️ VENT : fraîchissant Ouest à Sud-Ouest 5 à 6, puis mollissant Ouest 4 à 5 l'après-midi. Rafales.
