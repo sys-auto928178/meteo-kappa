@@ -13,13 +13,13 @@ FICHIER SOURCE : /home/runner/work/meteo-kappa/meteo-kappa/cnews/BULLETINS_AUTOM
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce mercredi matin, un temps calme et ensoleillé s'impose sur une grande partie du pays. Les températures minimales affichent 8°C à Paris, 9°C à Lille et 10°C à Nantes. Le soleil domine largement du Nord-Pas-de-Calais à la Bretagne, avec un vent faible n'excédant pas 15 km/h sur le littoral breton. Quelques nuages bas sont présents localement dans le Centre-Est, mais sans conséquence notable. L'ensemble du territoire métropolitain bénéficie d'un ciel dégagé ou peu nuageux, offrant une matinée agréable.
+Ce jeudi matin, la France se réveille sous un ciel partagé. Un soleil dominant s'impose sur un large quart sud-ouest, de la Bretagne aux Pyrénées, avec 14°C à Nantes et 11°C à Rennes. Des températures douces sont également relevées à Paris avec 9°C sous un ciel dégagé. Plus au nord, des nuages bas et des grisailles s'installent. Le ciel est couvert à Laon (8°C) et Tours (11°C), tandis que des passages nuageux masquent partiellement le soleil de Lille (10°C) à Rouen (12°C). Le vent, généralement faible, souffle entre 10 et 20 km/h sur l'ensemble du territoire.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce mercredi après-midi, la France bénéficie d'un temps remarquablement ensoleillé et doux. Le soleil domine largement sur l'ensemble du territoire, offrant un ciel dégagé de la Bretagne aux frontières de l'Est. Les températures maximales atteignent 22°C à Paris, 23°C à Tours et 23°C à Rennes, avec des pointes jusqu'à 27°C dans le Sud-Ouest. Le vent reste faible, généralement inférieur à 15 km/h, sans impact notable sur les ressentis. Aucune précipitation n'est à signaler.
+Ce jeudi après-midi, la France profite d'un temps majoritairement ensoleillé et doux. Le soleil domine largement sur une grande partie du territoire, notamment de la Bretagne à l'Île-de-France, avec 24°C à Caen et 26°C à Paris. Quelques nuages sont présents sur le nord et l'est, comme à Lille où le ciel sera peu nuageux avec 23°C, tandis que Laon et Tours connaîtront un ciel couvert. Des averses sont attendues à Brest, où le vent soufflera à 20 km/h. Les températures maximales atteindront 27°C à Poitiers et 26°C à Nantes.
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (jeudi 15 octobre 2026)
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
@@ -40,32 +40,28 @@ Vendredi dorsale circulant de la Grande-Bretagne au nord-ouest de la France en j
 • MER : peu agitée, devenant temporairement peu agitée à agitée en Manche en journée.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
-🌧️ Pluies & Humidité : Temps sec sur la région ce mercredi avec maintien de la sécheresse de surface.
-🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce mercredi. Aucun coup de vent à craindre.
-⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce mercredi.
+🌧️ Pluies & Humidité : Temps sec sur la région ce jeudi avec maintien de la sécheresse de surface.
+🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce jeudi. Aucun coup de vent à craindre.
+⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce jeudi.
 🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement.
 🏔️ Météo montagne
 
-    Alpes : Chaleur marquée en vallée ce mercredi et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.
+    Alpes : Chaleur marquée en vallée ce jeudi et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.
 
-    Pyrénées : Soleil dominant en matinée de ce mercredi, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce jeudi.
+    Pyrénées : Soleil dominant en matinée de ce jeudi, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce vendredi.
 
-    Massif central : Ambiance lourde et estivale ce mercredi. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.
+    Massif central : Ambiance lourde et estivale ce jeudi. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.
 
-    Vosges : Temps très chaud et généreusement ensoleillé ce mercredi. Quelques nuages de beau temps l'après-midi sans intempérie.
+    Vosges : Temps très chaud et généreusement ensoleillé ce jeudi. Quelques nuages de beau temps l'après-midi sans intempérie.
 
-    Jura : Chaleur estivale et soleil dominant ce mercredi, avant quelques passages nuageux inoffensifs en soirée.
+    Jura : Chaleur estivale et soleil dominant ce jeudi, avant quelques passages nuageux inoffensifs en soirée.
 
-    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du mercredi 14 octobre 2026.
+    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du jeudi 15 octobre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-📉 Tendance – 3 jours suivants (vendredi 16 octobre au dimanche 18 octobre)
-
-▶ vendredi 16 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 9°C. L'après-midi, le mercure grimpe jusqu'à 22°C sous abri. Attention aux rafales de vent atteignant 45 km/h.
-
-▶ samedi 17 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 7°C. L'après-midi, le mercure grimpe jusqu'à 17°C sous abri. Attention aux rafales de vent atteignant 50 km/h.
-
-▶ dimanche 18 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 5°C. L'après-midi, le mercure grimpe jusqu'à 16°C sous abri. Attention aux rafales de vent atteignant 55 km/h.
+▶ samedi 17 octobre : Le temps reste sec et souvent ensoleillé sur la moitié nord, mais le vent se renforce, avec des rafales jusqu’à 50 km/h sur les côtes normandes et tourangelles. Les températures baissent nettement : de 13°C à Lille à 18°C à Nantes, sous un ciel variable.
+▶ dimanche 18 octobre : Une dégradation gagne l’ouest et le nord : des nuages porteurs d’averses concernent la Bretagne, la Normandie et l’Île-de-France, avec 2,5 mm attendus à Caen et 1,2 mm à Paris. Ailleurs, le soleil résiste, mais les maximales restent modestes, de 14°C à Brest à 16°C à Rennes.
+▶ lundi 19 octobre : Le temps devient très perturbé sur une large moitié nord. Des pluies soutenues touchent Paris (11,7 mm), Brest (4,7 mm) et Tours (1,8 mm), accompagnées de rafales de vent jusqu’à 50 km/h en Normandie. Au sud, le ciel reste plus clément, avec des températures maximales autour de 15°C.
 
 
 --------------------------------------------------------------------------------
@@ -77,24 +73,24 @@ Vendredi dorsale circulant de la Grande-Bretagne au nord-ouest de la France en j
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce mercredi matin, le Nord se réveille sous un ciel largement ensoleillé. Les éclaircies dominent sur l'ensemble de la région, offrant un début de journée lumineux. Les températures minimales affichent 9°C à Lille et Douai, 7°C à Valenciennes et Maubeuge, et 6°C à Troisvilles. Le vent souffle faiblement, entre 10 et 20 km/h, sans rafales notables. Aucune précipitation n'est à signaler. Le contraste littoral/intérieur des terres reste modéré, avec des températures similaires et un ensoleillement généralisé.
+Ce jeudi matin, le ciel se montre partagé sur la région. Un soleil dominant s'impose sur l'intérieur des terres, notamment à Troisvilles, Maubeuge, Douai, Watten et Dunkerque, où les températures minimales s'établissent autour de 9 à 11°C. Le littoral et les agglomérations comme Lille, Roubaix, Valenciennes et Steenvoorde connaissent une couverture nuageuse plus importante, avec un ciel peu nuageux et des minimales de 10 à 12°C. St-Hilaire-sur-Helpe affiche un ciel très nuageux avec 9°C. Un vent léger de 15 km/h souffle uniformément sur l'ensemble du territoire.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce mercredi après-midi, le ciel de la région Nord se présente sous un soleil dominant. Aucune précipitation n'est à signaler sur l'ensemble du territoire. Les températures maximales atteindront 19°C à Lille et Roubaix, 18°C à Watten, et 17°C à Troisvilles et Maubeuge. Le vent soufflera modérément, avec des vitesses de 10 à 15 km/h dans l'intérieur des terres, et une légère intensification à 20 km/h sur le littoral dunkerquois. Les températures restent douces, sans contraste marqué entre le littoral et l'intérieur.
+Ce jeudi après-midi, le Nord connaît un temps majoritairement ensoleillé. Le soleil domine largement sur l'intérieur des terres, notamment à Troisvilles, Maubeuge et Douai. Sur le littoral et l'ouest de la région, quelques nuages discrets accompagnent le soleil, comme à Valenciennes, Lille et Steenvoorde, où le ciel est peu nuageux. Seule St-Hilaire-sur-Helpe présente un ciel plus nuageux. Les températures maximales atteignent 23°C à Lille et Roubaix, et 22°C à Valenciennes et Steenvoorde. Le vent souffle faiblement, autour de 15 km/h, sur l'ensemble du territoire.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
-🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (mercredi 14 octobre 2026)
+🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (jeudi 15 octobre 2026)
 
 🌴 Dunkerque / Malo-les-Bains / Bray-Dunes
-☀️ Influence anticyclonique calme assurant un temps sec et modérément doux sur la côte. Températures de 8°C le matin à 19°C l'après-midi.
-🌊 Température de l’eau : 16°C à 17°C
+☀️ Influence anticyclonique calme assurant un temps sec et modérément doux sur la côte. Températures de 11°C le matin à 23°C l'après-midi.
+🌊 Température de l’eau : 17°C à 18°C
 
 🌴 Le Touquet / Berck / Baie de Somme
-☀️ Ambiance agréable sur le littoral ce mercredi. Maximales atteignant 20°C sur le sable.
-🌊 Température de l’eau : 17°C
+☀️ Ambiance agréable sur le littoral ce jeudi. Maximales atteignant 24°C sur le sable.
+🌊 Température de l’eau : 18°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (jeudi 15 octobre 2026)
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
@@ -115,30 +111,32 @@ Vendredi dorsale circulant de la Grande-Bretagne au nord-ouest de la France en j
 • MER : peu agitée, devenant temporairement peu agitée à agitée en Manche en journée.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
-🌧️ Pluies & Humidité : Temps sec sur la région ce mercredi avec maintien de la sécheresse de surface.
-🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce mercredi. Aucun coup de vent à craindre.
-⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce mercredi.
+🌧️ Pluies & Humidité : Temps sec sur la région ce jeudi avec maintien de la sécheresse de surface.
+🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce jeudi. Aucun coup de vent à craindre.
+⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce jeudi.
 🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement.
 🏔️ Météo montagne
 
-    Alpes : Chaleur marquée en vallée ce mercredi et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.
+    Alpes : Chaleur marquée en vallée ce jeudi et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.
 
-    Pyrénées : Soleil dominant en matinée de ce mercredi, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce jeudi.
+    Pyrénées : Soleil dominant en matinée de ce jeudi, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce vendredi.
 
-    Massif central : Ambiance lourde et estivale ce mercredi. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.
+    Massif central : Ambiance lourde et estivale ce jeudi. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.
 
-    Vosges : Temps très chaud et généreusement ensoleillé ce mercredi. Quelques nuages de beau temps l'après-midi sans intempérie.
+    Vosges : Temps très chaud et généreusement ensoleillé ce jeudi. Quelques nuages de beau temps l'après-midi sans intempérie.
 
-    Jura : Chaleur estivale et soleil dominant ce mercredi, avant quelques passages nuageux inoffensifs en soirée.
+    Jura : Chaleur estivale et soleil dominant ce jeudi, avant quelques passages nuageux inoffensifs en soirée.
 
-    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du mercredi 14 octobre 2026.
+    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du jeudi 15 octobre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-▶ vendredi 16 octobre : Le ciel se voile progressivement avec l'arrivée de nuages porteurs d'averses. Les températures maximales restent douces, entre 17 et 19°C, mais le vent se renforce avec des rafales atteignant 40 à 50 km/h. Des précipitations faibles à modérées sont attendues, notamment sur le littoral et l'est de la région.
+📉 Tendance – 3 jours suivants (samedi 17 octobre au lundi 19 octobre)
 
-▶ samedi 17 octobre : La journée s'annonce plus fraîche et agitée, avec un ciel très nuageux et des averses parfois soutenues. Les maximales chutent entre 13 et 15°C, et le vent reste soutenu, avec des rafales pouvant atteindre 60 km/h sur le littoral dunkerquois. Les cumuls de pluie les plus importants sont attendus sur le secteur ouest.
+▶ samedi 17 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 5°C. L'après-midi, le mercure grimpe jusqu'à 15°C sous abri. Attention aux rafales de vent atteignant 55 km/h.
 
-▶ dimanche 18 octobre : Le temps reste instable avec des passages pluvieux et un vent modéré. Les températures baissent encore, avec des minimales descendant jusqu'à 5°C dans l'intérieur des terres. Les précipitations persistent, surtout sur l'ouest de la région, où les cumuls peuvent dépasser 9 mm.
+▶ dimanche 18 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 4°C. L'après-midi, le mercure grimpe jusqu'à 14°C sous abri. Attention aux rafales de vent atteignant 40 km/h.
+
+▶ lundi 19 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 7°C. L'après-midi, le mercure grimpe jusqu'à 15°C sous abri. Attention aux rafales de vent atteignant 40 km/h.
 
 
 --------------------------------------------------------------------------------
@@ -150,25 +148,25 @@ Vendredi dorsale circulant de la Grande-Bretagne au nord-ouest de la France en j
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce mercredi matin, le ciel se présente majoritairement nuageux sur l'ensemble de la région. Les températures minimales affichent 14°C à La Rochelle, 16°C à Chassiron et 17°C à Gond-Pontouvre. Quelques éclaircies tentent de percer par endroits, mais les nuages restent prédominants. Aucune précipitation n'est à signaler. Le vent souffle faiblement, avec une brise légère de 10 km/h sur La Rochelle et Blanzac-Porcheresse, et de 5 km/h sur Angoulême. Le contraste thermique entre le littoral et l'intérieur des terres reste modéré.
+Ce jeudi matin, le ciel se montre généreux en soleil sur l'ensemble de la région, avec quelques rares nuages d'altitude qui n'altèrent pas l'impression de beau temps. Les températures minimales affichent 13°C à La Rochelle et Blanzac-Porcheresse, tandis que Montbron enregistre 11°C. Sur le littoral, Chassiron débute la journée avec 16°C. Le vent souffle faiblement, autour de 15 km/h en général, atteignant 20 km/h sur le secteur de Chassiron. Aucune précipitation n'est à signaler pour cette première partie de journée.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce mercredi après-midi, le département de la Charente-Maritime et l'intérieur des terres connaissent un temps estival. Un soleil généreux domine l'ensemble du territoire, sans aucun nuage à l'horizon. Les températures maximales atteignent des valeurs élevées pour la saison, avec 25°C à La Rochelle et Angoulême, et 24°C à Blanzac-Porcheresse et Cognac. Le vent reste faible, soufflant entre 5 et 15 km/h, principalement en provenance de l'ouest sur le littoral, offrant une légère brise côtière. Aucune précipitation n'est à signaler.
+Ce jeudi après-midi, la région bénéficie d'un temps pleinement ensoleillé. Le ciel se montre dégagé sur l'ensemble du territoire, sans aucune perturbation nuageuse. Les températures maximales atteignent des niveaux estivaux pour la saison, avec 27°C à La Rochelle, 29°C à Gond-Pontouvre et Angoulême, et 24°C à Chassiron. Le vent souffle faiblement, avec des vitesses avoisinant les 15 km/h sur l'intérieur des terres, et une légère brise côtière de 20 km/h à Chassiron. Aucune précipitation n'est à signaler.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
-🏖️ MÉTÉO DES PLAGES – LITTORAL CHARENTAIS (mercredi 14 octobre 2026)
+🏖️ MÉTÉO DES PLAGES – LITTORAL CHARENTAIS (jeudi 15 octobre 2026)
 
 🌴 La Rochelle / Île de Ré / Île d’Oléron
-☀️ Installation d'un marais barométrique estival assurant un temps sec et lumineux sur l'ensemble des plages charentaises ce mercredi.
-🌡️ Température sur le littoral : 17°C à 25°C
-🌊 Température de l’eau : 21°C à 22°C
+☀️ Installation d'un marais barométrique estival assurant un temps sec et lumineux sur l'ensemble des plages charentaises ce jeudi.
+🌡️ Température sur le littoral : 14°C à 29°C
+🌊 Température de l’eau : 22°C à 23°C
 
 🌴 Royan / Côte de Beauté / Rochefort
-☀️ Ensoleillement généreux ce mercredi, maximales de 26°C tempérées par la brise marine.
-🌊 Température de l’eau : 22°C
+☀️ Ensoleillement généreux ce jeudi, maximales de 30°C tempérées par la brise marine.
+🌊 Température de l’eau : 23°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "AIGUILLON - FRONTIÈRE ESPAGNOLE" MIDI
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "AIGUILLON - FRONTIÈRE ESPAGNOLE" MIDI (jeudi 15 octobre 2026)
 📍 Origine Météo-France. 
 Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du mercredi 14 octobre 2026 à 12H30 légales.
 
@@ -190,30 +188,30 @@ Vendredi dorsale circulant de la Grande-Bretagne au nord-ouest de la France en j
 • MER : devenant agitée à forte la nuit par houle de Nord-Ouest, s'atténuant agitée à la fin.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
-🌧️ Pluies & Humidité : Temps sec sur la région ce mercredi avec maintien de la sécheresse de surface.
-🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce mercredi. Aucun coup de vent à craindre.
-⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce mercredi.
+🌧️ Pluies & Humidité : Temps sec sur la région ce jeudi avec maintien de la sécheresse de surface.
+🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce jeudi. Aucun coup de vent à craindre.
+⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce jeudi.
 🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement.
 🏔️ Météo montagne
 
-    Alpes : Chaleur marquée en vallée ce mercredi et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.
+    Alpes : Chaleur marquée en vallée ce jeudi et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.
 
-    Pyrénées : Soleil dominant en matinée de ce mercredi, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce jeudi.
+    Pyrénées : Soleil dominant en matinée de ce jeudi, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce vendredi.
 
-    Massif central : Ambiance lourde et estivale ce mercredi. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.
+    Massif central : Ambiance lourde et estivale ce jeudi. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.
 
-    Vosges : Temps très chaud et généreusement ensoleillé ce mercredi. Quelques nuages de beau temps l'après-midi sans intempérie.
+    Vosges : Temps très chaud et généreusement ensoleillé ce jeudi. Quelques nuages de beau temps l'après-midi sans intempérie.
 
-    Jura : Chaleur estivale et soleil dominant ce mercredi, avant quelques passages nuageux inoffensifs en soirée.
+    Jura : Chaleur estivale et soleil dominant ce jeudi, avant quelques passages nuageux inoffensifs en soirée.
 
-    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du mercredi 14 octobre 2026.
+    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du jeudi 15 octobre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-▶ vendredi 16 octobre : Le ciel se voile près du littoral avec quelques gouttes possibles, tandis que les éclaircies dominent à l'intérieur des terres. Les maximales restent douces, de 20 à 23°C. Le vent se renforce sur les côtes avec des rafales proches de 45 km/h, mais reste modéré dans les terres.
+▶ samedi 17 octobre : Le temps se dégrade nettement avec un vent qui se renforce, atteignant 30 à 35 km/h et des rafales jusqu'à 50 km/h. Le ciel reste variable, mais quelques averses éparses sont possibles, notamment sur l'intérieur des terres (1 à 2 mm attendus). Les maximales chutent entre 14°C et 17°C, un net rafraîchissement par rapport à la veille.
 
-▶ samedi 17 octobre : Le temps devient plus changeant avec des passages nuageux et des averses éparses, notamment sur la Charente et l'Angoumois. Les températures chutent nettement, avec des maximales comprises entre 15 et 17°C. Le vent se fait soutenu, avec des rafales atteignant 60 km/h près des côtes.
+▶ dimanche 18 octobre : Le vent faiblit légèrement mais reste sensible, surtout sur le littoral avec des rafales à 50 km/h. Le ciel est très nuageux sur une grande partie de la région, en particulier autour d'Angoulême et de La Couronne, sans toutefois apporter de pluie significative. Les températures continuent de baisser : de 12°C à 15°C au meilleur de l'après-midi.
 
-▶ dimanche 18 octobre : Le vent reste bien présent, avec des rafales de 50 à 55 km/h sur le littoral et dans les terres. Le ciel alterne entre éclaircies et nuages, avec quelques ondées résiduelles possibles sur la côte. Les températures passent sous les normales de saison : de 6 à 10°C le matin, puis 13 à 16°C l'après-midi.
+▶ lundi 19 octobre : Une nouvelle dégradation pluvieuse touche l'intérieur des terres, avec des cumuls de 4 à 6 mm attendus sur les secteurs de Montbron, Blanzac ou Cognac. Le littoral reste plus sec, mais le vent se calme nettement (15 à 20 km/h). Les maximales peinent à dépasser 15°C, et les minimales descendent jusqu'à 4°C à Montbron.
 
 
 --------------------------------------------------------------------------------
@@ -225,26 +223,24 @@ Vendredi dorsale circulant de la Grande-Bretagne au nord-ouest de la France en j
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce mercredi matin, le ciel se partage entre soleil et nuages sur la région. Les températures minimales affichent 9°C à Leffrinckoucke, 10°C à Gravelines et 8°C à Remilly-Wirquin. Le littoral bénéficie d'un ensoleillement généreux, avec un vent modéré soufflant à 15 à 20 km/h. Dans l'intérieur des terres, quelques passages nuageux sont observés localement, notamment sur Remilly-Wirquin où le soleil est masqué de moitié. Aucune précipitation n'est à signaler pour cette matinée.
+Ce jeudi matin, le ciel se présente majoritairement peu nuageux sur l'ensemble de la région, avec de belles éclaircies. Quelques localités comme Marck, Remilly-Wirquin et Robecq connaissent un ciel plus nuageux, mais sans précipitations. Les températures minimales affichent 11°C à Leffrinckoucke et Gravelines, 10°C à Remilly-Wirquin et 8°C à Racquinghem. Le vent souffle faiblement à modérément, entre 15 et 20 km/h, sans rafales notables, apportant une légère brise sur le littoral. Le contraste thermique entre le littoral et l'intérieur des terres reste peu marqué en cette matinée.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce mercredi après-midi, un temps largement ensoleillé caractérise l'ensemble de la région. Le soleil domine très largement le ciel, avec seulement quelques rares passages nuageux, notamment du côté de Remilly-Wirquin où le ciel est peu nuageux. Les précipitations sont absentes sur tout le territoire.
-
-Les températures maximales affichent 19°C à Leffrinckoucke et Marck, 18°C à Gravelines et Offekerque, et 17°C à Lefaux. Les vents soufflent modérément, entre 15 et 20 km/h, sans rafales notables. Aucune vigilance particulière n'est à signaler.
+Ce jeudi après-midi, le ciel se montrera majoritairement ensoleillé sur une grande partie de la région. Des conditions lumineuses sont attendues de Gravelines à Cauchy-à-la-Tour, où les températures atteindront respectivement 21°C. Quelques passages nuageux, sans conséquence, seront observés du côté de Marck et Robecq, avec des maximales de 22°C. Le vent soufflera faiblement, entre 15 et 20 km/h, sans rafales notables. Les températures resteront douces pour la saison, atteignant 22°C à Leffrinckoucke et Remilly-Wirquin. Aucune précipitation n'est à signaler sur l'ensemble du territoire.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
-🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (mercredi 14 octobre 2026)
+🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (jeudi 15 octobre 2026)
 
 🌴 Dunkerque / Malo-les-Bains / Bray-Dunes
-☀️ Influence anticyclonique calme assurant un temps sec et modérément doux sur la côte. Températures de 9°C le matin à 19°C l'après-midi.
-🌊 Température de l’eau : 16°C à 17°C
+☀️ Influence anticyclonique calme assurant un temps sec et modérément doux sur la côte. Températures de 10°C le matin à 22°C l'après-midi.
+🌊 Température de l’eau : 17°C à 18°C
 
 🌴 Le Touquet / Berck / Baie de Somme
-☀️ Ambiance agréable sur le littoral ce mercredi. Maximales atteignant 20°C sur le sable.
-🌊 Température de l’eau : 17°C
+☀️ Ambiance agréable sur le littoral ce jeudi. Maximales atteignant 23°C sur le sable.
+🌊 Température de l’eau : 18°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (jeudi 15 octobre 2026)
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
@@ -265,28 +261,32 @@ Vendredi dorsale circulant de la Grande-Bretagne au nord-ouest de la France en j
 • MER : peu agitée, devenant temporairement peu agitée à agitée en Manche en journée.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
-🌧️ Pluies & Humidité : Temps sec sur la région ce mercredi avec maintien de la sécheresse de surface.
-🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce mercredi. Aucun coup de vent à craindre.
-⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce mercredi.
+🌧️ Pluies & Humidité : Temps sec sur la région ce jeudi avec maintien de la sécheresse de surface.
+🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce jeudi. Aucun coup de vent à craindre.
+⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce jeudi.
 🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement.
 🏔️ Météo montagne
 
-    Alpes : Chaleur marquée en vallée ce mercredi et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.
+    Alpes : Chaleur marquée en vallée ce jeudi et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.
 
-    Pyrénées : Soleil dominant en matinée de ce mercredi, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce jeudi.
+    Pyrénées : Soleil dominant en matinée de ce jeudi, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce vendredi.
 
-    Massif central : Ambiance lourde et estivale ce mercredi. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.
+    Massif central : Ambiance lourde et estivale ce jeudi. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.
 
-    Vosges : Temps très chaud et généreusement ensoleillé ce mercredi. Quelques nuages de beau temps l'après-midi sans intempérie.
+    Vosges : Temps très chaud et généreusement ensoleillé ce jeudi. Quelques nuages de beau temps l'après-midi sans intempérie.
 
-    Jura : Chaleur estivale et soleil dominant ce mercredi, avant quelques passages nuageux inoffensifs en soirée.
+    Jura : Chaleur estivale et soleil dominant ce jeudi, avant quelques passages nuageux inoffensifs en soirée.
 
-    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du mercredi 14 octobre 2026.
+    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du jeudi 15 octobre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-▶ vendredi 16 octobre : Le ciel se couvre et les précipitations font leur retour. Des pluies modérées sont attendues sur l'ensemble du territoire, avec des cumuls de 2 à 4 mm. Le vent se renforce avec des rafales atteignant 50 à 55 km/h sur le littoral. Les températures maximales restent douces, entre 17 et 19°C.
-▶ samedi 17 octobre : Le temps reste instable avec des averses parfois soutenues, notamment sur le nord de la région. Les températures baissent sensiblement, avec des maximales ne dépassant pas 14 à 16°C. Le vent souffle toujours fort, avec des rafales jusqu'à 60 km/h.
-▶ dimanche 18 octobre : Les précipitations deviennent plus éparses, mais le vent reste très présent, avec des rafales de 50 à 60 km/h. Les températures continuent de baisser, avec des maximales comprises entre 11 et 15°C. Le ciel alterne entre éclaircies et passages nuageux.
+📉 Tendance – 3 jours suivants (samedi 17 octobre au lundi 19 octobre)
+
+▶ samedi 17 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 7°C. L'après-midi, le mercure grimpe jusqu'à 15°C sous abri. Attention aux rafales de vent atteignant 55 km/h.
+
+▶ dimanche 18 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 6°C. L'après-midi, le mercure grimpe jusqu'à 15°C sous abri. Attention aux rafales de vent atteignant 50 km/h.
+
+▶ lundi 19 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 6°C. L'après-midi, le mercure grimpe jusqu'à 15°C sous abri. Attention aux rafales de vent atteignant 60 km/h.
 
 
 --------------------------------------------------------------------------------
@@ -298,24 +298,24 @@ Vendredi dorsale circulant de la Grande-Bretagne au nord-ouest de la France en j
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce mercredi matin, le ciel se présente majoritairement dégagé sur l'ensemble de la région. Un soleil dominant illumine le paysage, offrant des conditions météorologiques agréables pour le début de journée. Les températures minimales affichent 6°C à Troisvilles, 7°C à Maubeuge et 9°C à Lille et Douai. Le vent souffle légèrement, avec des vitesses avoisinant les 10 à 15 km/h sur l'intérieur des terres, et une légère brise de 20 km/h sur le littoral dunkerquois. Aucune précipitation n'est à signaler pour cette matinée.
+Ce jeudi matin, la région bénéficie d'un ciel généralement dégagé, avec une présence solaire dominante sur une grande partie du territoire. Les températures minimales s'établissent à 9°C à St-Hilaire-sur-Helpe et Douai, tandis que Lille et Roubaix affichent 10°C. Quelques zones, comme Valenciennes, Lille, Roubaix et Steenvoorde, observent un ciel peu nuageux, avec un soleil légèrement voilé. Le vent souffle faiblement, autour de 15 km/h, sur l'ensemble des localités, sans rafales significatives. Aucune précipitation n'est à signaler pour cette matinée.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce mercredi après-midi, le ciel de la région se présente sous un soleil dominant, sans l'ombre d'un nuage. Les conditions météorologiques sont particulièrement clémentes, avec une absence totale de précipitations. Le vent souffle faiblement, avec des vitesses n'excédant pas 20 km/h sur le littoral dunkerquois, et autour de 10 à 15 km/h dans les terres. Les températures maximales atteignent des valeurs agréables pour la saison, avec 19°C à Lille et Roubaix, 18°C à Watten, et 17°C à Maubeuge et Troisvilles. Aucune vigilance particulière n'est à signaler pour cet après-midi.
+Ce jeudi après-midi, un temps largement ensoleillé prédomine sur la région. Le soleil s'impose notamment à Troisvilles, Maubeuge et Douai, où les températures atteignent 21°C à 22°C. Quelques passages nuageux, sans conséquence, sont observés à Valenciennes, Lille, Roubaix et Steenvoorde. Le mercure grimpe jusqu'à 23°C à Lille et Roubaix. Le vent souffle faiblement, autour de 15 km/h, sans rafales notables. Les conditions restent agréables, avec un contraste thermique peu marqué entre le littoral et l'intérieur des terres.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
-🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (mercredi 14 octobre 2026)
+🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (jeudi 15 octobre 2026)
 
 🌴 Dunkerque / Malo-les-Bains / Bray-Dunes
-☀️ Influence anticyclonique calme assurant un temps sec et modérément doux sur la côte. Températures de 8°C le matin à 19°C l'après-midi.
-🌊 Température de l’eau : 16°C à 17°C
+☀️ Influence anticyclonique calme assurant un temps sec et modérément doux sur la côte. Températures de 11°C le matin à 23°C l'après-midi.
+🌊 Température de l’eau : 17°C à 18°C
 
 🌴 Le Touquet / Berck / Baie de Somme
-☀️ Ambiance agréable sur le littoral ce mercredi. Maximales atteignant 20°C sur le sable.
-🌊 Température de l’eau : 17°C
+☀️ Ambiance agréable sur le littoral ce jeudi. Maximales atteignant 24°C sur le sable.
+🌊 Température de l’eau : 18°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (jeudi 15 octobre 2026)
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
@@ -336,30 +336,30 @@ Vendredi dorsale circulant de la Grande-Bretagne au nord-ouest de la France en j
 • MER : peu agitée, devenant temporairement peu agitée à agitée en Manche en journée.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
-🌧️ Pluies & Humidité : Temps sec sur la région ce mercredi avec maintien de la sécheresse de surface.
-🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce mercredi. Aucun coup de vent à craindre.
-⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce mercredi.
+🌧️ Pluies & Humidité : Temps sec sur la région ce jeudi avec maintien de la sécheresse de surface.
+🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce jeudi. Aucun coup de vent à craindre.
+⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce jeudi.
 🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement.
 🏔️ Météo montagne
 
-    Alpes : Chaleur marquée en vallée ce mercredi et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.
+    Alpes : Chaleur marquée en vallée ce jeudi et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.
 
-    Pyrénées : Soleil dominant en matinée de ce mercredi, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce jeudi.
+    Pyrénées : Soleil dominant en matinée de ce jeudi, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce vendredi.
 
-    Massif central : Ambiance lourde et estivale ce mercredi. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.
+    Massif central : Ambiance lourde et estivale ce jeudi. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.
 
-    Vosges : Temps très chaud et généreusement ensoleillé ce mercredi. Quelques nuages de beau temps l'après-midi sans intempérie.
+    Vosges : Temps très chaud et généreusement ensoleillé ce jeudi. Quelques nuages de beau temps l'après-midi sans intempérie.
 
-    Jura : Chaleur estivale et soleil dominant ce mercredi, avant quelques passages nuageux inoffensifs en soirée.
+    Jura : Chaleur estivale et soleil dominant ce jeudi, avant quelques passages nuageux inoffensifs en soirée.
 
-    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du mercredi 14 octobre 2026.
+    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du jeudi 15 octobre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-▶ vendredi 16 octobre : Le ciel se couvre progressivement avec l’arrivée de pluies modérées sur l’ensemble du territoire. Les cumuls atteignent 1 à 3,5 mm selon les secteurs, et le vent se renforce avec des rafales de 40 à 50 km/h, notamment sur le littoral dunkerquois. Les températures maximales restent douces, entre 17 et 19°C, mais l’ambiance devient plus humide et venteuse.
+▶ samedi 17 octobre : Les conditions se dégradent avec un ciel variable et des averses, notamment près du littoral. Le vent se renforce avec des rafales de 40 à 55 km/h. Les températures sont en baisse, de 5 à 15°C selon les secteurs.
 
-▶ samedi 17 octobre : Les averses persistent, parfois soutenues, avec des intensités variables : de 0,3 mm à Valenciennes à plus de 9 mm sur Dunkerque et Watten. Le vent souffle encore fort, avec des rafales pouvant atteindre 60 km/h sur le littoral. Les maximales chutent nettement, ne dépassant pas 14 à 15°C, tandis que les minimales descendent entre 7 et 12°C.
+▶ dimanche 18 octobre : Le temps reste instable sous un ciel partagé entre éclaircies et averses. Les températures baissent encore, avec des minimales de 4 à 10°C et des maximales de 9 à 14°C. Le vent faiblit légèrement, mais les rafales atteignent encore 40 km/h.
 
-▶ dimanche 18 octobre : Le temps reste instable avec des pluies éparses, mais les cumuls sont plus faibles dans l’intérieur (0,3 à 3 mm). Le vent faiblit légèrement, mais les rafales atteignent encore 40 à 50 km/h. Les températures poursuivent leur baisse : les maximales plafonnent entre 10 et 14°C, et les minimales tombent jusqu’à 5°C dans les terres, annonçant un net rafraîchissement.
+▶ lundi 19 octobre : L’amélioration se dessine avec un ciel plus variable et des averses moins nombreuses. Les températures remontent doucement, de 7 à 10°C en matinée et 14 à 15°C l’après-midi. Le vent reste modéré, autour de 15 à 20 km/h.
 
 
 --------------------------------------------------------------------------------
@@ -371,24 +371,24 @@ Vendredi dorsale circulant de la Grande-Bretagne au nord-ouest de la France en j
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce mercredi matin, la Normandie se réveille sous un ciel majoritairement nuageux. Des éclaircies tentent de percer par endroits, notamment sur le littoral, mais les nuages dominent l'ensemble de la région. Aucune précipitation n'est à signaler pour cette première partie de journée. Les températures minimales affichent 7°C à Rouen et Évreux, 8°C à Caen, et 11°C sur le secteur du Havre. Le vent, quant à lui, souffle faiblement, avec des valeurs autour de 10 à 15 km/h, sans aucune rafale significative.
+Ce jeudi matin, la Normandie se réveille sous un ciel partagé. Un soleil dominant illumine l'ouest de la région, notamment à Cherbourg où la température minimale atteint 13°C, et à Caen avec 12°C. Le vent y souffle modérément, atteignant 20 km/h à Cherbourg avec des rafales de 45 km/h. Plus à l'est, le ciel est plus nuageux, avec des nuages couvrant des secteurs comme Le Havre et Dieppe, où les minimales sont respectivement de 12°C et 9°C. Rouen enregistre 7°C sous un ciel également très nuageux. Aucune précipitation n'est à signaler sur l'ensemble du territoire normand pour cette matinée.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce mercredi après-midi, la Normandie bénéficie d'un ciel uniformément dégagé. Un soleil dominant s'impose sur l'ensemble de la région, sans aucune précipitation à signaler. Les températures maximales atteindront 20°C à Rouen, Caen et Le Havre, tandis qu'Alençon connaîtra 21°C. Le vent, faible et de direction variable, soufflera entre 10 et 15 km/h sur l'ensemble du territoire, y compris sur le littoral. Aucune rafale significative n'est attendue.
+Ce jeudi après-midi, la Normandie bénéficie d'un temps remarquablement ensoleillé. Le soleil domine largement sur l'ensemble de la région, sans aucune perturbation nuageuse à signaler. Les températures maximales affichent des valeurs très douces pour la saison, atteignant 25°C à Alençon, 24°C à Caen et Dieppe, et 22°C à Cherbourg. Le vent souffle faiblement, avec des vitesses ne dépassant pas les 20 km/h, comme à Cherbourg et Dieppe, et des rafales maximales de 45 km/h à Cherbourg. Aucune précipitation n'est attendue.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
-🏖️ MÉTÉO DES PLAGES – CÔTE D’ALBÂTRE & MANCHE (mercredi 14 octobre 2026)
+🏖️ MÉTÉO DES PLAGES – CÔTE D’ALBÂTRE & MANCHE (jeudi 15 octobre 2026)
 
 🌴 Le Havre / Deauville / Cabourg
-☀️ Temps agréable ce mercredi. Températures sur les plages : 8°C à 21°C.
-🌊 Température de l’eau : 17°C à 18°C
+☀️ Temps agréable ce jeudi. Températures sur les plages : 9°C à 25°C.
+🌊 Température de l’eau : 18°C à 19°C
 
 🌴 Dieppe / Fécamp / Cherbourg
-☀️ Belle luminosité ce mercredi, brise littorale rafraîchissante avec maximales de 21°C.
-🌊 Température de l’eau : 17°C
+☀️ Belle luminosité ce jeudi, brise littorale rafraîchissante avec maximales de 25°C.
+🌊 Température de l’eau : 18°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "BAIE DE SOMME - LA HAGUE" MIDI
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "BAIE DE SOMME - LA HAGUE" MIDI (jeudi 15 octobre 2026)
 📍 Origine Météo-France. 
 Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du mercredi 14 octobre 2026 à 12H30 légales.
 
@@ -412,30 +412,28 @@ Vendredi dorsale circulant de la Grande-Bretagne au nord-ouest de la France en j
 • MER : peu agitée, localement belle en baie de Seine la nuit, et localement agitée sur nord Cotentin.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
-🌧️ Pluies & Humidité : Temps sec sur la région ce mercredi avec maintien de la sécheresse de surface.
-🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce mercredi. Aucun coup de vent à craindre.
-⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce mercredi.
+🌧️ Pluies & Humidité : Temps sec sur la région ce jeudi avec maintien de la sécheresse de surface.
+🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce jeudi. Aucun coup de vent à craindre.
+⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce jeudi.
 🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement.
 🏔️ Météo montagne
 
-    Alpes : Chaleur marquée en vallée ce mercredi et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.
+    Alpes : Chaleur marquée en vallée ce jeudi et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.
 
-    Pyrénées : Soleil dominant en matinée de ce mercredi, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce jeudi.
+    Pyrénées : Soleil dominant en matinée de ce jeudi, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce vendredi.
 
-    Massif central : Ambiance lourde et estivale ce mercredi. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.
+    Massif central : Ambiance lourde et estivale ce jeudi. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.
 
-    Vosges : Temps très chaud et généreusement ensoleillé ce mercredi. Quelques nuages de beau temps l'après-midi sans intempérie.
+    Vosges : Temps très chaud et généreusement ensoleillé ce jeudi. Quelques nuages de beau temps l'après-midi sans intempérie.
 
-    Jura : Chaleur estivale et soleil dominant ce mercredi, avant quelques passages nuageux inoffensifs en soirée.
+    Jura : Chaleur estivale et soleil dominant ce jeudi, avant quelques passages nuageux inoffensifs en soirée.
 
-    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du mercredi 14 octobre 2026.
+    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du jeudi 15 octobre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-📉 Tendance – 3 jours suivants (vendredi 16 octobre au dimanche 18 octobre)
+▶ samedi 17 octobre : Le ciel alterne entre nuages et éclaircies, avec un vent modéré de 20 à 25 km/h et des rafales atteignant 50 km/h en bord de mer. Les maximales chutent entre 14 et 16°C, les minimales oscillent de 6 à 12°C. Aucune pluie n’est attendue, sauf sur Dieppe où 3 mm sont possibles.
 
-▶ vendredi 16 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 10°C. L'après-midi, le mercure grimpe jusqu'à 18°C sous abri. Attention aux rafales de vent atteignant 50 km/h.
+▶ dimanche 18 octobre : Le temps devient plus instable, avec des nuages porteurs de faibles pluies sur le Cotentin, le Pays de Caux et l’Orne. Les rafales de vent atteignent 55 km/h à Cherbourg. Les températures baissent encore, avec des maximales de 13 à 15°C et des minimales de 5 à 9°C.
 
-▶ samedi 17 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 7°C. L'après-midi, le mercure grimpe jusqu'à 16°C sous abri. Attention aux rafales de vent atteignant 55 km/h.
-
-▶ dimanche 18 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 5°C. L'après-midi, le mercure grimpe jusqu'à 15°C sous abri. Attention aux rafales de vent atteignant 70 km/h.
+▶ lundi 19 octobre : Le vent se renforce nettement, avec des rafales jusqu’à 75 km/h sur le Cotentin et 50 km/h ailleurs. Des précipitations éparses touchent l’Eure et l’Orne, avec jusqu’à 8 mm attendus à Évreux. Les températures restent fraîches, maximales entre 13 et 14°C, minimales de 6 à 9°C.
 
