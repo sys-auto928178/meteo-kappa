@@ -1,6 +1,6 @@
 ================================================================================
 📡 RAPPORT EXHAUSTIF DES PRÉVISIONS VISUELLES (MODE VISIO EN PLATEAU)
-DATE CIBLE : VENDREDI 16 OCTOBRE 2026
+DATE CIBLE : LUNDI 19 OCTOBRE 2026
 FICHIER SOURCE : /home/runner/work/meteo-kappa/meteo-kappa/cnews/BULLETINS_AUTOMATIQUES_DEMAIN.json
 ================================================================================
 
@@ -19,23 +19,23 @@ Ce vendredi matin, le temps se montre instable sur une grande partie de la Franc
 Ce vendredi après-midi, une perturbation pluvieuse traverse une grande partie du pays. Des averses sont attendues de la Bretagne aux Hauts-de-France, touchant notamment Lille (19°C), Laon (23°C) et Paris (20°C). Le vent soufflera modérément, avec des rafales atteignant 45 km/h sur le Nord-Ouest. Le ciel restera couvert sur le littoral atlantique, de Caen (17°C) à Brest (16°C) et Rennes (19°C), où des pluies faibles à modérées sont également prévues. Les températures maximales afficheront 18°C à Nantes et 21°C à Tours.
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (vendredi 16 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Anticyclone 1030 hPa sur l'Europe de l'Est, avec dorsale 1025 hPa s’étendant jusqu'à la France, se décale lentement vers l'est. Nouveau thalweg avec front froid prévu traverser la Manche cette nuit et demain matin. Nouvel anticyclone prévu 1034 hPa au sud-ouest de l'Irlande vendredi midi.
+🌐 Situation générale : Anticyclone 1038 hPa sur l’Écosse, se décalant vers le nord-est, prévu sur le sud de la Suède l'après-midi puis 1042 hPa à l'est de la Finlande demain à la mi-journée. Dorsale associée s'étendant sur le Golfe de Gascogne, faiblissant progressivement.
 
-📅 Prévisions pour la journée du vendredi 16 octobre :
-🌬️ VENT : Sud-Ouest 3 à 4, virant Nord à Nord-Ouest 5 à 6 à la mi-journée. Rafales.
-🌊 MER : peu agitée, devenant peu agitée à agitée l'après-midi.
-🌊 HOULE : Ouest à Sud-Ouest 0.5 à 1 m, non significative en mer du Nord.
-⛅ TEMPS : couvert et passagèrement pluvieux en milieu de journée, éclaircies à la fin.
-👁️ VISIBILITE : bonne, mais moyenne à mauvaise sous pluie.
+📅 Prévisions pour la journée du lundi 19 octobre :
+🌬️ VENT : Est à Sud-Est 3 à 4, revenant Est l'après-midi.
+🌊 MER : belle à peu agitée.
+🌊 HOULE : non significative, parfois Nord à Nord-Est 0.5 à 1 m en mer du Nord le matin.
+⛅ TEMPS : nuageux à très nuageux.
+👁️ VISIBILITE : bonne.
 
-📉 Tendance pour la nuit du 16  au 17, et la journée du samedi 17 octobre :
-• VENT : Nord à Nord-Ouest 5 à 6, virant Nord à Nord-Est le matin. Rafales.
-• MER : peu agitée à agitée, devenant agitée en fin de nuit.
+📉 Tendance pour la nuit du 19  au 20, et la journée du mardi 20 octobre :
+• VENT : fraîchissant Est 4 à 5, virant Sud-Est le matin, puis progressivement Sud à Sud-Ouest l'après-midi.
+• MER : belle à peu agitée.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce vendredi avec maintien de la sécheresse de surface.
@@ -90,23 +90,23 @@ Ce vendredi après-midi, le ciel du Nord-Pas-de-Calais se partage entre éclairc
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (vendredi 16 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Anticyclone 1030 hPa sur l'Europe de l'Est, avec dorsale 1025 hPa s’étendant jusqu'à la France, se décale lentement vers l'est. Nouveau thalweg avec front froid prévu traverser la Manche cette nuit et demain matin. Nouvel anticyclone prévu 1034 hPa au sud-ouest de l'Irlande vendredi midi.
+🌐 Situation générale : Anticyclone 1038 hPa sur l’Écosse, se décalant vers le nord-est, prévu sur le sud de la Suède l'après-midi puis 1042 hPa à l'est de la Finlande demain à la mi-journée. Dorsale associée s'étendant sur le Golfe de Gascogne, faiblissant progressivement.
 
-📅 Prévisions pour la journée du vendredi 16 octobre :
-🌬️ VENT : Sud-Ouest 3 à 4, virant Nord à Nord-Ouest 5 à 6 à la mi-journée. Rafales.
-🌊 MER : peu agitée, devenant peu agitée à agitée l'après-midi.
-🌊 HOULE : Ouest à Sud-Ouest 0.5 à 1 m, non significative en mer du Nord.
-⛅ TEMPS : couvert et passagèrement pluvieux en milieu de journée, éclaircies à la fin.
-👁️ VISIBILITE : bonne, mais moyenne à mauvaise sous pluie.
+📅 Prévisions pour la journée du lundi 19 octobre :
+🌬️ VENT : Est à Sud-Est 3 à 4, revenant Est l'après-midi.
+🌊 MER : belle à peu agitée.
+🌊 HOULE : non significative, parfois Nord à Nord-Est 0.5 à 1 m en mer du Nord le matin.
+⛅ TEMPS : nuageux à très nuageux.
+👁️ VISIBILITE : bonne.
 
-📉 Tendance pour la nuit du 16  au 17, et la journée du samedi 17 octobre :
-• VENT : Nord à Nord-Ouest 5 à 6, virant Nord à Nord-Est le matin. Rafales.
-• MER : peu agitée à agitée, devenant agitée en fin de nuit.
+📉 Tendance pour la nuit du 19  au 20, et la journée du mardi 20 octobre :
+• VENT : fraîchissant Est 4 à 5, virant Sud-Est le matin, puis progressivement Sud à Sud-Ouest l'après-midi.
+• MER : belle à peu agitée.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce vendredi avec maintien de la sécheresse de surface.
@@ -166,24 +166,24 @@ Ce vendredi après-midi, le ciel de la région présentera des nuances variées.
 🌊 Température de l’eau : 21°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "AIGUILLON - FRONTIÈRE ESPAGNOLE" MIDI (vendredi 16 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "AIGUILLON - FRONTIÈRE ESPAGNOLE" MIDI
 📍 Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du jeudi 15 octobre 2026 à 12H30 légales.
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du dimanche 18 octobre 2026 à 12H30 légales.
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Anticyclone 1030 hPa sur l'Europe de l'Est, avec dorsale 1025 hPa s’étendant jusqu'à la France, se décale lentement vers l'est. Nouveau thalweg avec front froid prévu traverser la Manche cette nuit et demain matin. Nouvel anticyclone prévu 1034 hPa au sud-ouest de l'Irlande vendredi midi.
+🌐 Situation générale : Anticyclone 1038 hPa sur l’Écosse, se décalant vers le nord-est, prévu sur le sud de la Suède l'après-midi puis 1042 hPa à l'est de la Finlande demain à la mi-journée. Dorsale associée s'étendant sur le Golfe de Gascogne, faiblissant progressivement.
 
-📅 Prévisions pour la journée du vendredi 16 octobre :
-🌬️ VENT : Nord à Nord-Ouest dominant 1 à 3, passagèrement 4, fraîchissant 4 à 5 au nord de côte Charente en toute fin de journée.
-🌊 MER : agitée, dominée par la houle.
-🌊 HOULE : longue de Nord-Ouest 2 à 2.5 m.
-⛅ TEMPS : très nuageux à couvert, quelques pluies éparses.
-👁️ VISIBILITE : bonne, localement moyenne sous pluie.
+📅 Prévisions pour la journée du lundi 19 octobre :
+🌬️ VENT : Est à Sud-Est 2 à 4 au sud de Mimizan, mais secteur Nord-Est 2 à 4 au nord.
+🌊 MER : peu agitée.
+🌊 HOULE : Nord-Ouest 0.5 à 1 m, devenant longue d'Ouest à Nord-Ouest en fin de journée.
+⛅ TEMPS : peu nuageux, devenant localement très nuageux avec pluie ou averses l'après-midi au sud de Lacanau.
+👁️ VISIBILITE : bonne, puis localement moyenne à mauvaise sous précipitations.
 
-📉 Tendance pour la nuit du 16  au 17, et la journée du samedi 17 octobre :
-• VENT : Nord à Nord-Est 2 à 4, fraîchissant progressivement 4 à 5 par le nord la nuit, localement 6 vers le large.
-• MER : agitée, parfois forte vers le large en fin de nuit et journée.
+📉 Tendance pour la nuit du 19  au 20, et la journée du mardi 20 octobre :
+• VENT : Variable 2 à 4, s'orientant Ouest à Nord-Ouest le matin, puis revenant Ouest à Sud-Ouest 3 à 4 l'après-midi.
+• MER : peu agitée, devenant progressivement agitée le matin.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce vendredi avec maintien de la sécheresse de surface.
@@ -238,23 +238,23 @@ Ce vendredi après-midi, le temps s'annonce mitigé sur la région. Des averses 
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (vendredi 16 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Anticyclone 1030 hPa sur l'Europe de l'Est, avec dorsale 1025 hPa s’étendant jusqu'à la France, se décale lentement vers l'est. Nouveau thalweg avec front froid prévu traverser la Manche cette nuit et demain matin. Nouvel anticyclone prévu 1034 hPa au sud-ouest de l'Irlande vendredi midi.
+🌐 Situation générale : Anticyclone 1038 hPa sur l’Écosse, se décalant vers le nord-est, prévu sur le sud de la Suède l'après-midi puis 1042 hPa à l'est de la Finlande demain à la mi-journée. Dorsale associée s'étendant sur le Golfe de Gascogne, faiblissant progressivement.
 
-📅 Prévisions pour la journée du vendredi 16 octobre :
-🌬️ VENT : Sud-Ouest 3 à 4, virant Nord à Nord-Ouest 5 à 6 à la mi-journée. Rafales.
-🌊 MER : peu agitée, devenant peu agitée à agitée l'après-midi.
-🌊 HOULE : Ouest à Sud-Ouest 0.5 à 1 m, non significative en mer du Nord.
-⛅ TEMPS : couvert et passagèrement pluvieux en milieu de journée, éclaircies à la fin.
-👁️ VISIBILITE : bonne, mais moyenne à mauvaise sous pluie.
+📅 Prévisions pour la journée du lundi 19 octobre :
+🌬️ VENT : Est à Sud-Est 3 à 4, revenant Est l'après-midi.
+🌊 MER : belle à peu agitée.
+🌊 HOULE : non significative, parfois Nord à Nord-Est 0.5 à 1 m en mer du Nord le matin.
+⛅ TEMPS : nuageux à très nuageux.
+👁️ VISIBILITE : bonne.
 
-📉 Tendance pour la nuit du 16  au 17, et la journée du samedi 17 octobre :
-• VENT : Nord à Nord-Ouest 5 à 6, virant Nord à Nord-Est le matin. Rafales.
-• MER : peu agitée à agitée, devenant agitée en fin de nuit.
+📉 Tendance pour la nuit du 19  au 20, et la journée du mardi 20 octobre :
+• VENT : fraîchissant Est 4 à 5, virant Sud-Est le matin, puis progressivement Sud à Sud-Ouest l'après-midi.
+• MER : belle à peu agitée.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce vendredi avec maintien de la sécheresse de surface.
@@ -309,23 +309,23 @@ Ce vendredi après-midi, le temps se caractérise par une alternance d'éclairci
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (vendredi 16 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Anticyclone 1030 hPa sur l'Europe de l'Est, avec dorsale 1025 hPa s’étendant jusqu'à la France, se décale lentement vers l'est. Nouveau thalweg avec front froid prévu traverser la Manche cette nuit et demain matin. Nouvel anticyclone prévu 1034 hPa au sud-ouest de l'Irlande vendredi midi.
+🌐 Situation générale : Anticyclone 1038 hPa sur l’Écosse, se décalant vers le nord-est, prévu sur le sud de la Suède l'après-midi puis 1042 hPa à l'est de la Finlande demain à la mi-journée. Dorsale associée s'étendant sur le Golfe de Gascogne, faiblissant progressivement.
 
-📅 Prévisions pour la journée du vendredi 16 octobre :
-🌬️ VENT : Sud-Ouest 3 à 4, virant Nord à Nord-Ouest 5 à 6 à la mi-journée. Rafales.
-🌊 MER : peu agitée, devenant peu agitée à agitée l'après-midi.
-🌊 HOULE : Ouest à Sud-Ouest 0.5 à 1 m, non significative en mer du Nord.
-⛅ TEMPS : couvert et passagèrement pluvieux en milieu de journée, éclaircies à la fin.
-👁️ VISIBILITE : bonne, mais moyenne à mauvaise sous pluie.
+📅 Prévisions pour la journée du lundi 19 octobre :
+🌬️ VENT : Est à Sud-Est 3 à 4, revenant Est l'après-midi.
+🌊 MER : belle à peu agitée.
+🌊 HOULE : non significative, parfois Nord à Nord-Est 0.5 à 1 m en mer du Nord le matin.
+⛅ TEMPS : nuageux à très nuageux.
+👁️ VISIBILITE : bonne.
 
-📉 Tendance pour la nuit du 16  au 17, et la journée du samedi 17 octobre :
-• VENT : Nord à Nord-Ouest 5 à 6, virant Nord à Nord-Est le matin. Rafales.
-• MER : peu agitée à agitée, devenant agitée en fin de nuit.
+📉 Tendance pour la nuit du 19  au 20, et la journée du mardi 20 octobre :
+• VENT : fraîchissant Est 4 à 5, virant Sud-Est le matin, puis progressivement Sud à Sud-Ouest l'après-midi.
+• MER : belle à peu agitée.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce vendredi avec maintien de la sécheresse de surface.
@@ -382,26 +382,24 @@ Ce vendredi après-midi, la Normandie connaît un temps mitigé. Des averses son
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "BAIE DE SOMME - LA HAGUE" MIDI (vendredi 16 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "BAIE DE SOMME - LA HAGUE" MIDI
 📍 Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du jeudi 15 octobre 2026 à 12H30 légales.
+Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du dimanche 18 octobre 2026 à 12H30 légales.
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Anticyclone 1030 hPa sur l'Europe de l'Est, avec dorsale 1025 hPa s’étendant jusqu'à la France, se décale lentement vers l'est. Nouveau thalweg avec front froid prévu traverser la Manche cette nuit et demain matin. Nouvel anticyclone prévu 1034 hPa au sud-ouest de l'Irlande vendredi midi.
+🌐 Situation générale : Anticyclone 1038 hPa sur l’Écosse, se décalant vers le nord-est, prévu sur le sud de la Suède l'après-midi puis 1042 hPa à l'est de la Finlande demain à la mi-journée. Dorsale associée s'étendant sur le Golfe de Gascogne, faiblissant progressivement.
 
-📅 Prévisions pour la journée du vendredi 16 octobre :
-🌬️ VENT : virant Nord à Nord-Ouest 4 à 5 en matinée, passagèrement 6. Rafales.
-🌊 MER : peu agitée à agitée.
-🌊 HOULE : 
-- en baie de Seine : non significative. 
-- ailleurs : Ouest 0.5 à 1 m, et s'atténuant 1 à 1.5 m sur nord Cotentin.
-⛅ TEMPS : très nuageux à couvert avec pluie en matinée. Éclaircies progressives par l'ouest l'après-midi.
-👁️ VISIBILITE : bonne, mais moyenne à mauvaise sous précipitations.
+📅 Prévisions pour la journée du lundi 19 octobre :
+🌬️ VENT : Sud-Est 3 à 4, localement 4 à 5 sur nord Cotentin, revenant Est 3 à 4 partout l'après-midi.
+🌊 MER : belle à peu agitée.
+🌊 HOULE : Nord-Est 0.5 à 1 m sur nord Cotentin et baie de Seine, s'amortissant à la mi-journée.
+⛅ TEMPS : peu nuageux à nuageux.
+👁️ VISIBILITE : bonne.
 
-📉 Tendance pour la nuit du 16  au 17, et la journée du samedi 17 octobre :
-• VENT : fraîchissant Nord 5 à 6, puis virant Nord à Nord-Est 5 en fin de nuit, localement 6 à l'est d'Antifer. Rafales.
-• MER : agitée, mais peu agitée en Baie de Seine en première partie de nuit.
+📉 Tendance pour la nuit du 19  au 20, et la journée du mardi 20 octobre :
+• VENT : Est 3 à 4, parfois 5, revenant secteur Ouest en fin de nuit, puis fraîchissant Ouest à Sud-Ouest 4 à 5 l'après-midi, parfois 6. Rafales.
+• MER : belle à peu agitée, devenant peu agitée à la mi-journée, parfois agitée l'après-midi à l'ouest du Havre.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce vendredi avec maintien de la sécheresse de surface.
