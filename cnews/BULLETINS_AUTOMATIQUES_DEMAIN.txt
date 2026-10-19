@@ -1,6 +1,6 @@
 ================================================================================
 📡 RAPPORT EXHAUSTIF DES PRÉVISIONS VISUELLES (MODE VISIO EN PLATEAU)
-DATE CIBLE : LUNDI 19 OCTOBRE 2026
+DATE CIBLE : MARDI 20 OCTOBRE 2026
 FICHIER SOURCE : /home/runner/work/meteo-kappa/meteo-kappa/cnews/BULLETINS_AUTOMATIQUES_DEMAIN.json
 ================================================================================
 
@@ -19,23 +19,24 @@ Ce lundi matin, la France se réveille sous un ciel partagé. Sur la façade atl
 Ce lundi après-midi, le ciel français se partage entre éclaircies et passages nuageux. Un soleil dominant est attendu sur un large quart nord-ouest, de la Bretagne aux Pays de la Loire, avec 14°C à Brest et 16°C à Nantes. Plus à l'est, des nuages plus nombreux couvriront le ciel, notamment sur le Bassin Parisien et le Centre, où des averses sont prévues. Paris connaîtra des pluies faibles avec 15°C, tandis que Tours et Poitiers verront également de faibles précipitations sous un ciel nuageux. Les vents resteront généralement faibles, autour de 10 à 15 km/h, sans rafales notables.
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (lundi 19 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Anticyclone 1038 hPa sur l’Écosse, se décalant vers le nord-est, prévu sur le sud de la Suède l'après-midi puis 1042 hPa à l'est de la Finlande demain à la mi-journée. Dorsale associée s'étendant sur le Golfe de Gascogne, faiblissant progressivement.
+🌐 Situation générale : Dépression 1010 hPa au sud de l'Espagne, remontant sur la France en journée, prévue 1007 hPa en Manche demain matin.
+Nouvelle dépression 995 hPa au sud de l’Irlande demain après-midi, avec perturbation orageuses associés, abordant la Bretagne demain soir.
 
-📅 Prévisions pour la journée du lundi 19 octobre :
-🌬️ VENT : Est à Sud-Est 3 à 4, revenant Est l'après-midi.
-🌊 MER : belle à peu agitée.
-🌊 HOULE : non significative, parfois Nord à Nord-Est 0.5 à 1 m en mer du Nord le matin.
-⛅ TEMPS : nuageux à très nuageux.
-👁️ VISIBILITE : bonne.
+📅 Prévisions pour la journée du mardi 20 octobre :
+🌬️ VENT : Est à Sud-Est 5 à 6, virant Sud 4 à 5 en début d'après-midi, puis fraîchissant Sud à Sud-Ouest 5 à 6 à la fin. Rafales.
+🌊 MER : peu agitée à agitée, devenant agitée en Manche en fin de journée.
+🌊 HOULE : Nord-Est 0.5 à 1 m en Mer du Nord.
+⛅ TEMPS : passagèrement pluvieux.
+👁️ VISIBILITE : moyenne à mauvaise sous précipitations.
 
-📉 Tendance pour la nuit du 19  au 20, et la journée du mardi 20 octobre :
-• VENT : fraîchissant Est 4 à 5, virant Sud-Est le matin, puis progressivement Sud à Sud-Ouest l'après-midi.
-• MER : belle à peu agitée.
+📉 Tendance pour la nuit du 20  au 21, et la journée du mercredi 21 octobre :
+• VENT : Sud-Ouest 5 à 6, revenant Sud en début de journée, puis fraîchissant Ouest à Sud-Ouest 7 parfois 8 l'après-midi. Fortes rafales.
+• MER : agitée, localement peu agitée à agitée en Mer du Nord, devenant forte à très forte l'après-midi.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce lundi avec maintien de la sécheresse de surface.
@@ -92,23 +93,24 @@ Ce lundi après-midi, le ciel du Nord reste majoritairement clément. Le soleil 
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (lundi 19 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Anticyclone 1038 hPa sur l’Écosse, se décalant vers le nord-est, prévu sur le sud de la Suède l'après-midi puis 1042 hPa à l'est de la Finlande demain à la mi-journée. Dorsale associée s'étendant sur le Golfe de Gascogne, faiblissant progressivement.
+🌐 Situation générale : Dépression 1010 hPa au sud de l'Espagne, remontant sur la France en journée, prévue 1007 hPa en Manche demain matin.
+Nouvelle dépression 995 hPa au sud de l’Irlande demain après-midi, avec perturbation orageuses associés, abordant la Bretagne demain soir.
 
-📅 Prévisions pour la journée du lundi 19 octobre :
-🌬️ VENT : Est à Sud-Est 3 à 4, revenant Est l'après-midi.
-🌊 MER : belle à peu agitée.
-🌊 HOULE : non significative, parfois Nord à Nord-Est 0.5 à 1 m en mer du Nord le matin.
-⛅ TEMPS : nuageux à très nuageux.
-👁️ VISIBILITE : bonne.
+📅 Prévisions pour la journée du mardi 20 octobre :
+🌬️ VENT : Est à Sud-Est 5 à 6, virant Sud 4 à 5 en début d'après-midi, puis fraîchissant Sud à Sud-Ouest 5 à 6 à la fin. Rafales.
+🌊 MER : peu agitée à agitée, devenant agitée en Manche en fin de journée.
+🌊 HOULE : Nord-Est 0.5 à 1 m en Mer du Nord.
+⛅ TEMPS : passagèrement pluvieux.
+👁️ VISIBILITE : moyenne à mauvaise sous précipitations.
 
-📉 Tendance pour la nuit du 19  au 20, et la journée du mardi 20 octobre :
-• VENT : fraîchissant Est 4 à 5, virant Sud-Est le matin, puis progressivement Sud à Sud-Ouest l'après-midi.
-• MER : belle à peu agitée.
+📉 Tendance pour la nuit du 20  au 21, et la journée du mercredi 21 octobre :
+• VENT : Sud-Ouest 5 à 6, revenant Sud en début de journée, puis fraîchissant Ouest à Sud-Ouest 7 parfois 8 l'après-midi. Fortes rafales.
+• MER : agitée, localement peu agitée à agitée en Mer du Nord, devenant forte à très forte l'après-midi.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce lundi avec maintien de la sécheresse de surface.
@@ -168,24 +170,25 @@ Ce lundi après-midi, le temps se montrera variable sur la région. Le littoral 
 🌊 Température de l’eau : 21°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "AIGUILLON - FRONTIÈRE ESPAGNOLE" MIDI (lundi 19 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "AIGUILLON - FRONTIÈRE ESPAGNOLE" MIDI
 📍 Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du dimanche 18 octobre 2026 à 12H30 légales.
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du lundi 19 octobre 2026 à 12H30 légales.
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Anticyclone 1038 hPa sur l’Écosse, se décalant vers le nord-est, prévu sur le sud de la Suède l'après-midi puis 1042 hPa à l'est de la Finlande demain à la mi-journée. Dorsale associée s'étendant sur le Golfe de Gascogne, faiblissant progressivement.
+🌐 Situation générale : Dépression 1010 hPa au sud de l'Espagne, remontant sur la France en journée, prévue 1007 hPa en Manche demain matin.
+Nouvelle dépression 995 hPa au sud de l’Irlande demain après-midi, avec perturbation orageuses associés, abordant la Bretagne demain soir.
 
-📅 Prévisions pour la journée du lundi 19 octobre :
-🌬️ VENT : Est à Sud-Est 2 à 4 au sud de Mimizan, mais secteur Nord-Est 2 à 4 au nord.
-🌊 MER : peu agitée.
-🌊 HOULE : Nord-Ouest 0.5 à 1 m, devenant longue d'Ouest à Nord-Ouest en fin de journée.
-⛅ TEMPS : peu nuageux, devenant localement très nuageux avec pluie ou averses l'après-midi au sud de Lacanau.
-👁️ VISIBILITE : bonne, puis localement moyenne à mauvaise sous précipitations.
+📅 Prévisions pour la journée du mardi 20 octobre :
+🌬️ VENT : Ouest à Nord-Ouest 2 à 4, revenant Ouest à Sud-Ouest 3 à 4 l'après-midi.
+🌊 MER : peu agitée, devenant peu agitée à agitée par le sud le matin.
+🌊 HOULE : longue d'Ouest à Nord-Ouest s'amplifiant 1 à 1.5 m.
+⛅ TEMPS : quelques averses.
+👁️ VISIBILITE : moyenne sous averses.
 
-📉 Tendance pour la nuit du 19  au 20, et la journée du mardi 20 octobre :
-• VENT : Variable 2 à 4, s'orientant Ouest à Nord-Ouest le matin, puis revenant Ouest à Sud-Ouest 3 à 4 l'après-midi.
-• MER : peu agitée, devenant progressivement agitée le matin.
+📉 Tendance pour la nuit du 20  au 21, et la journée du mercredi 21 octobre :
+• VENT : Ouest à Sud-Ouest 3 à 4, fraîchissant 5 à 6 en milieu de nuit, puis virant Nord-Ouest 6 à 7 en seconde partie de nuit, et mollissant 5 à 6 à la mi-journée. Rafales.
+• MER : agitée, devenant forte à très forte en fin de nuit.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce lundi avec maintien de la sécheresse de surface.
@@ -242,23 +245,24 @@ Ce lundi après-midi, le temps s'annonce globalement ensoleillé sur une grande 
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (lundi 19 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Anticyclone 1038 hPa sur l’Écosse, se décalant vers le nord-est, prévu sur le sud de la Suède l'après-midi puis 1042 hPa à l'est de la Finlande demain à la mi-journée. Dorsale associée s'étendant sur le Golfe de Gascogne, faiblissant progressivement.
+🌐 Situation générale : Dépression 1010 hPa au sud de l'Espagne, remontant sur la France en journée, prévue 1007 hPa en Manche demain matin.
+Nouvelle dépression 995 hPa au sud de l’Irlande demain après-midi, avec perturbation orageuses associés, abordant la Bretagne demain soir.
 
-📅 Prévisions pour la journée du lundi 19 octobre :
-🌬️ VENT : Est à Sud-Est 3 à 4, revenant Est l'après-midi.
-🌊 MER : belle à peu agitée.
-🌊 HOULE : non significative, parfois Nord à Nord-Est 0.5 à 1 m en mer du Nord le matin.
-⛅ TEMPS : nuageux à très nuageux.
-👁️ VISIBILITE : bonne.
+📅 Prévisions pour la journée du mardi 20 octobre :
+🌬️ VENT : Est à Sud-Est 5 à 6, virant Sud 4 à 5 en début d'après-midi, puis fraîchissant Sud à Sud-Ouest 5 à 6 à la fin. Rafales.
+🌊 MER : peu agitée à agitée, devenant agitée en Manche en fin de journée.
+🌊 HOULE : Nord-Est 0.5 à 1 m en Mer du Nord.
+⛅ TEMPS : passagèrement pluvieux.
+👁️ VISIBILITE : moyenne à mauvaise sous précipitations.
 
-📉 Tendance pour la nuit du 19  au 20, et la journée du mardi 20 octobre :
-• VENT : fraîchissant Est 4 à 5, virant Sud-Est le matin, puis progressivement Sud à Sud-Ouest l'après-midi.
-• MER : belle à peu agitée.
+📉 Tendance pour la nuit du 20  au 21, et la journée du mercredi 21 octobre :
+• VENT : Sud-Ouest 5 à 6, revenant Sud en début de journée, puis fraîchissant Ouest à Sud-Ouest 7 parfois 8 l'après-midi. Fortes rafales.
+• MER : agitée, localement peu agitée à agitée en Mer du Nord, devenant forte à très forte l'après-midi.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce lundi avec maintien de la sécheresse de surface.
@@ -315,23 +319,24 @@ Ce lundi après-midi, le temps s'annonce globalement agréable sur la région. L
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (lundi 19 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Anticyclone 1038 hPa sur l’Écosse, se décalant vers le nord-est, prévu sur le sud de la Suède l'après-midi puis 1042 hPa à l'est de la Finlande demain à la mi-journée. Dorsale associée s'étendant sur le Golfe de Gascogne, faiblissant progressivement.
+🌐 Situation générale : Dépression 1010 hPa au sud de l'Espagne, remontant sur la France en journée, prévue 1007 hPa en Manche demain matin.
+Nouvelle dépression 995 hPa au sud de l’Irlande demain après-midi, avec perturbation orageuses associés, abordant la Bretagne demain soir.
 
-📅 Prévisions pour la journée du lundi 19 octobre :
-🌬️ VENT : Est à Sud-Est 3 à 4, revenant Est l'après-midi.
-🌊 MER : belle à peu agitée.
-🌊 HOULE : non significative, parfois Nord à Nord-Est 0.5 à 1 m en mer du Nord le matin.
-⛅ TEMPS : nuageux à très nuageux.
-👁️ VISIBILITE : bonne.
+📅 Prévisions pour la journée du mardi 20 octobre :
+🌬️ VENT : Est à Sud-Est 5 à 6, virant Sud 4 à 5 en début d'après-midi, puis fraîchissant Sud à Sud-Ouest 5 à 6 à la fin. Rafales.
+🌊 MER : peu agitée à agitée, devenant agitée en Manche en fin de journée.
+🌊 HOULE : Nord-Est 0.5 à 1 m en Mer du Nord.
+⛅ TEMPS : passagèrement pluvieux.
+👁️ VISIBILITE : moyenne à mauvaise sous précipitations.
 
-📉 Tendance pour la nuit du 19  au 20, et la journée du mardi 20 octobre :
-• VENT : fraîchissant Est 4 à 5, virant Sud-Est le matin, puis progressivement Sud à Sud-Ouest l'après-midi.
-• MER : belle à peu agitée.
+📉 Tendance pour la nuit du 20  au 21, et la journée du mercredi 21 octobre :
+• VENT : Sud-Ouest 5 à 6, revenant Sud en début de journée, puis fraîchissant Ouest à Sud-Ouest 7 parfois 8 l'après-midi. Fortes rafales.
+• MER : agitée, localement peu agitée à agitée en Mer du Nord, devenant forte à très forte l'après-midi.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce lundi avec maintien de la sécheresse de surface.
@@ -388,24 +393,25 @@ Ce lundi après-midi, la Normandie connaîtra un temps partagé entre éclaircie
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "BAIE DE SOMME - LA HAGUE" MIDI (lundi 19 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "BAIE DE SOMME - LA HAGUE" MIDI
 📍 Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du dimanche 18 octobre 2026 à 12H30 légales.
+Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du lundi 19 octobre 2026 à 12H30 légales.
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Anticyclone 1038 hPa sur l’Écosse, se décalant vers le nord-est, prévu sur le sud de la Suède l'après-midi puis 1042 hPa à l'est de la Finlande demain à la mi-journée. Dorsale associée s'étendant sur le Golfe de Gascogne, faiblissant progressivement.
+🌐 Situation générale : Dépression 1010 hPa au sud de l'Espagne, remontant sur la France en journée, prévue 1007 hPa en Manche demain matin.
+Nouvelle dépression 995 hPa au sud de l’Irlande demain après-midi, avec perturbation orageuses associés, abordant la Bretagne demain soir.
 
-📅 Prévisions pour la journée du lundi 19 octobre :
-🌬️ VENT : Sud-Est 3 à 4, localement 4 à 5 sur nord Cotentin, revenant Est 3 à 4 partout l'après-midi.
-🌊 MER : belle à peu agitée.
-🌊 HOULE : Nord-Est 0.5 à 1 m sur nord Cotentin et baie de Seine, s'amortissant à la mi-journée.
-⛅ TEMPS : peu nuageux à nuageux.
-👁️ VISIBILITE : bonne.
+📅 Prévisions pour la journée du mardi 20 octobre :
+🌬️ VENT : Variable dépressionnaire 4 à 6, devenant secteur Ouest 5 à 6 en fin de matinée, puis revenant Ouest à Sud-Ouest l'après-midi, en mollissant localement 4 à 5 à l'ouest de Fécamp. Fortes rafales.
+🌊 MER : peu agitée, devenant peu agitée à agitée en fin de matinée.
+🌊 HOULE : Nord-Est 0.5 m, s'amortissant en fin de journée.
+⛅ TEMPS : pluvieux, puis éclaircies par l'ouest l'après-midi.
+👁️ VISIBILITE : moyenne à mauvaise sous pluie.
 
-📉 Tendance pour la nuit du 19  au 20, et la journée du mardi 20 octobre :
-• VENT : Est 3 à 4, parfois 5, revenant secteur Ouest en fin de nuit, puis fraîchissant Ouest à Sud-Ouest 4 à 5 l'après-midi, parfois 6. Rafales.
-• MER : belle à peu agitée, devenant peu agitée à la mi-journée, parfois agitée l'après-midi à l'ouest du Havre.
+📉 Tendance pour la nuit du 20  au 21, et la journée du mercredi 21 octobre :
+• VENT : Sud à Sud-Ouest 5 à 6, fraîchissant Ouest 6 à 7 en matinée, puis 7 à 8 à la mi-journée. Fortes rafales.
+• MER : peu agitée à agitée, devenant forte à très forte par l'ouest en matinée.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce lundi avec maintien de la sécheresse de surface.
