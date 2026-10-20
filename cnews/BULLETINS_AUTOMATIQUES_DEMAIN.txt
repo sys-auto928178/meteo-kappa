@@ -1,6 +1,6 @@
 ================================================================================
 📡 RAPPORT EXHAUSTIF DES PRÉVISIONS VISUELLES (MODE VISIO EN PLATEAU)
-DATE CIBLE : MARDI 20 OCTOBRE 2026
+DATE CIBLE : MERCREDI 21 OCTOBRE 2026
 FICHIER SOURCE : /home/runner/work/meteo-kappa/meteo-kappa/cnews/BULLETINS_AUTOMATIQUES_DEMAIN.json
 ================================================================================
 
@@ -19,24 +19,25 @@ Ce mardi matin, une perturbation pluvieuse s'étend sur une large partie du pays
 Ce mardi après-midi, une atmosphère instable dominera une grande partie de la France. Des averses, parfois soutenues, sont attendues de la Normandie aux Hauts-de-France, avec 15°C à Lille et Rouen. En Bretagne, le ciel se dégagera progressivement, laissant place à un soleil généreux sur Brest où le vent d'ouest soufflera jusqu'à 55 km/h en rafales, tandis que Rennes connaîtra encore des averses et des températures atteignant 16°C. Plus au sud, le Centre-Val de Loire et les Pays de la Loire seront également sous l'influence de passages pluvieux, avec 14°C à Tours et 16°C à Nantes.
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (mardi 20 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
-⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
+⚠️ AVIS DE SÉCURITÉ EN MER (BMS OFFICIEL) :
+• Avis de grand frais
+• VENT : Sud à Sud-Ouest 7. Rafales.
 
-🌐 Situation générale : Dépression 1010 hPa au sud de l'Espagne, remontant sur la France en journée, prévue 1007 hPa en Manche demain matin.
-Nouvelle dépression 995 hPa au sud de l’Irlande demain après-midi, avec perturbation orageuses associés, abordant la Bretagne demain soir.
+🌐 Situation générale : Dépression 1008 hPa en Manche, prévue 1003 sur le sud de l'Angleterre ce soir. Thalweg abordant la pointe Bretagne ce soir, puis dépression 995 hPa circulant en Manche en seconde partie de nuit et le matin, prévue sur le sud de la mer du Nord demain soir.
 
-📅 Prévisions pour la journée du mardi 20 octobre :
-🌬️ VENT : Est à Sud-Est 5 à 6, virant Sud 4 à 5 en début d'après-midi, puis fraîchissant Sud à Sud-Ouest 5 à 6 à la fin. Rafales.
-🌊 MER : peu agitée à agitée, devenant agitée en Manche en fin de journée.
-🌊 HOULE : Nord-Est 0.5 à 1 m en Mer du Nord.
-⛅ TEMPS : passagèrement pluvieux.
+📅 Prévisions pour la journée du mercredi 21 octobre :
+🌬️ VENT : Sud à Sud-Ouest 6 à 7, fraîchissant Ouest à Sud-Ouest 7 à 8 l'après-midi. Fortes rafales.
+🌊 MER : agitée à forte, devenant forte à très forte l'après-midi.
+🌊 HOULE : Sud-Ouest 0.5 à 1 m.
+⛅ TEMPS : pluie et averses, parfois orageuses l'après-midi.
 👁️ VISIBILITE : moyenne à mauvaise sous précipitations.
 
-📉 Tendance pour la nuit du 20  au 21, et la journée du mercredi 21 octobre :
-• VENT : Sud-Ouest 5 à 6, revenant Sud en début de journée, puis fraîchissant Ouest à Sud-Ouest 7 parfois 8 l'après-midi. Fortes rafales.
-• MER : agitée, localement peu agitée à agitée en Mer du Nord, devenant forte à très forte l'après-midi.
+📉 Tendance pour la nuit du 21  au 22, et la journée du jeudi 22 octobre :
+• VENT : Ouest 7 à 8, mollissant 6 à 7 en fin de soirée, puis mollissant rapidement Sud-Ouest 3 à 5 en seconde partie de nuit, localement 5 à 6 en Manche, avec menace de 7 la nuit. Rafales.
+• MER : agitée à forte, localement très forte en Manche au début, s'atténuant peu agitée à agitée en mer du Nord en fin de nuit.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce mardi avec maintien de la sécheresse de surface.
@@ -91,24 +92,25 @@ Ce mardi après-midi, le ciel du Nord reste partagé entre éclaircies et passag
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (mardi 20 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
-⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
+⚠️ AVIS DE SÉCURITÉ EN MER (BMS OFFICIEL) :
+• Avis de grand frais
+• VENT : Sud à Sud-Ouest 7. Rafales.
 
-🌐 Situation générale : Dépression 1010 hPa au sud de l'Espagne, remontant sur la France en journée, prévue 1007 hPa en Manche demain matin.
-Nouvelle dépression 995 hPa au sud de l’Irlande demain après-midi, avec perturbation orageuses associés, abordant la Bretagne demain soir.
+🌐 Situation générale : Dépression 1008 hPa en Manche, prévue 1003 sur le sud de l'Angleterre ce soir. Thalweg abordant la pointe Bretagne ce soir, puis dépression 995 hPa circulant en Manche en seconde partie de nuit et le matin, prévue sur le sud de la mer du Nord demain soir.
 
-📅 Prévisions pour la journée du mardi 20 octobre :
-🌬️ VENT : Est à Sud-Est 5 à 6, virant Sud 4 à 5 en début d'après-midi, puis fraîchissant Sud à Sud-Ouest 5 à 6 à la fin. Rafales.
-🌊 MER : peu agitée à agitée, devenant agitée en Manche en fin de journée.
-🌊 HOULE : Nord-Est 0.5 à 1 m en Mer du Nord.
-⛅ TEMPS : passagèrement pluvieux.
+📅 Prévisions pour la journée du mercredi 21 octobre :
+🌬️ VENT : Sud à Sud-Ouest 6 à 7, fraîchissant Ouest à Sud-Ouest 7 à 8 l'après-midi. Fortes rafales.
+🌊 MER : agitée à forte, devenant forte à très forte l'après-midi.
+🌊 HOULE : Sud-Ouest 0.5 à 1 m.
+⛅ TEMPS : pluie et averses, parfois orageuses l'après-midi.
 👁️ VISIBILITE : moyenne à mauvaise sous précipitations.
 
-📉 Tendance pour la nuit du 20  au 21, et la journée du mercredi 21 octobre :
-• VENT : Sud-Ouest 5 à 6, revenant Sud en début de journée, puis fraîchissant Ouest à Sud-Ouest 7 parfois 8 l'après-midi. Fortes rafales.
-• MER : agitée, localement peu agitée à agitée en Mer du Nord, devenant forte à très forte l'après-midi.
+📉 Tendance pour la nuit du 21  au 22, et la journée du jeudi 22 octobre :
+• VENT : Ouest 7 à 8, mollissant 6 à 7 en fin de soirée, puis mollissant rapidement Sud-Ouest 3 à 5 en seconde partie de nuit, localement 5 à 6 en Manche, avec menace de 7 la nuit. Rafales.
+• MER : agitée à forte, localement très forte en Manche au début, s'atténuant peu agitée à agitée en mer du Nord en fin de nuit.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce mardi avec maintien de la sécheresse de surface.
@@ -170,25 +172,26 @@ Dans l'intérieur des terres, le soleil domine largement sur des villes comme Bl
 🌊 Température de l’eau : 21°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "AIGUILLON - FRONTIÈRE ESPAGNOLE" MIDI (mardi 20 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "AIGUILLON - FRONTIÈRE ESPAGNOLE" MIDI
 📍 Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du lundi 19 octobre 2026 à 12H30 légales.
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du mardi 20 octobre 2026 à 12H30 légales.
 
-⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
+⚠️ AVIS DE SÉCURITÉ EN MER (BMS OFFICIEL) :
+• Avis de grand frais.
+• VENT : Sud-Ouest 7 au nord d'Arcachon, fraîchissant Nord-Ouest 7 partout en fin de nuit. Fortes rafales.
 
-🌐 Situation générale : Dépression 1010 hPa au sud de l'Espagne, remontant sur la France en journée, prévue 1007 hPa en Manche demain matin.
-Nouvelle dépression 995 hPa au sud de l’Irlande demain après-midi, avec perturbation orageuses associés, abordant la Bretagne demain soir.
+🌐 Situation générale : Dépression 1008 hPa en Manche, prévue 1003 sur le sud de l'Angleterre ce soir. Thalweg abordant la pointe Bretagne ce soir, puis dépression 995 hPa circulant en Manche en seconde partie de nuit et le matin, prévue sur le sud de la mer du Nord demain soir.
 
-📅 Prévisions pour la journée du mardi 20 octobre :
-🌬️ VENT : Ouest à Nord-Ouest 2 à 4, revenant Ouest à Sud-Ouest 3 à 4 l'après-midi.
-🌊 MER : peu agitée, devenant peu agitée à agitée par le sud le matin.
-🌊 HOULE : longue d'Ouest à Nord-Ouest s'amplifiant 1 à 1.5 m.
-⛅ TEMPS : quelques averses.
-👁️ VISIBILITE : moyenne sous averses.
+📅 Prévisions pour la journée du mercredi 21 octobre :
+🌬️ VENT : Nord-Ouest 6 à 7, mollissant 5 à 6 l'après midi, puis 4 à 5 à la fin. Fortes rafales sous orages.
+🌊 MER : devenant forte à très forte.
+🌊 HOULE : longue d'Ouest à Nord-Ouest 1 à 1.5 m, s'amplifiant 3 à 4 m l'après-midi.
+⛅ TEMPS : averses orageuses.
+👁️ VISIBILITE : mauvaise sous averses.
 
-📉 Tendance pour la nuit du 20  au 21, et la journée du mercredi 21 octobre :
-• VENT : Ouest à Sud-Ouest 3 à 4, fraîchissant 5 à 6 en milieu de nuit, puis virant Nord-Ouest 6 à 7 en seconde partie de nuit, et mollissant 5 à 6 à la mi-journée. Rafales.
-• MER : agitée, devenant forte à très forte en fin de nuit.
+📉 Tendance pour la nuit du 21  au 22, et la journée du jeudi 22 octobre :
+• VENT : Ouest à Nord-Ouest 3 à 5, revenant Ouest à Sud-Ouest en seconde partie de nuit, puis secteur Sud en journée.
+• MER : forte à très forte, s'atténuant forte en seconde partie de nuit.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce mardi avec maintien de la sécheresse de surface.
@@ -243,24 +246,25 @@ Ce mardi après-midi, le ciel de la région se partage entre nuages et quelques 
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (mardi 20 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
-⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
+⚠️ AVIS DE SÉCURITÉ EN MER (BMS OFFICIEL) :
+• Avis de grand frais
+• VENT : Sud à Sud-Ouest 7. Rafales.
 
-🌐 Situation générale : Dépression 1010 hPa au sud de l'Espagne, remontant sur la France en journée, prévue 1007 hPa en Manche demain matin.
-Nouvelle dépression 995 hPa au sud de l’Irlande demain après-midi, avec perturbation orageuses associés, abordant la Bretagne demain soir.
+🌐 Situation générale : Dépression 1008 hPa en Manche, prévue 1003 sur le sud de l'Angleterre ce soir. Thalweg abordant la pointe Bretagne ce soir, puis dépression 995 hPa circulant en Manche en seconde partie de nuit et le matin, prévue sur le sud de la mer du Nord demain soir.
 
-📅 Prévisions pour la journée du mardi 20 octobre :
-🌬️ VENT : Est à Sud-Est 5 à 6, virant Sud 4 à 5 en début d'après-midi, puis fraîchissant Sud à Sud-Ouest 5 à 6 à la fin. Rafales.
-🌊 MER : peu agitée à agitée, devenant agitée en Manche en fin de journée.
-🌊 HOULE : Nord-Est 0.5 à 1 m en Mer du Nord.
-⛅ TEMPS : passagèrement pluvieux.
+📅 Prévisions pour la journée du mercredi 21 octobre :
+🌬️ VENT : Sud à Sud-Ouest 6 à 7, fraîchissant Ouest à Sud-Ouest 7 à 8 l'après-midi. Fortes rafales.
+🌊 MER : agitée à forte, devenant forte à très forte l'après-midi.
+🌊 HOULE : Sud-Ouest 0.5 à 1 m.
+⛅ TEMPS : pluie et averses, parfois orageuses l'après-midi.
 👁️ VISIBILITE : moyenne à mauvaise sous précipitations.
 
-📉 Tendance pour la nuit du 20  au 21, et la journée du mercredi 21 octobre :
-• VENT : Sud-Ouest 5 à 6, revenant Sud en début de journée, puis fraîchissant Ouest à Sud-Ouest 7 parfois 8 l'après-midi. Fortes rafales.
-• MER : agitée, localement peu agitée à agitée en Mer du Nord, devenant forte à très forte l'après-midi.
+📉 Tendance pour la nuit du 21  au 22, et la journée du jeudi 22 octobre :
+• VENT : Ouest 7 à 8, mollissant 6 à 7 en fin de soirée, puis mollissant rapidement Sud-Ouest 3 à 5 en seconde partie de nuit, localement 5 à 6 en Manche, avec menace de 7 la nuit. Rafales.
+• MER : agitée à forte, localement très forte en Manche au début, s'atténuant peu agitée à agitée en mer du Nord en fin de nuit.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce mardi avec maintien de la sécheresse de surface.
@@ -317,24 +321,25 @@ Ce mardi après-midi, le ciel de la région présente un contraste marqué. Alor
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (mardi 20 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
-⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
+⚠️ AVIS DE SÉCURITÉ EN MER (BMS OFFICIEL) :
+• Avis de grand frais
+• VENT : Sud à Sud-Ouest 7. Rafales.
 
-🌐 Situation générale : Dépression 1010 hPa au sud de l'Espagne, remontant sur la France en journée, prévue 1007 hPa en Manche demain matin.
-Nouvelle dépression 995 hPa au sud de l’Irlande demain après-midi, avec perturbation orageuses associés, abordant la Bretagne demain soir.
+🌐 Situation générale : Dépression 1008 hPa en Manche, prévue 1003 sur le sud de l'Angleterre ce soir. Thalweg abordant la pointe Bretagne ce soir, puis dépression 995 hPa circulant en Manche en seconde partie de nuit et le matin, prévue sur le sud de la mer du Nord demain soir.
 
-📅 Prévisions pour la journée du mardi 20 octobre :
-🌬️ VENT : Est à Sud-Est 5 à 6, virant Sud 4 à 5 en début d'après-midi, puis fraîchissant Sud à Sud-Ouest 5 à 6 à la fin. Rafales.
-🌊 MER : peu agitée à agitée, devenant agitée en Manche en fin de journée.
-🌊 HOULE : Nord-Est 0.5 à 1 m en Mer du Nord.
-⛅ TEMPS : passagèrement pluvieux.
+📅 Prévisions pour la journée du mercredi 21 octobre :
+🌬️ VENT : Sud à Sud-Ouest 6 à 7, fraîchissant Ouest à Sud-Ouest 7 à 8 l'après-midi. Fortes rafales.
+🌊 MER : agitée à forte, devenant forte à très forte l'après-midi.
+🌊 HOULE : Sud-Ouest 0.5 à 1 m.
+⛅ TEMPS : pluie et averses, parfois orageuses l'après-midi.
 👁️ VISIBILITE : moyenne à mauvaise sous précipitations.
 
-📉 Tendance pour la nuit du 20  au 21, et la journée du mercredi 21 octobre :
-• VENT : Sud-Ouest 5 à 6, revenant Sud en début de journée, puis fraîchissant Ouest à Sud-Ouest 7 parfois 8 l'après-midi. Fortes rafales.
-• MER : agitée, localement peu agitée à agitée en Mer du Nord, devenant forte à très forte l'après-midi.
+📉 Tendance pour la nuit du 21  au 22, et la journée du jeudi 22 octobre :
+• VENT : Ouest 7 à 8, mollissant 6 à 7 en fin de soirée, puis mollissant rapidement Sud-Ouest 3 à 5 en seconde partie de nuit, localement 5 à 6 en Manche, avec menace de 7 la nuit. Rafales.
+• MER : agitée à forte, localement très forte en Manche au début, s'atténuant peu agitée à agitée en mer du Nord en fin de nuit.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce mardi avec maintien de la sécheresse de surface.
@@ -391,25 +396,28 @@ Ce mardi après-midi, la Normandie reste sous l'influence d'un ciel majoritairem
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "BAIE DE SOMME - LA HAGUE" MIDI (mardi 20 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "BAIE DE SOMME - LA HAGUE" MIDI
 📍 Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du lundi 19 octobre 2026 à 12H30 légales.
+Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du mardi 20 octobre 2026 à 12H30 légales.
 
-⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
+⚠️ AVIS DE SÉCURITÉ EN MER (BMS OFFICIEL) :
+• Avis de grand frais à coup de vent.
+• VENT : Ouest à Sud-Ouest 7 à l'est de Barfleur. Rafales.
+• Reprise du mercredi 21 octobre à 01H00 UTC au mercredi 21 octobre à 12H00 UTC au moins
+• VENT : Sud 7 à l'ouest d'Antifer, fraîchissant secteur Sud-Ouest 7 à 8 par l'ouest en fin de nuit, puis virant secteur Ouest le matin. Fortes rafales.
 
-🌐 Situation générale : Dépression 1010 hPa au sud de l'Espagne, remontant sur la France en journée, prévue 1007 hPa en Manche demain matin.
-Nouvelle dépression 995 hPa au sud de l’Irlande demain après-midi, avec perturbation orageuses associés, abordant la Bretagne demain soir.
+🌐 Situation générale : Dépression 1008 hPa en Manche, prévue 1003 sur le sud de l'Angleterre ce soir. Thalweg abordant la pointe Bretagne ce soir, puis dépression 995 hPa circulant en Manche en seconde partie de nuit et le matin, prévue sur le sud de la mer du Nord demain soir.
 
-📅 Prévisions pour la journée du mardi 20 octobre :
-🌬️ VENT : Variable dépressionnaire 4 à 6, devenant secteur Ouest 5 à 6 en fin de matinée, puis revenant Ouest à Sud-Ouest l'après-midi, en mollissant localement 4 à 5 à l'ouest de Fécamp. Fortes rafales.
-🌊 MER : peu agitée, devenant peu agitée à agitée en fin de matinée.
-🌊 HOULE : Nord-Est 0.5 m, s'amortissant en fin de journée.
-⛅ TEMPS : pluvieux, puis éclaircies par l'ouest l'après-midi.
-👁️ VISIBILITE : moyenne à mauvaise sous pluie.
+📅 Prévisions pour la journée du mercredi 21 octobre :
+🌬️ VENT : virant secteur Ouest 7 à 8 par l'ouest, puis Ouest à Nord-Ouest l'après-midi. Fortes rafales.
+🌊 MER : devenant forte à très forte.
+🌊 HOULE : non significative.
+⛅ TEMPS : pluie ou averses orageuses.
+👁️ VISIBILITE : mauvaise sous précipitations.
 
-📉 Tendance pour la nuit du 20  au 21, et la journée du mercredi 21 octobre :
-• VENT : Sud à Sud-Ouest 5 à 6, fraîchissant Ouest 6 à 7 en matinée, puis 7 à 8 à la mi-journée. Fortes rafales.
-• MER : peu agitée à agitée, devenant forte à très forte par l'ouest en matinée.
+📉 Tendance pour la nuit du 21  au 22, et la journée du jeudi 22 octobre :
+• VENT : Ouest à Nord-Ouest 6 à 7, localement 8 à l'est d'Antifer au début, revenant Sud-Ouest en seconde partie de nuit, puis mollissant 5 à 6 par l'ouest le matin. Rafales.
+• MER : s'atténuant forte, localement agitée en Baie de Seine, s'atténuant peu agitée à agitée l'après-midi.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce mardi avec maintien de la sécheresse de surface.
