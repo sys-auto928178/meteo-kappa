@@ -87,6 +87,19 @@ def update_form_dates_locally(form, day_offset):
     form["summaryTitle"] = f"Prévisions pour la journée du {day1_str.upper()}"
     form["summaryTitle2"] = f"Prévisions pour la journée du {day2_str.upper()}"
     form["alertTitle"] = f"Vigilance pour ce {day1_str}"
+    form["precipitationTitle"] = f"CUMULS DE PRÉCIPITATIONS PRÉVUS POUR CE {day1_str.upper()}"
+    form["gustsTitle"] = f"RAFALES MAXIMALES PRÉVUES POUR CE {day1_str.upper()}"
+    form["observationsTitle"] = f"TEMPÉRATURES MAXIMALES PRÉVUES POUR CE {day1_str.upper()}"
+    form["minObservationsTitle"] = f"TEMPÉRATURES MINIMALES PRÉVUES POUR CE {day1_str.upper()}"
+    form["mountainTitle"] = f"🏔️ MÉTÉO DES MONTAGNES DU {day1_str.upper()}"
+    form["ephemeris"] = (
+        f"📅 ÉPHÉMÉRIDE DU {day1_str.upper()}\n"
+        f"☀️ SOLEIL : Lever 08:24 • Coucher 18:45 • Zénith 13:35\n"
+        f"⏱️ JOUR : Durée 10h21 (Perte de 3 min)\n"
+        f"🌙 LUNE : Gibbeuse croissante\n"
+        f"😇 SAINT DU JOUR : Élodie\n"
+        f"💬 DICTON : \"À la Sainte-Élodie, souvent l'automne sourit.\""
+    )
     form.setdefault("summaryLancement", f"Voici les conditions météorologiques détaillées pour votre journée de ce {wd1} :")
     form.setdefault("summaryLancement2", f"Pour votre journée de ce {wd2}, voici ce que réservent les prévisions :")
     form.setdefault("forecastLancement", "Voyons maintenant ce qui nous attend pour la suite de la semaine :")
@@ -234,14 +247,16 @@ def main():
         # Import AI helper
         sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
         try:
-            from ai_helper import generate_bulletin_texts
+            from ai_helper import generate_bulletin_texts, generate_local_fallback_texts
         except ImportError:
             print("Warning: Could not import ai_helper. Skipping AI texts.")
-            generate_bulletin_texts = lambda *args: None
+            generate_bulletin_texts = lambda *args, **kwargs: None
+            generate_local_fallback_texts = lambda *args, **kwargs: None
 
         for c in clients:
             name = c.get("name")
             region = region_mapping.get(name, "")
+            c["region"] = region
             region_prefix = f"{region}_" if region else ""
             
             # Map paths
@@ -270,17 +285,6 @@ def main():
                     form["alertSource"] = "Météo-France — vigilance.meteofrance.fr"
             except Exception as e:
                 print(f"Warning: Could not fetch vigilance: {e}")
-
-            # Inject live marine weather from Météo-France (BMR/BMS Token 0)
-            try:
-                from fetch_marine import get_marine_text_for_client
-                mf_marine = get_marine_text_for_client(name, args.day_offset)
-                if mf_marine:
-                    form["marine"] = mf_marine
-                    c.setdefault("display", {})["marine"] = True
-                    print(f" - Synchronized live marine bulletin for '{name}' (display.marine=True)")
-            except Exception as e:
-                print(f"Warning: Could not fetch marine bulletin for '{name}': {e}")
 
             # Synchronisation automatique de la carte de vigilance (alertImageUrl)
             try:
@@ -317,9 +321,17 @@ def main():
                     if "recordsRaw" in ai_texts and ai_texts["recordsRaw"]:
                         form["recordsRaw"] = ai_texts["recordsRaw"]
                         form["surveillanceItems"] = [{"id": "auto_records", "type": "text", "content": ai_texts["recordsRaw"]}]
-
-                    if form.get("marine"):
-                        c.setdefault("display", {})["marine"] = True
+            else:
+                # Mode --skip-ai : injection immédiate du fallback local déterministe pour garantir des dates et prévisions à jour
+                local_fallback = generate_local_fallback_texts(name, c.get("cities", []), args.day_offset)
+                if local_fallback:
+                    print(f" - Injected deterministic fallback texts for '{name}' (--skip-ai)")
+                    for key, val in local_fallback.items():
+                        form[key] = val
+                    if "summaryLancement" in local_fallback and local_fallback["summaryLancement"]:
+                        form["todaySummary"] = ""
+                    if "recordsRaw" in local_fallback and local_fallback["recordsRaw"]:
+                        form["surveillanceItems"] = [{"id": "auto_records", "type": "text", "content": local_fallback["recordsRaw"]}]
             
             # Store public raw GitHub URL instead of heavy Base64 to keep JSON size under 100KB
             base_url = "https://raw.githubusercontent.com/gregorylanglet59264-byte/meteo-kappa/main/cartes_alertes"
