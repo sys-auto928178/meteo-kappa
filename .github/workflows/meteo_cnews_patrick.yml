@@ -27,9 +27,11 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Installer FFmpeg et Polices Emoji (requis pour la compilation vidéo)
+        # Garde-fou : un runner GitHub figé bloquait 6 h sans cette limite
+        timeout-minutes: 10
         run: |
-          sudo apt-get update
-          sudo apt-get install -y ffmpeg fonts-noto-color-emoji
+          sudo apt-get update -o Acquire::Retries=5 -o Acquire::http::Timeout=30
+          sudo apt-get install -y --no-install-recommends -o Acquire::Retries=5 -o Acquire::http::Timeout=30 ffmpeg fonts-noto-color-emoji
 
       - name: Configurer Python
         uses: actions/setup-python@v5
@@ -78,9 +80,10 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Installer FFmpeg (requis pour ffprobe)
+        timeout-minutes: 10
         run: |
-          sudo apt-get update
-          sudo apt-get install -y ffmpeg
+          sudo apt-get update -o Acquire::Retries=5 -o Acquire::http::Timeout=30
+          sudo apt-get install -y --no-install-recommends -o Acquire::Retries=5 -o Acquire::http::Timeout=30 ffmpeg
 
       - name: Configurer Python
         uses: actions/setup-python@v5
