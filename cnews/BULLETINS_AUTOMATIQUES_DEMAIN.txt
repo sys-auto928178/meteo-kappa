@@ -13,10 +13,10 @@ FICHIER SOURCE : /home/runner/work/meteo-kappa/meteo-kappa/cnews/BULLETINS_AUTOM
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce vendredi matin, le réveil se fait dans une ambiance déjà lourde au lever du jour, avec des cumulus bourgeonnant rapidement. Les températures au lever du jour s'échelonnent avec 10°C à Poitiers, 6°C à Clermont-Ferrand, 10°C à Caen, 10°C à Limoges, 7°C à Toulouse. Le vent souffle discrètement, maintenant un ressenti très doux sur l'ensemble du secteur. L'atmosphère devient rapidement instable avec des nuages menaçants et des averses orageuses.
+Ce vendredi matin, la France se réveille sous des conditions météorologiques contrastées. Une grande partie du pays est concernée par des averses, notamment sur le Nord, l'Est et le Centre. Des pluies sont observées de Lille (9°C) à Strasbourg (9°C), en passant par Paris (10°C) et Lyon (7°C). Le vent souffle fort, avec des rafales atteignant 90 km/h à Lille et Rouen, voire 115 km/h sur Brest et La Rochelle, où des orages se déclenchent. Le Sud-Ouest est également touché par des orages, notamment à Bordeaux (11°C) et Biarritz (14°C), avec des rafales de 85 km/h. Seul le pourtour méditerranéen bénéficie d'un soleil dominant, de Perpignan (13°C) à Marseille (12°C), avec des températures plus douces.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-L'après-midi, le temps est marqué par un ciel chaotique devenant menaçant avec le déclenchement d'averses orageuses localement fortes. Le thermomètre affiche des maximales atteignant 13°C à Lille, 16°C à Biarritz, 21°C à Perpignan, 20°C à Marseille, 15°C à La Rochelle. Les zones littorales profitent d'une brise marine rafraîchissante qui modère les ardeurs du mercure. En soirée, l'atmosphère conserve une grande douceur idéale pour les sorties et activités de plein air.
+Ce vendredi après-midi, la France reste sous l'influence d'un temps perturbé. Le nord et l'ouest du pays connaissent des averses parfois soutenues, notamment de la Bretagne aux Hauts-de-France, avec des rafales de vent atteignant 90 km/h à Lille et Rouen, et jusqu'à 115 km/h sur le littoral breton et atlantique, à Brest et La Rochelle, où des orages accompagnés de grêle sont à craindre. Les températures maximales y plafonnent à 13°C à Lille et 15°C à Nantes. Un passage pluvieux s'invite également sur le Centre et l'Est, avec des averses et des rafales jusqu'à 85 km/h à Clermont-Ferrand. Le Sud-Est et la Corse bénéficient d'un temps plus clément, avec un soleil dominant et des maximales agréables, atteignant 21°C à Marseille et 23°C à Nice et Bastia.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce vendredi avec maintien de la sécheresse de surface.
@@ -40,11 +40,11 @@ L'après-midi, le temps est marqué par un ciel chaotique devenant menaçant ave
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
 📉 Tendance – 3 jours suivants (dimanche 25 octobre au mardi 27 octobre)
 
-▶ dimanche 25 octobre : Ciel changeant avec des passages d'averses régulières. Au lever du jour, les températures minimales s'échelonnent de 7°C à 14°C. L'après-midi, le mercure affiche de 14°C sur le littoral à 23°C dans les terres sous abri. Attention aux rafales de vent atteignant 85 km/h.
+▶ dimanche 25 octobre : La journée reste très perturbée avec des pluies abondantes sur le nord, l’est et le centre, notamment 32 mm attendus à Metz. Le vent souffle fort, avec des rafales de 70 à 85 km/h de Brest à Clermont-Ferrand. Les températures sont fraîches, de 11°C à 18°C du nord au sud, et le littoral méditerranéen conserve un temps plus sec.
 
-▶ lundi 26 octobre : Ciel changeant avec des passages d'averses régulières. Au lever du jour, les températures minimales s'échelonnent de 4°C à 15°C. L'après-midi, le mercure affiche de 15°C sur le littoral à 24°C dans les terres sous abri. Attention aux rafales de vent atteignant 70 km/h.
+▶ lundi 26 octobre : Une nette amélioration se dessine. Les précipitations deviennent faibles et éparses, le vent mollit progressivement. Le soleil revient sur la moitié sud et la Corse, tandis que l’ouest reste sous un ciel variable avec des rafales jusqu’à 70 km/h en Bretagne. Les maximales grimpent, atteignant 18°C à Paris et 24°C à Biarritz.
 
-▶ mardi 27 octobre : Ciel changeant avec des passages d'averses régulières. Au lever du jour, les températures minimales s'échelonnent de 8°C à 15°C. L'après-midi, le mercure affiche de 16°C sur le littoral à 24°C dans les terres sous abri. Attention aux rafales de vent atteignant 70 km/h.
+▶ mardi 27 octobre : Le temps devient plus calme et agréable sur l’ensemble du pays. Les pluies sont quasi absentes, le soleil domine largement, même si quelques nuages persistent sur la pointe bretonne avec des rafales de 70 km/h. Les températures sont douces, de 17°C dans le nord à 23°C sur la Côte d’Azur.
 
 
 --------------------------------------------------------------------------------
@@ -56,10 +56,12 @@ L'après-midi, le temps est marqué par un ciel chaotique devenant menaçant ave
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce vendredi matin, le réveil se fait dans une ambiance grise et humide, caractérisée par des bancs de stratus bas et des passages de pluies. Les températures au lever du jour s'échelonnent avec 9°C à Saint-Pol-sur-Ternoise, 10°C à Lens, 8°C à Avesnes-sur-Helpe, 8°C à Béthune, 9°C à Lille. Le vent souffle discrètement, maintenant un ressenti très doux sur l'ensemble du secteur. Des passages nuageux denses et des averses régulières arrosent le secteur au fil de la matinée.
+Ce vendredi matin, le Nord et le Pas-de-Calais connaissent une matinée très perturbée. Le littoral est particulièrement exposé, avec des averses et de fortes pluies qui s'abattent sur Boulogne-sur-Mer (10°C) et Le Touquet (11°C), où les rafales de vent atteignent des niveaux critiques, jusqu'à 140 km/h. À Calais (10°C), des averses sont également signalées avec des rafales de 105 km/h.
+
+Dans l'intérieur des terres, la situation est similaire. Des averses touchent Lille (9°C), Valenciennes (9°C) et Cambrai (8°C), tandis que Douai (8°C) et Maubeuge (7°C) subissent de fortes pluies. Les rafales de vent sont également très importantes, dépassant les 90 km/h sur l'ensemble du territoire, notamment à Arras (10°C) et Lens (10°C). La prudence est de mise face à ces conditions météorologiques dégradées.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-L'après-midi, le temps est marqué par un ciel dominé par des passages nuageux denses accompagnés d'averses éparses. Le thermomètre affiche des maximales atteignant 14°C à Le Touquet, 13°C à Dunkerque, 14°C à Saint-Omer, 13°C à Bailleul, 13°C à Saint-Pol-sur-Ternoise. Les zones littorales profitent d'une brise marine rafraîchissante qui modère les ardeurs du mercure. En soirée, l'atmosphère conserve une grande douceur idéale pour les sorties et activités de plein air.
+Ce vendredi après-midi, le Nord et le Pas-de-Calais connaissent un temps très agité. Des averses parfois soutenues sont attendues sur l'ensemble des départements, accompagnées d'un vent d'ouest particulièrement fort. Les rafales atteignent des niveaux de vigilance, notamment sur le littoral où elles pourront dépasser les 100 km/h, avec 140 km/h au Touquet et Berck, et 115 km/h à Boulogne-sur-Mer. À l'intérieur des terres, des rafales de 90 à 95 km/h sont prévues à Lille, Valenciennes, Arras et Douai. Les températures maximales restent douces pour la saison, oscillant entre 11°C à Maubeuge et 14°C à Calais et Le Touquet.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
 🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (vendredi 23 octobre 2026)
@@ -104,11 +106,11 @@ L'après-midi, le temps est marqué par un ciel dominé par des passages nuageux
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
 📉 Tendance – 3 jours suivants (dimanche 25 octobre au mardi 27 octobre)
 
-▶ dimanche 25 octobre : Ciel changeant avec des passages d'averses régulières. Au lever du jour, les températures minimales s'échelonnent de 9°C à 13°C. L'après-midi, le mercure affiche de 13°C sur le littoral à 17°C dans les terres sous abri. Attention aux rafales de vent atteignant 100 km/h.
+▶ dimanche 25 octobre : Le vent reste fort sur le littoral avec des rafales jusqu'à 100 km/h de Calais à Berck. Les précipitations sont plus faibles sur la côte mais restent soutenues dans les terres, avec jusqu'à 13 mm à Saint-Omer. Les températures maximales atteignent 15°C à Dunkerque et Arras, pour des minimales de 9 à 13°C.
 
-▶ lundi 26 octobre : Ciel changeant avec des passages d'averses régulières. Au lever du jour, les températures minimales s'échelonnent de 7°C à 11°C. L'après-midi, le mercure grimpe jusqu'à 16°C sous abri. Attention aux rafales de vent atteignant 65 km/h.
+▶ lundi 26 octobre : Net repli du vent avec des rafales ne dépassant pas 65 km/h sur le littoral. Le ciel reste variable avec quelques averses, surtout dans l'intérieur. Les températures sont douces, de 14°C à Maubeuge à 17°C à Calais et Le Touquet.
 
-▶ mardi 27 octobre : Ciel changeant avec des passages d'averses régulières. Au lever du jour, les températures minimales oscillent autour de 12°C. L'après-midi, le mercure grimpe jusqu'à 17°C sous abri. Attention aux rafales de vent atteignant 70 km/h.
+▶ mardi 27 octobre : Temps calme et doux pour ce mardi. Les précipitations deviennent très faibles, sauf sur le littoral où quelques averses persistent. Les maximales grimpent jusqu'à 18°C à Douai et Béthune, pour des minimales de 11 à 13°C.
 
 
 --------------------------------------------------------------------------------
@@ -120,10 +122,16 @@ L'après-midi, le temps est marqué par un ciel dominé par des passages nuageux
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce vendredi matin, le réveil se fait dans une ambiance déjà lourde au lever du jour, avec des cumulus bourgeonnant rapidement. Les températures au lever du jour s'échelonnent avec 11°C à Ruffec, 13°C à Royan, 13°C à Angoulême, 12°C à Marennes, 11°C à Barbezieux-Saint-Hilaire. Le vent souffle discrètement, maintenant un ressenti très doux sur l'ensemble du secteur. L'atmosphère devient rapidement instable avec des nuages menaçants et des averses orageuses.
+Ce vendredi matin, la Charente-Maritime et la Charente se réveillent sous un ciel fortement perturbé. Des orages accompagnés de pluies s'invitent sur l'ensemble des deux départements. Les cumuls de précipitations sont notables, particulièrement sur le littoral, avec 14.3 mm à Royan et 13.6 mm à Rochefort.
+
+Les températures minimales affichent 12°C à La Rochelle et Rochefort, 13°C à Royan et sur les îles de Ré et d'Oléron. Dans les terres charentaises, Angoulême enregistre 13°C, tandis que Cognac et Saintes affichent 11°C.
+
+Un vent fort souffle sur le littoral, avec des rafales atteignant 115 km/h à La Rochelle et sur l'Île de Ré, et 110 km/h à Royan et sur l'Île d'Oléron. Une vigilance vent fort est donc de mise. Dans l'intérieur des terres, les rafales sont plus modérées, autour de 60 km/h à Saintes et Cognac, et 70 km/h à Surgères.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-L'après-midi, le temps est marqué par un ciel chaotique devenant menaçant avec le déclenchement d'averses orageuses localement fortes. Le thermomètre affiche des maximales atteignant 17°C à Royan, 16°C à Jarnac, 15°C à Saintes, 17°C à Angoulême, 15°C à Barbezieux-Saint-Hilaire. Les zones littorales profitent d'une brise marine rafraîchissante qui modère les ardeurs du mercure. En soirée, l'atmosphère conserve une grande douceur idéale pour les sorties et activités de plein air.
+Ce vendredi après-midi, la Charente-Maritime et la Charente subissent un temps instable et très venteux. Sur le littoral charentais, de fortes pluies sont attendues, notamment à Rochefort avec 13.6 mm et Royan avec 14.3 mm, sous des rafales de vent pouvant atteindre 115 km/h à La Rochelle et l'Île de Ré, et 110 km/h à Royan et l'Île d'Oléron. Une vigilance vent fort est donc de mise. Les températures maximales y atteignent 15°C à La Rochelle et 17°C à Royan.
+
+Dans les terres charentaises, le ciel reste couvert avec des pluies faibles, comme à Saintes (0.7 mm) et Cognac (0.0 mm), où les rafales de vent sont plus modérées, autour de 60 km/h. Les maximales s'élèvent à 15°C à Saintes et 17°C à Angoulême, qui connaîtra des averses.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
 🏖️ MÉTÉO DES PLAGES – LITTORAL CHARENTAIS (vendredi 23 octobre 2026)
@@ -184,10 +192,10 @@ L'après-midi, le temps est marqué par un ciel chaotique devenant menaçant ave
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce vendredi matin, le réveil se fait dans une ambiance grise et humide, caractérisée par des bancs de stratus bas et des passages de pluies. Les températures au lever du jour s'échelonnent avec 9°C à Leffrinckoucke, 9°C à Remilly-Wirquin, 11°C à Groffliers, 10°C à Marck, 16°C à Boulogne Sur Mer. Le vent souffle discrètement, maintenant un ressenti très doux sur l'ensemble du secteur. Des passages nuageux denses et des averses régulières arrosent le secteur au fil de la matinée.
+Ce vendredi matin, la Côte d'Opale et la Flandre maritime connaissent un temps particulièrement agité. Des averses se déclenchent sur l'ensemble du littoral, notamment à Leffrinckoucke (9°C), Boulogne-sur-Mer (16°C) et Le Touquet-Paris-Plage (11°C). Des pluies plus soutenues s'invitent également, notamment à Gravelines (10°C) et Racquinghem (8°C). Le vent souffle fort, avec des rafales atteignant 90 à 140 km/h sur le littoral, notamment à Le Touquet. Les températures sont douces pour la saison, mais le contraste reste marqué entre le littoral et l'intérieur des terres.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-L'après-midi, le temps est marqué par un ciel dominé par des passages nuageux denses accompagnés d'averses éparses. Le thermomètre affiche des maximales atteignant 13°C à Racquinghem, 12°C à Cauchy-à-la-Tour, 14°C à Lefaux, 14°C à Offekerque, 13°C à Leffrinckoucke. Les zones littorales profitent d'une brise marine rafraîchissante qui modère les ardeurs du mercure. En soirée, l'atmosphère conserve une grande douceur idéale pour les sorties et activités de plein air.
+Ce vendredi après-midi, la Côte d'Opale et la Flandre maritime connaissent un temps très perturbé. Des averses parfois soutenues sont attendues sur l'ensemble du littoral, notamment à Leffrinckoucke (13°C), Marck (14°C) et Le Touquet-Paris-Plage (14°C). Des passages de fortes pluies sont également à prévoir, notamment du côté de Boulogne-sur-Mer où la maximale atteint 23°C. Le vent d'ouest souffle fortement, avec des rafales dépassant les 70 km/h sur tout le secteur, atteignant même 140 km/h au Touquet et 130 km/h à Groffliers. Une vigilance vent fort est donc de mise.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
 🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (vendredi 23 octobre 2026)
@@ -248,10 +256,10 @@ L'après-midi, le temps est marqué par un ciel dominé par des passages nuageux
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce vendredi matin, le réveil se fait dans une ambiance grise et humide, caractérisée par des bancs de stratus bas et des passages de pluies. Les températures au lever du jour s'échelonnent avec 10°C à Boulogne, 9°C à Fiefs, 10°C à Cap Gris-Nez, 9°C à Humières, 9°C à Radinghem. Le vent souffle discrètement, maintenant un ressenti très doux sur l'ensemble du secteur. Des passages nuageux denses et des averses régulières arrosent le secteur au fil de la matinée.
+Ce vendredi matin, la Métropole Européenne de Lille, les Flandres et le Bassin Minier se réveillent sous un ciel majoritairement couvert et pluvieux. Des averses sont observées sur la majeure partie du territoire, notamment à Lille et Roubaix où la température atteint 9°C, ainsi qu'à Dunkerque avec 9°C. Des pluies faibles à modérées affectent le centre et le sud-est de la région, comme à Douai (8°C) et Maubeuge (7°C). Le vent souffle fort sur l'ensemble de la zone, avec des rafales atteignant 90 à 100 km/h dans l'intérieur des terres, et jusqu'à 140 km/h sur le littoral, notamment au Touquet et au Cap Gris-Nez, où la vigilance est de mise. Les températures minimales s'échelonnent de 7°C à Maubeuge à 11°C sur le littoral.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-L'après-midi, le temps est marqué par un ciel dominé par des passages nuageux denses accompagnés d'averses éparses. Le thermomètre affiche des maximales atteignant 12°C à St-Hilaire-sur-Helpe, 11°C à Troisvilles, 12°C à Radinghem, 14°C à Cap Gris-Nez, 13°C à Cambrai / Epinoy. Les zones littorales profitent d'une brise marine rafraîchissante qui modère les ardeurs du mercure. En soirée, l'atmosphère conserve une grande douceur idéale pour les sorties et activités de plein air.
+Ce vendredi après-midi, la Métropole Européenne de Lille, les Flandres et le Bassin Minier subissent un temps fortement perturbé. Des averses, parfois soutenues, sont généralisées sur l'ensemble du territoire, avec des passages de pluies faibles à fortes. Un risque d'orages est même signalé sur Humières. Les températures maximales atteignent 13°C à Lille et Valenciennes, 14°C à Steenvoorde et Boulogne. Le vent d'ouest-sud-ouest souffle fort, avec des rafales pouvant atteindre 90 à 100 km/h dans l'intérieur des terres, et jusqu'à 140 km/h sur le littoral, notamment au Touquet et au Cap Gris-Nez, justifiant une vigilance vent fort.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
 🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (vendredi 23 octobre 2026)
@@ -296,11 +304,11 @@ L'après-midi, le temps est marqué par un ciel dominé par des passages nuageux
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
 📉 Tendance – 3 jours suivants (dimanche 25 octobre au mardi 27 octobre)
 
-▶ dimanche 25 octobre : Temps instable avec des passages d'averses orageuses localement fortes. Au lever du jour, les températures minimales s'échelonnent de 9°C à 13°C. L'après-midi, le mercure affiche de 13°C sur le littoral à 17°C dans les terres sous abri. Attention aux rafales de vent atteignant 100 km/h.
+▶ dimanche 25 octobre : Le temps reste très perturbé avec des pluies modérées à fortes sur l’ensemble de la zone, notamment dans le Bassin Minier et les Flandres. Le vent d’ouest souffle encore fort, avec des rafales de 70 à 100 km/h sur le littoral et 70 à 80 km/h dans les terres. Les températures maximales plafonnent entre 13°C (Saint-Hilaire-sur-Helpe) et 15°C (Valenciennes, Dunkerque).
 
-▶ lundi 26 octobre : Ciel très nuageux à couvert avec des pluies éparses. Au lever du jour, les températures minimales s'échelonnent de 7°C à 11°C. L'après-midi, le mercure grimpe jusqu'à 16°C sous abri. Attention aux rafales de vent atteignant 65 km/h.
+▶ lundi 26 octobre : Une nette amélioration s’amorce avec un ciel variable alternant nuages et éclaircies, mais des averses résiduelles persistent, surtout sur le nord de la région. Le vent faiblit nettement : rafales de 40 à 50 km/h sur le littoral, 40 km/h ailleurs. Les températures remontent légèrement, de 7°C le matin (Saint-Hilaire) à 16-17°C l’après-midi (Lille, Dunkerque).
 
-▶ mardi 27 octobre : Ciel changeant avec des passages d'averses régulières. Au lever du jour, les températures minimales s'échelonnent de 10°C à 14°C. L'après-midi, le mercure grimpe jusqu'à 17°C sous abri. Attention aux rafales de vent atteignant 70 km/h.
+▶ mardi 27 octobre : Le temps devient plus calme et plus doux, avec un ciel partagé entre nuages et passages ensoleillés. Quelques averses faibles sont encore possibles, notamment sur le littoral et le sud de la zone. Le vent reste modéré, rafales de 50 à 70 km/h sur la côte, 55 km/h dans les terres. Les maximales atteignent 17-18°C (Douai, Watten), les minimales 10-13°C.
 
 
 --------------------------------------------------------------------------------
@@ -312,10 +320,10 @@ L'après-midi, le temps est marqué par un ciel dominé par des passages nuageux
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce vendredi matin, le réveil se fait dans une ambiance grise et humide, caractérisée par des bancs de stratus bas et des passages de pluies. Les températures au lever du jour s'échelonnent avec 8°C à Alençon, 10°C à Le Havre, 9°C à Lisieux, 9°C à Rouen, 10°C à Caen. Le vent souffle discrètement, maintenant un ressenti très doux sur l'ensemble du secteur. Des passages nuageux denses et des averses régulières arrosent le secteur au fil de la matinée.
+Ce vendredi matin, la Normandie se réveille sous un ciel très nuageux et agité. Des averses se déclenchent sur l'ensemble de la région, accompagnées de rafales de vent significatives. Les températures minimales s'établissent à 9°C à Rouen et Alençon, 10°C à Caen et Cherbourg, et 8°C à Dieppe et Évreux. Le vent souffle fort, avec des rafales atteignant 130 km/h à Dieppe, 125 km/h au Havre, et 115 km/h à Cherbourg, nécessitant une vigilance particulière sur le littoral.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-L'après-midi, le temps est marqué par un ciel dominé par des passages nuageux denses accompagnés d'averses éparses. Le thermomètre affiche des maximales atteignant 12°C à Alençon, 12°C à Evreux, 12°C à Rouen, 14°C à Caen, 14°C à Le Havre. Les zones littorales profitent d'une brise marine rafraîchissante qui modère les ardeurs du mercure. En soirée, l'atmosphère conserve une grande douceur idéale pour les sorties et activités de plein air.
+Ce vendredi après-midi, la Normandie est placée sous le signe d'un temps instable et venteux. Des averses parfois soutenues sont attendues sur l'ensemble de la région, avec un ciel alternant entre nuages et quelques timides éclaircies. Le vent d'ouest-sud-ouest soufflera fortement, avec des rafales particulièrement intenses sur le littoral. Des pointes à 130 km/h sont prévues à Dieppe et 125 km/h au Havre, nécessitant une vigilance accrue. À l'intérieur des terres, les rafales atteindront 85 km/h à Rouen et Évreux. Les températures maximales afficheront 14°C à Caen et Alençon, 12°C à Rouen et Cherbourg.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
 🏖️ MÉTÉO DES PLAGES – CÔTE D’ALBÂTRE & MANCHE (vendredi 23 octobre 2026)
@@ -359,9 +367,9 @@ L'après-midi, le temps est marqué par un ciel dominé par des passages nuageux
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
 📉 Tendance – 3 jours suivants (dimanche 25 octobre au mardi 27 octobre)
 
-▶ dimanche 25 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales s'échelonnent de 10°C à 13°C. L'après-midi, le mercure grimpe jusqu'à 16°C sous abri. Attention aux rafales de vent atteignant 90 km/h.
+▶ dimanche 25 octobre : Ciel encore très nuageux avec des pluies abondantes sur l'ensemble de la région, notamment 11 mm attendus à Rouen. Le vent d'ouest reste fort, avec des rafales de 70 à 90 km/h sur le littoral, jusqu'à 85 km/h à Dieppe et 80 km/h au Havre. Les températures maximales atteignent 16°C à Rouen et Caen, mais seulement 14°C à Dieppe.
 
-▶ lundi 26 octobre : Ciel très nuageux à couvert avec des pluies éparses. Au lever du jour, les températures minimales s'échelonnent de 7°C à 10°C. L'après-midi, le mercure grimpe jusqu'à 17°C sous abri. Attention aux rafales de vent atteignant 60 km/h.
+▶ lundi 26 octobre : Amélioration sensible avec un temps plus calme malgré des averses faibles et éparses. Le vent faiblit nettement, rafales limitées à 40-60 km/h sur les côtes, 45 km/h à Évreux. Les températures deviennent plus douces : minimales de 7°C à Dieppe à 10°C au Havre, maximales de 16°C à Dieppe à 18°C à Caen et Alençon.
 
-▶ mardi 27 octobre : Ciel changeant avec des passages d'averses régulières. Au lever du jour, les températures minimales oscillent autour de 12°C. L'après-midi, le mercure grimpe jusqu'à 17°C sous abri. Attention aux rafales de vent atteignant 80 km/h.
+▶ mardi 27 octobre : Retour d'un temps instable avec des averses parfois marquées, surtout sur le Cotentin (5 mm à Cherbourg). Le vent se renforce à nouveau, rafales de 45 à 80 km/h, les plus fortes attendues à Cherbourg (80 km/h). Les températures restent douces, comprises entre 12°C et 18°C, avec un mercure homogène sur l'ensemble du territoire.
 
