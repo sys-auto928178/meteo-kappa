@@ -13,10 +13,10 @@ FICHIER SOURCE : /home/runner/work/meteo-kappa/meteo-kappa/cnews/BULLETINS_AUTOM
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce mardi matin, le réveil se fait dans une ambiance grise et humide, caractérisée par des bancs de stratus bas et des passages de pluies. Les températures au lever du jour s'échelonnent avec 12°C à Nantes, 12°C à La Rochelle, 11°C à Caen, 10°C à Metz, 11°C à Montpellier. Le vent souffle discrètement, maintenant un ressenti très doux sur l'ensemble du secteur. Des passages nuageux denses et des averses régulières arrosent le secteur au fil de la matinée.
+Ce mardi matin, la France se réveille sous un ciel partagé entre éclaircies et passages pluvieux. Des averses sont observées sur une large partie du territoire, notamment de la Bretagne aux Hauts-de-France, avec des pluies faibles à modérées. À Brest, des rafales de vent atteignent les 75 km/h, nécessitant une vigilance particulière. Les températures minimales affichent 12°C à Lille et Rennes, tandis que le Sud-Est bénéficie d'un soleil dominant et de températures plus douces, comme à Marseille avec 13°C ou Nice avec 14°C. Le contraste est marqué avec des valeurs plus fraîches dans le centre-est, à l'image de Dijon (4°C) et Besançon (5°C), où le soleil domine.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-L'après-midi, le temps est marqué par un ciel dominé par des passages nuageux denses accompagnés d'averses éparses. Le thermomètre affiche des maximales atteignant 17°C à Rennes, 20°C à Poitiers, 18°C à Strasbourg, 17°C à Nantes, 20°C à La Rochelle. Les zones littorales profitent d'une brise marine rafraîchissante qui modère les ardeurs du mercure. En soirée, l'atmosphère conserve une grande douceur idéale pour les sorties et activités de plein air.
+Ce mardi après-midi, la France sera coupée en deux. Le nord-ouest du pays connaîtra un temps perturbé avec des averses parfois soutenues. Des rafales de vent pourront atteindre 75 km/h sur le Finistère, notamment à Brest, où le ciel sera néanmoins ensoleillé. Plus à l'est, les averses toucheront Lille (17°C) et Rouen (17°C). Le Sud-Est bénéficiera d'un temps plus clément et ensoleillé, comme à Marseille (21°C) et Nice (21°C). Les températures maximales seront douces pour la saison, atteignant 24°C à Toulouse.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce mardi avec maintien de la sécheresse de surface.
@@ -56,10 +56,10 @@ L'après-midi, le temps est marqué par un ciel dominé par des passages nuageux
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce mardi matin, le réveil se fait dans une ambiance grise et humide, caractérisée par des bancs de stratus bas et des passages de pluies. Les températures au lever du jour s'échelonnent avec 13°C à Boulogne-sur-Mer, 11°C à Cambrai, 11°C à Maubeuge, 13°C à Berck, 9°C à Saint-Omer. Le vent souffle discrètement, maintenant un ressenti très doux sur l'ensemble du secteur. Des passages nuageux denses et des averses régulières arrosent le secteur au fil de la matinée.
+Ce mardi matin, le Nord et le Pas-de-Calais se réveillent sous un ciel généralement nuageux. Des passages pluvieux faibles sont attendus sur l'ensemble de la région. Les températures minimales affichent 13°C à Boulogne-sur-Mer et Calais, tandis que l'intérieur des terres, comme à Douai et Saint-Omer, enregistre 10°C. Le vent souffle modérément, avec des rafales atteignant 65 km/h sur le littoral de Boulogne-sur-Mer et 60 km/h à Calais et Berck, nécessitant une vigilance particulière. À l'intérieur, les rafales sont de l'ordre de 50 km/h à Lille, Arras et Valenciennes.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-L'après-midi, le temps est marqué par un ciel dominé par des passages nuageux denses accompagnés d'averses éparses. Le thermomètre affiche des maximales atteignant 16°C à Saint-Pol-sur-Ternoise, 15°C à Douai, 18°C à Avesnes-sur-Helpe, 16°C à Montreuil-sur-Mer, 18°C à Lens. Les zones littorales profitent d'une brise marine rafraîchissante qui modère les ardeurs du mercure. En soirée, l'atmosphère conserve une grande douceur idéale pour les sorties et activités de plein air.
+Ce mardi après-midi, le Nord et le Pas-de-Calais connaissent un temps instable. Des averses sont attendues sur une grande partie de la région, notamment à Lille (17°C), Valenciennes (19°C) et Arras (18°C), où le ciel sera partagé entre nuages et éclaircies. Le vent d'ouest-sud-ouest soufflera entre 20 et 30 km/h, avec des rafales pouvant atteindre 65 km/h sur la Côte d'Opale, notamment à Boulogne-sur-Mer et Calais, où le temps reste nuageux. À l'intérieur des terres, comme à Douai et Saint-Omer, le ciel sera couvert avec des passages pluvieux. Les températures maximales varieront de 15°C à Béthune à 19°C à Cambrai.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
 🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (mardi 27 octobre 2026)
@@ -104,11 +104,11 @@ L'après-midi, le temps est marqué par un ciel dominé par des passages nuageux
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
 📉 Tendance – 3 jours suivants (jeudi 29 octobre au samedi 31 octobre)
 
-▶ jeudi 29 octobre : Grisailles matinales et bancs de brouillard, suivis d'éclaircies. Au lever du jour, les températures minimales s'échelonnent de 4°C à 10°C. L'après-midi, le mercure grimpe jusqu'à 15°C sous abri. Le vent souffle de manière modérée.
+▶ jeudi 29 octobre : Une journée calme et lumineuse s’annonce, avec un soleil généreux sur la plupart des secteurs. Le littoral (Dunkerque, Calais) affiche 5°C en matinée et 16°C l’après-midi, tandis que l’intérieur des terres (Lille, Arras) reste plus frais avec des minimales de 4°C à 6°C. Quelques bancs de brouillard possibles au lever du jour sur Douai et Maubeuge. Vent faible, 10 km/h.
 
-▶ vendredi 30 octobre : Ciel partagé entre belles éclaircies et passages nuageux inoffensifs. Au lever du jour, les températures minimales s'échelonnent de 4°C à 8°C. L'après-midi, le mercure grimpe jusqu'à 14°C sous abri. Le vent souffle de manière modérée.
+▶ vendredi 30 octobre : Temps sec et agréable, malgré un ciel plus nuageux près de la Manche (Côte d'Opale) et en Flandre maritime. Les maximales atteignent 15°C à Valenciennes et 16°C à Cambrai, contre 13°C à Boulogne et 14°C à Dunkerque. Les minimales sont comprises entre 4°C et 8°C. Vent léger de 10 à 15 km/h. Averses absentes.
 
-▶ samedi 31 octobre : Grisailles matinales et bancs de brouillard, suivis d'éclaircies. Au lever du jour, les températures minimales s'échelonnent de 3°C à 7°C. L'après-midi, le mercure affiche de 10°C sur le littoral à 15°C dans les terres sous abri. Le vent souffle de manière modérée.
+▶ samedi 31 octobre : Dernière journée de la semaine sous un temps stable, mais avec des brumes matinales fréquentes dans les terres (Béthune, Saint-Omer, Douai). Le ciel reste partagé entre éclaircies et voiles nuageux sur le littoral. Les températures maximales plafonnent entre 13°C et 15°C, sans différence marquée entre la côte et l'intérieur. Vent très faible, 5 à 10 km/h.
 
 
 --------------------------------------------------------------------------------
@@ -120,10 +120,12 @@ L'après-midi, le temps est marqué par un ciel dominé par des passages nuageux
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce mardi matin, le réveil se fait dans une ambiance grise et humide, caractérisée par des bancs de stratus bas et des passages de pluies. Les températures au lever du jour s'échelonnent avec 13°C à Saint-Martin-de-Ré, 11°C à Angoulême, 8°C à Jarnac, 11°C à Barbezieux-Saint-Hilaire, 9°C à Saintes. Le vent souffle discrètement, maintenant un ressenti très doux sur l'ensemble du secteur. Des passages nuageux denses et des averses régulières arrosent le secteur au fil de la matinée.
+Ce mardi matin, la Charente-Maritime et la Charente connaissent une matinée partagée entre nuages et éclaircies. Sur le littoral, des passages très nuageux s'observent à Rochefort, Saint-Pierre-d'Oléron et Saint-Martin-de-Ré, où de faibles pluies sont signalées. Les températures minimales y sont douces, avec 12°C à La Rochelle et 13°C à Royan. Le vent souffle modérément, atteignant 35 km/h sur l'Île de Ré, avec des rafales jusqu'à 50 km/h.
+
+Dans les terres charentaises, le ciel est plus clément, avec un soleil voilé ou peu nuageux sur Angoulême (11°C) et Cognac (11°C). Des nuages plus denses sont présents à Saintes et Jonzac. Quelques averses faibles sont possibles sur Confolens et Ruffec. Les minimales varient de 8°C à Jarnac à 11°C à Angoulême, et le vent reste léger, autour de 15 à 20 km/h.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-L'après-midi, le temps est marqué par un ciel dominé par des passages nuageux denses accompagnés d'averses éparses. Le thermomètre affiche des maximales atteignant 19°C à Surgères, 19°C à Royan, 19°C à Rochefort, 20°C à Jonzac, 23°C à Angoulême. Les zones littorales profitent d'une brise marine rafraîchissante qui modère les ardeurs du mercure. En soirée, l'atmosphère conserve une grande douceur idéale pour les sorties et activités de plein air.
+Ce mardi après-midi, la Charente-Maritime et la Charente connaissent un temps partagé. Sur le littoral, des averses sont attendues, notamment à Rochefort et sur les îles de Ré et d'Oléron, où de faibles précipitations sont relevées. Le vent soufflera modérément, atteignant 35 km/h sur l'Île de Ré avec des rafales jusqu'à 50 km/h. Les températures maximales y seront douces, autour de 18°C à Saint-Martin-de-Ré et 19°C à Royan. Dans les terres charentaises, le ciel sera plus clément, avec un temps peu nuageux à Angoulême (23°C) et un ciel nuageux mais sec ailleurs, comme à Cognac (20°C) et Jonzac (20°C).
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
 🏖️ MÉTÉO DES PLAGES – LITTORAL CHARENTAIS (mardi 27 octobre 2026)
@@ -184,10 +186,10 @@ L'après-midi, le temps est marqué par un ciel dominé par des passages nuageux
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce mardi matin, le réveil se fait dans une ambiance grise et humide, caractérisée par des bancs de stratus bas et des passages de pluies. Les températures au lever du jour s'échelonnent avec 13°C à Le Touquet-Paris-Plage, 6°C à Racquinghem, 11°C à Remilly-Wirquin, 12°C à Leffrinckoucke, 13°C à Robecq. Le vent souffle discrètement, maintenant un ressenti très doux sur l'ensemble du secteur. Des passages nuageux denses et des averses régulières arrosent le secteur au fil de la matinée.
+Ce mardi matin, le littoral de la Côte d'Opale et la Flandre maritime se réveillent sous un ciel majoritairement nuageux à couvert. Des averses sont attendues sur une grande partie du territoire, notamment à Marck, Le Touquet-Paris-Plage et Robecq où des pluies faibles à modérées se déclenchent. Les températures minimales s'établissent à 11°C à Offekerque et Boulogne-sur-Mer, et 13°C à Le Touquet-Paris-Plage. Le vent souffle modérément, atteignant 35 km/h avec des rafales jusqu'à 60 km/h à Remilly-Wirquin, sans toutefois dépasser le seuil de vigilance. L'intérieur des terres, comme à Racquinghem, connaît un ciel très nuageux avec des températures plus fraîches, autour de 6°C.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-L'après-midi, le temps est marqué par un ciel dominé par des passages nuageux denses accompagnés d'averses éparses. Le thermomètre affiche des maximales atteignant 16°C à Le Touquet-Paris-Plage, 18°C à Leffrinckoucke, 16°C à Lefaux, 16°C à Remilly-Wirquin, 15°C à Racquinghem. Les zones littorales profitent d'une brise marine rafraîchissante qui modère les ardeurs du mercure. En soirée, l'atmosphère conserve une grande douceur idéale pour les sorties et activités de plein air.
+Ce mardi après-midi, le littoral de la Côte d'Opale et la Flandre maritime connaissent un temps instable. Des averses sont attendues sur une grande partie du territoire, notamment à Marck, Lefaux et Le Touquet-Paris-Plage, où les maximales atteindront 16°C. Le vent d'ouest soufflera entre 25 et 35 km/h, avec des rafales pouvant atteindre 55 km/h localement, notamment à Gravelines et Offekerque. Les températures restent douces pour la saison, avec 19°C à Boulogne-sur-Mer et 18°C à Leffrinckoucke, sous un ciel peu nuageux. L'intérieur des terres, comme à Cauchy-à-la-Tour, verra des maximales plus fraîches à 14°C sous un ciel très nuageux.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
 🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (mardi 27 octobre 2026)
@@ -248,10 +250,10 @@ L'après-midi, le temps est marqué par un ciel dominé par des passages nuageux
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce mardi matin, le réveil se fait dans une ambiance grise et humide, caractérisée par des bancs de stratus bas et des passages de pluies. Les températures au lever du jour s'échelonnent avec 12°C à Lille, 11°C à Humières, 13°C à Steenvoorde, 11°C à Fiefs, 11°C à Maubeuge. Le vent souffle discrètement, maintenant un ressenti très doux sur l'ensemble du secteur. Des passages nuageux denses et des averses régulières arrosent le secteur au fil de la matinée.
+Ce mardi matin, la Métropole Européenne de Lille, les Flandres et le Bassin Minier se réveillent sous un ciel mitigé et des précipitations. Des averses se déclenchent sur une large partie du territoire, notamment à Lille et Roubaix avec 12°C, ainsi qu'à Valenciennes où le thermomètre affiche 12°C. Des pluies plus soutenues sont observées à Douai (10°C) et Maubeuge (11°C). Le vent, modéré, souffle entre 25 et 40 km/h sur l'ensemble de la zone, avec des rafales atteignant 70 km/h au Cap Gris-Nez, où le ciel est voilé. Les températures minimales varient de 8°C à Saulty à 13°C sur le littoral, à Boulogne et Calais.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-L'après-midi, le temps est marqué par un ciel dominé par des passages nuageux denses accompagnés d'averses éparses. Le thermomètre affiche des maximales atteignant 16°C à Le Touquet, 17°C à Roubaix, 15°C à Douai, 15°C à Bainghen, 16°C à Cap Gris-Nez. Les zones littorales profitent d'une brise marine rafraîchissante qui modère les ardeurs du mercure. En soirée, l'atmosphère conserve une grande douceur idéale pour les sorties et activités de plein air.
+Ce mardi après-midi, le ciel de la Métropole Européenne de Lille, des Flandres et du Bassin Minier sera partagé entre éclaircies et passages nuageux. Des averses sont attendues sur l'ensemble de la zone, notamment vers Steenvoorde, Humières et le littoral, avec des pluies plus marquées vers le Cap Gris-Nez. Les températures maximales atteindront 17°C à Lille, 19°C à Valenciennes et 16°C à Boulogne. Le vent soufflera de manière modérée, avec des rafales pouvant atteindre 70 km/h au Cap Gris-Nez, justifiant une vigilance particulière sur le littoral.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
 🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (mardi 27 octobre 2026)
@@ -296,11 +298,11 @@ L'après-midi, le temps est marqué par un ciel dominé par des passages nuageux
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
 📉 Tendance – 3 jours suivants (jeudi 29 octobre au samedi 31 octobre)
 
-▶ jeudi 29 octobre : Grisailles matinales et bancs de brouillard, suivis d'éclaircies. Au lever du jour, les températures minimales s'échelonnent de 4°C à 10°C. L'après-midi, le mercure grimpe jusqu'à 15°C sous abri. Le vent souffle de manière modérée.
+▶ jeudi 29 octobre : Le ciel sera dégagé sur la majeure partie de la région, avec quelques zones de brouillard matinal notamment dans le bassin minier. Les températures maximales atteindront 15 à 16°C sur les terres, et jusqu'à 16°C sur le littoral. Le vent sera faible, de 10 km/h. Une journée calme et agréable.
 
-▶ vendredi 30 octobre : Ciel partagé entre belles éclaircies et passages nuageux inoffensifs. Au lever du jour, les températures minimales s'échelonnent de 4°C à 9°C. L'après-midi, le mercure grimpe jusqu'à 14°C sous abri. Le vent souffle de manière modérée.
+▶ vendredi 30 octobre : Le temps reste sec avec un ciel alternant éclaircies et passages nuageux. Les minimales seront fraîches, de 4 à 9°C selon les secteurs, et les maximales comprises entre 13 et 16°C. Le vent est faible.
 
-▶ samedi 31 octobre : Grisailles matinales et bancs de brouillard, suivis d'éclaircies. Au lever du jour, les températures minimales s'échelonnent de 3°C à 7°C. L'après-midi, le mercure affiche de 10°C sur le littoral à 15°C dans les terres sous abri. Le vent souffle de manière modérée.
+▶ samedi 31 octobre : Le temps reste sec mais le brouillard matinal pourrait être présent dans l'intérieur des terres. L'après-midi, le soleil revient avec des températures maximales de 13 à 15°C, plus fraîches sur le littoral. Le vent est calme.
 
 
 --------------------------------------------------------------------------------
@@ -312,10 +314,10 @@ L'après-midi, le temps est marqué par un ciel dominé par des passages nuageux
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce mardi matin, le réveil se fait dans une ambiance grise et humide, caractérisée par des bancs de stratus bas et des passages de pluies. Les températures au lever du jour s'échelonnent avec 11°C à Caen, 10°C à Evreux, 12°C à Alençon, 10°C à Dieppe, 10°C à Lisieux. Le vent souffle discrètement, maintenant un ressenti très doux sur l'ensemble du secteur. Des passages nuageux denses et des averses régulières arrosent le secteur au fil de la matinée.
+Ce mardi matin, la Normandie se réveille sous un ciel majoritairement nuageux et humide. Des averses s'invitent sur une grande partie de la région, notamment à Rouen où 2.0 mm de pluie sont attendus, ainsi qu'à Caen et Lisieux. Le littoral n'est pas épargné, avec des averses au Havre et à Dieppe. La Manche connaît un temps particulièrement perturbé, avec de fortes pluies à Cherbourg et des rafales de vent pouvant atteindre 70 km/h, nécessitant une vigilance particulière. Les températures minimales s'établissent à 10°C à Évreux et Dieppe, 11°C à Rouen et Caen, et 13°C au Havre. Seul l'est de l'Eure, autour d'Évreux, bénéficie de quelques éclaircies.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-L'après-midi, le temps est marqué par un ciel dominé par des passages nuageux denses accompagnés d'averses éparses. Le thermomètre affiche des maximales atteignant 17°C à Caen, 15°C à Cherbourg, 17°C à Alençon, 17°C à Le Havre, 18°C à Evreux. Les zones littorales profitent d'une brise marine rafraîchissante qui modère les ardeurs du mercure. En soirée, l'atmosphère conserve une grande douceur idéale pour les sorties et activités de plein air.
+Ce mardi après-midi, la Normandie sera sous l'influence d'un temps mitigé. Des averses parfois soutenues sont attendues sur une grande partie de la région, notamment à Rouen, Caen, Le Havre, Cherbourg, Alençon, Dieppe et Lisieux. Seul le sud de l'Eure, autour d'Évreux, bénéficiera d'un ciel peu nuageux. Les températures maximales atteindront 18°C à Évreux, 17°C à Rouen et Caen, et 15°C à Cherbourg. Le vent d'ouest soufflera entre 20 et 35 km/h sur l'ensemble du territoire, avec des rafales pouvant atteindre 70 km/h sur le Cotentin, notamment à Cherbourg, nécessitant une vigilance particulière.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
 🏖️ MÉTÉO DES PLAGES – CÔTE D’ALBÂTRE & MANCHE (mardi 27 octobre 2026)
@@ -359,9 +361,9 @@ L'après-midi, le temps est marqué par un ciel dominé par des passages nuageux
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
 📉 Tendance – 3 jours suivants (jeudi 29 octobre au samedi 31 octobre)
 
-▶ jeudi 29 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales s'échelonnent de 3°C à 9°C. L'après-midi, le mercure grimpe jusqu'à 15°C sous abri. Le vent souffle de manière modérée.
+▶ jeudi 29 octobre : Le ciel reste variable avec des passages nuageux sur la pointe du Cotentin et l’Orne, mais aucune pluie n’est attendue. Les températures maximales atteignent 15 à 16°C dans l’intérieur, 14°C sur le littoral. Le vent est faible, de 10 à 15 km/h, offrant une journée calme et sèche à l’échelle régionale.
 
-▶ vendredi 30 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales s'échelonnent de 4°C à 7°C. L'après-midi, le mercure grimpe jusqu'à 15°C sous abri. Le vent souffle de manière modérée.
+▶ vendredi 30 octobre : Une couverture nuageuse plus présente concerne la majeure partie de la Normandie, excepté l’Eure. Le temps demeure sec avec des maximales comprises entre 14°C au Havre et 16°C à Alençon. Les minimales sont fraîches, de 4 à 7°C, et le vent reste modéré, ne dépassant pas 15 km/h.
 
-▶ samedi 31 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales s'échelonnent de 5°C à 8°C. L'après-midi, le mercure grimpe jusqu'à 14°C sous abri. Le vent souffle de manière modérée.
+▶ samedi 31 octobre : Le soleil reprend ses droits sur l’ensemble de la région, avec un ciel dégagé et aucune précipitation. Les températures maximales sont en léger retrait : 13 à 15°C, tandis que les minimales s’établissent entre 5 et 8°C. Le vent est très faible, de 5 à 15 km/h, pour une fin de semaine paisible.
 
