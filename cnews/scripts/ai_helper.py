@@ -70,17 +70,18 @@ def read_meteofrance_local_data():
                                 tmin = int(math.floor(float(row.get("temperature_2m_min", 0)) + 0.5))
                                 tmax = int(math.floor(float(row.get("temperature_2m_max", 0)) + 0.5))
                                 code = int(row.get("weathercode", 0))
+                                label = row.get("Temps_Label", "").strip().upper()
                             except (ValueError, TypeError):
                                 continue
                                 
                             if coord_key not in mf_data:
                                 mf_data[coord_key] = {}
-                            mf_data[coord_key][date_str] = {"tmin": tmin, "tmax": tmax, "code": code, "wind": 15, "rain": 0.0}
+                            mf_data[coord_key][date_str] = {"tmin": tmin, "tmax": tmax, "code": code, "label": label, "wind": 15, "rain": 0.0}
                             
                             if cname:
                                 if cname not in mf_data:
                                     mf_data[cname] = {}
-                                mf_data[cname][date_str] = {"tmin": tmin, "tmax": tmax, "code": code, "wind": 15, "rain": 0.0}
+                                mf_data[cname][date_str] = {"tmin": tmin, "tmax": tmax, "code": code, "label": label, "wind": 15, "rain": 0.0}
                 except Exception:
                     pass
     return mf_data
@@ -144,11 +145,13 @@ def fetch_weather_struct(cities, day_offset):
                         tmin = mf_item["tmin"]
                         tmax = mf_item["tmax"]
                         code = mf_item["code"]
+                        label = mf_item.get("label", "")
                     elif cname in mf_data and target_date_str in mf_data[cname]:
                         mf_item = mf_data[cname][target_date_str]
                         tmin = mf_item["tmin"]
                         tmax = mf_item["tmax"]
                         code = mf_item["code"]
+                        label = mf_item.get("label", "")
                     else:
                         closest_mf = None
                         min_dist = 0.15 # ~15km radius tolerance
@@ -167,6 +170,7 @@ def fetch_weather_struct(cities, day_offset):
                             tmin = mf_item["tmin"]
                             tmax = mf_item["tmax"]
                             code = mf_item["code"]
+                            label = mf_item.get("label", "")
                         else:
                             import math
                             tmin = int(math.floor(d.get("temperature_2m_min", [0]*8)[day_offset] + 0.5))
@@ -181,6 +185,7 @@ def fetch_weather_struct(cities, day_offset):
                         gust_raw = wind_raw * 1.3
                     gust = int(round(gust_raw / 5.0) * 5)
                     rain = round(d["precipitation_sum"][day_offset], 1)
+                    label_val = label if 'label' in locals() and label else ""
                     results_list.append({
                         "city": city["name"],
                         "tmin": tmin,
@@ -188,6 +193,7 @@ def fetch_weather_struct(cities, day_offset):
                         "wind": wind,
                         "gust": gust,
                         "code": code,
+                        "label": label_val,
                         "rain": rain
                     })
                 except (IndexError, KeyError):
@@ -201,9 +207,10 @@ def fetch_raw_weather(cities, day_offset):
     lines = []
     for s in struct:
         gust_str = f", Rafales {s.get('gust', s['wind'])} km/h" if s.get('gust', 0) >= 40 else ""
+        lbl_str = f"Temps Météo-France : {s['label']}, " if s.get('label') else ""
         lines.append(
-            f"- {s['city']} : Min {s['tmin']}°C, Max {s['tmax']}°C, "
-            f"Vent {s['wind']} km/h{gust_str}, Code météo {s['code']}, Pluie {s['rain']} mm"
+            f"- {s['city']} : {lbl_str}Min {s['tmin']}°C, Max {s['tmax']}°C, "
+            f"Vent {s['wind']} km/h{gust_str}"
         )
     return "\n".join(lines)
 
@@ -781,7 +788,11 @@ Règles de style journalistique OBLIGATOIRES :
 - Tone : Journalistique, factuel, fluide, élégant et descriptif.
 - ⛔ INTERDICTION ABSOLUE des fioritures et salutations radiophoniques ou orales ("Bonjour à tous", "Bienvenue sur...", "C'est votre présentateur...", "voici vos prévisions", "profitez bien", "à très vite", etc.).
 - ⛔ Ne parle jamais au lecteur/auditeur à la 2ème personne (pas de "vous", "vos activités"). Rédige exclusivement à la 3ème personne.
-- ⚠️ MENTION IMPÉRATIVE DU TEMPS SENSIBLE : Tu dois TOUJOURS décrire avec précision l'état du ciel et les précipitations réelles (averses, pluies, éclaircies, soleil dominant, nuages bas, brumes, orages). Si la carte ou les données indiquent des averses ou des pluies, tu dois OBLIGATOIREMENT les citer expressément dans le texte (ex: "des averses se déclenchent", "un passage pluvieux s'invite"). INTERDICTION de passer sous silence des averses ou des pluies !
+- ⚠️ RÈGLE D'OR DE COHÉRENCE AVEC LA CARTE (TEMPS SENSIBLE) :
+  La CARTE MÉTÉO (Image 2) comparée à la PLANCHE OFFICIELLE (Image 1) est la SEULE ET UNIQUE SOURCE DE VÉRITÉ pour l'état du ciel et les précipitations.
+  - Si le pictogramme d'une ville est du soleil (P1, P2), du soleil voilé (P6) ou des nuages (P8, P4) sans gouttes d'eau, tu dois DÉCRIRE UN TEMPS SEC ET LUMINEUX / VOILÉ / NUAGEUX, SANS AUCUNE PLUIE NI AVERSE !
+  - Tu ne dois citer d'averses ou de pluie QUE si et seulement si un pictogramme de pluie ou d'orage est visible sur la carte (P9 Averses, P10 Pluie faible, P11 Pluie forte, P12 Neige, orages).
+  - Les données chiffrées ci-dessous servent EXCLUSIVEMENT pour les températures réelles (min/max) et le vent.
 - Intègre obligatoirement des indications précises sur le VENT (brise, vent modéré, mistral, etc.) et le contraste de températures LITTORAL / INTÉRIEUR DES TERRES s'il y a lieu.
 - ⚠️ Si des rafales de vent de 70 km/h ou plus (gust) sont indiquées dans les données ci-dessous, tu dois obligatoirement et expressément les citer (risque de vigilance vent fort). En dessous de 70 km/h, mentionne simplement le vent sans dramatiser.
 - Si tu vois un éclair (orage ou grêle), mentionne-le expressément (risque orageux, foudre).
