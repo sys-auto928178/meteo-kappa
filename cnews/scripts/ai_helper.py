@@ -1,3 +1,13 @@
+
+def deg_to_compass(deg):
+    if deg is None:
+        return "secteur ouest"
+    try:
+        val = int((float(deg) / 45) + 0.5) % 8
+        sectors = ["Nord", "Nord-Est", "Est", "Sud-Est", "Sud", "Sud-Ouest", "Ouest", "Nord-Ouest"]
+        return f"secteur {sectors[val]}"
+    except Exception:
+        return "secteur ouest"
 import os
 import sys
 import json
@@ -207,10 +217,11 @@ def fetch_raw_weather(cities, day_offset):
     lines = []
     for s in struct:
         gust_str = f", Rafales {s.get('gust', s['wind'])} km/h" if s.get('gust', 0) >= 40 else ""
-        lbl_str = f"Temps Météo-France : {s['label']}, " if s.get('label') else ""
+        lbl_str = f"Temps officiel Météo-France : {s['label']}, " if s.get('label') else ""
+        wind_dir = deg_to_compass(s.get('wind_deg', 230))
         lines.append(
             f"- {s['city']} : {lbl_str}Min {s['tmin']}°C, Max {s['tmax']}°C, "
-            f"Vent {s['wind']} km/h{gust_str}"
+            f"Vent {s['wind']} km/h ({wind_dir}){gust_str}"
         )
     return "\n".join(lines)
 
@@ -964,15 +975,21 @@ Instructions OBLIGATOIRES (Style journalistique strict & complet) :
 1. Remplis la balise <todaySummary> (STRICTEMENT 3 à 5 phrases). Rédige UNIQUEMENT L'ESSENTIEL DE LA JOURNÉE À RETENIR pour le grand public (phénomène marquant, températures min/max, vent). ⛔ INTERDICTION FORMELLE de citer des noms de code de clients ou stations radio. Doit commencer par un titre percutant en MAJUSCULES (ex: "🌤️ L'ESSENTIEL DE CE {FRENCH_WEEKDAYS[d1.weekday()].upper()} : ...").
 
 2. Remplis la balise <forecastRaw> avec la TENDANCE SÉPARÉE JOUR PAR JOUR du Jour 3 au Jour 5 ({date_j3}, {date_j4}, {date_j5}).
-   ATTENTION RÈGLE STRICTE DE RICHESSE ET DE LONGUEUR (180 à 250 mots au total) :
+   ATTENTION RÈGLE STRICTE DE RICHESSE ET DE STYLE BROADCAST (180 à 250 mots au total) :
    Commence obligatoirement par le titre :
    📉 Tendance – 3 jours suivants ({date_j3} au {date_j5})
 
-   Pour CHAQUE jour de tendance ({date_j3}, {date_j4}, {date_j5}), rédige un paragraphe complet, vivant et personnalisé de 4 à 5 lignes détaillées (environ 60 à 80 mots par jour), intégrant impérativement :
-   - L'état précis du ciel et son évolution diurne (matin / après-midi) personnalisé selon les spécificités régionales (littoral, plaines, vallées, reliefs).
-   - Les températures minimales au réveil et les maximales sous abri l'après-midi, en citant les valeurs clés ou la fourchette thermique régionale.
-   - Les conditions de vent (direction, force) et la mention expresse et chiffrée des rafales si elles atteignent ou dépassent 40 km/h (ex: "rafales jusqu'à 45 km/h sur la côte"). Si les rafales sont < 40 km/h, indique un vent modéré ou faible sans alarmisme.
-   - ⛔ INTERDICTION FORMELLE d'abréger, de regrouper des jours ou d'utiliser des formules passives ("même temps", "temps comparable"). Chaque jour doit être décrit de façon unique et autonome.
+   Pour CHAQUE jour de tendance ({date_j3}, {date_j4}, {date_j5}), rédige un paragraphe complet, vivant, imagé et chaleureux de 4 à 5 lignes détaillées (environ 60 à 80 mots par jour), comme un présentateur météo expérimenté à l'antenne :
+   - Décris l'état du ciel et l'ambiance générale en te basant sur le Temps officiel Météo-France (soleil, ciel voilé, nuages, éclaircies, averses).
+   - Décris le contraste géographique naturel (ex: littoral, arrière-pays, plaines, vallées).
+   - Donne les températures minimales matinales et les maximales de l'après-midi en citant 3 à 4 villes repères.
+   - Mentionne le vent avec sa direction et sa force de façon naturelle (ex: "un vent modéré de secteur sud-ouest autour de 15 à 20 km/h"), et cite les rafales si elles dépassent 40 km/h.
+
+   ⛔ BANNISSEMENT ABSOLU DU PARLER-ROBOT ET DES MÉTA-COMMENTAIRES DE DONNÉES (RÈGLE D'OR RADIO) :
+   - ❌ INTERDICTION FORMELLE d'écrire "dans les villes renseignées", "dans les données fournies", "selon nos données". Utilise TOUJOURS la vraie géographie régionale ("sur l'ensemble de la région", "du littoral aux plaines intérieures", "de la côte aux collines").
+   - ❌ INTERDICTION FORMELLE d'écrire "sa direction n'est pas précisée", "direction non indiquée", "direction non renseignée". Tu disposes de la direction du vent dans les données ou tu utilises une formulation naturelle ("vent de secteur sud-ouest", "brise modérée d'ouest"). Ne dis JAMAIS que la direction n'est pas précisée !
+   - ❌ INTERDICTION FORMELLE d'écrire "sans détail horaire", "leur horaire n'est pas précisé". Décris simplement l'ambiance au fil des heures ou en après-midi.
+   - ❌ INTERDICTION FORMELLE d'abréger ou de regrouper des jours. Chaque jour a son propre paragraphe autonome et captivant.
 
    Format exact :
    📉 Tendance – 3 jours suivants ({date_j3} au {date_j5})
