@@ -18,6 +18,25 @@ Ce mercredi matin... le soleil domine sur une grande partie du pays, notamment d
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
 Ce mercredi après-midi... le soleil domine du Nord à l’Ouest et au Centre, malgré quelques passages nuageux, notamment vers Rouen et Rennes. De très faibles pluies sont possibles à Rouen. Le vent reste faible, entre 5 et 10 km/h dans les villes renseignées. Les maximales atteignent 16°C à Lille et à Nantes, 17°C à Paris comme à Brest. Sur la carte, la douceur est plus marquée près de la Méditerranée, avec 21 à 22°C sur le littoral, contre 16 à 18°C dans une partie de l’intérieur du pays.
 
+🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
+📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
+
+⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
+
+🌐 Situation générale : Dépression "EX-JOSEPHINE" 962 hPa vers les îles Féroé, s'évacuant vers le nord en se comblant lentement. Anticyclone 1026 hPa sur les Açores, se décalant vers l'est en se renforçant, prévu 1030 hPa sur l'ouest de la France demain matin puis 1031 hPa au sud de la Belgique demain soir.
+
+📅 Prévisions pour la journée du mercredi 28 octobre :
+🌬️ VENT : Ouest 3 à 4, revenant Ouest à Sud-Ouest l'après-midi, parfois 5 en mer du Nord.
+🌊 MER : peu agitée, localement agitée en Manche.
+🌊 HOULE : Ouest proche de 1 m en Manche.
+⛅ TEMPS : ciel passagèrement nuageux. Quelques averses en Manche.
+👁️ VISIBILITE :  bonne, parfois moyenne sous averses.
+
+📉 Tendance pour la nuit du 28  au 29, et la journée du jeudi 29 octobre :
+• VENT : Ouest à Sud-Ouest 2 à 4, devenant Variable 1 à 3 la nuit puis Est dominant en fin de journée.
+• MER : peu agitée, devenant belle en mer du Nord la nuit.
+
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce mercredi avec maintien de la sécheresse de surface.
 🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce mercredi. Aucun coup de vent à craindre.
@@ -73,14 +92,23 @@ Ce mercredi après-midi... le soleil domine sur le Nord, sous un ciel largement 
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE – CÔTE D’OPALE & MER DU NORD (mercredi 28 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
+📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
-📍 Zones : Dunkerque • Calais • Boulogne-sur-Mer • Le Touquet
+⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-☀️ Situation générale : Influence anticyclonique calme assurant un temps sec et modérément doux.
-🌬️ Vent : Vent de Nord-Est modéré (15 km/h) ce mercredi.
-🌊 État de la mer : Mer peu agitée (vagues 0.4m à 0.8m), idéale pour les activités nautiques.
-⚠️ Visibilité : Bonne sur l'ensemble du littoral.
+🌐 Situation générale : Dépression "EX-JOSEPHINE" 962 hPa vers les îles Féroé, s'évacuant vers le nord en se comblant lentement. Anticyclone 1026 hPa sur les Açores, se décalant vers l'est en se renforçant, prévu 1030 hPa sur l'ouest de la France demain matin puis 1031 hPa au sud de la Belgique demain soir.
+
+📅 Prévisions pour la journée du mercredi 28 octobre :
+🌬️ VENT : Ouest 3 à 4, revenant Ouest à Sud-Ouest l'après-midi, parfois 5 en mer du Nord.
+🌊 MER : peu agitée, localement agitée en Manche.
+🌊 HOULE : Ouest proche de 1 m en Manche.
+⛅ TEMPS : ciel passagèrement nuageux. Quelques averses en Manche.
+👁️ VISIBILITE :  bonne, parfois moyenne sous averses.
+
+📉 Tendance pour la nuit du 28  au 29, et la journée du jeudi 29 octobre :
+• VENT : Ouest à Sud-Ouest 2 à 4, devenant Variable 1 à 3 la nuit puis Est dominant en fin de journée.
+• MER : peu agitée, devenant belle en mer du Nord la nuit.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce mercredi avec maintien de la sécheresse de surface.
@@ -138,13 +166,26 @@ Ce mercredi après-midi... le soleil domine sans partage sur la Charente-Maritim
 🌊 Température de l’eau : 21°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO LITTORALE & MARINE – CHARENTE-MARITIME (mercredi 28 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "AIGUILLON - FRONTIÈRE ESPAGNOLE" SOIR
+📍 Origine Météo-France. 
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du mardi 27 octobre 2026 à 18H15 légales.
 
-📍 Zones : La Rochelle • Rochefort • Royan • Pertuis Breton & d'Antioche
+⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-☀️ Situation synoptique : Influence anticyclonique calme assurant un temps sec et modérément doux.
-🌬️ Vent : Régime de brises thermiques (20 km/h).
-🌊 État de la mer : Mer peu agitée (vagues 0.4m à 0.8m), idéale pour les activités nautiques.
+🌐 Situation générale : Dépression "EX-JOSEPHINE" 962 hPa vers les îles Féroé, s'évacuant vers le nord en se comblant lentement. Anticyclone 1026 hPa sur les Açores, se décalant vers l'est en se renforçant, prévu 1030 hPa sur l'ouest de la France demain matin puis 1031 hPa au sud de la Belgique demain soir.
+
+📅 Prévisions pour la journée du mercredi 28 octobre :
+🌬️ VENT : Est à Nord-Est 2 à 4, revenant Nord à Nord-Est l'après-midi.
+🌊 MER : forte, dominée par la houle.
+🌊 HOULE : longue de Nord-Ouest 2.5 à 3 m.
+⛅ TEMPS : ensoleillé, localement nuageux sur côtes Landes et Basque le matin.
+👁️ VISIBILITE : bonne.
+
+📉 Tendance pour la nuit du 28  au 29, et la journée du jeudi 29 octobre :
+• VENT : 
+- côte Charente et nord Gironde : Est à Nord-Est 3 à 4, localement 5 sur la côte Charentes le matin, mollissant 2 à 4 l'après-midi.
+- ailleurs : Est 2 à 4, revenant Nord 1 à 3 l'après-midi.
+• MER : agitée, parfois forte en soirée.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce mercredi avec maintien de la sécheresse de surface.
@@ -199,14 +240,23 @@ Ce mercredi après-midi... le soleil domine largement, même si quelques nuages 
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE – CÔTE D’OPALE & MER DU NORD (mercredi 28 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
+📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
-📍 Zones : Dunkerque • Calais • Boulogne-sur-Mer • Le Touquet
+⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-☀️ Situation générale : Influence anticyclonique calme assurant un temps sec et modérément doux.
-🌬️ Vent : Vent de Nord-Est modéré (20 km/h avec rafales atteignant 35 km/h) ce mercredi.
-🌊 État de la mer : Mer peu agitée (vagues 0.4m à 0.8m), idéale pour les activités nautiques.
-⚠️ Visibilité : Bonne sur l'ensemble du littoral.
+🌐 Situation générale : Dépression "EX-JOSEPHINE" 962 hPa vers les îles Féroé, s'évacuant vers le nord en se comblant lentement. Anticyclone 1026 hPa sur les Açores, se décalant vers l'est en se renforçant, prévu 1030 hPa sur l'ouest de la France demain matin puis 1031 hPa au sud de la Belgique demain soir.
+
+📅 Prévisions pour la journée du mercredi 28 octobre :
+🌬️ VENT : Ouest 3 à 4, revenant Ouest à Sud-Ouest l'après-midi, parfois 5 en mer du Nord.
+🌊 MER : peu agitée, localement agitée en Manche.
+🌊 HOULE : Ouest proche de 1 m en Manche.
+⛅ TEMPS : ciel passagèrement nuageux. Quelques averses en Manche.
+👁️ VISIBILITE :  bonne, parfois moyenne sous averses.
+
+📉 Tendance pour la nuit du 28  au 29, et la journée du jeudi 29 octobre :
+• VENT : Ouest à Sud-Ouest 2 à 4, devenant Variable 1 à 3 la nuit puis Est dominant en fin de journée.
+• MER : peu agitée, devenant belle en mer du Nord la nuit.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce mercredi avec maintien de la sécheresse de surface.
@@ -263,14 +313,23 @@ Ce mercredi après-midi... le soleil domine sur le littoral comme à l’intéri
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE – CÔTE D’OPALE & MER DU NORD (mercredi 28 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
+📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
-📍 Zones : Dunkerque • Calais • Boulogne-sur-Mer • Le Touquet
+⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-☀️ Situation générale : Influence anticyclonique calme assurant un temps sec et modérément doux.
-🌬️ Vent : Vent de Nord-Est modéré (15 km/h) ce mercredi.
-🌊 État de la mer : Mer peu agitée (vagues 0.4m à 0.8m), idéale pour les activités nautiques.
-⚠️ Visibilité : Bonne sur l'ensemble du littoral.
+🌐 Situation générale : Dépression "EX-JOSEPHINE" 962 hPa vers les îles Féroé, s'évacuant vers le nord en se comblant lentement. Anticyclone 1026 hPa sur les Açores, se décalant vers l'est en se renforçant, prévu 1030 hPa sur l'ouest de la France demain matin puis 1031 hPa au sud de la Belgique demain soir.
+
+📅 Prévisions pour la journée du mercredi 28 octobre :
+🌬️ VENT : Ouest 3 à 4, revenant Ouest à Sud-Ouest l'après-midi, parfois 5 en mer du Nord.
+🌊 MER : peu agitée, localement agitée en Manche.
+🌊 HOULE : Ouest proche de 1 m en Manche.
+⛅ TEMPS : ciel passagèrement nuageux. Quelques averses en Manche.
+👁️ VISIBILITE :  bonne, parfois moyenne sous averses.
+
+📉 Tendance pour la nuit du 28  au 29, et la journée du jeudi 29 octobre :
+• VENT : Ouest à Sud-Ouest 2 à 4, devenant Variable 1 à 3 la nuit puis Est dominant en fin de journée.
+• MER : peu agitée, devenant belle en mer du Nord la nuit.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce mercredi avec maintien de la sécheresse de surface.
@@ -327,13 +386,24 @@ Ce mercredi après-midi... le soleil domine en Normandie, malgré des passages n
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE – MANCHE & LITTORAL NORMAND (mercredi 28 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "BAIE DE SOMME - LA HAGUE" SOIR
+📍 Origine Météo-France. 
+Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du mardi 27 octobre 2026 à 18H15 légales.
 
-📍 Zones : Baie de Seine • Le Havre • Fécamp • Dieppe • Cherbourg
+⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-☀️ Situation générale : Influence anticyclonique calme assurant un temps sec et modérément doux.
-🌬️ Vent : Vent modéré de Nord-Est (20 km/h avec rafales atteignant 35 km/h) ce mercredi.
-🌊 État de la mer : Mer peu agitée (vagues 0.4m à 0.8m), idéale pour les activités nautiques.
+🌐 Situation générale : Dépression "EX-JOSEPHINE" 962 hPa vers les îles Féroé, s'évacuant vers le nord en se comblant lentement. Anticyclone 1026 hPa sur les Açores, se décalant vers l'est en se renforçant, prévu 1030 hPa sur l'ouest de la France demain matin puis 1031 hPa au sud de la Belgique demain soir.
+
+📅 Prévisions pour la journée du mercredi 28 octobre :
+🌬️ VENT : Ouest à Sud-Ouest 2 à 4.
+🌊 MER : peu agitée à agitée, s'atténuant belle à peu agitée en Baie de Seine.
+🌊 HOULE : Ouest 1 à 2 m, mais non significative en Baie de Seine.
+⛅ TEMPS : nuageux, quelques averses.
+👁️ VISIBILITE : bonne, parfois moyenne sous averses.
+
+📉 Tendance pour la nuit du 28  au 29, et la journée du jeudi 29 octobre :
+• VENT : secteur Sud 1 à 3, revenant Est 3 à 4 l'après-midi, parfois 5 au nord du Cotentin en fin de journée.
+• MER : belle à peu agitée, localement agitée au nord du Cotentin au début.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce mercredi avec maintien de la sécheresse de surface.
