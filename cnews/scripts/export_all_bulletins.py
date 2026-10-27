@@ -22,7 +22,7 @@ def get_base64_image(path):
 
 def run_map_generator(region, day_offset):
     zone = region if region else "france_pictos"
-    days = 5 if region else 8
+    days = 2  # Radio bulletins only need J1 & J2 (4 maps per zone)
     
     # Résolution relative d'abord (dépôt unifié) puis fallback absolu Windows
     script_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..", "meteo_cnews_2", "generate_meteofrance_maps.py"))
@@ -87,19 +87,6 @@ def update_form_dates_locally(form, day_offset):
     form["summaryTitle"] = f"Prévisions pour la journée du {day1_str.upper()}"
     form["summaryTitle2"] = f"Prévisions pour la journée du {day2_str.upper()}"
     form["alertTitle"] = f"Vigilance pour ce {day1_str}"
-    form["precipitationTitle"] = f"CUMULS DE PRÉCIPITATIONS PRÉVUS POUR CE {day1_str.upper()}"
-    form["gustsTitle"] = f"RAFALES MAXIMALES PRÉVUES POUR CE {day1_str.upper()}"
-    form["observationsTitle"] = f"TEMPÉRATURES MAXIMALES PRÉVUES POUR CE {day1_str.upper()}"
-    form["minObservationsTitle"] = f"TEMPÉRATURES MINIMALES PRÉVUES POUR CE {day1_str.upper()}"
-    form["mountainTitle"] = f"🏔️ MÉTÉO DES MONTAGNES DU {day1_str.upper()}"
-    form["ephemeris"] = (
-        f"📅 ÉPHÉMÉRIDE DU {day1_str.upper()}\n"
-        f"☀️ SOLEIL : Lever 08:24 • Coucher 18:45 • Zénith 13:35\n"
-        f"⏱️ JOUR : Durée 10h21 (Perte de 3 min)\n"
-        f"🌙 LUNE : Gibbeuse croissante\n"
-        f"😇 SAINT DU JOUR : Élodie\n"
-        f"💬 DICTON : \"À la Sainte-Élodie, souvent l'automne sourit.\""
-    )
     form.setdefault("summaryLancement", f"Voici les conditions météorologiques détaillées pour votre journée de ce {wd1} :")
     form.setdefault("summaryLancement2", f"Pour votre journée de ce {wd2}, voici ce que réservent les prévisions :")
     form.setdefault("forecastLancement", "Voyons maintenant ce qui nous attend pour la suite de la semaine :")
@@ -219,15 +206,6 @@ def main():
         "RADIO ICI PROVENCE-ALPES-CÔTE D'AZUR": "paca"
     }
     
-    # 1.5 Generate maps for unique zones sequentially (Chrome ProcessSingleton ne supporte pas le parallèle)
-    if args.generate_maps:
-        generated_zones = set()
-        for c_name in region_mapping.values():
-            if c_name not in generated_zones:
-                run_map_generator(c_name, args.day_offset)
-                generated_zones.add(c_name)
-                time.sleep(3)  # laisser Chrome libérer le lock entre chaque zone
-    
     maps_dir = os.path.abspath(os.path.join(project_root, "..", "cartes_alertes"))
     if not os.path.exists(maps_dir):
         maps_dir = r"C:\Users\grego\Desktop\cartes_alertes"
@@ -243,20 +221,28 @@ def main():
             
         clients = data.get("clients", [])
         print(f"Loaded {len(clients)} clients from {args.file}")
+
+        # 1.5 Generate maps ONLY for the unique active zones needed by the clients (Turbo Mode)
+        if args.generate_maps:
+            active_zones = set()
+            for c in clients:
+                reg = region_mapping.get(c.get("name", ""), "")
+                active_zones.add(reg)
+            print(f"\n⚡ [Mode Turbo] Génération ciblée pour {len(active_zones)} zones actives uniquement : {sorted(list(active_zones))}")
+            for reg in sorted(active_zones):
+                run_map_generator(reg, args.day_offset)
         
         # Import AI helper
         sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
         try:
-            from ai_helper import generate_bulletin_texts, generate_local_fallback_texts
+            from ai_helper import generate_bulletin_texts
         except ImportError:
             print("Warning: Could not import ai_helper. Skipping AI texts.")
-            generate_bulletin_texts = lambda *args, **kwargs: None
-            generate_local_fallback_texts = lambda *args, **kwargs: None
+            generate_bulletin_texts = lambda *args: None
 
         for c in clients:
             name = c.get("name")
             region = region_mapping.get(name, "")
-            c["region"] = region
             region_prefix = f"{region}_" if region else ""
             
             # Map paths
@@ -321,17 +307,6 @@ def main():
                     if "recordsRaw" in ai_texts and ai_texts["recordsRaw"]:
                         form["recordsRaw"] = ai_texts["recordsRaw"]
                         form["surveillanceItems"] = [{"id": "auto_records", "type": "text", "content": ai_texts["recordsRaw"]}]
-            else:
-                # Mode --skip-ai : injection immédiate du fallback local déterministe pour garantir des dates et prévisions à jour
-                local_fallback = generate_local_fallback_texts(name, c.get("cities", []), args.day_offset)
-                if local_fallback:
-                    print(f" - Injected deterministic fallback texts for '{name}' (--skip-ai)")
-                    for key, val in local_fallback.items():
-                        form[key] = val
-                    if "summaryLancement" in local_fallback and local_fallback["summaryLancement"]:
-                        form["todaySummary"] = ""
-                    if "recordsRaw" in local_fallback and local_fallback["recordsRaw"]:
-                        form["surveillanceItems"] = [{"id": "auto_records", "type": "text", "content": local_fallback["recordsRaw"]}]
             
             # Store public raw GitHub URL instead of heavy Base64 to keep JSON size under 100KB
             base_url = "https://raw.githubusercontent.com/gregorylanglet59264-byte/meteo-kappa/main/cartes_alertes"
