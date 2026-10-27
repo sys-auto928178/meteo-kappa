@@ -13,13 +13,13 @@ FICHIER SOURCE : /home/runner/work/meteo-kappa/meteo-kappa/cnews/BULLETINS_AUTOM
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce mercredi matin... le soleil domine sur une grande partie du pays, notamment du Nord à la Bretagne et près de la Méditerranée. Des nuages accompagnent toutefois les éclaircies dans l’intérieur, tandis que des averses se produisent vers le centre et le Jura. À Rouen, quelques gouttes restent possibles. Le vent est faible sur le Nord-Ouest, autour de 5 à 10 km/h. Les minimales affichent 4 °C à Laon, 5 °C à Poitiers et 7 °C à Lille, contre 9 °C à Brest, sur le littoral breton.
+Ce mercredi matin, une ambiance fraîche mais lumineuse prédomine sur une grande partie du pays. Le soleil s'impose généreusement de la Bretagne aux Pays de la Loire, avec 8°C à Brest et 5°C à Rennes. Plus à l'est, des nuages plus nombreux s'invitent, notamment sur la Normandie et l'Île-de-France, où Rouen et Paris affichent 7°C et 5°C respectivement, sous un ciel partiellement voilé. Quelques faibles pluies sont attendues sur Rouen. Le vent reste faible sur l'ensemble du territoire, généralement autour de 5 à 10 km/h. Les températures minimales sont contrastées, mais sans excès.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce mercredi après-midi... le soleil domine du Nord à l’Ouest et au Centre, malgré quelques passages nuageux, notamment vers Rouen et Rennes. De très faibles pluies sont possibles à Rouen. Le vent reste faible, entre 5 et 10 km/h dans les villes renseignées. Les maximales atteignent 16°C à Lille et à Nantes, 17°C à Paris comme à Brest. Sur la carte, la douceur est plus marquée près de la Méditerranée, avec 21 à 22°C sur le littoral, contre 16 à 18°C dans une partie de l’intérieur du pays.
+Ce mercredi après-midi, la France profitera d'un temps largement ensoleillé, marquant une belle journée d'octobre. Le soleil dominera sur une grande partie du pays, notamment de la Bretagne à l'Occitanie, en passant par le Centre-Val de Loire. Les températures maximales atteindront 17°C à Rennes et Paris, 16°C à Lille et Nantes. Quelques passages nuageux sans conséquence sont toutefois attendus sur la Normandie et l'Île-de-France, avec un ciel plus nuageux à Rouen et Paris. Le vent restera faible sur l'ensemble du territoire, soufflant généralement autour de 5 à 10 km/h.
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (mercredi 28 octobre 2026)
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
@@ -75,16 +75,16 @@ Ce mercredi après-midi... le soleil domine du Nord à l’Ouest et au Centre, m
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce mercredi matin... le soleil domine sur une grande partie de la région, malgré quelques passages nuageux. La carte indique aussi des averses localisées à l’est, tandis que les données chiffrées signalent un temps dégagé dans les villes renseignées. L’air reste frais au lever du jour : 7 °C à Dunkerque et à Lille, 6 °C à Valenciennes et 4 °C à Cambrai. Le littoral apparaît ainsi moins froid que certains secteurs de l’intérieur. Le vent reste faible, autour de 10 à 15 km/h.
+Ce mercredi matin, le Nord-Pas-de-Calais se réveille sous un ciel majoritairement nuageux. Le soleil tente de percer à travers les nuages sur l'ensemble de la région, offrant quelques éclaircies passagères. Des pluies faibles s'invitent toutefois sur Avesnes-sur-Helpe. Les températures minimales affichent 7°C à Lille et Dunkerque, 6°C à Valenciennes, et un contraste notable avec 4°C à Cambrai et 3°C à Bailleul. Un vent léger souffle sur l'ensemble du territoire, avec des pointes à 15 km/h sur le littoral et l'intérieur des terres.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce mercredi après-midi... le soleil domine sur le Nord, sous un ciel largement dégagé. Le temps reste globalement sec, malgré de très faibles quantités de pluie indiquées localement. Les maximales atteignent 16 °C à Dunkerque sur le littoral et à Lille dans les terres, contre 14 °C à Maubeuge et 13 °C à Bailleul. Le contraste se dessine ainsi surtout entre les secteurs de l’intérieur, tandis que la côte conserve une douceur comparable à celle de la métropole lilloise. Le vent reste faible, autour de 10 à 15 km/h.
+Ce mercredi après-midi, la région Nord bénéficie d'un temps majoritairement ensoleillé. Le soleil dominera largement le ciel, offrant de belles éclaircies sur la plupart des localités. Les températures maximales atteindront 16°C à Lille, Dunkerque et Roubaix. Un léger passage nuageux est cependant attendu sur Avesnes-sur-Helpe, où quelques averses isolées pourraient se manifester, avec une maximale de 15°C. Le vent restera faible à modéré, soufflant entre 10 et 15 km/h sur l'ensemble du territoire, sans rafales notables.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
 🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (mercredi 28 octobre 2026)
 
 🌴 Dunkerque / Malo-les-Bains / Bray-Dunes
-☀️ Influence anticyclonique calme assurant un temps sec et modérément doux sur la côte. Températures de 6°C le matin à 16°C l'après-midi.
+☀️ Influence anticyclonique calme assurant un temps sec et modérément doux sur la côte. Températures de 5°C le matin à 16°C l'après-midi.
 🌊 Température de l’eau : 16°C à 17°C
 
 🌴 Le Touquet / Berck / Baie de Somme
@@ -92,7 +92,7 @@ Ce mercredi après-midi... le soleil domine sur le Nord, sous un ciel largement 
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (mercredi 28 octobre 2026)
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
@@ -148,10 +148,10 @@ Ce mercredi après-midi... le soleil domine sur le Nord, sous un ciel largement 
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce mercredi matin... le temps reste sec en Charente-Maritime, sous un soleil largement dominant. Quelques nuages apparaissent toutefois sur la carte près de La Rochelle. L’air est frais au lever du jour : les minimales atteignent 5 °C à Saint-Jean-d’Angély comme à La Rochelle, 7 °C à Saintes et 10 °C à Saint-Martin-de-Ré. Le littoral présente ainsi des écarts marqués, l’île de Ré étant plus douce que La Rochelle. Le vent reste faible, autour de 10 km/h, mais souffle à 20 km/h sur l’île de Ré.
+Ce mercredi matin, la Charente-Maritime bénéficie d'un ciel largement ensoleillé. Le soleil domine l'ensemble du département, offrant une matinée lumineuse. Les températures minimales s'établissent à 5°C à La Rochelle et Saint-Jean-d'Angély, 6°C à Rochefort et Marennes, et 7°C à Saintes, Saint-Pierre-d'Oléron, Jonzac et Surgères. Sur le littoral, Saint-Martin-de-Ré affiche 10°C. Un léger vent souffle sur l'ensemble du territoire, avec des brises de 10 à 20 km/h, sans rafales notables. Aucune précipitation n'est à signaler. Le contraste de températures entre le littoral et l'intérieur des terres reste modéré, avec des valeurs légèrement plus douces en bord de mer.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce mercredi après-midi... le soleil domine sans partage sur la Charente-Maritime. Le ciel reste dégagé et aucune pluie n’est attendue, du littoral à l’intérieur des terres. Les maximales atteignent 17 °C à La Rochelle et 16 °C à Royan, contre 15 °C à Saintes et à Jonzac. Le littoral bénéficie ainsi d’un léger avantage thermique. Le vent reste faible, autour de 10 km/h sur la majeure partie du département ; il souffle un peu plus sensiblement sur les îles, à 15 km/h sur Oléron et 20 km/h sur Ré.
+Ce mercredi après-midi, la région de La Rochelle bénéficiera d'un temps radieux, dominé par un soleil éclatant sur l'ensemble du territoire. Aucune précipitation n'est à prévoir. Les températures maximales atteindront 17°C à La Rochelle, 16°C à Rochefort et Royan, et 15°C à Saintes et Jonzac. Le vent soufflera faiblement, avec une brise côtière de 10 à 20 km/h, sans rafales notables. Les conditions seront particulièrement agréables, avec un ciel dégagé et des températures douces pour la saison.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
 🏖️ MÉTÉO DES PLAGES – LITTORAL CHARENTAIS (mercredi 28 octobre 2026)
@@ -166,7 +166,7 @@ Ce mercredi après-midi... le soleil domine sans partage sur la Charente-Maritim
 🌊 Température de l’eau : 21°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "AIGUILLON - FRONTIÈRE ESPAGNOLE" SOIR
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "AIGUILLON - FRONTIÈRE ESPAGNOLE" SOIR (mercredi 28 octobre 2026)
 📍 Origine Météo-France. 
 Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du mardi 27 octobre 2026 à 18H15 légales.
 
@@ -207,11 +207,13 @@ Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la fro
     Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du mercredi 28 octobre 2026.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-▶ vendredi 30 octobre : Soleil et temps sec sur tout le département, avec un vent de 10 à 20 km/h. Les minimales vont de 5 à 10 °C et les maximales de 12 à 17 °C.
+📉 Tendance – 3 jours suivants (vendredi 30 octobre au dimanche 1 novembre)
 
-▶ samedi 31 octobre : Le soleil reste dominant, sans pluie, avec un vent de 15 à 25 km/h et des rafales à 40 km/h sur l’île de Ré. Les températures s’échelonnent de 5 à 9 °C le matin et de 13 à 16 °C l’après-midi.
+▶ vendredi 30 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 5°C. L'après-midi, le mercure grimpe jusqu'à 17°C sous abri. Le vent souffle de manière modérée.
 
-▶ dimanche 1 novembre : Le soleil brille encore, sans pluie, sous un vent de 10 à 25 km/h, avec des rafales à 40 km/h vers Saintes et Saint-Jean-d’Angély. Les minimales vont de 5 à 9 °C et les maximales de 12 à 18 °C.
+▶ samedi 31 octobre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 5°C. L'après-midi, le mercure grimpe jusqu'à 16°C sous abri. Attention aux rafales de vent atteignant 40 km/h.
+
+▶ dimanche 1 novembre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 5°C. L'après-midi, le mercure grimpe jusqu'à 18°C sous abri. Attention aux rafales de vent atteignant 40 km/h.
 
 
 --------------------------------------------------------------------------------
@@ -223,10 +225,10 @@ Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la fro
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce mercredi matin... le soleil domine sur une grande partie du territoire, malgré quelques passages nuageux. La carte signale aussi des averses localisées à l’est. Les températures sont contrastées : 11 °C à Marck et à Groffliers, contre 6 °C à Remilly-Wirquin et 4 °C à Racquinghem. Le littoral apparaît ainsi globalement plus doux que l’intérieur des terres, même si la fraîcheur gagne aussi le secteur dunkerquois. Le vent reste faible à modéré, soufflant entre 10 et 20 km/h, avec les vitesses les plus élevées près de la côte.
+Ce mercredi matin, le ciel de la région se montre majoritairement dégagé, offrant de belles éclaircies sur une grande partie du territoire. Les températures minimales affichent 4°C à Racquinghem, 6°C à Remilly-Wirquin et 7°C à Leffrinckoucke. Quelques nuages bas sont toutefois présents, notamment vers Groffliers et Remilly-Wirquin, où le soleil se voile légèrement. Un passage pluvieux faible est également observé dans l'extrême est de la région. Le vent souffle en brise légère, généralement entre 10 et 20 km/h, sans rafales significatives. Les températures littorales sont légèrement plus douces que dans l'intérieur des terres.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce mercredi après-midi... le soleil domine largement, même si quelques nuages alternent avec les éclaircies vers Groffliers et Remilly-Wirquin. Le temps reste généralement sec ; une très faible quantité de pluie, de l’ordre de 0,2 mm, est toutefois indiquée à Leffrinckoucke. Le vent souffle entre 10 et 20 km/h, sans direction précisée. Les maximales atteignent 16 °C à Leffrinckoucke, 15 °C à Gravelines, 14 °C à Lefaux et 13 °C à Cauchy-à-la-Tour. Le littoral se montre ainsi localement plus doux que l’intérieur des terres.
+Ce mercredi après-midi, le ciel se montrera majoritairement ensoleillé sur l'ensemble de la région. Des éclaircies généreuses domineront, notamment de Leffrinckoucke (16°C) à Racquinghem (14°C) en passant par Robecq (16°C). Quelques nuages d'altitude viendront voiler légèrement le soleil par endroits, notamment sur les secteurs de Groffliers (16°C), Lefaux (14°C) et Remilly-Wirquin (15°C), sans toutefois gâcher l'impression générale de beau temps. Le vent soufflera faiblement, entre 10 et 20 km/h, sans rafales notables. Les températures maximales afficheront un contraste modéré entre le littoral et l'intérieur des terres.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
 🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (mercredi 28 octobre 2026)
@@ -240,7 +242,7 @@ Ce mercredi après-midi... le soleil domine largement, même si quelques nuages 
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (mercredi 28 octobre 2026)
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
@@ -296,10 +298,10 @@ Ce mercredi après-midi... le soleil domine largement, même si quelques nuages 
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce mercredi matin... le soleil domine largement sur le Nord, malgré quelques passages nuageux. La carte signale toutefois des averses localisées dans l’est de la région. Les quantités de pluie restent très faibles à Dunkerque et à Saint-Hilaire-sur-Helpe. La fraîcheur est présente dès l’aube : 6 °C à Valenciennes, 7 °C à Lille et à Dunkerque, contre 9 °C à Douai. Le littoral ne se distingue donc pas nettement de l’intérieur des terres. Le vent souffle faiblement, entre 10 et 15 km/h.
+Ce mercredi matin, le ciel de la région se montre majoritairement ensoleillé. Des éclaircies généreuses dominent sur une grande partie du territoire, de Lille à Maubeuge, où les températures minimales s'établissent respectivement à 7°C. Le vent souffle faiblement, autour de 10 à 15 km/h, sans impact notable. Une légère nuance est à observer localement, notamment vers St-Hilaire-sur-Helpe, où des averses se déclenchent, accompagnées d'une minimale de 6°C. Le contraste thermique entre le littoral et l'intérieur des terres reste modéré, avec des valeurs similaires.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce mercredi après-midi... le soleil domine sur le littoral comme à l’intérieur des terres, dans un ciel largement dégagé. Les données signalent toutefois de très faibles quantités de pluie à Dunkerque et à St-Hilaire-sur-Helpe, sans préciser à quel moment de la journée elles pourraient tomber. Le vent reste faible, autour de 10 à 15 km/h, de direction non précisée. Les maximales atteignent 16 °C à Dunkerque et à Lille, contre 15 °C à St-Hilaire-sur-Helpe et 14 °C à Maubeuge.
+Ce mercredi après-midi, la région bénéficie d'un temps largement ensoleillé. Le soleil domine sur l'ensemble du territoire, offrant un ciel dégagé et lumineux. Les températures maximales atteignent 16°C à Lille et Valenciennes, 15°C à Watten et 13°C à Troisvilles. Le vent souffle faiblement, autour de 10 à 15 km/h, sans impact significatif sur le ressenti. Aucune précipitation n'est à prévoir, et le risque d'averses est nul. Les conditions restent agréables, avec un contraste thermique peu marqué entre le littoral et l'intérieur des terres.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
 🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (mercredi 28 octobre 2026)
@@ -313,7 +315,7 @@ Ce mercredi après-midi... le soleil domine sur le littoral comme à l’intéri
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (mercredi 28 octobre 2026)
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
@@ -369,10 +371,10 @@ Ce mercredi après-midi... le soleil domine sur le littoral comme à l’intéri
 
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce mercredi matin, le soleil domine sur une grande partie de la Normandie, notamment autour de Caen et de Lisieux. Le ciel est plus nuageux vers Cherbourg et Rouen, tandis que des averses concernent le secteur du Havre. La fraîcheur est marquée à l’intérieur des terres, avec 4 °C à Rouen et à Lisieux, contre 7 °C à Caen. Le littoral est localement plus doux : 10 °C au Havre. Le vent reste faible dans les terres, autour de 5 à 10 km/h, et souffle jusqu’à 20 km/h sur la côte.
+Ce mercredi matin, la Normandie s'éveille sous un ciel partagé. Des éclaircies dominent largement l'intérieur des terres, notamment à Caen où le soleil est franc avec 7°C, ainsi qu'à Lisieux et Évreux où les minimales affichent respectivement 4°C et 5°C. Sur le littoral, le temps se montre plus contrasté. Des averses se déclenchent sur Le Havre, où la température atteint 10°C, accompagnées d'un vent modéré de 20 km/h. Cherbourg et Rouen connaissent un ciel peu nuageux avec des températures de 8°C et 4°C, tandis que Dieppe profite d'un soleil dominant avec 5°C. Le vent reste généralement faible à modéré sur l'ensemble de la région.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce mercredi après-midi... le soleil domine en Normandie, malgré des passages nuageux notamment près de la Seine et sur une partie du littoral. Le temps reste largement sec, avec toutefois quelques gouttes possibles vers Rouen et Dieppe. Les maximales atteignent 16 °C à Rouen et à Caen, 15 °C à Cherbourg et à Évreux : les températures sont ainsi proches entre côte et intérieur. Le vent, de direction non précisée, reste faible dans les terres, autour de 5 à 10 km/h, et atteint 15 à 20 km/h sur le littoral.
+Ce mercredi après-midi, la Normandie profite d'un temps majoritairement ensoleillé. Le soleil dominera largement sur Caen, Évreux et Lisieux, où les températures atteindront 16°C. Des passages nuageux sont toutefois observés sur Rouen et Cherbourg, avec 16°C et 15°C respectivement. Le littoral du Havre connaît un ciel couvert, sous une brise côtière de 20 km/h, et affiche 16°C. Quelques averses isolées et faibles sont possibles sur Rouen et Dieppe, sans impact significatif. Les vents restent globalement faibles sur l'ensemble de la région.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
 🏖️ MÉTÉO DES PLAGES – CÔTE D’ALBÂTRE & MANCHE (mercredi 28 octobre 2026)
@@ -386,7 +388,7 @@ Ce mercredi après-midi... le soleil domine en Normandie, malgré des passages n
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "BAIE DE SOMME - LA HAGUE" SOIR
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "BAIE DE SOMME - LA HAGUE" SOIR (mercredi 28 octobre 2026)
 📍 Origine Météo-France. 
 Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du mardi 27 octobre 2026 à 18H15 légales.
 
