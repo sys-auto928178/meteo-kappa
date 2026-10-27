@@ -239,9 +239,9 @@ def call_openrouter(api_key, prompt, images=None):
     }
     # Si modèle de raisonnement OpenAI (Terra / GPT / o1 / o3)
     if not (images and any(images)) and any(k in model.lower() for k in ["terra", "o1", "o3", "gpt-5", "gpt-6"]):
-        effort = os.environ.get("REASONING_EFFORT", "high")
+        effort = os.environ.get("REASONING_EFFORT", "medium")
         payload_dict["reasoning"] = {"effort": effort}
-        print(f"   [Terra Rédaction 🧠] Raisonnement activé au niveau maximal : effort = {effort}")
+        print(f"   [Terra Rédaction 🧠] Raisonnement activé au niveau medium : effort = {effort}")
     else:
         payload_dict["temperature"] = 0.5
 
@@ -686,6 +686,25 @@ def generate_bulletin_texts(client_name, cities, day_offset, images=None):
         if any(discovered_imgs):
             vision_images = discovered_imgs
 
+    # Chargement de la planche officielle de référence des 13 pictogrammes pour injection dans le modèle vision
+    ref_board_b64 = None
+    project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+    candidate_ref_paths = [
+        os.path.join(project_root, "meteo_cnews_2", "pictogramme", "planche_reference_pictos.jpg"),
+        os.path.join(project_root, "..", "meteo_cnews_2", "pictogramme", "planche_reference_pictos.jpg"),
+        os.path.expanduser(r"~\Documents\METEO_CLIMAT\meteo-kappa\meteo_cnews_2\pictogramme\planche_reference_pictos.jpg")
+    ]
+    for p_ref in candidate_ref_paths:
+        if os.path.exists(p_ref):
+            try:
+                import base64
+                with open(p_ref, "rb") as f_ref:
+                    ref_board_b64 = f"data:image/jpeg;base64,{base64.b64encode(f_ref.read()).decode('utf-8')}"
+                    print(f"  [Vision Mode 👁️] Planche de référence visuelle chargée : {os.path.basename(p_ref)}")
+                    break
+            except Exception as e_ref:
+                print(f"Warning: Could not read picto reference board: {e_ref}")
+
     try:
         from zoneinfo import ZoneInfo
     except ImportError:
@@ -778,7 +797,8 @@ Instructions :
 """
         try:
             print(f"[{client_name}] Calling Gemini Flash for J1 Morning map...")
-            res_m1 = call_openrouter(api_key, prompt_m1, images=[img_m1])
+            imgs_m1 = [ref_board_b64, img_m1] if ref_board_b64 else [img_m1]
+            res_m1 = call_openrouter(api_key, prompt_m1, images=imgs_m1)
             recon_m1 = extract_xml_tag(res_m1, "reconnaissance_matin")
             summaryMorning = extract_xml_tag(res_m1, "texte_matin")
             recon_lines.append(f"CARTE 1 — {FRENCH_WEEKDAYS[d1.weekday()].upper()} MATIN ({date_j1}) :\n{recon_m1}")
@@ -815,7 +835,8 @@ Instructions :
 """
         try:
             print(f"[{client_name}] Calling Gemini Flash for J1 Afternoon map...")
-            res_a1 = call_openrouter(api_key, prompt_a1, images=[img_a1])
+            imgs_a1 = [ref_board_b64, img_a1] if ref_board_b64 else [img_a1]
+            res_a1 = call_openrouter(api_key, prompt_a1, images=imgs_a1)
             recon_a1 = extract_xml_tag(res_a1, "reconnaissance_apresmidi")
             summaryAfternoon = extract_xml_tag(res_a1, "texte_apresmidi")
             recon_lines.append(f"CARTE 2 — {FRENCH_WEEKDAYS[d1.weekday()].upper()} APRÈS-MIDI ({date_j1}) :\n{recon_a1}")
@@ -849,7 +870,8 @@ Instructions :
 """
         try:
             print(f"[{client_name}] Calling Gemini Flash for J2 Morning map...")
-            res_m2 = call_openrouter(api_key, prompt_m2, images=[img_m2])
+            imgs_m2 = [ref_board_b64, img_m2] if ref_board_b64 else [img_m2]
+            res_m2 = call_openrouter(api_key, prompt_m2, images=imgs_m2)
             recon_m2 = extract_xml_tag(res_m2, "reconnaissance_matin2")
             summaryMorning2 = extract_xml_tag(res_m2, "texte_matin2")
             recon_lines.append(f"CARTE 3 — {FRENCH_WEEKDAYS[d2.weekday()].upper()} MATIN ({date_j2}) :\n{recon_m2}")
@@ -884,7 +906,8 @@ Instructions :
 """
         try:
             print(f"[{client_name}] Calling Gemini Flash for J2 Afternoon map...")
-            res_a2 = call_openrouter(api_key, prompt_a2, images=[img_a2])
+            imgs_a2 = [ref_board_b64, img_a2] if ref_board_b64 else [img_a2]
+            res_a2 = call_openrouter(api_key, prompt_a2, images=imgs_a2)
             recon_a2 = extract_xml_tag(res_a2, "reconnaissance_apresmidi2")
             summaryAfternoon2 = extract_xml_tag(res_a2, "texte_apresmidi2")
             recon_lines.append(f"CARTE 4 — {FRENCH_WEEKDAYS[d2.weekday()].upper()} APRÈS-MIDI ({date_j2}) :\n{recon_a2}")
