@@ -318,9 +318,9 @@ def main():
                     for key, val in ai_texts.items():
                         form[key] = val
                     
-                    # Anti-doublon : masquer todaySummary si summaryLancement est présent pour éviter la répétition au-dessus des cartes
-                    if "summaryLancement" in ai_texts and ai_texts["summaryLancement"]:
-                        form["todaySummary"] = ""
+                    # Conserver todaySummary tel que généré par le Prompt 2 officiel
+                    if "todaySummary" in ai_texts and ai_texts["todaySummary"]:
+                        form["todaySummary"] = ai_texts["todaySummary"]
                     
                     # Synchroniser surveillanceItems avec recordsRaw (bloc 4 lignes) pour éviter de dupliquer todaySummary
                     if "recordsRaw" in ai_texts and ai_texts["recordsRaw"]:
