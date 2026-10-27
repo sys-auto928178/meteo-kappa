@@ -776,17 +776,157 @@ def main():
     current_render = 0
     
     print("\nStarting automated map rendering...")
-    for day, period_key, period_name, param in renders:
-        actual_day = day + 1 if start_tomorrow else day
-        current_render += 1
-        print(f"[{current_render}/{total_renders}] Rendering J{actual_day} - {period_name.upper()} ({param})...")
-        
-        target_url = f"http://127.0.0.1:8001/index.html?headless=true&use_mf=true&day={day}&period={period_key}&zone={zone_key}&param={param}&auto_save=true"
-        if temp_highlight:
-            target_url += "&highlight=true"
+    use_playwright_turbo = False
+    try:
+        from playwright.sync_api import sync_playwright
+        use_playwright_turbo = True
+    except ImportError:
+        pass
+
+    if use_playwright_turbo:
+        try:
+            print("⚡ [Mode Turbo] Démarrage session Playwright réutilisable (zéro cold-start)...")
+            with sync_playwright() as p:
+                w_val = 1080 if orientation in ["portrait", "square"] else 1920
+                h_val = 1920 if orientation == "portrait" else 1080
+                browser = p.chromium.launch(
+                    headless=True,
+                    args=[
+                        "--disable-gpu",
+                        "--no-sandbox",
+                        "--disable-dev-shm-usage",
+                        "--mute-audio",
+                        "--hide-scrollbars",
+                        "--disable-background-networking"
+                    ]
+                )
+                context = browser.new_context(viewport={"width": w_val, "height": h_val})
+                page = context.new_page()
+
+                for day, period_key, period_name, param in renders:
+                    actual_day = day + 1 if start_tomorrow else day
+                    current_render += 1
+                    print(f"[{current_render}/{total_renders}] Rendering J{actual_day} - {period_name.upper()} ({param})...")
+                    
+                    target_url = f"http://127.0.0.1:8001/index.html?headless=true&use_mf=true&day={day}&period={period_key}&zone={zone_key}&param={param}&auto_save=true"
+                    if temp_highlight:
+                        target_url += "&highlight=true"
+                    if orientation != 'landscape':
+                        target_url += f"&orientation={orientation}"
+                        
+                    save_done_event.clear()
+                    try:
+                        page.goto(target_url, wait_until="commit", timeout=15000)
+                    except Exception as ge:
+                        pass
+                    success = save_done_event.wait(timeout=30)
+                    
+                    if success and saved_image_data:
+                        suffix = f"_{orientation}" if orientation != "landscape" else ""
+                        filename = f"carte_{zone_key}_J{actual_day}_{period_name}{suffix}.jpg" if zone_key != "france_pictos" else f"carte_J{actual_day}_{period_name}{suffix}.jpg"
+                        filepath = os.path.join(DEST_DIR, filename)
+                        with open(filepath, 'wb') as f_img:
+                            f_img.write(saved_image_data['data'])
+                        print(f"   -> Saved: {filepath}")
+                    else:
+                        print(f"   -> Error: Timeout waiting for render of J{actual_day} {period_name}.")
+
+                # Ephemeride
+                print(f"\n[{total_renders+1}/{total_renders+1}] Rendering J0 - EPHEMERIDE...")
+                target_url = f"http://127.0.0.1:8001/index.html?headless=true&use_mf=true&day=0&period=ephemeride&zone={zone_key}&auto_save=true"
+                if orientation != 'landscape':
+                    target_url += f"&orientation={orientation}"
+                save_done_event.clear()
+                try:
+                    page.goto(target_url, wait_until="commit", timeout=15000)
+                except Exception as ge:
+                    pass
+                success = save_done_event.wait(timeout=30)
+                if success and saved_image_data:
+                    suffix = f"_{orientation}" if orientation != "landscape" else ""
+                    filename = f"carte_{zone_key}_ephemeride{suffix}.jpg" if zone_key != "france_pictos" else f"carte_ephemeride{suffix}.jpg"
+                    filepath = os.path.join(DEST_DIR, filename)
+                    with open(filepath, 'wb') as f_img:
+                        f_img.write(saved_image_data['data'])
+                    print(f"   -> Saved: {filepath}")
+                else:
+                    print("   -> Error: Timeout waiting for render of ephemeride.")
+                browser.close()
+        except Exception as e:
+            print(f"Playwright pool exception: {e}, falling back to standard Chrome launcher...")
+            use_playwright_turbo = False
+
+    if not use_playwright_turbo:
+        for day, period_key, period_name, param in renders:
+            actual_day = day + 1 if start_tomorrow else day
+            current_render += 1
+            print(f"[{current_render}/{total_renders}] Rendering J{actual_day} - {period_name.upper()} ({param})...")
+            
+            target_url = f"http://127.0.0.1:8001/index.html?headless=true&use_mf=true&day={day}&period={period_key}&zone={zone_key}&param={param}&auto_save=true"
+            if temp_highlight:
+                target_url += "&highlight=true"
+            if orientation != 'landscape':
+                target_url += f"&orientation={orientation}"
+                
+            save_done_event.clear()
+            
+            w_size = "1080,1920" if orientation == "portrait" else ("1080,1080" if orientation == "square" else "1920,1080")
+            args = [
+                CHROME_PATH,
+                "--headless=new",
+                "--disable-gpu",
+                "--no-sandbox",
+                "--disable-dev-shm-usage",
+                f"--window-size={w_size}",
+                "--force-device-scale-factor=1",
+                "--mute-audio",
+                "--hide-scrollbars",
+                "--enable-logging",
+                "--disable-background-networking",
+                "--disable-default-apps",
+                "--disable-sync",
+                "--no-first-run",
+                "--disable-extensions",
+                f"--user-data-dir={chrome_profile_dir}_{current_render}",
+                target_url
+            ]
+            
+            creationflags = 0x08000000 if os.name == 'nt' else 0
+            proc = subprocess.Popen(args, stdout=subprocess.PIPE, stderr=subprocess.PIPE, creationflags=creationflags)
+            
+            def log_chrome(p):
+                try:
+                    for line in p.stderr:
+                        print("  [Chrome Err]", line.decode('utf-8', errors='ignore').strip())
+                except:
+                    pass
+            threading.Thread(target=log_chrome, args=(proc,), daemon=True).start()
+            
+            success = save_done_event.wait(timeout=45)
+            proc.terminate()
+            try:
+                proc.wait(timeout=2)
+            except subprocess.TimeoutExpired:
+                proc.kill()
+                
+            if success and saved_image_data:
+                suffix = f"_{orientation}" if orientation != "landscape" else ""
+                filename = f"carte_{zone_key}_J{actual_day}_{period_name}{suffix}.jpg" if zone_key != "france_pictos" else f"carte_J{actual_day}_{period_name}{suffix}.jpg"
+                filepath = os.path.join(DEST_DIR, filename)
+                with open(filepath, 'wb') as f_img:
+                    f_img.write(saved_image_data['data'])
+                print(f"   -> Saved: {filepath}")
+            else:
+                print(f"   -> Error: Timeout waiting for render of J{actual_day} {period_name}.")
+                
+            time.sleep(0.5)
+
+        # 4. Render ephemeris card (J0) at the end of the bulletin
+        print(f"\n[{total_renders+1}/{total_renders+1}] Rendering J0 - EPHEMERIDE...")
+        target_url = f"http://127.0.0.1:8001/index.html?headless=true&use_mf=true&day=0&period=ephemeride&zone={zone_key}&auto_save=true"
         if orientation != 'landscape':
             target_url += f"&orientation={orientation}"
-            
+        
         save_done_event.clear()
         
         w_size = "1080,1920" if orientation == "portrait" else ("1080,1080" if orientation == "square" else "1920,1080")
@@ -794,34 +934,21 @@ def main():
             CHROME_PATH,
             "--headless=new",
             "--disable-gpu",
-            "--no-sandbox",
-            "--disable-dev-shm-usage",
             f"--window-size={w_size}",
             "--force-device-scale-factor=1",
             "--mute-audio",
             "--hide-scrollbars",
-            "--enable-logging",
             "--disable-background-networking",
             "--disable-default-apps",
             "--disable-sync",
             "--no-first-run",
             "--disable-extensions",
-            f"--user-data-dir={chrome_profile_dir}_{current_render}",
+            f"--user-data-dir={chrome_profile_dir}_eph",
             target_url
         ]
         
         creationflags = 0x08000000 if os.name == 'nt' else 0
-        proc = subprocess.Popen(args, stdout=subprocess.PIPE, stderr=subprocess.PIPE, creationflags=creationflags)
-        
-        # Print Chrome output in background thread to see warnings/errors
-        def log_chrome(p):
-            try:
-                for line in p.stderr:
-                    print("  [Chrome Err]", line.decode('utf-8', errors='ignore').strip())
-            except:
-                pass
-        threading.Thread(target=log_chrome, args=(proc,), daemon=True).start()
-        
+        proc = subprocess.Popen(args, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, creationflags=creationflags)
         success = save_done_event.wait(timeout=45)
         proc.terminate()
         try:
@@ -830,62 +957,14 @@ def main():
             proc.kill()
             
         if success and saved_image_data:
-            # Regional maps are prefixed, national maps keep default filenames
             suffix = f"_{orientation}" if orientation != "landscape" else ""
-            filename = f"carte_{zone_key}_J{actual_day}_{period_name}{suffix}.jpg" if zone_key != "france_pictos" else f"carte_J{actual_day}_{period_name}{suffix}.jpg"
+            filename = f"carte_{zone_key}_ephemeride{suffix}.jpg" if zone_key != "france_pictos" else f"carte_ephemeride{suffix}.jpg"
             filepath = os.path.join(DEST_DIR, filename)
             with open(filepath, 'wb') as f_img:
                 f_img.write(saved_image_data['data'])
             print(f"   -> Saved: {filepath}")
         else:
-            print(f"   -> Error: Timeout waiting for render of J{actual_day} {period_name}.")
-            
-        time.sleep(0.5)
-
-    # 4. Render ephemeris card (J0) at the end of the bulletin
-    print(f"\n[{total_renders+1}/{total_renders+1}] Rendering J0 - EPHEMERIDE...")
-    target_url = f"http://127.0.0.1:8001/index.html?headless=true&use_mf=true&day=0&period=ephemeride&zone={zone_key}&auto_save=true"
-    if orientation != 'landscape':
-        target_url += f"&orientation={orientation}"
-    
-    save_done_event.clear()
-    
-    w_size = "1080,1920" if orientation == "portrait" else ("1080,1080" if orientation == "square" else "1920,1080")
-    args = [
-        CHROME_PATH,
-        "--headless=new",
-        "--disable-gpu",
-        f"--window-size={w_size}",
-        "--force-device-scale-factor=1",
-        "--mute-audio",
-        "--hide-scrollbars",
-        "--disable-background-networking",
-        "--disable-default-apps",
-        "--disable-sync",
-        "--no-first-run",
-        "--disable-extensions",
-        f"--user-data-dir={chrome_profile_dir}_eph",
-        target_url
-    ]
-    
-    creationflags = 0x08000000 if os.name == 'nt' else 0
-    proc = subprocess.Popen(args, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, creationflags=creationflags)
-    success = save_done_event.wait(timeout=45)
-    proc.terminate()
-    try:
-        proc.wait(timeout=2)
-    except subprocess.TimeoutExpired:
-        proc.kill()
-        
-    if success and saved_image_data:
-        suffix = f"_{orientation}" if orientation != "landscape" else ""
-        filename = f"carte_{zone_key}_ephemeride{suffix}.jpg" if zone_key != "france_pictos" else f"carte_ephemeride{suffix}.jpg"
-        filepath = os.path.join(DEST_DIR, filename)
-        with open(filepath, 'wb') as f_img:
-            f_img.write(saved_image_data['data'])
-        print(f"   -> Saved: {filepath}")
-    else:
-        print("   -> Error: Timeout waiting for render of ephemeride.")
+            print("   -> Error: Timeout waiting for render of ephemeride.")
 
     # 5. Capture vigilance map at the end
     print(f"\nRendering vigilance map for {zone_key}...")
