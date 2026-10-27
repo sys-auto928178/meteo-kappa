@@ -21,8 +21,8 @@ def normalize_city(name):
     s = str(name).strip().lower()
     return ''.join(c for c in unicodedata.normalize('NFD', s) if unicodedata.category(c) != 'Mn')
 
-OPENROUTER_MODEL = "deepseek/deepseek-v4-flash"
-OPENROUTER_VISION_MODEL = os.environ.get("OPENROUTER_VISION_MODEL", "google/gemini-2.5-flash")
+OPENROUTER_MODEL = os.environ.get("OPENROUTER_MODEL", "openai/gpt-6.1-terra")
+OPENROUTER_VISION_MODEL = os.environ.get("OPENROUTER_VISION_MODEL", "openai/gpt-6.1-terra")
 OPENROUTER_API_URL = "https://openrouter.ai/api/v1/chat/completions"
 
 
@@ -69,9 +69,7 @@ def read_meteofrance_local_data():
                                 import math
                                 tmin = int(math.floor(float(row.get("temperature_2m_min", 0)) + 0.5))
                                 tmax = int(math.floor(float(row.get("temperature_2m_max", 0)) + 0.5))
-                                raw_code = int(row.get("weathercode", 0))
-                                mf_to_wmo = {0: 0, 1: 1, 2: 2, 3: 3, 4: 3, 5: 2, 6: 80, 7: 61, 8: 65, 9: 71, 10: 95, 11: 96, 12: 45}
-                                code = mf_to_wmo.get(raw_code, raw_code)
+                                code = int(row.get("weathercode", 0))
                             except (ValueError, TypeError):
                                 continue
                                 
@@ -92,7 +90,7 @@ def fetch_weather_struct(cities, day_offset):
     """Fetch real weather struct, prioritizing official Météo-France CSV data with fallback to Open-Meteo."""
     if not cities:
         return []
-    selected = [c for c in cities if isinstance(c, dict) and "lat" in c and "lon" in c][:35]
+    selected = [c for c in cities if isinstance(c, dict) and "lat" in c and "lon" in c][:10]
     if not selected:
         return []
     mf_data = read_meteofrance_local_data()
@@ -173,8 +171,7 @@ def fetch_weather_struct(cities, day_offset):
                             import math
                             tmin = int(math.floor(d.get("temperature_2m_min", [0]*8)[day_offset] + 0.5))
                             tmax = int(math.floor(d.get("temperature_2m_max", [0]*8)[day_offset] + 0.5))
-                            wc_list = d.get("weather_code") or d.get("weathercode") or [0]*8
-                            code = int(wc_list[day_offset]) if len(wc_list) > day_offset else 0
+                            code = int(d.get("weathercode", [0]*8)[day_offset])
                     wind_raw = float(d["wind_speed_10m_max"][day_offset])
                     wind = int(round(wind_raw / 5.0) * 5)
                     gust_list = d.get("wind_gusts_10m_max", [])
@@ -240,6 +237,7 @@ def call_openrouter(api_key, prompt, images=None):
         "messages": messages,
         "temperature": 0.5,
         "max_tokens": 4000,
+        "reasoning": {"effort": "none"},
     }).encode("utf-8")
 
     headers = {
@@ -327,13 +325,9 @@ def generate_local_fallback_texts(client_name, cities, day_offset):
     def get_clean_region_name(cname):
         c = cname.strip().upper()
         if "ROCHELLE" in c or "NAQ" in c:
-            return "en Charente-Maritime et en Charente"
-        if "NORD" in c:
-            return "sur le Nord et le Pas-de-Calais"
-        if "6" in c:
-            return "sur la Côte d'Opale et les Flandres"
-        if "MONA" in c:
-            return "sur la métropole lilloise et le bassin minier"
+            return "en Charente-Maritime et sur le littoral"
+        if "NORD" in c or "6" in c or "MONA" in c:
+            return "sur les Hauts-de-France"
         if "NORMANDIE" in c or "SEINE" in c:
             return "sur la Normandie"
         if "BRETAGNE" in c or "BREIZH" in c:
@@ -416,45 +410,24 @@ def generate_local_fallback_texts(client_name, cities, day_offset):
     def get_trend_line(date_str, struct):
         if not struct:
             return f"▶ {date_str} : Temps ensoleillé et agréable. Minimales vers 15°C. Maximales atteignant 25°C. Vent modéré."
-        tmins = [s['tmin'] for s in struct]
-        tmaxs = [s['tmax'] for s in struct]
-        min_tmin = min(tmins) if tmins else 15
-        max_tmin = max(tmins) if tmins else 18
-        min_tmax = min(tmaxs) if tmaxs else 22
-        max_tmax = max(tmaxs) if tmaxs else 26
+        tmin = min(s['tmin'] for s in struct) if struct else 15
+        tmax = max(s['tmax'] for s in struct) if struct else 25
         code = max((s['code'] for s in struct), default=0)
         max_gust = max((s.get('gust', 0) for s in struct), default=0)
         gust_info = f" Attention aux rafales de vent atteignant {max_gust} km/h." if max_gust >= 40 else " Le vent souffle de manière modérée."
-        if code >= 90:
-            desc = "Temps instable avec des passages d'averses orageuses localement fortes."
-        elif code >= 80:
-            desc = "Ciel changeant avec des passages d'averses régulières."
+        if code >= 80:
+            desc = "Temps instable avec des passages d'averses orageuses."
         elif code >= 50:
-            desc = "Ciel très nuageux à couvert avec des pluies éparses."
-        elif code >= 70:
-            desc = "Passage perturbé avec des chutes de neige."
-        elif code in (45, 48):
-            desc = "Grisailles matinales et bancs de brouillard, suivis d'éclaircies."
-        elif max_tmax >= 32:
-            desc = "Poursuite d'une forte chaleur sous un soleil très généreux."
-        elif code <= 2:
+            desc = "Ciel nuageux à couvert avec des pluies éparses."
+        elif tmax >= 32:
+            desc = "Poursuite d'une forte chaleur sous un soleil généreux."
+        else:
             desc = "Temps calme, sec et largement lumineux."
-        else:
-            desc = "Ciel partagé entre belles éclaircies et passages nuageux inoffensifs."
-            
-        if max_tmin - min_tmin >= 3:
-            temp_min_str = f"Au lever du jour, les températures minimales s'échelonnent de {min_tmin}°C à {max_tmin}°C."
-        else:
-            avg_min = int(round(sum(tmins) / len(tmins)))
-            temp_min_str = f"Au lever du jour, les températures minimales oscillent autour de {avg_min}°C."
-            
-        if max_tmax - min_tmax >= 4:
-            temp_max_str = f"L'après-midi, le mercure affiche de {min_tmax}°C sur le littoral à {max_tmax}°C dans les terres sous abri."
-        else:
-            avg_max = int(round(sum(tmaxs) / len(tmaxs)))
-            temp_max_str = f"L'après-midi, le mercure grimpe jusqu'à {avg_max}°C sous abri."
-
-        return f"▶ {date_str} : {desc} {temp_min_str} {temp_max_str}{gust_info}"
+        return (
+            f"▶ {date_str} : {desc} "
+            f"Au lever du jour, les températures minimales oscillent autour de {tmin}°C. "
+            f"L'après-midi, le mercure grimpe jusqu'à {tmax}°C sous abri.{gust_info}"
+        )
 
     forecast_raw = (
         f"📉 Tendance – 3 jours suivants ({date_j3} au {date_j5})\n\n"
@@ -485,12 +458,8 @@ def generate_local_fallback_texts(client_name, cities, day_offset):
     # Météo Plages et Marine dynamiques calculées à partir des données réelles du jour
     max_wind_j1 = max((s.get('wind', 15) for s in j1_struct), default=15)
     max_gust_j1 = max((s.get('gust', 20) for s in j1_struct), default=20)
-    # Filtrage des stations strictement littorales pour les températures de plage et d'eau
-    coastal_kws = ["rochelle", "chassiron", "oleron", "oler", "re", "royan", "rochefort", "marennes", "dunkerque", "calais", "boulogne", "touquet", "berck", "havre", "dieppe", "cherbourg"]
-    coastal_sub = [s for s in j1_struct if any(k in s['city'].lower() for k in coastal_kws)]
-    target_sub = coastal_sub if coastal_sub else j1_struct
-    coastal_max_t = max((s['tmax'] for s in target_sub), default=24)
-    coastal_min_t = min((s['tmin'] for s in target_sub), default=15)
+    coastal_max_t = max((s['tmax'] for s in j1_struct), default=24)
+    coastal_min_t = min((s['tmin'] for s in j1_struct), default=15)
     
     if max_wind_j1 >= 25:
         sea_state_desc = "Mer peu agitée à agitée au large (vagues 0.8m à 1.3m), prudence pour la baignade"
@@ -640,42 +609,6 @@ def get_client_region_prefix(client_name):
     return ""
 
 
-def get_client_editorial_guidelines(client_name):
-    """Fournit le cadre éditorial et le ciblage géographique strict pour chaque station."""
-    c = client_name.strip().upper()
-    if "ROCHELLE" in c:
-        return (
-            "ZONE GÉOGRAPHIQUE STRICTE : Charente-Maritime (17) et Charente (16) exclusivement.\n"
-            "- Villes repères autorisées : La Rochelle, Rochefort, Saintes, Royan, Île de Ré, Île d'Oléron, Jonzac, Saint-Jean-d'Angély, Angoulême, Cognac.\n"
-            "- Cible : Distingue nettement les températures du littoral charentais (brise marine) des terres charentaises.\n"
-            "- ⛔ INTERDICTION FORMELLE de commenter ou citer les autres départements de Nouvelle-Aquitaine (Bordeaux, Pau, Bayonne, Limoges, etc.)."
-        )
-    elif "NORD" in c:
-        return (
-            "ZONE GÉOGRAPHIQUE STRICTE : Nord (59) et Pas-de-Calais (62) exclusivement.\n"
-            "- PARITÉ 50/50 OBLIGATOIRE : Cite un équilibre de villes du Nord (Lille, Dunkerque, Valenciennes, Douai, Maubeuge, Cambrai) "
-            "et du Pas-de-Calais (Arras, Calais, Boulogne-sur-Mer, Le Touquet, Lens, Béthune, Saint-Omer).\n"
-            "- Cible : Distingue nettement le littoral de la Côte d'Opale / Flandre maritime de l'intérieur des terres."
-        )
-    elif "MONA" in c:
-        return (
-            "ZONE GÉOGRAPHIQUE : Métropole Européenne de Lille, Flandres et Bassin Minier (Lille, Roubaix, Tourcoing, Douai, Lens, Armentières, Béthune, Valenciennes)."
-        )
-    elif "RADIO 6" in c:
-        return (
-            "ZONE GÉOGRAPHIQUE : Littoral de la Côte d'Opale (Dunkerque, Calais, Boulogne-sur-Mer, Le Touquet, Berck) et Flandre maritime / Artois."
-        )
-    elif "NORMANDIE" in c:
-        return (
-            "ZONE GÉOGRAPHIQUE : Normandie (Seine-Maritime, Calvados, Manche, Eure, Orne : Rouen, Caen, Le Havre, Cherbourg, Évreux, Alençon, Dieppe, Lisieux)."
-        )
-    elif "EUROPE" in c:
-        return (
-            "ZONE GÉOGRAPHIQUE : France entière (National). Équilibre Nord/Sud et Est/Ouest."
-        )
-    return "ZONE GÉOGRAPHIQUE : Régionale."
-
-
 def generate_bulletin_texts(client_name, cities, day_offset, images=None):
     """Generate rich AI forecast texts using OpenRouter / Vision multimodal models, with bulletproof deterministic fallback."""
     local_fallback = generate_local_fallback_texts(client_name, cities, day_offset)
@@ -784,8 +717,6 @@ def generate_bulletin_texts(client_name, cities, day_offset, images=None):
     if img_m1:
         prompt_m1 = f"""Tu es un journaliste météo de presse écrite. Rédige l'article d'information météo pour la MATINÉE du {date_j1} ({FRENCH_WEEKDAYS[d1.weekday()]}) pour "{client_name}".
 
-{get_client_editorial_guidelines(client_name)}
-
 Règles de style journalistique OBLIGATOIRES :
 - Tone : Journalistique, factuel, fluide, élégant et descriptif.
 - ⛔ INTERDICTION ABSOLUE des fioritures et salutations radiophoniques ou orales ("Bonjour à tous", "Bienvenue sur...", "C'est votre présentateur...", "voici vos prévisions", "profitez bien", "à très vite", etc.).
@@ -822,8 +753,6 @@ Instructions :
     summaryAfternoon = ""
     if img_a1:
         prompt_a1 = f"""Tu es un journaliste météo de presse écrite. Rédige l'article d'information météo pour l'APRÈS-MIDI du {date_j1} ({FRENCH_WEEKDAYS[d1.weekday()]}) pour "{client_name}".
-
-{get_client_editorial_guidelines(client_name)}
 
 Règles de style journalistique OBLIGATOIRES :
 - Tone : Journalistique, factuel, fluide, élégant et descriptif.
@@ -862,8 +791,6 @@ Instructions :
     if img_m2:
         prompt_m2 = f"""Tu es un journaliste météo de presse écrite. Rédige l'article d'information météo pour la MATINÉE du {date_j2} ({FRENCH_WEEKDAYS[d2.weekday()]}) pour "{client_name}".
 
-{get_client_editorial_guidelines(client_name)}
-
 Règles de style journalistique OBLIGATOIRES :
 - Tone : Journalistique, factuel, fluide et descriptif.
 - ⛔ INTERDICTION ABSOLUE des fioritures et salutations radiophoniques ou orales ("Bonjour à tous", "Bienvenue sur...", "profitez bien", etc.). Rédige à la 3ème personne.
@@ -897,8 +824,6 @@ Instructions :
     summaryAfternoon2 = ""
     if img_a2:
         prompt_a2 = f"""Tu es un journaliste météo de presse écrite. Rédige l'article d'information météo pour l'APRÈS-MIDI du {date_j2} ({FRENCH_WEEKDAYS[d2.weekday()]}) pour "{client_name}".
-
-{get_client_editorial_guidelines(client_name)}
 
 Règles de style journalistique OBLIGATOIRES :
 - Tone : Journalistique, factuel, fluide et descriptif.
@@ -934,8 +859,6 @@ Instructions :
     recon_final = "\n\n".join(recon_lines)
     prompt_syn = f"""Tu es un journaliste météo senior de presse écrite. Rédige le résumé de la journée, les phrases de lancement et la tendance à 3 jours pour le bulletin d'information "{client_name}".
 
-{get_client_editorial_guidelines(client_name)}
-
 Date cible principale (Jour 1) : {date_j1} ({FRENCH_WEEKDAYS[d1.weekday()]})
 Date cible Jour 2 : {date_j2} ({FRENCH_WEEKDAYS[d2.weekday()]})
 
@@ -966,15 +889,11 @@ Instructions OBLIGATOIRES (Style journalistique strict & complet) :
 1. Remplis la balise <todaySummary> (STRICTEMENT 3 à 5 phrases). Rédige UNIQUEMENT L'ESSENTIEL DE LA JOURNÉE À RETENIR pour le grand public (phénomène marquant, températures min/max, vent). ⛔ INTERDICTION FORMELLE de citer des noms de code de clients ou stations radio. Doit commencer par un titre percutant en MAJUSCULES (ex: "🌤️ L'ESSENTIEL DE CE {FRENCH_WEEKDAYS[d1.weekday()].upper()} : ...").
 
 2. Remplis la balise <forecastRaw> avec la TENDANCE SÉPARÉE JOUR PAR JOUR du Jour 3 au Jour 5 ({date_j3}, {date_j4}, {date_j5}). 
-   ATTENTION RÈGLE STRICTE DE RÉDACTION : Pour chaque jour de la tendance, rédige un paragraphe détaillé et précis de 3 à 4 phrases (environ 35 à 45 mots par jour) détaillant le ciel, le vent (et rafales si ≥ 40 km/h) et les températures (avec nuance littoral/terres si applicable).
+   ATTENTION RÈGLE STRICTE DE LONGUEUR : Pour chaque jour de la tendance, rédige STRICTEMENT 2 à 3 phrases courtes et percutantes. Interdit de regrouper deux jours ou d'utiliser "temps comparable".
    Format exact :
-   📉 Tendance – 3 jours suivants ({date_j3} au {date_j5})
-
-   ▶ {date_j3} : [Paragraphe détaillé]
-
-   ▶ {date_j4} : [Paragraphe détaillé]
-
-   ▶ {date_j5} : [Paragraphe détaillé]
+   ▶ {date_j3} : [2 à 3 phrases sur le ciel, le vent et les températures]
+   ▶ {date_j4} : [2 à 3 phrases sur le ciel, le vent et les températures]
+   ▶ {date_j5} : [2 à 3 phrases sur le ciel, le vent et les températures]
 
 3. Remplis la balise <summaryLancement> avec un TITRE DE PRESSE EN MAJUSCULES SUIVI D'UNE PHRASE D'ACCROCHE RÉSUMANT LA PRÉVISION DU JOUR 1 ({FRENCH_WEEKDAYS[d1.weekday()]}) (ex: "☀️ SOLEIL ET CHALEUR ESTIVALE : Un ciel très dégagé s'impose sur la région ce {FRENCH_WEEKDAYS[d1.weekday()]}, avec des températures maximales très douces.").
 
@@ -1064,11 +983,9 @@ Instructions OBLIGATOIRES (Style journalistique strict & complet) :
         if not v or word_count < min_words:
             print(f"Warning: Field '{k}' missing or short ({word_count} words < {min_words}) from AI, filling with local fallback.")
             result[k] = local_fallback.get(k, "")
-        elif k == "forecastRaw":
-            has_all_days = all(f"▶ {dj}" in v for dj in [date_j3, date_j4, date_j5])
-            if not has_all_days or word_count < 60:
-                print(f"Warning: Trend (forecastRaw) from AI was incomplete or short ({word_count} words). Replacing with local fallback.")
-                result[k] = local_fallback[k]
+        elif k == "forecastRaw" and word_count < 120:
+            print(f"Warning: Trend (forecastRaw) from AI was too short ({word_count} words < 120). Replacing with local fallback.")
+            result[k] = local_fallback[k]
         elif k in ["summaryMorning", "todaySummary"] and FRENCH_WEEKDAYS[d1.weekday()] not in v[:150].lower():
             print(f"Warning: AI {k} had wrong start ('{v[:30]}...'), replacing with exact local fallback.")
             result[k] = local_fallback[k]
