@@ -232,12 +232,20 @@ def call_openrouter(api_key, prompt, images=None):
         model = OPENROUTER_MODEL
         messages = [{"role": "user", "content": prompt}]
 
-    payload = json.dumps({
+    payload_dict = {
         "model": model,
         "messages": messages,
-        "temperature": 0.5,
         "max_tokens": 4000,
-    }).encode("utf-8")
+    }
+    # Si modèle de raisonnement OpenAI (Terra / GPT / o1 / o3)
+    if not (images and any(images)) and any(k in model.lower() for k in ["terra", "o1", "o3", "gpt-5", "gpt-6"]):
+        effort = os.environ.get("REASONING_EFFORT", "high")
+        payload_dict["reasoning"] = {"effort": effort}
+        print(f"   [Terra Rédaction 🧠] Raisonnement activé au niveau maximal : effort = {effort}")
+    else:
+        payload_dict["temperature"] = 0.5
+
+    payload = json.dumps(payload_dict).encode("utf-8")
 
     headers = {
         "Authorization": f"Bearer {api_key}",
@@ -718,20 +726,24 @@ def generate_bulletin_texts(client_name, cities, day_offset, images=None):
 
     local_fallback = generate_local_fallback_texts(client_name, cities, day_offset)
 
-    picto_guide = """RÉFÉRENTIEL DES 13 PICTOGRAMMES DE LA BANQUE D'IMAGES (À RECONNAÎTRE ABSOLUMENT) :
-  1. "orages.png" (CRITIQUE) : Représente un nuage sombre zébré d'un éclair (foudre) jaune/blanc très visible. Signifie un risque d'orages !
-  2. "Orages accompagnés de grêle.png" (CRITIQUE) : Représente un nuage avec un éclair et des grêlons (petits points blancs/noirs).
-  3. "P9 (averses).png" : Un nuage blanc avec des gouttes de pluie et un soleil jaune bien visible derrière.
-  4. "P10 (pluies faibles).png" : Un nuage blanc avec quelques fines gouttes de pluie.
-  5. "P11 (fortes pluies).png" : Un nuage gris avec de nombreuses lignes de pluie épaisses et denses.
-  6. "brouillards.png" : Trois lignes horizontales grises superposées sans nuage. Ciel bouché au sol.
-  7. "P1 (soleil).png" : Un grand soleil jaune éclatant sans aucun nuage.
-  8. "P2 (peu nuageux).png" : Un grand soleil avec un tout petit nuage blanc devant.
-  9. "P8 (nuageux).png" : Un soleil masqué de moitié par un nuage blanc.
-  10. "P4 (très nuageux).png" : Un gros nuage blanc couvrant.
-  11. "P5 (couvert).png" : Un double nuage gris superposé, ciel totalement fermé.
-  12. "P6 (soleil voilé).png" : Un soleil rayé de lignes horizontales fines (cirrus d'altitude).
-  13. "P12 (neige).png" : Un nuage blanc avec des flocons de neige (étoiles blanches)."""
+    picto_guide = """RÉFÉRENTIEL OFFICIEL DES 13 PICTOGRAMMES (BANQUE OFFICIELLE METEO-KAPPA) :
+  1. "P1 (soleil).png" : Grand soleil éclatant jaune d'or sur fond bleu, sans aucun nuage. -> Temps ensoleillé franc, ciel bleu.
+  2. "P2 (peu nuageux).png" : Soleil dominant avec un tout petit cumulus blanc discret. -> Ciel largement ensoleillé, rares cumulus.
+  3. "P8 (nuageux).png" : Soleil masqué de moitié par un nuage blanc avec ombres. -> Belles éclaircies et passages nuageux (ciel partagé).
+  4. "P4 (très nuageux).png" : Dominante de nuages grisâtres denses masquant le soleil avec juste un petit éclat. -> Ciel très nuageux, courtes éclaircies.
+  5. "P5 (couvert).png" (⚠️ GRISAILLE) : Double couche de nuages GRIS SOMBRE/FONCÉ sans aucun soleil ni rayon (0% jaune). -> Ciel totalement couvert, bouché, grisaille uniforme.
+  6. "P6 (soleil voilé).png" (⚠️ CIEL VOILÉ) : Voile nuageux BLANC LAITEUX lumineux avec le SOLEIL BIEN VISIBLE EN TRANSPARENCE ou sous le voile blanc. -> Ciel voilé mais lumineux, soleil tamisé par des nuages d'altitude (CE N'EST PAS un ciel couvert !).
+  7. "P9 (averses).png" : Nuage avec des gouttes de pluie bleu foncé et un soleil jaune bien visible derrière. -> Averses entrecoupées d'éclaircies.
+  8. "P10 (pluies faibles).png" : Nuage gris/blanc avec de fines gouttes de pluie continues. -> Ciel gris, pluies faibles ou bruines.
+  9. "P11 (fortes pluies).png" : Nuage gris sombre avec des lignes de pluie denses et soutenues. -> Pluies continues soutenues ou abondantes.
+  10. "P12 (neige).png" : Nuage avec des cristaux/flocons de neige (étoiles blanches). -> Chutes de neige ou averses neigeuses.
+  11. "orages.png" (⚠️ CRITIQUE) : Nuage sombre zébré d'un éclair / coup de foudre jaune/blanc très visible. -> Risque d'orages, foudre.
+  12. "Orages accompagnés de grêle.png" (⚠️ CRITIQUE) : Nuage zébré d'un éclair avec des grêlons (billes blanches/noires). -> Orages violents avec risque de grêle.
+  13. "brouillards.png" : Trois nappes horizontales grises/blanches superposées au ras du sol. -> Brumes denses ou brouillards réduisant la visibilité.
+
+⚠️ DISTINCTION STRICTE CIEL COUVERT vs SOLEIL VOILÉ :
+- Si la silhouette est un nuage GRIS FONCÉ/SOMBRE sans aucun soleil : c'est impérativement P5 (couvert) -> décris un ciel couvert, sombre, sans éclaircie.
+- Si la silhouette est un voile BLANC LAITEUX avec le disque ou halo du soleil jaune présent : c'est impérativement P6 (soleil voilé) -> décris un ciel voilé mais lumineux, soleil tamisé, ensoleillement filtré."""
 
     # Split images list
     img_m1 = vision_images[0] if (vision_images and len(vision_images) > 0) else None
