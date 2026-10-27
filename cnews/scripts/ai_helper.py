@@ -444,15 +444,45 @@ def generate_local_fallback_texts(client_name, cities, day_offset):
         f"🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement."
     )
 
-    mountain_text = (
-        f"🏔️ Météo montagne\n\n"
-        f"    Alpes : Chaleur marquée en vallée ce {wd1} et risque d'orages isolés en fin de journée, particulièrement sur les Alpes du Sud l'après-midi.\n\n"
-        f"    Pyrénées : Soleil dominant en matinée de ce {wd1}, avant des cumulus bourgeonnants et un risque d'averses orageuses sur les crêtes dans l'après-midi et ce {wd2}.\n\n"
-        f"    Massif central : Ambiance lourde et estivale ce {wd1}. Instabilité en fin d'après-midi avec un risque d'ondées localisées sur les sommets.\n\n"
-        f"    Vosges : Temps très chaud et généreusement ensoleillé ce {wd1}. Quelques nuages de beau temps l'après-midi sans intempérie.\n\n"
-        f"    Jura : Chaleur estivale et soleil dominant ce {wd1}, avant quelques passages nuageux inoffensifs en soirée.\n\n"
-        f"    Corse : Grand beau temps ensoleillé et très chaud sur les sommets comme sur le littoral pour cette journée du {date_j1}."
-    )
+    # Mountain text : uniquement pour le client national (Europe 1), calibré selon la saison réelle
+    is_national = "EUROPE" in client_name.upper() or "NATIONAL" in client_name.upper()
+    if not is_national:
+        mountain_text = ""
+        mountain_title = ""
+    else:
+        mountain_title = f"🏔️ MÉTÉO DES MONTAGNES DU {date_j1.upper()}"
+        month = d1.month
+        if month in [11, 12, 1, 2, 3]:  # Hiver
+            alpes_desc = f"Conditions froides et sèches ce {wd1}. Gelées matinales généralisées en altitude, températures maximales fraîches en vallée. Isotherme 0°C oscillant vers 2200m."
+            pyrenees_desc = f"Ciel bien dégagé ce {wd1}. Fraîcheur vive sur les sommets avec un vent de crête modéré. Inversion thermique possible en matinée."
+            mc_desc = f"Temps lumineux mais piquant ce {wd1}. Brumes matinales dans les creux, journée fraîche et dégagée sur les crêtes."
+            vosges_desc = f"Atmosphère vivifiante et ensoleillée ce {wd1}. Gelées blanches au lever du jour, après-midi sèche et calme."
+            jura_desc = f"Temps sec et froid ce {wd1}. Beau soleil sur les plateaux après dissipation des grisailles locales."
+            corse_desc = f"Beau temps dominant sur le relief corse ce {wd1}, vent d'altitude modéré sur les cols."
+        elif month in [9, 10, 4]:  # Automne / Printemps
+            alpes_desc = f"Ambiance fraîche en altitude ce {wd1} avec de belles éclaircies après dissipation des bancs de brume matinaux en vallée. Isotherme 0°C autour de 2800 m, vent faible sur les crêtes."
+            pyrenees_desc = f"Soleil prédominant en matinée ce {wd1}, voilé par quelques nuages élevés sans intempérie. Températures douces en piémont et fraîches en haute altitude."
+            mc_desc = f"Matinée fraîche avec quelques inversions thermiques ce {wd1}, suivie d'un après-midi lumineux et doux sur les plateaux."
+            vosges_desc = f"Temps calme et ensoleillé ce {wd1}. Fraîcheur matinale marquée, douceur agréable l'après-midi."
+            jura_desc = f"Belles éclaircies automnales ce {wd1} sur les crêtes et combes après quelques brouillards matinaux."
+            corse_desc = f"Temps très agréable et lumineux ce {wd1} sur les massifs insulaires, vent faible à modéré sur les crêtes."
+        else:  # Été
+            alpes_desc = f"Belle luminosité ce {wd1}, ambiance tempérée en altitude avec un faible risque d'ondées isolées en fin de journée sur les reliefs."
+            pyrenees_desc = f"Soleil dominant ce {wd1}, cumulus bourgeonnants l'après-midi sur les crêtes frontière."
+            mc_desc = f"Temps agréable et ensoleillé ce {wd1}, températures douces sur les plateaux."
+            vosges_desc = f"Beau temps estival ce {wd1}, ciel dégagé et vent faible."
+            jura_desc = f"Journée lumineuse et calme ce {wd1} sur l'ensemble du massif."
+            corse_desc = f"Grand soleil ce {wd1} sur les crêtes comme sur les côtes."
+
+        mountain_text = (
+            f"🏔️ Météo montagne\n\n"
+            f"    Alpes : {alpes_desc}\n\n"
+            f"    Pyrénées : {pyrenees_desc}\n\n"
+            f"    Massif central : {mc_desc}\n\n"
+            f"    Vosges : {vosges_desc}\n\n"
+            f"    Jura : {jura_desc}\n\n"
+            f"    Corse : {corse_desc}"
+        )
 
     # Météo Plages et Marine dynamiques calculées à partir des données réelles du jour
     max_wind_j1 = max((s.get('wind', 15) for s in j1_struct), default=15)
@@ -732,7 +762,7 @@ Données réelles pour ce matin :
 
 Instructions :
 1. Remplis la balise <reconnaissance_matin> avec la liste des villes visibles sur la carte et leur picto. Ex: "Lille = soleil, Douai = ORAGE ⚠️"
-2. Remplis la balise <texte_matin> avec ton commentaire journalistique de matinée (80-100 mots MAXIMUM). Doit commencer par "Ce {FRENCH_WEEKDAYS[d1.weekday()]} matin..." et citer 3-4 villes avec minimales réelles. Sois concis et percutant.
+2. Remplis la balise <texte_matin> avec ton article d'information matinale complet (150 à 180 mots). Doit commencer par "Ce {FRENCH_WEEKDAYS[d1.weekday()]} matin..." et citer 5 à 6 villes clés avec minimales réelles. Rédige un texte fluide, riche et descriptif, intégrant les ambiances régionales et littorales.
 """
         try:
             print(f"[{client_name}] Calling Gemini Flash for J1 Morning map...")
@@ -769,7 +799,7 @@ Données réelles pour cet après-midi :
 
 Instructions :
 1. Remplis la balise <reconnaissance_apresmidi> avec la liste des villes et leur picto.
-2. Remplis la balise <texte_apresmidi> avec ton commentaire d'après-midi (80-100 mots MAXIMUM). Doit commencer par "Ce {FRENCH_WEEKDAYS[d1.weekday()]} après-midi..." et citer 3-4 villes avec maximales réelles. Sois concis et percutant.
+2. Remplis la balise <texte_apresmidi> avec ton article d'information après-midi complet (150 à 180 mots). Doit commencer par "Ce {FRENCH_WEEKDAYS[d1.weekday()]} après-midi..." et citer 5 à 6 villes clés avec maximales réelles. Décris en détail l'évolution thermique, l'ensoleillement et les contrastes régionaux/côtiers.
 """
         try:
             print(f"[{client_name}] Calling Gemini Flash for J1 Afternoon map...")
@@ -793,7 +823,7 @@ Instructions :
 Règles de style journalistique OBLIGATOIRES :
 - Tone : Journalistique, factuel, fluide et descriptif.
 - ⛔ INTERDICTION ABSOLUE des fioritures et salutations radiophoniques ou orales ("Bonjour à tous", "Bienvenue sur...", "profitez bien", etc.). Rédige à la 3ème personne.
-- 80-100 mots MAXIMUM. Doit commencer par "Ce {FRENCH_WEEKDAYS[d2.weekday()]} matin..." et citer 3-4 villes avec minimales réelles. Sois concis et percutant.
+- 120 à 150 mots. Doit commencer par "Ce {FRENCH_WEEKDAYS[d2.weekday()]} matin..." et citer 4 à 5 villes avec minimales réelles.
 - ⚠️ Si des rafales de vent de 70 km/h ou plus (gust) sont indiquées dans les données ci-dessous, tu dois obligatoirement et expressément les citer (risque de vigilance vent fort). En dessous de 70 km/h, mentionne simplement le vent sans dramatiser.
 
 {picto_guide}
@@ -827,7 +857,7 @@ Instructions :
 Règles de style journalistique OBLIGATOIRES :
 - Tone : Journalistique, factuel, fluide et descriptif.
 - ⛔ INTERDICTION ABSOLUE des fioritures et salutations radiophoniques ou orales ("Bonjour à tous", "Bienvenue sur...", "profitez bien", etc.). Rédige à la 3ème personne.
-- 80-100 mots MAXIMUM. Doit commencer par "Ce {FRENCH_WEEKDAYS[d2.weekday()]} après-midi..." et citer 3-4 villes avec maximales réelles. Sois concis et percutant.
+- 120 à 150 mots. Doit commencer par "Ce {FRENCH_WEEKDAYS[d2.weekday()]} après-midi..." et citer 4 à 5 villes avec maximales réelles.
 - ⚠️ Si des rafales de vent de 70 km/h ou plus (gust) sont indiquées dans les données ci-dessous, tu dois obligatoirement et expressément les citer (risque de vigilance vent fort). En dessous de 70 km/h, mentionne simplement le vent sans dramatiser.
 - Si orage visible, mentionne-le expressément.
 
@@ -887,12 +917,25 @@ Instructions OBLIGATOIRES (Style journalistique strict & complet) :
 
 1. Remplis la balise <todaySummary> (STRICTEMENT 3 à 5 phrases). Rédige UNIQUEMENT L'ESSENTIEL DE LA JOURNÉE À RETENIR pour le grand public (phénomène marquant, températures min/max, vent). ⛔ INTERDICTION FORMELLE de citer des noms de code de clients ou stations radio. Doit commencer par un titre percutant en MAJUSCULES (ex: "🌤️ L'ESSENTIEL DE CE {FRENCH_WEEKDAYS[d1.weekday()].upper()} : ...").
 
-2. Remplis la balise <forecastRaw> avec la TENDANCE SÉPARÉE JOUR PAR JOUR du Jour 3 au Jour 5 ({date_j3}, {date_j4}, {date_j5}). 
-   ATTENTION RÈGLE STRICTE DE LONGUEUR : Pour chaque jour de la tendance, rédige STRICTEMENT 2 à 3 phrases courtes et percutantes. Interdit de regrouper deux jours ou d'utiliser "temps comparable".
+2. Remplis la balise <forecastRaw> avec la TENDANCE SÉPARÉE JOUR PAR JOUR du Jour 3 au Jour 5 ({date_j3}, {date_j4}, {date_j5}).
+   ATTENTION RÈGLE STRICTE DE RICHESSE ET DE LONGUEUR (180 à 250 mots au total) :
+   Commence obligatoirement par le titre :
+   📉 Tendance – 3 jours suivants ({date_j3} au {date_j5})
+
+   Pour CHAQUE jour de tendance ({date_j3}, {date_j4}, {date_j5}), rédige un paragraphe complet, vivant et personnalisé de 4 à 5 lignes détaillées (environ 60 à 80 mots par jour), intégrant impérativement :
+   - L'état précis du ciel et son évolution diurne (matin / après-midi) personnalisé selon les spécificités régionales (littoral, plaines, vallées, reliefs).
+   - Les températures minimales au réveil et les maximales sous abri l'après-midi, en citant les valeurs clés ou la fourchette thermique régionale.
+   - Les conditions de vent (direction, force) et la mention expresse et chiffrée des rafales si elles atteignent ou dépassent 40 km/h (ex: "rafales jusqu'à 45 km/h sur la côte"). Si les rafales sont < 40 km/h, indique un vent modéré ou faible sans alarmisme.
+   - ⛔ INTERDICTION FORMELLE d'abréger, de regrouper des jours ou d'utiliser des formules passives ("même temps", "temps comparable"). Chaque jour doit être décrit de façon unique et autonome.
+
    Format exact :
-   ▶ {date_j3} : [2 à 3 phrases sur le ciel, le vent et les températures]
-   ▶ {date_j4} : [2 à 3 phrases sur le ciel, le vent et les températures]
-   ▶ {date_j5} : [2 à 3 phrases sur le ciel, le vent et les températures]
+   📉 Tendance – 3 jours suivants ({date_j3} au {date_j5})
+
+   ▶ {date_j3} : [4 à 5 lignes détaillées avec ciel, évolution matin/après-midi, températures min/max et vent/rafales]
+
+   ▶ {date_j4} : [4 à 5 lignes détaillées avec ciel, évolution matin/après-midi, températures min/max et vent/rafales]
+
+   ▶ {date_j5} : [4 à 5 lignes détaillées avec ciel, évolution matin/après-midi, températures min/max et vent/rafales]
 
 3. Remplis la balise <summaryLancement> avec un TITRE DE PRESSE EN MAJUSCULES SUIVI D'UNE PHRASE D'ACCROCHE RÉSUMANT LA PRÉVISION DU JOUR 1 ({FRENCH_WEEKDAYS[d1.weekday()]}) (ex: "☀️ SOLEIL ET CHALEUR ESTIVALE : Un ciel très dégagé s'impose sur la région ce {FRENCH_WEEKDAYS[d1.weekday()]}, avec des températures maximales très douces.").
 
@@ -982,7 +1025,7 @@ Instructions OBLIGATOIRES (Style journalistique strict & complet) :
         if not v or word_count < min_words:
             print(f"Warning: Field '{k}' missing or short ({word_count} words < {min_words}) from AI, filling with local fallback.")
             result[k] = local_fallback.get(k, "")
-        elif k == "forecastRaw" and word_count < 120:
+        elif k == "forecastRaw" and word_count < 90:
             print(f"Warning: Trend (forecastRaw) from AI was too short ({word_count} words < 120). Replacing with local fallback.")
             result[k] = local_fallback[k]
         elif k in ["summaryMorning", "todaySummary"] and FRENCH_WEEKDAYS[d1.weekday()] not in v[:150].lower():
@@ -1004,5 +1047,6 @@ Instructions OBLIGATOIRES (Style journalistique strict & complet) :
     except Exception as e:
         print(f"Warning: fetch_marine failed: {e}")
 
+    result["forecastTextRaw"] = result["forecastRaw"]
     print(f"✅ Texts generated & verified successfully for '{client_name}'.")
     return result
