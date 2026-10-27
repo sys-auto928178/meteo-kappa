@@ -22,7 +22,7 @@ def get_base64_image(path):
 
 def run_map_generator(region, day_offset):
     zone = region if region else "france_pictos"
-    days = 2  # Radio bulletins only need J1 & J2 (4 maps per zone)
+    days = 5  # Radio bulletins J1 & J2 (matin+après-midi) + J3, J4, J5 (tendances après-midi)
     
     # Résolution relative d'abord (dépôt unifié) puis fallback absolu Windows
     script_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..", "meteo_cnews_2", "generate_meteofrance_maps.py"))
@@ -337,6 +337,17 @@ def main():
                 c["form"]["summaryMapMorningUrl2"] = f"{base_url}/{os.path.basename(map_morning_2)}"
             if img_a2:
                 c["form"]["summaryMapAfternoonUrl2"] = f"{base_url}/{os.path.basename(map_afternoon_2)}"
+            
+            # Injecter également les cartes Météo-France de tendances J3, J4, J5
+            map_j3 = os.path.join(maps_dir, f"carte_{reg_prefix}J{offset1+2}_apresmidi.jpg")
+            map_j4 = os.path.join(maps_dir, f"carte_{reg_prefix}J{offset1+3}_apresmidi.jpg")
+            map_j5 = os.path.join(maps_dir, f"carte_{reg_prefix}J{offset1+4}_apresmidi.jpg")
+            if os.path.exists(map_j3):
+                c["form"]["forecastMapUrl1"] = f"{base_url}/{os.path.basename(map_j3)}"
+            if os.path.exists(map_j4):
+                c["form"]["forecastMapUrl2"] = f"{base_url}/{os.path.basename(map_j4)}"
+            if os.path.exists(map_j5):
+                c["form"]["forecastMapUrl3"] = f"{base_url}/{os.path.basename(map_j5)}"
 
             # Inject forest fire risk map (regional map if available, fallback to national)
             zone_key = region if (region and region.strip()) else "france_pictos"
