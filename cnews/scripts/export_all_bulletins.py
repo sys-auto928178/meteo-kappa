@@ -339,9 +339,9 @@ def main():
                 c["form"]["summaryMapAfternoonUrl2"] = f"{base_url}/{os.path.basename(map_afternoon_2)}"
             
             # Injecter également les cartes Météo-France de tendances J3, J4, J5
-            map_j3 = os.path.join(maps_dir, f"carte_{reg_prefix}J{offset1+2}_apresmidi.jpg")
-            map_j4 = os.path.join(maps_dir, f"carte_{reg_prefix}J{offset1+3}_apresmidi.jpg")
-            map_j5 = os.path.join(maps_dir, f"carte_{reg_prefix}J{offset1+4}_apresmidi.jpg")
+            map_j3 = os.path.join(maps_dir, f"carte_{region_prefix}J{offset1+2}_apresmidi.jpg")
+            map_j4 = os.path.join(maps_dir, f"carte_{region_prefix}J{offset1+3}_apresmidi.jpg")
+            map_j5 = os.path.join(maps_dir, f"carte_{region_prefix}J{offset1+4}_apresmidi.jpg")
             if os.path.exists(map_j3):
                 c["form"]["forecastMapUrl1"] = f"{base_url}/{os.path.basename(map_j3)}"
             if os.path.exists(map_j4):
