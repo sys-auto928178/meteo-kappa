@@ -22,7 +22,7 @@ def normalize_city(name):
     return ''.join(c for c in unicodedata.normalize('NFD', s) if unicodedata.category(c) != 'Mn')
 
 OPENROUTER_MODEL = os.environ.get("OPENROUTER_MODEL", "openai/gpt-6.1-terra")
-OPENROUTER_VISION_MODEL = os.environ.get("OPENROUTER_VISION_MODEL", "openai/gpt-6.1-terra")
+OPENROUTER_VISION_MODEL = os.environ.get("OPENROUTER_VISION_MODEL", "google/gemini-2.5-flash")
 OPENROUTER_API_URL = "https://openrouter.ai/api/v1/chat/completions"
 
 
@@ -237,7 +237,6 @@ def call_openrouter(api_key, prompt, images=None):
         "messages": messages,
         "temperature": 0.5,
         "max_tokens": 4000,
-        "reasoning": {"effort": "none"},
     }).encode("utf-8")
 
     headers = {
@@ -994,6 +993,16 @@ Instructions OBLIGATOIRES (Style journalistique strict & complet) :
     for extra_key in ["recordsRaw", "mountain", "mountainTitle", "beach", "marine"]:
         if extra_key in local_fallback:
             result[extra_key] = local_fallback[extra_key]
+
+    # Inject real official Météo-France coastal marine bulletin
+    try:
+        from fetch_marine import get_marine_text_for_client
+        official_marine = get_marine_text_for_client(client_name, day_offset, date_j1)
+        if official_marine:
+            result["marine"] = official_marine
+            print(f" [fetch_marine] Bulletin officiel Météo-France injecté pour '{client_name}'")
+    except Exception as e:
+        print(f"Warning: fetch_marine failed: {e}")
 
     print(f"✅ Texts generated & verified successfully for '{client_name}'.")
     return result
