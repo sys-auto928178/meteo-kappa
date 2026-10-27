@@ -679,7 +679,8 @@ def main():
                 mock = weather_data_list[idx]
                 if not mock:
                     continue
-                for d in range(days_to_capture):
+                csv_days = min(len(mock["daily"]["time"]), max(7, days_to_capture))
+                for d in range(csv_days):
                     date_str = mock["daily"]["time"][d]
                     dt_obj = datetime.strptime(date_str, "%Y-%m-%d")
                     date_fmt = dt_obj.strftime("%d/%m/%Y")
