@@ -764,14 +764,15 @@ def main():
             (4, 'afternoon', 'apresmidi', 'weather_temp')
         ]
     else:
-        periods = {
-            'morning': 'matin',
-            'afternoon': 'apresmidi'
-        }
         renders = []
-        for day in range(days_to_capture):
-            for period_key, period_name in periods.items():
-                renders.append((day, period_key, period_name, 'weather_temp'))
+        # J1 et J2 : matin et après-midi
+        for day in range(min(2, days_to_capture)):
+            renders.append((day, 'morning', 'matin', 'weather_temp'))
+            renders.append((day, 'afternoon', 'apresmidi', 'weather_temp'))
+        # J3, J4, J5 (Tendances) : après-midi de synthèse
+        if days_to_capture > 2:
+            for day in range(2, min(5, days_to_capture)):
+                renders.append((day, 'afternoon', 'apresmidi', 'weather_temp'))
                 
     total_renders = len(renders)
     current_render = 0
