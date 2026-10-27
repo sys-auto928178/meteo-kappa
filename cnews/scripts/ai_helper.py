@@ -1534,10 +1534,12 @@ Accroche courte de la tendance à trois jours.
     # Filtre automatique (censure) anti-hallucination "canicule" et anti-salutations orales radiophoniques
     import re
     salut_patterns = [
+        r"^Bonjour[^\n,!.]*[,!.]?\s*",
         r"Bonjour à toutes et à tous[^\n,!.]*[,!.]?\s*",
         r"Bonjour à tous[^\n,!.]*[,!.]?\s*",
         r"Bonjour fidèles auditeurs[^\n,!.]*[,!.]?\s*",
         r"Bonjour à tous les auditeurs[^\n,!.]*[,!.]?\s*",
+        r"^(?:et\s+)?bienvenue\s+(?:pour|sur|dans|à)[^\n,!.]*[,!.]?\s*",
         r"Bienvenue sur [^\n,!.]*[,!.]?\s*",
         r"pour votre bulletin météo[^\n,!.]*[,!.]?\s*",
         r"C'est votre présentateur météo[^\n,!.]*[,!.]?\s*",
@@ -1573,6 +1575,12 @@ Accroche courte de la tendance à trois jours.
             # Purge des salutations et fioritures radiophoniques
             for pat in salut_patterns:
                 text = re.sub(pat, "", text, flags=re.IGNORECASE)
+            # Nettoyer un éventuel résidu d'accroche orale ('et ', 'et bienvenue...') en tête de texte
+            text = re.sub(r"^(?:et\s+|mais\s+|ainsi\s+)", "", text.strip(), flags=re.IGNORECASE).strip()
+            text = re.sub(r"^(?:bienvenue\s+(?:pour|sur|dans|à)[^.\n!?]*[.,!?]\s*)", "", text, flags=re.IGNORECASE).strip()
+            text = re.sub(r"^(?:et\s+|mais\s+|ainsi\s+)", "", text, flags=re.IGNORECASE).strip()
+            if text and text[0].islower():
+                text = text[0].upper() + text[1:]
             result[k] = text.strip()
 
 
@@ -1586,9 +1594,7 @@ Accroche courte de la tendance à trois jours.
         elif k == "forecastRaw" and word_count < 90:
             print(f"Warning: Trend (forecastRaw) from AI was too short ({word_count} words < 120). Replacing with local fallback.")
             result[k] = local_fallback[k]
-        elif k in ["summaryMorning", "todaySummary"] and FRENCH_WEEKDAYS[d1.weekday()] not in v[:150].lower():
-            print(f"Warning: AI {k} had wrong start ('{v[:30]}...'), replacing with exact local fallback.")
-            result[k] = local_fallback[k]
+
 
     # Attach dynamic phenomena, mountain, beach, and marine texts
     for extra_key in ["recordsRaw", "mountain", "mountainTitle", "beach", "marine"]:
