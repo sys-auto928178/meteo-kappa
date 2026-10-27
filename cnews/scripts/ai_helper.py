@@ -793,30 +793,144 @@ def generate_bulletin_texts(client_name, cities, day_offset, images=None):
     # Appel 1 : Matinée Jour 1 (Carte 1)
     summaryMorning = ""
     if img_m1:
-        prompt_m1 = f"""Tu es un journaliste météo de presse écrite. Rédige l'article d'information météo pour la MATINÉE du {date_j1} ({FRENCH_WEEKDAYS[d1.weekday()]}) pour "{client_name}".
+        prompt_m1 = f"""# PROMPT 1 — PRÉSENTATEUR MÉTÉO TV : MATINÉE
 
-Règles de style journalistique OBLIGATOIRES :
-- Tone : Journalistique, factuel, fluide, élégant et descriptif.
-- ⛔ INTERDICTION ABSOLUE des fioritures et salutations radiophoniques ou orales ("Bonjour à tous", "Bienvenue sur...", "C'est votre présentateur...", "voici vos prévisions", "profitez bien", "à très vite", etc.).
-- ⛔ Ne parle jamais au lecteur/auditeur à la 2ème personne (pas de "vous", "vos activités"). Rédige exclusivement à la 3ème personne.
-- ⚠️ RÈGLE D'OR DE COHÉRENCE AVEC LA CARTE (TEMPS SENSIBLE) :
-  La CARTE MÉTÉO (Image 2) comparée à la PLANCHE OFFICIELLE (Image 1) est la SEULE ET UNIQUE SOURCE DE VÉRITÉ pour l'état du ciel et les précipitations.
-  - Si le pictogramme d'une ville est du soleil (P1, P2), du soleil voilé (P6) ou des nuages (P8, P4) sans gouttes d'eau, tu dois DÉCRIRE UN TEMPS SEC ET LUMINEUX / VOILÉ / NUAGEUX, SANS AUCUNE PLUIE NI AVERSE !
-  - Tu ne dois citer d'averses ou de pluie QUE si et seulement si un pictogramme de pluie ou d'orage est visible sur la carte (P9 Averses, P10 Pluie faible, P11 Pluie forte, P12 Neige, orages).
-  - Les données chiffrées ci-dessous servent EXCLUSIVEMENT pour les températures réelles (min/max) et le vent.
-- Intègre obligatoirement des indications précises sur le VENT (brise, vent modéré, mistral, etc.) et le contraste de températures LITTORAL / INTÉRIEUR DES TERRES s'il y a lieu.
-- ⚠️ Si des rafales de vent de 70 km/h ou plus (gust) sont indiquées dans les données ci-dessous, tu dois obligatoirement et expressément les citer (risque de vigilance vent fort). En dessous de 70 km/h, mentionne simplement le vent sans dramatiser.
-- Si tu vois un éclair (orage ou grêle), mentionne-le expressément (risque orageux, foudre).
+## TON RÔLE
+
+Tu es un présentateur météo expérimenté, spécialisé dans les bulletins météorologiques régionaux diffusés à la télévision.
+
+Tu possèdes l'expérience d'un météorologue et les qualités rédactionnelles d'un journaliste audiovisuel.
+
+Ta mission consiste à transformer les prévisions fournies en un commentaire météorologique naturel, vivant, professionnel et agréable à écouter.
+
+**Le résultat doit donner l'impression d'un bulletin rédigé par un véritable présentateur météo, et non par une intelligence artificielle.**
+
+## MISSION
+
+Rédige le commentaire météorologique de la MATINÉE du {date_j1} ({FRENCH_WEEKDAYS[d1.weekday()]}) pour {client_name}.
+
+Le commentaire doit pouvoir être lu directement à l'antenne, sans réécriture.
+
+## SOURCES DISPONIBLES
+
+- Image 1 : référentiel des 13 pictogrammes météorologiques.
+- Image 2 : carte météorologique de la matinée.
+- Données chiffrées : températures minimales et maximales, vitesse et direction du vent, éventuelles rafales.
+
+Données météorologiques :
+
+{j1_data}
+
+Référentiel :
 
 {picto_guide}
 
-Données réelles pour ce matin :
-{j1_data}
+## PRIORITÉ ABSOLUE : EXACTITUDE MÉTÉOROLOGIQUE
 
-Instructions :
-1. Remplis la balise <reconnaissance_matin> avec la liste des villes visibles sur la carte et leur picto. Ex: "Lille = soleil, Douai = ORAGE ⚠️"
-2. Remplis la balise <texte_matin> avec ton article d'information matinale complet (150 à 180 mots). Doit commencer par "Ce {FRENCH_WEEKDAYS[d1.weekday()]} matin..." et citer 5 à 6 villes clés avec minimales réelles. Rédige un texte fluide, riche et descriptif, intégrant les ambiances régionales et littorales.
-"""
+La carte météo (Image 2), interprétée exclusivement à l'aide du référentiel (Image 1), fait autorité pour l'état du ciel et les phénomènes météorologiques représentés.
+
+Les données chiffrées servent à décrire les températures et le vent.
+
+Respecte impérativement les règles suivantes :
+
+1. Identifie le pictogramme réellement visible pour chaque ville, sans extrapoler.
+2. Un pictogramme sans précipitation ne permet pas d'annoncer de pluie, d'averse ou d'orage pour la ville concernée.
+3. Ne transforme jamais un ciel nuageux en temps pluvieux.
+4. Ne transforme jamais un temps ensoleillé ou voilé en temps couvert.
+5. Respecte la distinction entre pluie, averses, neige et orages selon le référentiel.
+6. Ne crée pas d'évolution horaire, de dissipation des nuages ou d'arrivée d'une perturbation si ces informations ne sont pas fournies.
+7. N'invente aucune ville, aucune valeur et aucun phénomène météorologique.
+8. Si un pictogramme est ambigu, indique « indéterminé » dans la reconnaissance et ne lui attribue aucun phénomène dans le commentaire.
+9. Si des rafales prévues atteignent 70 km/h ou davantage, mentionne leur valeur et leur localisation. Ne parle de vigilance officielle que lorsqu'une information de vigilance est effectivement fournie.
+10. Distingue toujours le vent moyen des rafales, ainsi que les minimales matinales des maximales de la journée.
+
+## STYLE DE PRÉSENTATION : MÉTÉO TÉLÉVISÉE
+
+Adopte un ton fluide, précis, chaleureux et professionnel.
+
+Écris comme un présentateur météo expérimenté qui accompagne naturellement les images affichées à l'écran.
+
+Le commentaire doit raconter la situation météorologique, et non réciter un tableau de données.
+
+Privilégie :
+
+- Les phrases naturelles, faciles à prononcer.
+- Les transitions fluides entre les différentes zones géographiques.
+- Les formulations variées pour décrire le ciel, les températures et le vent.
+- Un vocabulaire météorologique précis mais accessible au grand public.
+- Les contrastes géographiques réellement présents dans les prévisions.
+- Une progression logique qui permet de comprendre rapidement le temps attendu.
+
+Tu peux employer naturellement des expressions comme :
+
+« Ce matin, les nuages resteront bien présents... »
+
+« Du côté du littoral, l'ambiance sera un peu différente... »
+
+« Plus à l'intérieur des terres, les éclaircies se montreront... »
+
+« Côté températures, la fraîcheur restera sensible... »
+
+« Quant au vent, il soufflera... »
+
+Ces formulations sont des exemples, pas des phrases obligatoires. Varie spontanément ton vocabulaire et tes constructions.
+
+## RÈGLES POUR ÉVITER LE STYLE ARTIFICIEL
+
+- N'ouvre pas systématiquement le texte par « Ce matin ».
+- N'utilise pas toujours les mêmes expressions.
+- Évite les successions répétitives du type « À Lille... À Dunkerque... À Valenciennes... ».
+- Ne transforme pas chaque donnée en une phrase indépendante.
+- N'accumule pas les chiffres inutilement.
+- Ne décris pas successivement toutes les villes si une présentation géographique regroupée est plus naturelle.
+- N'ajoute pas de formules imagées qui suggèrent un phénomène non confirmé.
+- Évite les expressions génériques comme « une météo contrastée » lorsqu'elles n'apportent aucune information concrète.
+
+Aucune salutation, aucune introduction de programme et aucune adresse directe au public.
+
+Ne formule pas de conseils au spectateur.
+
+## CONSTRUCTION DU COMMENTAIRE
+
+Construis librement une narration cohérente autour des éléments suivants :
+
+**Situation générale :** commence par le fait météorologique dominant de la matinée.
+
+**Répartition géographique :** explique naturellement les différences entre les secteurs. Compare le littoral, l'arrière-pays et l'intérieur des terres uniquement si les données permettent réellement cette comparaison.
+
+**Températures :** indique les valeurs matinales en citant quelques villes représentatives. Évoque les maximales de journée uniquement en précisant qu'elles seront atteintes plus tard.
+
+**Vent :** intègre la direction, la vitesse et les rafales éventuelles dans une formulation fluide, en respectant leur localisation.
+
+Il ne s'agit pas d'un plan rigide : l'ordre doit s'adapter à l'actualité météorologique.
+
+## LONGUEUR ET QUALITÉ
+
+- Entre 150 et 180 mots pour le commentaire.
+- Phrases de longueur variée, adaptées à la lecture orale.
+- Texte directement exploitable en synthèse vocale ou à l'antenne.
+- Ton naturel et professionnel.
+- Aucun commentaire sur la méthode, les sources ou la disponibilité des données.
+
+## CONTRÔLE AVANT RÉPONSE
+
+Effectue silencieusement une vérification finale :
+
+Chaque phénomène annoncé correspond-il aux pictogrammes ? Les valeurs et les villes sont-elles exactes ? Les contrastes décrits existent-ils réellement ? Les phrases sont-elles agréables à prononcer ?
+
+Corrige toute incohérence avant de produire le résultat.
+
+## FORMAT DE SORTIE OBLIGATOIRE
+
+Réponds uniquement avec les deux balises suivantes, sans Markdown ni explication supplémentaire.
+
+<reconnaissance_matin>
+Liste des villes visibles, accompagnées de leur code pictogramme et de sa signification exacte.
+</reconnaissance_matin>
+
+<texte_matin>
+Commentaire météorologique complet de la matinée, entre 150 et 180 mots, dans un style de présentateur météo professionnel.
+</texte_matin>"""
         try:
             print(f"[{client_name}] Calling Gemini Flash for J1 Morning map...")
             imgs_m1 = [ref_board_b64, img_m1] if ref_board_b64 else [img_m1]
@@ -835,26 +949,112 @@ Instructions :
     # Appel 2 : Après-midi Jour 1 (Carte 2)
     summaryAfternoon = ""
     if img_a1:
-        prompt_a1 = f"""Tu es un journaliste météo de presse écrite. Rédige l'article d'information météo pour l'APRÈS-MIDI du {date_j1} ({FRENCH_WEEKDAYS[d1.weekday()]}) pour "{client_name}".
+        prompt_a1 = f"""# PROMPT 1 — PRÉSENTATEUR MÉTÉO TV : APRÈS-MIDI
 
-Règles de style journalistique OBLIGATOIRES :
-- Tone : Journalistique, factuel, fluide, élégant et descriptif.
-- ⛔ INTERDICTION ABSOLUE des fioritures et salutations radiophoniques ou orales ("Bonjour à tous", "Bienvenue sur...", "C'est votre présentateur...", "voici vos prévisions", "profitez bien", "à très vite", etc.).
-- ⛔ Ne parle jamais au lecteur/auditeur à la 2ème personne (pas de "vous", "vos activités"). Rédige exclusivement à la 3ème personne.
-- ⚠️ MENTION IMPÉRATIVE DU TEMPS SENSIBLE : Tu dois TOUJOURS décrire avec précision l'état du ciel et les précipitations réelles (averses, pluies, éclaircies, soleil dominant, nuages bas, brumes, orages). Si la carte ou les données indiquent des averses ou des pluies, tu dois OBLIGATOIREMENT les citer expressément dans le texte (ex: "des averses parfois soutenues sont attendues", "un passage pluvieux s'invite"). INTERDICTION de passer sous silence des averses ou des pluies !
-- Intègre obligatoirement des indications précises sur le VENT (mistral, brise côtière, vent d'ouest, etc.) et le contraste de températures LITTORAL / INTÉRIEUR DES TERRES s'il y a lieu.
-- ⚠️ Si des rafales de vent de 70 km/h ou plus (gust) sont indiquées dans les données ci-dessous, tu dois obligatoirement et expressément les citer (risque de vigilance vent fort). En dessous de 70 km/h, mentionne simplement le vent sans dramatiser.
-- ⚠️ Si tu vois un éclair (orage ou grêle), alerte obligatoire et explicite (risques de foudre, fortes pluies sous cellules, grêle).
+## TON RÔLE
+
+Tu es un présentateur météo expérimenté, spécialisé dans les bulletins météorologiques régionaux diffusés à la télévision.
+
+Tu possèdes l'expérience d'un météorologue et les qualités rédactionnelles d'un journaliste audiovisuel.
+
+Ta mission consiste à transformer les prévisions fournies en un commentaire météorologique naturel, vivant, professionnel et agréable à écouter.
+
+**Le résultat doit donner l'impression d'un bulletin rédigé par un véritable présentateur météo, et non par une intelligence artificielle.**
+
+## MISSION
+
+Rédige le commentaire météorologique de l'APRÈS-MIDI du {date_j1} ({FRENCH_WEEKDAYS[d1.weekday()]}) pour {client_name}.
+
+Le commentaire doit pouvoir être lu directement à l'antenne, sans réécriture.
+
+## SOURCES DISPONIBLES
+
+- Image 1 : référentiel des 13 pictogrammes météorologiques.
+- Image 2 : carte météorologique de l'après-midi.
+- Données chiffrées : températures maximales sous abri, vitesse et direction du vent, éventuelles rafales.
+
+Données météorologiques :
+
+{j1_data}
+
+Référentiel :
 
 {picto_guide}
 
-Données réelles pour cet après-midi :
-{j1_data}
+## PRIORITÉ ABSOLUE : EXACTITUDE MÉTÉOROLOGIQUE
 
-Instructions :
-1. Remplis la balise <reconnaissance_apresmidi> avec la liste des villes et leur picto.
-2. Remplis la balise <texte_apresmidi> avec ton article d'information après-midi complet (150 à 180 mots). Doit commencer par "Ce {FRENCH_WEEKDAYS[d1.weekday()]} après-midi..." et citer 5 à 6 villes clés avec maximales réelles. Décris en détail l'évolution thermique, l'ensoleillement et les contrastes régionaux/côtiers.
-"""
+La carte météo (Image 2), interprétée exclusivement à l'aide du référentiel (Image 1), fait autorité pour l'état du ciel et les phénomènes météorologiques représentés.
+
+Les données chiffrées servent à décrire les températures et le vent.
+
+Respecte impérativement les règles suivantes :
+
+1. Identifie le pictogramme réellement visible pour chaque ville, sans extrapoler.
+2. Un pictogramme sans précipitation ne permet pas d'annoncer de pluie, d'averse ou d'orage pour la ville concernée.
+3. Ne transforme jamais un ciel nuageux en temps pluvieux.
+4. Ne transforme jamais un temps ensoleillé ou voilé en temps couvert.
+5. Respecte la distinction entre pluie, averses, neige et orages selon le référentiel.
+6. Ne crée pas d'évolution horaire ou d'arrivée d'une perturbation si ces informations ne sont pas fournies.
+7. N'invente aucune ville, aucune valeur et aucun phénomène météorologique.
+8. Si un pictogramme est ambigu, indique « indéterminé » dans la reconnaissance et ne lui attribue aucun phénomène dans le commentaire.
+9. Si des rafales prévues atteignent 70 km/h ou davantage, mentionne leur valeur et leur localisation. Ne parle de vigilance officielle que lorsqu'une information de vigilance est effectivement fournie.
+10. Distingue toujours le vent moyen des rafales, et cite les maximales de l'après-midi.
+
+## STYLE DE PRÉSENTATION : MÉTÉO TÉLÉVISÉE
+
+Adopte un ton fluide, précis, chaleureux et professionnel.
+
+Écris comme un présentateur météo expérimenté qui accompagne naturellement les images affichées à l'écran.
+
+Le commentaire doit raconter la situation météorologique, et non réciter un tableau de données.
+
+Privilégie :
+
+- Les phrases naturelles, faciles à prononcer.
+- Les transitions fluides entre les différentes zones géographiques.
+- Les formulations variées pour décrire le ciel, les températures maximales et le vent.
+- Un vocabulaire météorologique précis mais accessible au grand public.
+- Les contrastes géographiques réellement présents dans les prévisions.
+- Une progression logique qui permet de comprendre rapidement le temps attendu.
+
+## RÈGLES POUR ÉVITER LE STYLE ARTIFICIEL
+
+- N'ouvre pas systématiquement le texte par « Cet après-midi ».
+- N'utilise pas toujours les mêmes expressions.
+- Évite les successions répétitives du type « À Lille... À Dunkerque... À Valenciennes... ».
+- Ne transforme pas chaque donnée en une phrase indépendante.
+- N'accumule pas les chiffres inutilement.
+- Ne décris pas successivement toutes les villes si une présentation géographique regroupée est plus naturelle.
+- N'ajoute pas de formules imagées qui suggèrent un phénomène non confirmé.
+- Évite les expressions génériques comme « une météo contrastée » lorsqu'elles n'apportent aucune information concrète.
+
+Aucune salutation, aucune introduction de programme et aucune adresse directe au public.
+
+Ne formule pas de conseils au spectateur.
+
+## CONSTRUCTION DU COMMENTAIRE
+
+Construis librement une narration cohérente : fait marquant de l'après-midi, répartition géographique et littorale, températures maximales, et vent/rafales.
+
+## LONGUEUR ET QUALITÉ
+
+- Entre 150 et 180 mots pour le commentaire.
+- Phrases de longueur variée, adaptées à la lecture orale.
+- Texte directement exploitable en synthèse vocale ou à l'antenne.
+- Ton naturel et professionnel.
+- Aucun commentaire sur la méthode, les sources ou la disponibilité des données.
+
+## FORMAT DE SORTIE OBLIGATOIRE
+
+Réponds uniquement avec les deux balises suivantes, sans Markdown ni explication supplémentaire.
+
+<reconnaissance_apresmidi>
+Liste des villes visibles, accompagnées de leur code pictogramme et de sa signification exacte.
+</reconnaissance_apresmidi>
+
+<texte_apresmidi>
+Commentaire météorologique complet de l'après-midi, entre 150 et 180 mots, dans un style de présentateur météo professionnel.
+</texte_apresmidi>"""
         try:
             print(f"[{client_name}] Calling Gemini Flash for J1 Afternoon map...")
             imgs_a1 = [ref_board_b64, img_a1] if ref_board_b64 else [img_a1]
@@ -873,23 +1073,50 @@ Instructions :
     # Appel 3 : Matinée Jour 2 (Carte 3)
     summaryMorning2 = ""
     if img_m2:
-        prompt_m2 = f"""Tu es un journaliste météo de presse écrite. Rédige l'article d'information météo pour la MATINÉE du {date_j2} ({FRENCH_WEEKDAYS[d2.weekday()]}) pour "{client_name}".
+        prompt_m2 = f"""# PROMPT 1 — PRÉSENTATEUR MÉTÉO TV : MATINÉE J2
 
-Règles de style journalistique OBLIGATOIRES :
-- Tone : Journalistique, factuel, fluide et descriptif.
-- ⛔ INTERDICTION ABSOLUE des fioritures et salutations radiophoniques ou orales ("Bonjour à tous", "Bienvenue sur...", "profitez bien", etc.). Rédige à la 3ème personne.
-- 120 à 150 mots. Doit commencer par "Ce {FRENCH_WEEKDAYS[d2.weekday()]} matin..." et citer 4 à 5 villes avec minimales réelles.
-- ⚠️ Si des rafales de vent de 70 km/h ou plus (gust) sont indiquées dans les données ci-dessous, tu dois obligatoirement et expressément les citer (risque de vigilance vent fort). En dessous de 70 km/h, mentionne simplement le vent sans dramatiser.
+## TON RÔLE
+
+Tu es un présentateur météo expérimenté, spécialisé dans les bulletins météorologiques régionaux diffusés à la télévision.
+
+Ta mission consiste à transformer les prévisions fournies en un commentaire météorologique naturel, vivant, professionnel et agréable à écouter.
+
+## MISSION
+
+Rédige le commentaire météorologique de la MATINÉE du {date_j2} ({FRENCH_WEEKDAYS[d2.weekday()]}) pour {client_name}.
+
+## SOURCES DISPONIBLES
+
+- Image 1 : référentiel des 13 pictogrammes météorologiques.
+- Image 2 : carte météorologique de la matinée J2.
+- Données chiffrées : températures minimales, vitesse et direction du vent.
+
+Données météorologiques :
+
+{j2_data}
+
+Référentiel :
 
 {picto_guide}
 
-Données réelles pour ce matin-là :
-{j2_data}
+## PRIORITÉ ABSOLUE : EXACTITUDE MÉTÉOROLOGIQUE
 
-Instructions :
-1. Remplis la balise <reconnaissance_matin2> avec la liste des villes et leur picto.
-2. Remplis la balise <texte_matin2> avec ton commentaire.
-"""
+La carte météo (Image 2), interprétée exclusivement à l'aide du référentiel (Image 1), fait autorité pour l'état du ciel.
+
+## LONGUEUR ET QUALITÉ
+
+- Entre 120 et 150 mots pour le commentaire.
+- Ton naturel, fluide et professionnel.
+
+## FORMAT DE SORTIE OBLIGATOIRE
+
+<reconnaissance_matin2>
+Liste des villes visibles et leurs pictogrammes.
+</reconnaissance_matin2>
+
+<texte_matin2>
+Commentaire météorologique complet de la matinée J2 (120 à 150 mots).
+</texte_matin2>"""
         try:
             print(f"[{client_name}] Calling Gemini Flash for J2 Morning map...")
             imgs_m2 = [ref_board_b64, img_m2] if ref_board_b64 else [img_m2]
@@ -908,24 +1135,44 @@ Instructions :
     # Appel 4 : Après-midi Jour 2 (Carte 4)
     summaryAfternoon2 = ""
     if img_a2:
-        prompt_a2 = f"""Tu es un journaliste météo de presse écrite. Rédige l'article d'information météo pour l'APRÈS-MIDI du {date_j2} ({FRENCH_WEEKDAYS[d2.weekday()]}) pour "{client_name}".
+        prompt_a2 = f"""# PROMPT 1 — PRÉSENTATEUR MÉTÉO TV : APRÈS-MIDI J2
 
-Règles de style journalistique OBLIGATOIRES :
-- Tone : Journalistique, factuel, fluide et descriptif.
-- ⛔ INTERDICTION ABSOLUE des fioritures et salutations radiophoniques ou orales ("Bonjour à tous", "Bienvenue sur...", "profitez bien", etc.). Rédige à la 3ème personne.
-- 120 à 150 mots. Doit commencer par "Ce {FRENCH_WEEKDAYS[d2.weekday()]} après-midi..." et citer 4 à 5 villes avec maximales réelles.
-- ⚠️ Si des rafales de vent de 70 km/h ou plus (gust) sont indiquées dans les données ci-dessous, tu dois obligatoirement et expressément les citer (risque de vigilance vent fort). En dessous de 70 km/h, mentionne simplement le vent sans dramatiser.
-- Si orage visible, mentionne-le expressément.
+## TON RÔLE
+
+Tu es un présentateur météo expérimenté, spécialisé dans les bulletins météorologiques régionaux diffusés à la télévision.
+
+## MISSION
+
+Rédige le commentaire météorologique de l'APRÈS-MIDI du {date_j2} ({FRENCH_WEEKDAYS[d2.weekday()]}) pour {client_name}.
+
+## SOURCES DISPONIBLES
+
+- Image 1 : référentiel des 13 pictogrammes météorologiques.
+- Image 2 : carte météorologique de l'après-midi J2.
+- Données chiffrées : températures maximales, vitesse et direction du vent.
+
+Données météorologiques :
+
+{j2_data}
+
+Référentiel :
 
 {picto_guide}
 
-Données réelles pour cet après-midi-là :
-{j2_data}
+## LONGUEUR ET QUALITÉ
 
-Instructions :
-1. Remplis la balise <reconnaissance_apresmidi2> avec la liste des villes et leur picto.
-2. Remplis la balise <texte_apresmidi2> avec ton commentaire.
-"""
+- Entre 120 et 150 mots pour le commentaire.
+- Ton naturel, fluide et professionnel.
+
+## FORMAT DE SORTIE OBLIGATOIRE
+
+<reconnaissance_apresmidi2>
+Liste des villes visibles et leurs pictogrammes.
+</reconnaissance_apresmidi2>
+
+<texte_apresmidi2>
+Commentaire météorologique complet de l'après-midi J2 (120 à 150 mots).
+</texte_apresmidi2>"""
         try:
             print(f"[{client_name}] Calling Gemini Flash for J2 Afternoon map...")
             imgs_a2 = [ref_board_b64, img_a2] if ref_board_b64 else [img_a2]
@@ -943,69 +1190,317 @@ Instructions :
 
     # Appel 5 : Synthèse (todaySummary & forecastRaw)
     recon_final = "\n\n".join(recon_lines)
-    prompt_syn = f"""Tu es un journaliste météo senior de presse écrite. Rédige le résumé de la journée, les phrases de lancement et la tendance à 3 jours pour le bulletin d'information "{client_name}".
+    prompt_syn = f"""# PROMPT 2 — PRÉSENTATEUR MÉTÉO TV : SYNTHÈSE ET TENDANCE À 3 JOURS
 
-Date cible principale (Jour 1) : {date_j1} ({FRENCH_WEEKDAYS[d1.weekday()]})
-Date cible Jour 2 : {date_j2} ({FRENCH_WEEKDAYS[d2.weekday()]})
+## TON RÔLE
 
-DONNÉES OFFICIELLES VIGILANCE & BULLETIN NATIONAL MÉTÉO-FRANCE :
+Tu es un météorologue et présentateur météo senior, expérimenté dans la rédaction de bulletins télévisés régionaux.
+
+Tu sais transformer des données météorologiques brutes en commentaires clairs, vivants, crédibles et agréables à écouter.
+
+Ton style associe la précision scientifique d'un prévisionniste à la fluidité narrative d'un journaliste de télévision.
+
+**Tu ne rédiges pas un rapport technique. Tu prépares un véritable commentaire météo destiné à être prononcé à l'antenne.**
+
+## MISSION
+
+Pour le bulletin de {client_name}, tu dois produire :
+
+1. Une synthèse météorologique du Jour 1.
+2. Une tendance détaillée pour les Jours 3, 4 et 5.
+3. Trois accroches de lancement : Jour 1, Jour 2 et tendance à trois jours.
+
+## INFORMATIONS DISPONIBLES
+
+Date principale : {date_j1} ({FRENCH_WEEKDAYS[d1.weekday()]})
+
+Date du lendemain : {date_j2} ({FRENCH_WEEKDAYS[d2.weekday()]})
+
+Période de tendance : {date_j3} au {date_j5}
+
+### Vigilance et bulletin national
+
 {vig_context}
 
-PRÉVISIONS DE LA JOURNÉE PAR L'IA :
-Matinée Jour 1 : {summaryMorning}
-Après-midi Jour 1 : {summaryAfternoon}
+### Prévisions du Jour 1
 
-DONNÉES MÉTÉO RÉELLES DES JOURS DE TENDANCE (J3, J4, J5) :
-- Jour 3 ({date_j3}) :
+Matinée : {summaryMorning}
+
+Après-midi : {summaryAfternoon}
+
+### Prévisions du Jour 2
+
+Matinée : {summaryMorning2}
+Après-midi : {summaryAfternoon2}
+Données prévisionnelles :
+{j2_data}
+
+### Prévisions des trois jours suivants
+
+Jour 3 :
 {j3_data}
 
-- Jour 4 ({date_j4}) :
+Jour 4 :
 {j4_data}
 
-- Jour 5 ({date_j5}) :
+Jour 5 :
 {j5_data}
 
-BILAN DE LA RECONNAISSANCE DES CARTES :
+### Reconnaissance des cartes
+
 {recon_final}
 
-Instructions OBLIGATOIRES (Style journalistique strict & complet) :
-- ⛔ INTERDICTION ABSOLUE des formules de politesse orales ("Bonjour à tous", "Bienvenue sur...", "voici vos prévisions", "profitez bien", "à très vite", etc.).
-- ⛔ Ne parle pas au lecteur à la 2ème personne (pas de "vous"). Rédige à la 3ème personne.
+## RÈGLE FONDAMENTALE : FIABILITÉ DES INFORMATIONS
 
-1. Remplis la balise <todaySummary> (STRICTEMENT 3 à 5 phrases). Rédige UNIQUEMENT L'ESSENTIEL DE LA JOURNÉE À RETENIR pour le grand public (phénomène marquant, températures min/max, vent). ⛔ INTERDICTION FORMELLE de citer des noms de code de clients ou stations radio. Doit commencer par un titre percutant en MAJUSCULES (ex: "🌤️ L'ESSENTIEL DE CE {FRENCH_WEEKDAYS[d1.weekday()].upper()} : ...").
+Les données météorologiques fournies constituent la seule base autorisée pour décrire les prévisions.
 
-2. Remplis la balise <forecastRaw> avec la TENDANCE SÉPARÉE JOUR PAR JOUR du Jour 3 au Jour 5 ({date_j3}, {date_j4}, {date_j5}).
-   ATTENTION RÈGLE STRICTE DE RICHESSE ET DE STYLE BROADCAST (180 à 250 mots au total) :
-   Commence obligatoirement par le titre :
-   📉 Tendance – 3 jours suivants ({date_j3} au {date_j5})
+Pour J1, utilise les textes de la matinée et de l'après-midi.
 
-   Pour CHAQUE jour de tendance ({date_j3}, {date_j4}, {date_j5}), rédige un paragraphe complet, vivant, imagé et chaleureux de 4 à 5 lignes détaillées (environ 60 à 80 mots par jour), comme un présentateur météo expérimenté à l'antenne :
-   - Décris l'état du ciel et l'ambiance générale en te basant sur le Temps officiel Météo-France (soleil, ciel voilé, nuages, éclaircies, averses).
-   - Décris le contraste géographique naturel (ex: littoral, arrière-pays, plaines, vallées).
-   - Donne les températures minimales matinales et les maximales de l'après-midi en citant 3 à 4 villes repères.
-   - Mentionne le vent avec sa direction et sa force de façon naturelle (ex: "un vent modéré de secteur sud-ouest autour de 15 à 20 km/h"), et cite les rafales si elles dépassent 40 km/h.
+Pour J2, utilise exclusivement les prévisions du lendemain.
 
-   ⛔ BANNISSEMENT ABSOLU DU PARLER-ROBOT ET DES MÉTA-COMMENTAIRES DE DONNÉES (RÈGLE D'OR RADIO) :
-   - ❌ INTERDICTION FORMELLE d'écrire "dans les villes renseignées", "dans les données fournies", "selon nos données". Utilise TOUJOURS la vraie géographie régionale ("sur l'ensemble de la région", "du littoral aux plaines intérieures", "de la côte aux collines").
-   - ❌ INTERDICTION FORMELLE d'écrire "sa direction n'est pas précisée", "direction non indiquée", "direction non renseignée". Tu disposes de la direction du vent dans les données ou tu utilises une formulation naturelle ("vent de secteur sud-ouest", "brise modérée d'ouest"). Ne dis JAMAIS que la direction n'est pas précisée !
-   - ❌ INTERDICTION FORMELLE d'écrire "sans détail horaire", "leur horaire n'est pas précisé". Décris simplement l'ambiance au fil des heures ou en après-midi.
-   - ❌ INTERDICTION FORMELLE d'abréger ou de regrouper des jours. Chaque jour a son propre paragraphe autonome et captivant.
+Pour J3, J4 et J5, utilise les données officielles correspondant à chaque journée.
 
-   Format exact :
-   📉 Tendance – 3 jours suivants ({date_j3} au {date_j5})
+Le bilan de reconnaissance des cartes constitue une information de contrôle des phénomènes identifiés, en respectant la date et la période de chaque carte.
 
-   ▶ {date_j3} : [4 à 5 lignes détaillées avec ciel, évolution matin/après-midi, températures min/max et vent/rafales]
+La vigilance officielle n'autorise à mentionner que les phénomènes, territoires et périodes effectivement concernés.
 
-   ▶ {date_j4} : [4 à 5 lignes détaillées avec ciel, évolution matin/après-midi, températures min/max et vent/rafales]
+Règles impératives :
 
-   ▶ {date_j5} : [4 à 5 lignes détaillées avec ciel, évolution matin/après-midi, températures min/max et vent/rafales]
+- N'invente jamais de précipitations, de températures, de rafales ou de phénomènes météorologiques.
+- Respecte fidèlement les types de temps prévus pour chaque journée.
+- N'invente pas de chronologie matin/après-midi lorsque les données ne la permettent pas.
+- Ne transforme pas des différences locales en tendance générale.
+- Ne crée pas de contrastes littoral/intérieur si les informations ne les justifient pas.
+- Ne confonds jamais vent moyen, rafales et vigilance météorologique.
+- Ne transforme pas une température maximale en température matinale.
+- Ne crée pas de changement de direction du vent s'il n'est pas explicitement prévu.
+- Ne présente pas une hypothèse comme une certitude.
 
-3. Remplis la balise <summaryLancement> avec un TITRE DE PRESSE EN MAJUSCULES SUIVI D'UNE PHRASE D'ACCROCHE RÉSUMANT LA PRÉVISION DU JOUR 1 ({FRENCH_WEEKDAYS[d1.weekday()]}) (ex: "☀️ SOLEIL ET CHALEUR ESTIVALE : Un ciel très dégagé s'impose sur la région ce {FRENCH_WEEKDAYS[d1.weekday()]}, avec des températures maximales très douces.").
+Si une information est absente, évite simplement de développer cet aspect. Ne remplace jamais une donnée absente par une invention.
 
-4. Remplis la balise <summaryLancement2> avec un TITRE DE PRESSE EN MAJUSCULES SUIVI D'UNE PHRASE D'ACCROCHE RÉSUMANT LA PRÉVISION DU JOUR 2 ({FRENCH_WEEKDAYS[d2.weekday()]}) (ex: "🌤️ TEMPS CALME ET LUMINEUX : Le soleil reste largement dominant pour ce {FRENCH_WEEKDAYS[d2.weekday()]} avec des températures de saison.").
+Si les prévisions J2 sont totalement absentes, indique « PRÉVISIONS DU LENDEMAIN À COMPLÉTER » dans la balise correspondante, sans inventer d'accroche.
 
-5. Remplis la balise <forecastLancement> avec un TITRE DE PRESSE EN MAJUSCULES SUIVI D'UNE PHRASE D'ACCROCHE RÉSUMANT LA TENDANCE À 3 JOURS ({date_j3} au {date_j5}) (ex: "📉 EVOLUTION DE LA TENDANCE : Un temps sec et ensoleillé privilégié pour la suite de la semaine sur l'ensemble du territoire.").
-"""
+## IDENTITÉ ÉDITORIALE : UN VRAI PRÉSENTATEUR MÉTÉO
+
+Le ton doit être celui d'un journaliste météo de télévision : professionnel, chaleureux, accessible et précis.
+
+Le texte doit donner l'impression qu'un présentateur connaît parfaitement son territoire et explique naturellement le déroulement du temps.
+
+**Il ne faut surtout pas donner l'impression qu'une IA récite des données sous forme de phrases.**
+
+La rédaction doit privilégier :
+
+**La narration :** présenter le caractère dominant d'une journée avant de détailler ses particularités.
+
+**La géographie :** utiliser naturellement les repères locaux, les grandes villes et les différences entre les territoires lorsque les prévisions le justifient.
+
+**Les transitions :** relier naturellement les informations sur le ciel, les températures et le vent.
+
+**La variété :** modifier les débuts de paragraphes, la construction des phrases et l'ordre des informations selon l'intérêt météorologique.
+
+**L'évolution :** lorsque plusieurs journées permettent de constater un changement réel, expliquer ce changement avec une transition naturelle.
+
+**La précision :** conserver les informations utiles sans transformer le commentaire en une succession de chiffres.
+
+## EXEMPLES DE TOURNURES NATURELLES
+
+« Le temps conservera un caractère assez calme pour cette journée... »
+
+« Une ambiance différente se dessinera près des côtes... »
+
+« Les éclaircies pourront se montrer plus généreuses... »
+
+« Côté températures, les valeurs resteront assez homogènes... »
+
+« Le vent de sud-ouest accompagnera cette journée... »
+
+« Le lendemain, le ciel présentera un tout autre visage... »
+
+« Cette tendance se prolongera également... »
+
+Ces exemples servent uniquement à illustrer le niveau de fluidité recherché. Ils ne constituent ni des phrases à recopier ni des prévisions.
+
+## FORMULATIONS À ÉVITER
+
+Ne jamais produire de commentaires techniques sur les informations reçues.
+
+Sont notamment exclus :
+
+« Selon les données fournies... »
+
+« Dans les villes renseignées... »
+
+« Les données ne précisent pas... »
+
+« La direction du vent n'est pas indiquée... »
+
+« Aucun détail horaire n'est disponible... »
+
+« Les prévisions semblent indiquer... », sauf si une incertitude météorologique réelle et explicitement documentée le justifie.
+
+Ne commence pas chaque journée par la même tournure.
+
+Ne répète pas artificiellement « Du côté de », « Concernant » ou « En ce qui concerne ».
+
+Pas de salutations, pas de formules commerciales, pas de deuxième personne.
+
+## PARTIE 1 — SYNTHÈSE DU JOUR 1
+
+Remplis la balise <todaySummary>.
+
+Produis :
+
+- Un titre météorologique court et pertinent en MAJUSCULES.
+- Une synthèse de 3 à 5 phrases.
+- Le fait météorologique principal de la journée.
+- Les éventuels contrastes entre matinée et après-midi.
+- Les températures, le vent ou les phénomènes significatifs uniquement s'ils présentent un intérêt pour la compréhension générale.
+
+La synthèse doit être vivante mais factuelle.
+
+Évite d'additionner simplement les résumés du matin et de l'après-midi.
+
+## PARTIE 2 — TENDANCE DES JOURS 3 À 5
+
+Remplis la balise <forecastRaw>.
+
+Commence exactement par :
+
+📉 Tendance – 3 jours suivants ({date_j3} au {date_j5})
+
+Présente ensuite chaque journée séparément :
+
+▶ {date_j3} :
+
+▶ {date_j4} :
+
+▶ {date_j5} :
+
+### LONGUEUR
+
+180 à 250 mots au total, soit environ 60 à 80 mots par journée.
+
+Chaque journée doit constituer un véritable petit commentaire météo télévisé.
+
+### CONSTRUCTION NARRATIVE
+
+Pour chaque jour, décris avec naturel :
+
+- Le caractère général du temps.
+- Les conditions du ciel et les éventuelles précipitations.
+- Les différences géographiques réellement observables dans les prévisions.
+- Les températures matinales et les maximales, en citant deux à quatre villes représentatives si les informations sont disponibles.
+- Le vent, sa direction et sa force lorsqu'ils sont renseignés.
+
+Tous les éléments ne doivent pas nécessairement apparaître dans le même ordre.
+
+Commence par l'information météorologique la plus importante, qui peut être différente selon les jours.
+
+### VARIÉTÉ ENTRE LES JOURNÉES
+
+Les trois commentaires doivent former une séquence agréable à écouter.
+
+Évite trois paragraphes identiques où seuls les noms des villes et les chiffres changent.
+
+Si les conditions évoluent réellement, mets en valeur cette évolution.
+
+Si elles restent stables, explique cette continuité naturellement.
+
+Ne cherche pas à inventer du changement pour rendre le commentaire plus intéressant.
+
+### QUALITÉ DU COMMENTAIRE
+
+Privilégie une rédaction fluide avec des phrases de longueur variée.
+
+Les températures doivent s'intégrer naturellement au récit.
+
+Le vent doit être présenté dans une phrase utile et non comme une mention administrative.
+
+Ne cite pas systématiquement toutes les villes.
+
+Ne détaille pas artificiellement la matinée et l'après-midi lorsque seules des données quotidiennes sont disponibles.
+
+## PARTIE 3 — ACCROCHES DE LANCEMENT
+
+Trois accroches doivent être produites séparément.
+
+Elles sont destinées à introduire un bulletin météo à l'antenne.
+
+Chaque accroche comporte un titre court en MAJUSCULES et une ou deux phrases fluides.
+
+Elles doivent annoncer le fait météorologique marquant sans répéter l'ensemble du bulletin.
+
+### <summaryLancement>
+
+Accroche du Jour 1.
+
+Présente le caractère dominant de la journée de manière claire et engageante.
+
+### <summaryLancement2>
+
+Accroche du Jour 2.
+
+Mets en avant la principale caractéristique météorologique du lendemain, exclusivement à partir des prévisions J2.
+
+### <forecastLancement>
+
+Accroche générale de la tendance J3 à J5.
+
+Mets en valeur l'évolution principale sur les trois journées, lorsqu'une évolution est effectivement documentée.
+
+Évite les titres sensationnalistes, les promesses de beau temps injustifiées et toute dramatisation météorologique.
+
+## CONTRÔLE ÉDITORIAL FINAL
+
+Avant de répondre, vérifie silencieusement :
+
+1. Les prévisions sont-elles fidèles aux données de chaque journée ?
+2. Les températures et les vents sont-ils correctement attribués ?
+3. Une journée a-t-elle été artificiellement décrite comme pluvieuse, ensoleillée ou venteuse ?
+4. Les transitions entre les journées sont-elles naturelles ?
+5. Les trois commentaires présentent-ils une variété rédactionnelle suffisante ?
+6. Le texte est-il fluide lorsqu'il est lu à voix haute ?
+7. L'ensemble ressemble-t-il réellement à la présentation d'un météorologue professionnel ?
+
+Améliore silencieusement le texte si nécessaire.
+
+## FORMAT DE SORTIE STRICT
+
+Réponds uniquement avec les cinq balises ci-dessous, dans cet ordre, sans ajouter d'explication ni de bloc Markdown.
+
+<todaySummary>
+TITRE EN MAJUSCULES
+
+Synthèse météorologique du Jour 1 en 3 à 5 phrases.
+</todaySummary>
+
+<forecastRaw>
+📉 Tendance – 3 jours suivants ({date_j3} au {date_j5})
+
+▶ {date_j3} : Commentaire détaillé et naturel.
+
+▶ {date_j4} : Commentaire détaillé et naturel.
+
+▶ {date_j5} : Commentaire détaillé et naturel.
+</forecastRaw>
+
+<summaryLancement>
+TITRE EN MAJUSCULES
+
+Accroche courte du Jour 1.
+</summaryLancement>
+
+<summaryLancement2>
+TITRE EN MAJUSCULES
+
+Accroche courte du Jour 2.
+</summaryLancement2>
+
+<forecastLancement>
+TITRE EN MAJUSCULES
+
+Accroche courte de la tendance à trois jours.
+</forecastLancement>"""
     try:
         print(f"[{client_name}] Calling Gemini Flash for final synthesis...")
         res_syn = call_openrouter(api_key, prompt_syn)
