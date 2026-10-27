@@ -35,11 +35,12 @@ def call_openrouter_llm(system_prompt, user_prompt):
         "Authorization": f"Bearer {openrouter_key}"
     }
     payload = {
-        "model": "deepseek/deepseek-v4-flash",
+        "model": os.environ.get("OPENROUTER_MODEL", "openai/gpt-6.1-terra"),
         "messages": [
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": user_prompt}
-        ]
+        ],
+        "reasoning": {"effort": "none"}
     }
     try:
         req = urllib.request.Request(url, data=json.dumps(payload).encode("utf-8"), headers=headers, method="POST")
