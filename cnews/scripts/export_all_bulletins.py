@@ -272,6 +272,16 @@ def main():
             except Exception as e:
                 print(f"Warning: Could not fetch vigilance: {e}")
 
+            # Inject official live coastal marine bulletin from Météo-France
+            try:
+                from fetch_marine import get_marine_text_for_client
+                mf_marine = get_marine_text_for_client(name, args.day_offset)
+                if mf_marine:
+                    form["marine"] = mf_marine
+                    print(f" - Injected official live marine bulletin for '{name}'")
+            except Exception as e:
+                print(f"Warning: Could not fetch marine for '{name}': {e}")
+
             # Synchronisation automatique de la carte de vigilance (alertImageUrl)
             try:
                 opts = c.get("options", {})
