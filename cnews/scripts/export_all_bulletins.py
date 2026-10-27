@@ -143,11 +143,12 @@ def save_vision_forecast_report(clients, output_filename, day_offset):
             report_lines.append(f"🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :")
             report_lines.append(form.get("marine", "").strip() + "\n")
             
-        if form.get("recordsRaw") or form.get("mountain"):
+        has_mountain = c.get("display", {}).get("mountain", False) and bool(form.get("mountain"))
+        if form.get("recordsRaw") or has_mountain:
             report_lines.append(f"🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :")
             if form.get("recordsRaw"):
                 report_lines.append(form.get("recordsRaw", "").strip())
-            if form.get("mountain"):
+            if has_mountain:
                 report_lines.append(form.get("mountain", "").strip())
             report_lines.append("")
             
@@ -272,15 +273,23 @@ def main():
             except Exception as e:
                 print(f"Warning: Could not fetch vigilance: {e}")
 
-            # Inject official live coastal marine bulletin from Météo-France
-            try:
-                from fetch_marine import get_marine_text_for_client
-                mf_marine = get_marine_text_for_client(name, args.day_offset)
-                if mf_marine:
-                    form["marine"] = mf_marine
-                    print(f" - Injected official live marine bulletin for '{name}'")
-            except Exception as e:
-                print(f"Warning: Could not fetch marine for '{name}': {e}")
+            # Configuration stricte de la météo marine (display & données)
+            disp = c.setdefault("display", {})
+            if any(k in name.upper() for k in ["NORD", "RADIO 6", "MONA", "ROCHELLE", "NORMANDIE"]):
+                disp["marine"] = True
+                try:
+                    from fetch_marine import get_marine_text_for_client
+                    mf_marine = get_marine_text_for_client(name, args.day_offset)
+                    if mf_marine:
+                        form["marine"] = mf_marine
+                        print(f" - Injected official live marine bulletin for coastal client '{name}'")
+                except Exception as e:
+                    print(f"Warning: Could not fetch marine for '{name}': {e}")
+            elif "EUROPE" in name.upper():
+                disp["marine"] = False
+                form["marine"] = ""
+                # Activer explicitement la montagne pour Europe 1 National
+                disp["mountain"] = True
 
             # Synchronisation automatique de la carte de vigilance (alertImageUrl)
             try:
