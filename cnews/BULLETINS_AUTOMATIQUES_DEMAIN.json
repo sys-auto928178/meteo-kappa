@@ -236,7 +236,7 @@
         "summaryImages": [],
         "recordsRaw": "🌧️ Pluies & Humidité : Temps sec sur la région ce jeudi avec maintien de la sécheresse de surface.\n🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce jeudi. Aucun coup de vent à craindre.\n⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce jeudi.\n🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement.",
         "recordsTitle": "🌬️ Phénomènes marquants et zones les plus exposées",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_france_tomorrow.png?t=1793202792",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_france_tomorrow.png?t=1793203769",
         "mountain": "🏔️ Météo montagne\n\n    Alpes : Ambiance fraîche en altitude ce jeudi avec de belles éclaircies après dissipation des bancs de brume matinaux en vallée. Isotherme 0°C autour de 2800 m, vent faible sur les crêtes.\n\n    Pyrénées : Soleil prédominant en matinée ce jeudi, voilé par quelques nuages élevés sans intempérie. Températures douces en piémont et fraîches en haute altitude.\n\n    Massif central : Matinée fraîche avec quelques inversions thermiques ce jeudi, suivie d'un après-midi lumineux et doux sur les plateaux.\n\n    Vosges : Temps calme et ensoleillé ce jeudi. Fraîcheur matinale marquée, douceur agréable l'après-midi.\n\n    Jura : Belles éclaircies automnales ce jeudi sur les crêtes et combes après quelques brouillards matinaux.\n\n    Corse : Temps très agréable et lumineux ce jeudi sur les massifs insulaires, vent faible à modéré sur les crêtes.",
         "summaryTitle": "Prévisions pour la journée du JEUDI 29 OCTOBRE 2026",
         "summaryMorning": "Ce matin, l'ambiance sera plutôt lumineuse sur une grande partie du pays, même si le soleil jouera à cache-cache avec un voile nuageux d'altitude.\n\nDu côté de la Bretagne, des Pays de la Loire, de la Normandie et de l'Île-de-France, le soleil sera bien présent mais tamisé par ce voile blanc, offrant un ciel lumineux mais sans azur franc. On retrouvera cette même atmosphère voilée jusqu'au Centre-Val de Loire et à la Nouvelle-Aquitaine.\n\nSeule la région lilloise fera exception avec un ciel plus franchement nuageux, où les éclaircies seront courtes et discrètes.\n\nCôté températures, la fraîcheur matinale sera sensible. On relèvera 4°C à Laon, 5°C à Paris et Rennes, et autour de 7°C pour Lille, Rouen, Caen, Brest et Nantes. Le vent, lui, sera faible à modéré, soufflant du sud-ouest entre 10 et 20 km/h sur l façade atlantique.",
@@ -514,7 +514,7 @@
       "form": {
         "observationsRaw": "St-Hilaire-sur-Helpe (59) 29\nValenciennes (59) 30\nTroisvilles (59) 30\nMaubeuge (59) 29\nDouai (59) 31\nLille (59) 30\nRoubaix (59) 29\nSteenvoorde (59) 29\nWatten (59) 29\nDunkerque (59) 26\nSaulty (62) 30\nArras (62) 30\nFiefs (62) 29\nHumières (62) 29\nCambrai / Epinoy (62) 30\nRadinghem (62) 29\nAttin (62) 30\nNielles-lès-Bléquin (62) 27\nBainghen (62) 27\nBoulogne (62) 28\nCalais / Marck (62) 28\nCap Gris-Nez (62) 28\nLe Touquet (62) 29\n",
         "alert": "🟢 Aucune vigilance orange ou rouge en cours sur le pays.",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1793202795",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1793203773",
         "todaySummary": "UN CIEL PARTAGÉ ET DES TEMPÉRATURES DOUCES\n\nCe jeudi, le soleil reste visible à travers un voile nuageux sur une grande partie de la région. À Lille, Roubaix et Hazebrouck, les éclaircies de la matinée deviennent plus rares l’après-midi, sous un ciel très nuageux. Après des minimales de 3 à 9 degrés, les températures atteignent 15 à 16 degrés. Le vent de sud-ouest reste faible, autour de 10 km/h.",
         "summaryLancement": "LUMINOSITÉ SOUS LES NUAGES\n\nUn soleil voilé éclaire une grande partie de la région ce jeudi, tandis que le ciel se montre plus chargé vers Lille et Hazebrouck.",
         "summaryTitle": "Prévisions pour la journée du JEUDI 29 OCTOBRE 2026",
@@ -787,7 +787,7 @@
       "form": {
         "observationsRaw": "La Rochelle 37\nChassiron 28\nGond-Pontouvre 38\nBlanzac-Porcheresse 36\nJarnac 37\nMontbron 37\nLa Couronne 37\nSoyaux 37\nCognac 37\nAngoulême 37\nRouillac 37\nSaint-Michel 37\nLa Rochefoucauld 38\nNersac 37\nConfolens 37\nBarbezieux-Saint-Hilaire 36\nChâteauneuf-sur-Charente 37\n",
         "alert": "🟢 Aucune vigilance orange ou rouge en cours sur le pays.",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_NAQ_tomorrow.png?t=1793202798",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_NAQ_tomorrow.png?t=1793203777",
         "todaySummary": "UN SOLEIL VOILÉ MAIS LUMINEUX\n\nCe jeudi, un voile de nuages d’altitude tamise le soleil sur toute la Charente-Maritime, sans gâcher la luminosité. Après une matinée fraîche, les températures atteignent 14 degrés à Saintes et Jonzac, et jusqu’à 19 degrés à La Rochelle. Le vent de sud-ouest reste modéré, avec des rafales possibles jusqu’à 40 km/h sur le littoral.",
         "summaryLancement": "UN JEUDI SOUS UN VOILE LUMINEUX\n\nLe soleil reste bien présent en Charente-Maritime, simplement tamisé par des nuages d’altitude. Après la fraîcheur matinale, la douceur s’installe notamment à La Rochelle.",
         "summaryTitle": "Prévisions pour la journée du JEUDI 29 OCTOBRE 2026",
@@ -1020,7 +1020,7 @@
       "form": {
         "observationsRaw": "Leffrinckoucke 26\nGravelines 24\nOffekerque 28\nMarck 28\nLefaux 29\nGroffliers 29\nRemilly-Wirquin 28\nRacquinghem 28\nRobecq 31\nCauchy-à-la-Tour 30\nBoulogne Sur Mer 13\nLe Touquet-Paris-Plage 29\nAbbeville 31\n",
         "alert": "🟢 Aucune vigilance orange ou rouge en cours sur le pays.",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1793202801",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1793203780",
         "todaySummary": "UN SOLEIL VOILÉ MAIS LUMINEUX\n\nCe jeudi, un voile nuageux accompagne le soleil sur une grande partie de la région, du littoral à l’arrière-pays. Vers Robecq et Cauchy-à-la-Tour, les nuages sont plus présents, sans empêcher de belles éclaircies. Après une matinée fraîche, les températures atteignent 14 à 16 degrés l’après-midi, dans un faible vent de sud-ouest.",
         "summaryLancement": "UN JEUDI LUMINEUX SOUS UN VOILE\n\nLe soleil reste bien présent sur la région, même si quelques nuages plus nombreux circulent vers Robecq et Cauchy-à-la-Tour.",
         "summaryTitle": "Prévisions pour la journée du JEUDI 29 OCTOBRE 2026",
@@ -1336,7 +1336,7 @@
       "form": {
         "observationsRaw": "St-Hilaire-sur-Helpe (59) 29\nValenciennes (59) 30\nTroisvilles (59) 30\nMaubeuge (59) 29\nDouai (59) 31\nLille (59) 30\nRoubaix (59) 29\nSteenvoorde (59) 29\nWatten (59) 29\nDunkerque (59) 26\nSaulty (62) 30\nArras (62) 30\nFiefs (62) 29\nHumières (62) 29\nCambrai / Epinoy (62) 30\nRadinghem (62) 29\nAttin (62) 30\nNielles-lès-Bléquin (62) 27\nBainghen (62) 27\nBoulogne (62) 28\nCalais / Marck (62) 28\nCap Gris-Nez (62) 28\nLe Touquet (62) 29\n",
         "alert": "🟢 Aucune vigilance orange ou rouge en cours sur le pays.",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1793202803",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1793203784",
         "todaySummary": "UNE JOURNÉE LUMINEUSE SOUS UN CIEL VOILÉ\n\nLe soleil restera visible à travers un voile nuageux sur une bonne partie de la région, de l’Avesnois au littoral dunkerquois. De Lille à Watten, les passages nuageux seront plus présents, entrecoupés de belles éclaircies. Après une matinée fraîche, les températures atteindront 14 à 16 degrés dans l’après-midi. Le vent de sud-ouest restera faible, autour de 10 km/h.",
         "summaryLancement": "SOLEIL TAMISÉ ET BELLES ÉCLAIRCIES\n\nUne journée lumineuse se dessine, malgré des nuages plus présents de Lille à Watten. L’après-midi sera douce, avec jusqu’à 16 degrés.",
         "summaryTitle": "Prévisions pour la journée du JEUDI 29 OCTOBRE 2026",
@@ -1530,7 +1530,7 @@
       "form": {
         "observationsRaw": "Rouen 33\nCaen 27\nLe Havre 32\nCherbourg 27\nEvreux 34\nAlençon 35\nDieppe 31\nLisieux 33\n",
         "alert": "🟢 Aucune vigilance orange ou rouge en cours sur le pays.",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_NOR_tomorrow.png?t=1793202806",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_NOR_tomorrow.png?t=1793203787",
         "todaySummary": "UN SOLEIL VOILÉ MAIS LUMINEUX\n\nCe jeudi, la Normandie profite d’un temps calme, avec un soleil présent mais tamisé par des nuages d’altitude. La fraîcheur marque le début de journée, notamment à Rouen avec 3 degrés. L’après-midi est plus doux, avec 14 à 16 degrés dans la région, sous un vent de sud-ouest faible à modéré.",
         "summaryLancement": "UN JEUDI LUMINEUX\n\nLe soleil reste présent sur la Normandie, simplement voilé par des nuages d’altitude. Après une matinée fraîche, la douceur s’installe dans l’après-midi.",
         "summaryTitle": "Prévisions pour la journée du JEUDI 29 OCTOBRE 2026",
