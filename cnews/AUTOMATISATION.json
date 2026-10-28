@@ -236,7 +236,7 @@
         "summaryImages": [],
         "recordsRaw": "🌧️ Pluies & Humidité : Temps sec sur la région ce mercredi avec maintien de la sécheresse de surface.\n🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce mercredi. Aucun coup de vent à craindre.\n⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce mercredi.\n🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement.",
         "recordsTitle": "🌬️ Phénomènes marquants et zones les plus exposées",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_france_tomorrow.png?t=1793181243",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_france_tomorrow.png?t=1793181724",
         "mountain": "🏔️ Météo montagne\n\n    Alpes : Ambiance fraîche en altitude ce mercredi avec de belles éclaircies après dissipation des bancs de brume matinaux en vallée. Isotherme 0°C autour de 2800 m, vent faible sur les crêtes.\n\n    Pyrénées : Soleil prédominant en matinée ce mercredi, voilé par quelques nuages élevés sans intempérie. Températures douces en piémont et fraîches en haute altitude.\n\n    Massif central : Matinée fraîche avec quelques inversions thermiques ce mercredi, suivie d'un après-midi lumineux et doux sur les plateaux.\n\n    Vosges : Temps calme et ensoleillé ce mercredi. Fraîcheur matinale marquée, douceur agréable l'après-midi.\n\n    Jura : Belles éclaircies automnales ce mercredi sur les crêtes et combes après quelques brouillards matinaux.\n\n    Corse : Temps très agréable et lumineux ce mercredi sur les massifs insulaires, vent faible à modéré sur les crêtes.",
         "summaryTitle": "Prévisions pour la journée du JEUDI 29 OCTOBRE 2026",
         "summaryMorning": "En ce mercredi 28 octobre, le soleil s'impose largement sur une grande partie du pays.\n\nDès le lever du jour, l'ambiance sera lumineuse de la Bretagne jusqu'au Centre-Val de Loire, et même en remontant vers les Hauts-de-France. On retrouvera un grand soleil à Brest, Rennes, Nantes, Poitiers ou encore Lille et Laon.\n\nQuelques nuages viendront tout de même gâcher la fête par endroits. C'est le cas notamment sur la Normandie et l'Île-de-France, où Rouen et Paris devront composer avec un ciel partagé entre belles éclaircies et passages nuageux.\n\nCôté températures, la fraîcheur est de mise. Les minimales s'échelonnent de 4°C à Laon à 8°C à Brest. On attend 5°C à Paris et Poitiers, 6°C à Nantes et Tours, et 7°C à Lille, Rouen et Caen. Le vent restera faible, soufflant à 5 à 10 km/h du secteur Sud-Ouest sur l'ensemble des régions.",
@@ -514,7 +514,7 @@
       "form": {
         "observationsRaw": "St-Hilaire-sur-Helpe (59) 29\nValenciennes (59) 30\nTroisvilles (59) 30\nMaubeuge (59) 29\nDouai (59) 31\nLille (59) 30\nRoubaix (59) 29\nSteenvoorde (59) 29\nWatten (59) 29\nDunkerque (59) 26\nSaulty (62) 30\nArras (62) 30\nFiefs (62) 29\nHumières (62) 29\nCambrai / Epinoy (62) 30\nRadinghem (62) 29\nAttin (62) 30\nNielles-lès-Bléquin (62) 27\nBainghen (62) 27\nBoulogne (62) 28\nCalais / Marck (62) 28\nCap Gris-Nez (62) 28\nLe Touquet (62) 29\n",
         "alert": "🟢 Aucune vigilance orange ou rouge en cours sur le pays.",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1793181246",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1793181727",
         "todaySummary": "🌤️ L'ESSENTIEL DE CE MERCREDI : Un temps calme, lumineux et ensoleillé s'impose sur les Hauts-de-France. Au lever du jour, les températures minimales affichent 4°C, avant de grimper jusqu'à 16°C sous abri au cours de l'après-midi. Le vent souffle de manière modérée, assurant une agréable ventilation.",
         "summaryLancement": "UN MERCREDI TOUT EN SOLEIL\n\nLe soleil s’impose sur toute la région, avec une après-midi douce après la fraîcheur du matin.",
         "summaryTitle": "Prévisions pour la journée du JEUDI 29 OCTOBRE 2026",
@@ -787,7 +787,7 @@
       "form": {
         "observationsRaw": "La Rochelle 37\nChassiron 28\nGond-Pontouvre 38\nBlanzac-Porcheresse 36\nJarnac 37\nMontbron 37\nLa Couronne 37\nSoyaux 37\nCognac 37\nAngoulême 37\nRouillac 37\nSaint-Michel 37\nLa Rochefoucauld 38\nNersac 37\nConfolens 37\nBarbezieux-Saint-Hilaire 36\nChâteauneuf-sur-Charente 37\n",
         "alert": "🟢 Aucune vigilance orange ou rouge en cours sur le pays.",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_NAQ_tomorrow.png?t=1793181249",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_NAQ_tomorrow.png?t=1793181730",
         "todaySummary": "🌤️ L'ESSENTIEL DE CE MERCREDI : Un temps calme, lumineux et ensoleillé s'impose en Charente-Maritime et sur le littoral. Au lever du jour, les températures minimales affichent 5°C, avant de grimper jusqu'à 17°C sous abri au cours de l'après-midi. Le vent souffle de manière modérée, assurant une agréable ventilation.",
         "summaryLancement": "LE SOLEIL DU MATIN AU SOIR\n\nUne journée lumineuse s’annonce sur toute la Charente-Maritime, avec une matinée fraîche suivie d’un après-midi agréable.",
         "summaryTitle": "Prévisions pour la journée du JEUDI 29 OCTOBRE 2026",
@@ -1020,7 +1020,7 @@
       "form": {
         "observationsRaw": "Leffrinckoucke 26\nGravelines 24\nOffekerque 28\nMarck 28\nLefaux 29\nGroffliers 29\nRemilly-Wirquin 28\nRacquinghem 28\nRobecq 31\nCauchy-à-la-Tour 30\nBoulogne Sur Mer 13\nLe Touquet-Paris-Plage 29\nAbbeville 31\n",
         "alert": "🟢 Aucune vigilance orange ou rouge en cours sur le pays.",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1793181251",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1793181733",
         "todaySummary": "LE SOLEIL LARGEMENT DOMINANT\n\nLe soleil accompagne cette journée de mercredi sur une grande partie de la région, de Leffrinckoucke à Marck, mais aussi à Lefaux et Robecq. Quelques passages nuageux partagent toutefois le ciel avec les éclaircies à Groffliers, Remilly-Wirquin et Racquinghem. Après une matinée fraîche, avec 4 °C à Racquinghem, les températures atteignent 13 à 16 °C dans l’après-midi. Le vent de sud-ouest souffle entre 10 et 20 km/h.",
         "summaryLancement": "UN MERCREDI LUMINEUX\n\nLe soleil domine aujourd’hui sur la région, malgré quelques passages nuageux de Groffliers à Racquinghem.",
         "summaryTitle": "Prévisions pour la journée du JEUDI 29 OCTOBRE 2026",
@@ -1336,7 +1336,7 @@
       "form": {
         "observationsRaw": "St-Hilaire-sur-Helpe (59) 29\nValenciennes (59) 30\nTroisvilles (59) 30\nMaubeuge (59) 29\nDouai (59) 31\nLille (59) 30\nRoubaix (59) 29\nSteenvoorde (59) 29\nWatten (59) 29\nDunkerque (59) 26\nSaulty (62) 30\nArras (62) 30\nFiefs (62) 29\nHumières (62) 29\nCambrai / Epinoy (62) 30\nRadinghem (62) 29\nAttin (62) 30\nNielles-lès-Bléquin (62) 27\nBainghen (62) 27\nBoulogne (62) 28\nCalais / Marck (62) 28\nCap Gris-Nez (62) 28\nLe Touquet (62) 29\n",
         "alert": "🟢 Aucune vigilance orange ou rouge en cours sur le pays.",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1793181254",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_HDF_tomorrow.png?t=1793181735",
         "todaySummary": "UN MERCREDI SOUS LE SOLEIL\n\nLe soleil domine toute la journée, dans un ciel dégagé sur l’ensemble de la région. Après une matinée fraîche, avec 6 à 9 degrés au lever du jour, les températures atteignent 14 à 16 degrés l’après-midi. Un vent de sud-ouest, généralement léger, accompagne ce temps lumineux.",
         "summaryLancement": "LE SOLEIL AU RENDEZ-VOUS\n\nUn ciel dégagé accompagne toute la journée de mercredi, après un réveil frais sur la région.",
         "summaryTitle": "Prévisions pour la journée du JEUDI 29 OCTOBRE 2026",
@@ -1530,7 +1530,7 @@
       "form": {
         "observationsRaw": "Rouen 33\nCaen 27\nLe Havre 32\nCherbourg 27\nEvreux 34\nAlençon 35\nDieppe 31\nLisieux 33\n",
         "alert": "🟢 Aucune vigilance orange ou rouge en cours sur le pays.",
-        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_NOR_tomorrow.png?t=1793181257",
+        "alertImageUrl": "https://ubdevaemtwbzxksjlhjg.supabase.co/storage/v1/object/public/vigilance-captures/vigilance_region_NOR_tomorrow.png?t=1793181738",
         "todaySummary": "ÉCLAIRCIES ET AVERSES AU HAVRE\n\nCe mercredi, le soleil domine à Caen, Évreux, Dieppe et Lisieux, tandis que les nuages alternent avec les éclaircies à Rouen, Cherbourg et Alençon. Au Havre, des averses ponctuent la journée, accompagnées d’un vent de sud-ouest soufflant à 25 km/h, avec des rafales à 40 km/h. Après un début de journée frais, les températures atteignent 15 à 16 °C dans l’après-midi.",
         "summaryLancement": "UN CIEL PARTAGÉ\n\nLe soleil brille sur une partie de la Normandie ce mercredi, mais les nuages restent présents ailleurs et des averses concernent Le Havre.",
         "summaryTitle": "Prévisions pour la journée du JEUDI 29 OCTOBRE 2026",
