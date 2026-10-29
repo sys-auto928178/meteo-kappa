@@ -1,6 +1,6 @@
 ================================================================================
 📡 RAPPORT EXHAUSTIF DES PRÉVISIONS VISUELLES (MODE VISIO EN PLATEAU)
-DATE CIBLE : JEUDI 29 OCTOBRE 2026
+DATE CIBLE : VENDREDI 30 OCTOBRE 2026
 FICHIER SOURCE : /home/runner/work/meteo-kappa/meteo-kappa/cnews/BULLETINS_AUTOMATIQUES_DEMAIN.json
 ================================================================================
 
@@ -29,25 +29,6 @@ Ce jeudi 29 octobre, un ciel voilé dominera très largement sur une bonne parti
 De la Bretagne aux Pays de la Loire, en passant par la Normandie, l'Île-de-France et le Centre-Val de Loire, le soleil sera bien présent, mais tamisé par un voile nuageux d'altitude. On retrouvera cette même ambiance lumineuse mais filtrée jusqu'en Nouvelle-Aquitaine. Les températures maximales y atteindront les 16 degrés de Brest à Paris, 15 degrés à Poitiers. Le vent soufflera faiblement, entre 10 et 15 km/h, toujours orienté au Sud-Ouest.
 
 Seule la région lilloise fera exception avec un ciel plus chargé, très nuageux, mais sans pluie à l'horizon. Le thermomètre affichera 16 degrés.
-
-🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (jeudi 29 octobre 2026)
-📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
-
-⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
-
-🌐 Situation générale : Anticyclone 1030 hPa sur la France, prévu 1032 hPa sur l'Allemagne jeudi matin.
-
-📅 Prévisions pour la journée du jeudi 29 octobre :
-🌬️ VENT : Variable 1 à 3, fraîchissant Est 3 à 4 à la fin.
-🌊 MER : belle, localement peu agitée en Manche.
-🌊 HOULE : Ouest 0.5 à 1 m en Manche, s'amortissant l'après-midi.
-⛅ TEMPS : nuageux à très nuageux, s'éclaircissant l'après-midi.
-👁️ VISIBILITE : bonne.
-
-📉 Tendance pour la nuit du 29  au 30, et la journée du vendredi 30 octobre :
-• VENT : Est 3 à 4.
-• MER : belle à peu agitée.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce jeudi avec maintien de la sécheresse de surface.
@@ -116,22 +97,22 @@ Côté températures, nous aurons des maximales très homogènes, comprises entr
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (jeudi 29 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Anticyclone 1030 hPa sur la France, prévu 1032 hPa sur l'Allemagne jeudi matin.
+🌐 Situation générale : Anticyclone 1031 hPa sur l'Allemagne, se renforçant sur place, prévu 1034 hPa vendredi matin. Dorsale associée 1025 hPa s'étendant jusqu'à la Manche et les îles britanniques, stationnaire.
 
-📅 Prévisions pour la journée du jeudi 29 octobre :
-🌬️ VENT : Variable 1 à 3, fraîchissant Est 3 à 4 à la fin.
-🌊 MER : belle, localement peu agitée en Manche.
-🌊 HOULE : Ouest 0.5 à 1 m en Manche, s'amortissant l'après-midi.
-⛅ TEMPS : nuageux à très nuageux, s'éclaircissant l'après-midi.
+📅 Prévisions pour la journée du vendredi 30 octobre :
+🌬️ VENT : Est à Sud-Est 3 à 4, fraîchissant Est à Nord-Est 4 à 5 en fin de journée.
+🌊 MER : belle à peu agitée.
+🌊 HOULE : non significative.
+⛅ TEMPS : devenant ensoleillé.
 👁️ VISIBILITE : bonne.
 
-📉 Tendance pour la nuit du 29  au 30, et la journée du vendredi 30 octobre :
-• VENT : Est 3 à 4.
+📉 Tendance pour la nuit du 30  au 31, et la journée du samedi 31 octobre :
+• VENT : Est 4 à 5, mollissant 3 à 4 la nuit.
 • MER : belle à peu agitée.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
@@ -187,26 +168,24 @@ Le vent soufflera majoritairement du Sud-Ouest. Il sera modéré, autour de 10 �
 🌊 Température de l’eau : 21°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "AIGUILLON - FRONTIÈRE ESPAGNOLE" MIDI (jeudi 29 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "AIGUILLON - FRONTIÈRE ESPAGNOLE" MIDI
 📍 Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du mercredi 28 octobre 2026 à 12H30 légales.
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du jeudi 29 octobre 2026 à 12H30 légales.
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Anticyclone 1030 hPa sur la France, prévu 1032 hPa sur l'Allemagne jeudi matin.
+🌐 Situation générale : Anticyclone 1031 hPa sur l'Allemagne, se renforçant sur place, prévu 1034 hPa vendredi matin. Dorsale associée 1025 hPa s'étendant jusqu'à la Manche et les îles britanniques, stationnaire.
 
-📅 Prévisions pour la journée du jeudi 29 octobre :
-🌬️ VENT : 
-- au nord de la Pointe de Grave : virant Est 3 à 4, parfois 5 le matin.
-- au sud de la Pointe de Grave : Est 2 à 4, mollissant Nord à Nord-Est 2 à 3 l'après-midi.
-🌊 MER : agitée, dominée par la houle.
-🌊 HOULE : Nord-Ouest 1.5 à 2 m, s'atténuant 1 à 1.5 m l'après-midi.
-⛅ TEMPS : voilé.
+📅 Prévisions pour la journée du vendredi 30 octobre :
+🌬️ VENT : Est dominant 1 à 3, mais 3 à 4 sur côte Charente, revenant secteur Nord-Est 2 à 4 l'après-midi.
+🌊 MER : peu agitée.
+🌊 HOULE : Nord-Ouest 0.5 à 1 m, devenant longue l'après-midi.
+⛅ TEMPS : ensoleillé.
 👁️ VISIBILITE : bonne.
 
-📉 Tendance pour la nuit du 29  au 30, et la journée du vendredi 30 octobre :
-• VENT : secteur Nord-Est 2 à 4, mollissant Variable 1 à 3 la nuit, parfois 4 sur côte Charente.
-• MER : peu agitée à agitée, dominée par la houle.
+📉 Tendance pour la nuit du 30  au 31, et la journée du samedi 31 octobre :
+• VENT : s'orientant Est 2 à 4, mais Variable 1 à 3 au sud d'Arcachon, puis s'orientant secteur Nord-Est 2 à 4 l'après-midi.
+• MER : devenant agitée la nuit, mais localement peu agitée à agitée sur côte Basque.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce jeudi avec maintien de la sécheresse de surface.
@@ -262,22 +241,22 @@ et à très vite pour un nouveau point météo !
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (jeudi 29 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Anticyclone 1030 hPa sur la France, prévu 1032 hPa sur l'Allemagne jeudi matin.
+🌐 Situation générale : Anticyclone 1031 hPa sur l'Allemagne, se renforçant sur place, prévu 1034 hPa vendredi matin. Dorsale associée 1025 hPa s'étendant jusqu'à la Manche et les îles britanniques, stationnaire.
 
-📅 Prévisions pour la journée du jeudi 29 octobre :
-🌬️ VENT : Variable 1 à 3, fraîchissant Est 3 à 4 à la fin.
-🌊 MER : belle, localement peu agitée en Manche.
-🌊 HOULE : Ouest 0.5 à 1 m en Manche, s'amortissant l'après-midi.
-⛅ TEMPS : nuageux à très nuageux, s'éclaircissant l'après-midi.
+📅 Prévisions pour la journée du vendredi 30 octobre :
+🌬️ VENT : Est à Sud-Est 3 à 4, fraîchissant Est à Nord-Est 4 à 5 en fin de journée.
+🌊 MER : belle à peu agitée.
+🌊 HOULE : non significative.
+⛅ TEMPS : devenant ensoleillé.
 👁️ VISIBILITE : bonne.
 
-📉 Tendance pour la nuit du 29  au 30, et la journée du vendredi 30 octobre :
-• VENT : Est 3 à 4.
+📉 Tendance pour la nuit du 30  au 31, et la journée du samedi 31 octobre :
+• VENT : Est 4 à 5, mollissant 3 à 4 la nuit.
 • MER : belle à peu agitée.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
@@ -336,22 +315,22 @@ Côté températures, les maximales s'échelonneront de 15°C à St-Hilaire-sur-
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (jeudi 29 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Anticyclone 1030 hPa sur la France, prévu 1032 hPa sur l'Allemagne jeudi matin.
+🌐 Situation générale : Anticyclone 1031 hPa sur l'Allemagne, se renforçant sur place, prévu 1034 hPa vendredi matin. Dorsale associée 1025 hPa s'étendant jusqu'à la Manche et les îles britanniques, stationnaire.
 
-📅 Prévisions pour la journée du jeudi 29 octobre :
-🌬️ VENT : Variable 1 à 3, fraîchissant Est 3 à 4 à la fin.
-🌊 MER : belle, localement peu agitée en Manche.
-🌊 HOULE : Ouest 0.5 à 1 m en Manche, s'amortissant l'après-midi.
-⛅ TEMPS : nuageux à très nuageux, s'éclaircissant l'après-midi.
+📅 Prévisions pour la journée du vendredi 30 octobre :
+🌬️ VENT : Est à Sud-Est 3 à 4, fraîchissant Est à Nord-Est 4 à 5 en fin de journée.
+🌊 MER : belle à peu agitée.
+🌊 HOULE : non significative.
+⛅ TEMPS : devenant ensoleillé.
 👁️ VISIBILITE : bonne.
 
-📉 Tendance pour la nuit du 29  au 30, et la journée du vendredi 30 octobre :
-• VENT : Est 3 à 4.
+📉 Tendance pour la nuit du 30  au 31, et la journée du samedi 31 octobre :
+• VENT : Est 4 à 5, mollissant 3 à 4 la nuit.
 • MER : belle à peu agitée.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
@@ -408,24 +387,24 @@ Une après-midi donc lumineuse et douce, malgré ce voile nuageux qui persistera
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "BAIE DE SOMME - LA HAGUE" MIDI (jeudi 29 octobre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "BAIE DE SOMME - LA HAGUE" MIDI
 📍 Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du mercredi 28 octobre 2026 à 12H30 légales.
+Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du jeudi 29 octobre 2026 à 12H30 légales.
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Anticyclone 1030 hPa sur la France, prévu 1032 hPa sur l'Allemagne jeudi matin.
+🌐 Situation générale : Anticyclone 1031 hPa sur l'Allemagne, se renforçant sur place, prévu 1034 hPa vendredi matin. Dorsale associée 1025 hPa s'étendant jusqu'à la Manche et les îles britanniques, stationnaire.
 
-📅 Prévisions pour la journée du jeudi 29 octobre :
-🌬️ VENT : secteur Sud 2 à 3, fraîchissant progressivement Est 3 à 4.
-🌊 MER : belle à peu agitée dominée par la houle, parfois agitée vers La Hague le matin.
-🌊 HOULE : Ouest 0.5 à 1 m, temporairement 1.5 m vers La Hague au début, mais non significative en Baie de Seine.
-⛅ TEMPS : nuageux, s'éclaircissant l'après-midi.
+📅 Prévisions pour la journée du vendredi 30 octobre :
+🌬️ VENT : Est à Sud-Est 3 à 4, parfois 5 en matinée, fraîchissant Est 4 à 5 en fin d'après-midi.
+🌊 MER : belle à peu agitée, devenant peu agitée à agitée sur nord Cotentin en fin de matinée.
+🌊 HOULE : non significative, localement Ouest 0.5 à 1 m sur nord Cotentin.
+⛅ TEMPS : ensoleillé.
 👁️ VISIBILITE : bonne.
 
-📉 Tendance pour la nuit du 29  au 30, et la journée du vendredi 30 octobre :
-• VENT : secteur Est 3 à 4, parfois 5 à l'ouest du Havre la nuit.
-• MER : belle à peu agitée, parfois agitée vers La Hague.
+📉 Tendance pour la nuit du 30  au 31, et la journée du samedi 31 octobre :
+• VENT : Est 4 à 5, parfois 6 sur nord Cotentin au début, mollissant 3 à 4 en fin de nuit, parfois 5 en journée.
+• MER : belle à peu agitée, mais peu agitée à agitée sur nord Cotentin.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce jeudi avec maintien de la sécheresse de surface.
