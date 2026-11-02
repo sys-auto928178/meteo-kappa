@@ -1,6 +1,6 @@
 ================================================================================
 📡 RAPPORT EXHAUSTIF DES PRÉVISIONS VISUELLES (MODE VISIO EN PLATEAU)
-DATE CIBLE : LUNDI 2 NOVEMBRE 2026
+DATE CIBLE : MARDI 3 NOVEMBRE 2026
 FICHIER SOURCE : /home/runner/work/meteo-kappa/meteo-kappa/cnews/BULLETINS_AUTOMATIQUES_DEMAIN.json
 ================================================================================
 
@@ -27,26 +27,6 @@ Pour cet après-midi du lundi 2 novembre, le ciel restera partagé sur une grand
 Les nuages seront nombreux du Nord-Ouest jusqu'au Nord-Est, avec un temps très nuageux de la Bretagne aux Hauts-de-France, en passant par l'Île-de-France. Seule la Basse-Normandie, autour de Caen, connaîtra quelques averses entrecoupées d'éclaircies. Les températures maximales y atteindront 13 à 15 degrés, avec un vent de sud-ouest soufflant entre 15 et 20 km/h, et des rafales pouvant atteindre 45 km/h sur les côtes bretonnes et normandes.
 
 Plus au sud, le soleil s'imposera généreusement. De la Vendée aux Charentes, en passant par le Centre-Val de Loire, le plein soleil dominera l'après-midi, notamment à Nantes, Tours et Poitiers. Les maximales seront agréables, avec 12 à 14 degrés. Le vent y sera plus modéré, autour de 15 km/h, mais des rafales de 40 km/h sont possibles sur le littoral atlantique.
-
-🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (lundi 2 novembre 2026)
-📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
-
-⚠️ AVIS DE SÉCURITÉ EN MER (BMS OFFICIEL) :
-• Avis de grand frais
-• VENT : Nord-Est 7. Rafales.
-
-🌐 Situation générale : Anticyclone 1038 hPa à l'ouest de l'Irlande se renforçant en se décalant vers l'est, prévu 1043 hPa sur le nord des îles Britanniques la nuit, générant un flux de Nord-Est en Manche et Mer du Nord, se renfonçant assez fort demain.
-
-📅 Prévisions pour la journée du lundi 2 novembre :
-🌬️ VENT : Nord-Est 5 à 6, parfois 7 au sud de Boulogne au début. Fortes rafales.
-🌊 MER : agitée, localement peu agitée à agitée au sud de Boulogne.
-⛅ TEMPS : averses.
-👁️ VISIBILITE : moyenne à mauvaise sous averses.
-
-📉 Tendance pour la nuit du 2  au 3, et la journée du mardi 3 novembre :
-• VENT : Nord-Est 5 à 6, mollissant Est à Nord-Est 4 à 5 en fin de nuit, puis fraîchissant 5 à 6 à la fin. Rafales dans le détroit la nuit.
-• MER : agitée en Mer du Nord, et peu agitée à agité en Manche.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce lundi avec maintien de la sécheresse de surface.
@@ -115,24 +95,23 @@ Côté températures, les maximales afficheront 13°C à Lille et Roubaix, 12°C
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (lundi 2 novembre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ EN MER (BMS OFFICIEL) :
 • Avis de grand frais
+• En cours et valable jusqu'au lundi 2 novembre à 11H00 UTC
+• VENT : Nord-Est 7. Rafales.
 • VENT : Nord-Est 7. Rafales.
 
-🌐 Situation générale : Anticyclone 1038 hPa à l'ouest de l'Irlande se renforçant en se décalant vers l'est, prévu 1043 hPa sur le nord des îles Britanniques la nuit, générant un flux de Nord-Est en Manche et Mer du Nord, se renfonçant assez fort demain.
+🌐 Situation générale : Anticyclone 1042 hPa au nord de l'Irlande, se décalant vers l'est, prévu 1044 hPa sur l’Écosse en fin de journée, générant un flux de Nord-Est assez fort à fort en Manche et Mer du Nord.
 
-📅 Prévisions pour la journée du lundi 2 novembre :
-🌬️ VENT : Nord-Est 5 à 6, parfois 7 au sud de Boulogne au début. Fortes rafales.
-🌊 MER : agitée, localement peu agitée à agitée au sud de Boulogne.
-⛅ TEMPS : averses.
-👁️ VISIBILITE : moyenne à mauvaise sous averses.
-
-📉 Tendance pour la nuit du 2  au 3, et la journée du mardi 3 novembre :
-• VENT : Nord-Est 5 à 6, mollissant Est à Nord-Est 4 à 5 en fin de nuit, puis fraîchissant 5 à 6 à la fin. Rafales dans le détroit la nuit.
-• MER : agitée en Mer du Nord, et peu agitée à agité en Manche.
+📅 Tendance pour la journée du mardi 3 novembre :
+🌬️ VENT : Nord-Est 5 à 6. Rafales, parfois forte dans le détroit.
+🌊 MER : agitée en Mer du Nord, et peu agitée à agité en Manche.
+🌊 HOULE : Nord 0.5 à 1 m, jusqu'à 1.5 m en Mer du Nord le matin.
+⛅ TEMPS : averses, s’améliorant l’après-midi
+👁️ VISIBILITE : moyenne à mauvaise sous précipitions.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce lundi avec maintien de la sécheresse de surface.
@@ -189,28 +168,22 @@ Le vent soufflera du secteur Sud-Ouest, et restera sensible. Il atteindra 20 à 
 🌊 Température de l’eau : 21°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "AIGUILLON - FRONTIÈRE ESPAGNOLE" MIDI (lundi 2 novembre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "AIGUILLON - FRONTIÈRE ESPAGNOLE" MATIN
 📍 Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du dimanche 1 novembre 2026 à 12H30 légales.
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du lundi 2 novembre 2026 à 06H15 légales.
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Anticyclone 1038 hPa à l'ouest de l'Irlande se renforçant en se décalant vers l'est, prévu 1043 hPa sur le nord des îles Britanniques la nuit, générant un flux de Nord-Est en Manche et Mer du Nord, se renfonçant assez fort demain.
+🌐 Situation générale : Anticyclone 1042 hPa au nord de l'Irlande, se décalant vers l'est, prévu 1044 hPa sur l’Écosse en fin de journée, générant un flux de Nord-Est assez fort à fort en Manche et Mer du Nord.
 
-📅 Prévisions pour la journée du lundi 2 novembre :
+📅 Tendance pour la journée du mardi 3 novembre :
 🌬️ VENT : 
-- au nord de Mimizan : Nord-Est 4 à 5, fraîchissant 5 à 6 en fin de journée.
-- au sud de Mimizan : Nord-Est 3 à 4, revenant temporairement Nord-Ouest sur côtes sud Landes et Basque l'après-midi.
-🌊 MER : peu agitée à agitée.
-🌊 HOULE : Nord-Ouest s'atténuant 0.5 à 1 m le matin.
-⛅ TEMPS : ensoleillé.
-👁️ VISIBILITE : bonne.
-
-📉 Tendance pour la nuit du 2  au 3, et la journée du mardi 3 novembre :
-• VENT : 
 - au nord de Mimizan : Nord-Est 5 à 6, mollissant 4 à 5 l'après-midi.
-- au sud de Mimizan : Nord à Nord-Est 3 à 4.
-• MER : peu agitée à agitée.
+- au sud de Mimizan : Nord à Nord-Est 3 à 4, devenant Variable 2 à 4 l'après-midi.
+🌊 MER : peu agitée à agitée, s'atténuant peu agitée à la fin.
+🌊 HOULE : Nord à Nord-Ouest 0.5 à 1 m.
+⛅ TEMPS : nuageux.
+👁️ VISIBILITE : bonne.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce lundi avec maintien de la sécheresse de surface.
@@ -268,24 +241,23 @@ Le vent soufflera du secteur sud-ouest, modéré à assez fort, avec des vitesse
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (lundi 2 novembre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ EN MER (BMS OFFICIEL) :
 • Avis de grand frais
+• En cours et valable jusqu'au lundi 2 novembre à 11H00 UTC
+• VENT : Nord-Est 7. Rafales.
 • VENT : Nord-Est 7. Rafales.
 
-🌐 Situation générale : Anticyclone 1038 hPa à l'ouest de l'Irlande se renforçant en se décalant vers l'est, prévu 1043 hPa sur le nord des îles Britanniques la nuit, générant un flux de Nord-Est en Manche et Mer du Nord, se renfonçant assez fort demain.
+🌐 Situation générale : Anticyclone 1042 hPa au nord de l'Irlande, se décalant vers l'est, prévu 1044 hPa sur l’Écosse en fin de journée, générant un flux de Nord-Est assez fort à fort en Manche et Mer du Nord.
 
-📅 Prévisions pour la journée du lundi 2 novembre :
-🌬️ VENT : Nord-Est 5 à 6, parfois 7 au sud de Boulogne au début. Fortes rafales.
-🌊 MER : agitée, localement peu agitée à agitée au sud de Boulogne.
-⛅ TEMPS : averses.
-👁️ VISIBILITE : moyenne à mauvaise sous averses.
-
-📉 Tendance pour la nuit du 2  au 3, et la journée du mardi 3 novembre :
-• VENT : Nord-Est 5 à 6, mollissant Est à Nord-Est 4 à 5 en fin de nuit, puis fraîchissant 5 à 6 à la fin. Rafales dans le détroit la nuit.
-• MER : agitée en Mer du Nord, et peu agitée à agité en Manche.
+📅 Tendance pour la journée du mardi 3 novembre :
+🌬️ VENT : Nord-Est 5 à 6. Rafales, parfois forte dans le détroit.
+🌊 MER : agitée en Mer du Nord, et peu agitée à agité en Manche.
+🌊 HOULE : Nord 0.5 à 1 m, jusqu'à 1.5 m en Mer du Nord le matin.
+⛅ TEMPS : averses, s’améliorant l’après-midi
+👁️ VISIBILITE : moyenne à mauvaise sous précipitions.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce lundi avec maintien de la sécheresse de surface.
@@ -341,24 +313,23 @@ Le vent soufflera du Sud-Ouest, avec des vitesses de 15 à 20 km/h sur l'intéri
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (lundi 2 novembre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ EN MER (BMS OFFICIEL) :
 • Avis de grand frais
+• En cours et valable jusqu'au lundi 2 novembre à 11H00 UTC
+• VENT : Nord-Est 7. Rafales.
 • VENT : Nord-Est 7. Rafales.
 
-🌐 Situation générale : Anticyclone 1038 hPa à l'ouest de l'Irlande se renforçant en se décalant vers l'est, prévu 1043 hPa sur le nord des îles Britanniques la nuit, générant un flux de Nord-Est en Manche et Mer du Nord, se renfonçant assez fort demain.
+🌐 Situation générale : Anticyclone 1042 hPa au nord de l'Irlande, se décalant vers l'est, prévu 1044 hPa sur l’Écosse en fin de journée, générant un flux de Nord-Est assez fort à fort en Manche et Mer du Nord.
 
-📅 Prévisions pour la journée du lundi 2 novembre :
-🌬️ VENT : Nord-Est 5 à 6, parfois 7 au sud de Boulogne au début. Fortes rafales.
-🌊 MER : agitée, localement peu agitée à agitée au sud de Boulogne.
-⛅ TEMPS : averses.
-👁️ VISIBILITE : moyenne à mauvaise sous averses.
-
-📉 Tendance pour la nuit du 2  au 3, et la journée du mardi 3 novembre :
-• VENT : Nord-Est 5 à 6, mollissant Est à Nord-Est 4 à 5 en fin de nuit, puis fraîchissant 5 à 6 à la fin. Rafales dans le détroit la nuit.
-• MER : agitée en Mer du Nord, et peu agitée à agité en Manche.
+📅 Tendance pour la journée du mardi 3 novembre :
+🌬️ VENT : Nord-Est 5 à 6. Rafales, parfois forte dans le détroit.
+🌊 MER : agitée en Mer du Nord, et peu agitée à agité en Manche.
+🌊 HOULE : Nord 0.5 à 1 m, jusqu'à 1.5 m en Mer du Nord le matin.
+⛅ TEMPS : averses, s’améliorant l’après-midi
+👁️ VISIBILITE : moyenne à mauvaise sous précipitions.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce lundi avec maintien de la sécheresse de surface.
@@ -418,24 +389,22 @@ Côté températures, les maximales s'étageront de 11°C à Dieppe à 14°C à 
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "BAIE DE SOMME - LA HAGUE" MIDI (lundi 2 novembre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "BAIE DE SOMME - LA HAGUE" MATIN
 📍 Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du dimanche 1 novembre 2026 à 12H30 légales.
+Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du lundi 2 novembre 2026 à 06H30 légales.
 
-⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
+⚠️ AVIS DE SÉCURITÉ EN MER (BMS OFFICIEL) :
+• Avis de grand frais
+• VENT : Nord-Est 7, mollissant à l'est de Gatteville en fin de nuit. Rafales.
 
-🌐 Situation générale : Anticyclone 1038 hPa à l'ouest de l'Irlande se renforçant en se décalant vers l'est, prévu 1043 hPa sur le nord des îles Britanniques la nuit, générant un flux de Nord-Est en Manche et Mer du Nord, se renfonçant assez fort demain.
+🌐 Situation générale : Anticyclone 1042 hPa au nord de l'Irlande, se décalant vers l'est, prévu 1044 hPa sur l’Écosse en fin de journée, générant un flux de Nord-Est assez fort à fort en Manche et Mer du Nord.
 
-📅 Prévisions pour la journée du lundi 2 novembre :
-🌬️ VENT : Nord-Est 5 à 6, fraîchissant 6 à 7 de la baie des Veys au Havre en fin de journée. Rafales.
-🌊 MER : agitée,localement peu agitée à agitée de la baie de Somme à Ouistrham, puis devenant forte sur est-Cotentin à la fin.
-🌊 HOULE : confondue avec  la mer du vent.
-⛅ TEMPS : pluie le matin puis averses.
-👁️ VISIBILITE : localement mauvaise sous précipitations.
-
-📉 Tendance pour la nuit du 2  au 3, et la journée du mardi 3 novembre :
-• VENT : Nord-Est 5 à 6, temporairement 6 à 7 de la Baie des Veys au Havre au début. Rafales.
-• MER : agitée à forte, devenant agitée en fin de nuit, localement agitée à forte autour du Cotentin.
+📅 Tendance pour la journée du mardi 3 novembre :
+🌬️ VENT : Nord-Est 5 à 6, localement 7 sur nord Cotentin. Rafales.
+🌊 MER : agitée, localement forte sur nord Cotentin.
+🌊 HOULE : Nord 0.5 à 1 m.
+⛅ TEMPS : averses, s’améliorant l’après-midi
+👁️ VISIBILITE : moyenne à mauvaise sous précipitions.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce lundi avec maintien de la sécheresse de surface.
