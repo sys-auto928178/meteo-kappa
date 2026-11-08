@@ -1,6 +1,6 @@
 ================================================================================
 📡 RAPPORT EXHAUSTIF DES PRÉVISIONS VISUELLES (MODE VISIO EN PLATEAU)
-DATE CIBLE : VENDREDI 6 NOVEMBRE 2026
+DATE CIBLE : LUNDI 9 NOVEMBRE 2026
 FICHIER SOURCE : /home/runner/work/meteo-kappa/meteo-kappa/cnews/BULLETINS_AUTOMATIQUES_DEMAIN.json
 ================================================================================
 
@@ -29,25 +29,6 @@ Pour cet après-midi du vendredi 6 novembre, le soleil sera le grand gagnant sur
 Sur l'ensemble de la façade ouest, de la Bretagne aux Pays de la Loire en passant par la Normandie et le Centre-Val de Loire, on retrouvera un ciel partagé entre belles éclaircies et passages nuageux. Seule exception, Nantes, où quelques averses sont attendues. Plus au nord, de Lille à Laon, le ciel restera très nuageux à nuageux.
 
 Côté températures, les maximales seront douces pour la saison, avec 15 degrés à Nantes et Poitiers, 14 à Rennes et Tours, et 13 degrés à Paris, Laon, Rouen, Caen et Brest. Le vent soufflera faiblement, autour de 5 à 10 km/h, toujours orienté au sud-ouest.
-
-🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (vendredi 6 novembre 2026)
-📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
-
-⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
-
-🌐 Situation générale : Anticyclone 1037 hPa entre Écosse et Norvège, s'affaissant lentement, prévu 1034 hPa au sud de la Suède vendredi matin. Dépression 1016 hPa sur le golfe de Gascogne, prévue 1018 hPa l'après-midi, puis se comblant vendredi matin.
-
-📅 Prévisions pour la journée du vendredi 6 novembre :
-🌬️ VENT : Est à Sud-Est 1 à 3, virant Sud à Sud-Ouest à la mi-journée.
-🌊 MER : belle à peu agitée, s'atténuant belle à la mi-journée.
-🌊 HOULE : non significative.
-⛅ TEMPS : couvert et pluvieux.
-👁️ VISIBILITE : moyenne sous pluie.
-
-📉 Tendance pour la nuit du 6  au 7, et la journée du samedi 7 novembre :
-• VENT : Sud à Sud-Ouest 2 à 4, fraîchissant 4 à 5 à la mi-journée.
-• MER : belle, devenant peu agitée le matin.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce vendredi avec maintien de la sécheresse de surface.
@@ -116,23 +97,20 @@ Le vent soufflera faiblement, autour de 5 à 10 km/h, avec une dominante de sect
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (vendredi 6 novembre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Anticyclone 1037 hPa entre Écosse et Norvège, s'affaissant lentement, prévu 1034 hPa au sud de la Suède vendredi matin. Dépression 1016 hPa sur le golfe de Gascogne, prévue 1018 hPa l'après-midi, puis se comblant vendredi matin.
+🌐 Situation générale : Dépression relative 1020 hPa sur le sud de la Mer du Nord, se creusant lentement, prévue 1016 hPa demain soir.
+Dépression atlantique "BRUNA" 976 hPa au nord-est des Açores, se creusant 970 hPa aujourd'hui, se déplaçant ensuite lentement vers le nord-est lundi.
 
-📅 Prévisions pour la journée du vendredi 6 novembre :
-🌬️ VENT : Est à Sud-Est 1 à 3, virant Sud à Sud-Ouest à la mi-journée.
-🌊 MER : belle à peu agitée, s'atténuant belle à la mi-journée.
+📅 Tendance pour la journée du lundi 9 novembre :
+🌬️ VENT : revenant Est à Sud-Est 2 à 4 en journée, puis Est 3 à 5 du nord au sud l'après-midi.
+🌊 MER : belle, parfois peu agitée la nuit.
 🌊 HOULE : non significative.
-⛅ TEMPS : couvert et pluvieux.
-👁️ VISIBILITE : moyenne sous pluie.
-
-📉 Tendance pour la nuit du 6  au 7, et la journée du samedi 7 novembre :
-• VENT : Sud à Sud-Ouest 2 à 4, fraîchissant 4 à 5 à la mi-journée.
-• MER : belle, devenant peu agitée le matin.
+⛅ TEMPS : nuageux à très nuageux, puis peu nuageux en journée.
+👁️ VISIBILITE : bonne.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce vendredi avec maintien de la sécheresse de surface.
@@ -189,24 +167,23 @@ Côté vent, il soufflera faiblement, autour de 10 à 15 km/h, principalement du
 🌊 Température de l’eau : 21°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "AIGUILLON - FRONTIÈRE ESPAGNOLE" MIDI (vendredi 6 novembre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "AIGUILLON - FRONTIÈRE ESPAGNOLE" MATIN
 📍 Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du jeudi 5 novembre 2026 à 12H30 légales.
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du dimanche 8 novembre 2026 à 06H15 légales.
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Anticyclone 1036 hPa entre Écosse et Norvège, s'affaissant lentement, prévu 1034 hPa au sud de la Suède vendredi matin. Dépression 1016 hPa sur le golfe de Gascogne, prévue 1018 hPa l'après-midi, puis se comblant vendredi matin.
+🌐 Situation générale : Dépression relative 1020 hPa sur le sud de la Mer du Nord, se creusant lentement, prévue 1016 hPa demain soir.
+Dépression atlantique "BRUNA" 976 hPa au nord-est des Açores, se creusant 970 hPa aujourd'hui, se déplaçant ensuite lentement vers le nord-est lundi.
 
-📅 Prévisions pour la journée du vendredi 6 novembre :
-🌬️ VENT : Sud à Sud-Est 2 à 4, revenant Est à Nord-Est l'après-midi au sud de la Gironde.
-🌊 MER : peu agitée.
-🌊 HOULE : Ouest à Nord-Ouest 0.5 à 1 m.
-⛅ TEMPS : ensoleillé, parfois nuageux avec rares averses sur côte Charente.
-👁️ VISIBILITE : bonne, parfois moyenne sous averses.
-
-📉 Tendance pour la nuit du 6  au 7, et la journée du samedi 7 novembre :
-• VENT : Sud-Est 3 à 4.
-• MER : peu agitée, localement belle sur le rivage de la côte Charente.
+📅 Tendance pour la journée du lundi 9 novembre :
+🌬️ VENT : 
+- sur côte basque : Sud 5 à 6. Rafales, parfois fortes par déferlement le matin.
+- ailleurs, Sud-Est 4 à 5, virant Sud à Sud-Est l'après-midi.
+🌊 MER : devenant peu agitée à agitée le matin.
+🌊 HOULE : non significative, s'amplifiant Sud à Sud-Ouest 0.5 à 1 m le matin au nord de Mimizan.
+⛅ TEMPS : nuageux, pluies passagères en milieu de journée.
+👁️ VISIBILITE : bonne, parfois moyenne sous pluie.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce vendredi avec maintien de la sécheresse de surface.
@@ -262,23 +239,20 @@ Voilà pour ce bulletin météo de l'après-midi. Très belle fin de journée su
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (vendredi 6 novembre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Anticyclone 1037 hPa entre Écosse et Norvège, s'affaissant lentement, prévu 1034 hPa au sud de la Suède vendredi matin. Dépression 1016 hPa sur le golfe de Gascogne, prévue 1018 hPa l'après-midi, puis se comblant vendredi matin.
+🌐 Situation générale : Dépression relative 1020 hPa sur le sud de la Mer du Nord, se creusant lentement, prévue 1016 hPa demain soir.
+Dépression atlantique "BRUNA" 976 hPa au nord-est des Açores, se creusant 970 hPa aujourd'hui, se déplaçant ensuite lentement vers le nord-est lundi.
 
-📅 Prévisions pour la journée du vendredi 6 novembre :
-🌬️ VENT : Est à Sud-Est 1 à 3, virant Sud à Sud-Ouest à la mi-journée.
-🌊 MER : belle à peu agitée, s'atténuant belle à la mi-journée.
+📅 Tendance pour la journée du lundi 9 novembre :
+🌬️ VENT : revenant Est à Sud-Est 2 à 4 en journée, puis Est 3 à 5 du nord au sud l'après-midi.
+🌊 MER : belle, parfois peu agitée la nuit.
 🌊 HOULE : non significative.
-⛅ TEMPS : couvert et pluvieux.
-👁️ VISIBILITE : moyenne sous pluie.
-
-📉 Tendance pour la nuit du 6  au 7, et la journée du samedi 7 novembre :
-• VENT : Sud à Sud-Ouest 2 à 4, fraîchissant 4 à 5 à la mi-journée.
-• MER : belle, devenant peu agitée le matin.
+⛅ TEMPS : nuageux à très nuageux, puis peu nuageux en journée.
+👁️ VISIBILITE : bonne.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce vendredi avec maintien de la sécheresse de surface.
@@ -332,23 +306,20 @@ Quant au vent, il soufflera faiblement à modérément sur l'ensemble du territo
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (vendredi 6 novembre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Anticyclone 1037 hPa entre Écosse et Norvège, s'affaissant lentement, prévu 1034 hPa au sud de la Suède vendredi matin. Dépression 1016 hPa sur le golfe de Gascogne, prévue 1018 hPa l'après-midi, puis se comblant vendredi matin.
+🌐 Situation générale : Dépression relative 1020 hPa sur le sud de la Mer du Nord, se creusant lentement, prévue 1016 hPa demain soir.
+Dépression atlantique "BRUNA" 976 hPa au nord-est des Açores, se creusant 970 hPa aujourd'hui, se déplaçant ensuite lentement vers le nord-est lundi.
 
-📅 Prévisions pour la journée du vendredi 6 novembre :
-🌬️ VENT : Est à Sud-Est 1 à 3, virant Sud à Sud-Ouest à la mi-journée.
-🌊 MER : belle à peu agitée, s'atténuant belle à la mi-journée.
+📅 Tendance pour la journée du lundi 9 novembre :
+🌬️ VENT : revenant Est à Sud-Est 2 à 4 en journée, puis Est 3 à 5 du nord au sud l'après-midi.
+🌊 MER : belle, parfois peu agitée la nuit.
 🌊 HOULE : non significative.
-⛅ TEMPS : couvert et pluvieux.
-👁️ VISIBILITE : moyenne sous pluie.
-
-📉 Tendance pour la nuit du 6  au 7, et la journée du samedi 7 novembre :
-• VENT : Sud à Sud-Ouest 2 à 4, fraîchissant 4 à 5 à la mi-journée.
-• MER : belle, devenant peu agitée le matin.
+⛅ TEMPS : nuageux à très nuageux, puis peu nuageux en journée.
+👁️ VISIBILITE : bonne.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce vendredi avec maintien de la sécheresse de surface.
@@ -404,24 +375,21 @@ Le vent soufflera faiblement de secteur Sud-Ouest, avec des vitesses comprises e
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "BAIE DE SOMME - LA HAGUE" MIDI (vendredi 6 novembre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "BAIE DE SOMME - LA HAGUE" MATIN
 📍 Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du jeudi 5 novembre 2026 à 12H30 légales.
+Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du dimanche 8 novembre 2026 à 06H30 légales.
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Anticyclone 1036 hPa entre Écosse et Norvège, s'affaissant lentement, prévu 1034 hPa au sud de la Suède vendredi matin. Dépression 1016 hPa sur le golfe de Gascogne, prévue 1018 hPa l'après-midi, puis se comblant vendredi matin.
+🌐 Situation générale : Dépression relative 1020 hPa sur le sud de la Mer du Nord, se creusant lentement, prévue 1016 hPa demain soir.
+Dépression atlantique "BRUNA" 976 hPa au nord-est des Açores, se creusant 970 hPa aujourd'hui, se déplaçant ensuite lentement vers le nord-est lundi.
 
-📅 Prévisions pour la journée du vendredi 6 novembre :
-🌬️ VENT : Sud à Sud-Ouest 2 à 4.
-🌊 MER : belle, localement peu agitée sur nord Cotentin le matin.
-🌊 HOULE : non significative.
-⛅ TEMPS : nuageux à très nuageux, averses l'après-midi.
-👁️ VISIBILITE : bonne, parfois moyenne sous averses l'après-midi.
-
-📉 Tendance pour la nuit du 6  au 7, et la journée du samedi 7 novembre :
-• VENT : Sud à Sud-Ouest 3 à 4.
-• MER : belle à peu agitée.
+📅 Tendance pour la journée du lundi 9 novembre :
+🌬️ VENT : Est à Sud-Est 3 à 4, localement 5 au nord du Cotentin, fraîchissant Est 4 à 5 le matin, localement 6 vers La Hague.
+🌊 MER : peu agitée, localement agitée au nord du Cotentin l'après-midi.
+🌊 HOULE : non significative, s'amplifiant localement longue de Sud-Ouest proche de 0.5 m vers La Hague en fin de journée.
+⛅ TEMPS : ciel très nuageux.
+👁️ VISIBILITE : bonne.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce vendredi avec maintien de la sécheresse de surface.
