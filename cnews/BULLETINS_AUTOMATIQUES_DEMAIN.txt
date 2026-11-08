@@ -26,22 +26,6 @@ Pour cet après-midi du lundi 9 novembre, le ciel restera bien chargé sur une l
 
 En revanche, de la Bretagne au Centre-Val de Loire et jusqu'à la Nouvelle-Aquitaine, le temps sera plus instable. Nous attendons des averses, parfois modérées, entrecoupées de belles éclaircies. Les températures seront plus élevées, atteignant 16 degrés à Rennes, 17 à Nantes, 15 à Tours et Poitiers. Le vent restera modéré, soufflant entre 10 et 15 km/h, toujours orienté au sud-ouest.
 
-🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (lundi 9 novembre 2026)
-📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
-
-⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
-
-🌐 Situation générale : Dépression relative 1020 hPa sur le sud de la Mer du Nord, se creusant lentement, prévue 1016 hPa demain soir.
-Dépression atlantique "BRUNA" 976 hPa au nord-est des Açores, se creusant 970 hPa aujourd'hui, se déplaçant ensuite lentement vers le nord-est lundi.
-
-📅 Tendance pour la journée du lundi 9 novembre :
-🌬️ VENT : revenant Est à Sud-Est 2 à 4 en journée, puis Est 3 à 5 du nord au sud l'après-midi.
-🌊 MER : belle, parfois peu agitée la nuit.
-🌊 HOULE : non significative.
-⛅ TEMPS : nuageux à très nuageux, puis peu nuageux en journée.
-👁️ VISIBILITE : bonne.
-
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce lundi avec maintien de la sécheresse de surface.
 🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce lundi. Aucun coup de vent à craindre.
@@ -109,7 +93,7 @@ Côté températures, les maximales seront douces pour la saison, avec 10°C att
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (lundi 9 novembre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
@@ -177,7 +161,7 @@ Le vent soufflera du secteur Sud-Ouest, généralement autour de 20 km/h sur l'i
 🌊 Température de l’eau : 21°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "AIGUILLON - FRONTIÈRE ESPAGNOLE" MATIN (lundi 9 novembre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "AIGUILLON - FRONTIÈRE ESPAGNOLE" MATIN
 📍 Origine Météo-France. 
 Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du dimanche 8 novembre 2026 à 06H15 légales.
 
@@ -249,7 +233,7 @@ Côté températures maximales, nous attendons 7°C à Gravelines, 8°C à Offek
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (lundi 9 novembre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
@@ -318,7 +302,7 @@ Le vent, quant à lui, restera faible et discret, soufflant du sud-ouest à envi
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (lundi 9 novembre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
@@ -389,7 +373,7 @@ Le vent soufflera du sud-ouest, modéré sur l'ensemble de la région, entre 10 
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "BAIE DE SOMME - LA HAGUE" MATIN (lundi 9 novembre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "BAIE DE SOMME - LA HAGUE" MATIN
 📍 Origine Météo-France. 
 Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du dimanche 8 novembre 2026 à 06H30 légales.
 
