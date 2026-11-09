@@ -1,6 +1,6 @@
 ================================================================================
 📡 RAPPORT EXHAUSTIF DES PRÉVISIONS VISUELLES (MODE VISIO EN PLATEAU)
-DATE CIBLE : LUNDI 9 NOVEMBRE 2026
+DATE CIBLE : MARDI 10 NOVEMBRE 2026
 FICHIER SOURCE : /home/runner/work/meteo-kappa/meteo-kappa/cnews/BULLETINS_AUTOMATIQUES_DEMAIN.json
 ================================================================================
 
@@ -25,22 +25,6 @@ Le vent soufflera faiblement, autour de 10 à 15 km/h, généralement de secteur
 Cet après-midi, une atmosphère plutôt nuageuse dominera sur une grande partie du pays, avec des éclaircies qui tenteront de percer. De la Normandie aux Hauts-de-France, en passant par l'Île-de-France, le ciel restera partagé entre belles éclaircies et passages nuageux. Les températures maximales y atteindront 10°C à Lille et Laon, 11°C à Paris, et 14°C à Rouen. Le vent soufflera faiblement du sud-ouest, autour de 10 km/h.
 
 Plus à l'ouest, de la Bretagne aux Pays de la Loire et jusqu'à la Nouvelle-Aquitaine, le temps sera plus instable. Des averses sont attendues, entrecoupées de quelques éclaircies. Les maximales afficheront 11°C à Brest, 16°C à Rennes, 17°C à Nantes, 15°C à Tours et Poitiers. Le vent sera un peu plus sensible sur les côtes bretonnes, avec 20 km/h à Brest, et 15 km/h ailleurs.
-
-🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (lundi 9 novembre 2026)
-📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
-
-⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
-
-🌐 Situation générale : Dépression relative 1020 hPa sur le sud de la Mer du Nord, se creusant lentement, prévue 1016 hPa demain soir.
-Dépression atlantique "BRUNA" 976 hPa au nord-est des Açores, se creusant 970 hPa aujourd'hui, se déplaçant ensuite lentement vers le nord-est lundi.
-
-📅 Tendance pour la journée du lundi 9 novembre :
-🌬️ VENT : revenant Est à Sud-Est 2 à 4 en journée, puis Est 3 à 5 du nord au sud l'après-midi.
-🌊 MER : belle, parfois peu agitée la nuit.
-🌊 HOULE : non significative.
-⛅ TEMPS : nuageux à très nuageux, puis peu nuageux en journée.
-👁️ VISIBILITE : bonne.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce lundi avec maintien de la sécheresse de surface.
@@ -109,20 +93,24 @@ Côté températures, les maximales seront douces pour la saison, avec 10 degré
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (lundi 9 novembre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Dépression relative 1020 hPa sur le sud de la Mer du Nord, se creusant lentement, prévue 1016 hPa demain soir.
-Dépression atlantique "BRUNA" 976 hPa au nord-est des Açores, se creusant 970 hPa aujourd'hui, se déplaçant ensuite lentement vers le nord-est lundi.
+🌐 Situation générale : Dépression 973 hPa "BRUNA" au large de la Corogne, se décalant lentement vers le nord. Thalweg associé 1010 hPa s'étendant jusqu'au golfe de Gascogne, prévu se renforcer jusqu'au nord-est de la France mardi. 
+Anticyclone 1030 hPa sur l'Europe centrale, se décale lentement vers l'est demain.
 
-📅 Tendance pour la journée du lundi 9 novembre :
-🌬️ VENT : revenant Est à Sud-Est 2 à 4 en journée, puis Est 3 à 5 du nord au sud l'après-midi.
-🌊 MER : belle, parfois peu agitée la nuit.
+📅 Prévisions pour la journée du mardi 10 novembre :
+🌬️ VENT : Est 4 à 5.
+🌊 MER : belle à peu agitée, devenant peu agitée l'après-midi.
 🌊 HOULE : non significative.
-⛅ TEMPS : nuageux à très nuageux, puis peu nuageux en journée.
-👁️ VISIBILITE : bonne.
+⛅ TEMPS : très nuageux à couvert avec petites pluies l'après-midi.
+👁️ VISIBILITE : bonne, mais moyenne par pluie.
+
+📉 Tendance pour la nuit du 10  au 11, et la journée du mercredi 11 novembre :
+• VENT : Est à Nord-Est 3 à 4, parfois 5 en Mer du Nord au début, mollissant 2 à 4 l'après-midi, puis 2 à 3 en fin de journée.
+• MER : peu agitée, devenant belle à peu agitée en fin de journée.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce lundi avec maintien de la sécheresse de surface.
@@ -179,23 +167,25 @@ Pensez donc à votre parapluie cet après-midi !
 🌊 Température de l’eau : 21°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "AIGUILLON - FRONTIÈRE ESPAGNOLE" MATIN (lundi 9 novembre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "AIGUILLON - FRONTIÈRE ESPAGNOLE" MIDI
 📍 Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du dimanche 8 novembre 2026 à 06H15 légales.
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du lundi 9 novembre 2026 à 12H30 légales.
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Dépression relative 1020 hPa sur le sud de la Mer du Nord, se creusant lentement, prévue 1016 hPa demain soir.
-Dépression atlantique "BRUNA" 976 hPa au nord-est des Açores, se creusant 970 hPa aujourd'hui, se déplaçant ensuite lentement vers le nord-est lundi.
+🌐 Situation générale : Dépression 973 hPa "BRUNA" au large de la Corogne, se décalant lentement vers le nord. Thalweg associé 1010 hPa s'étendant jusqu'au golfe de Gascogne, prévu se renforcer jusqu'au nord-est de la France mardi. 
+Anticyclone 1030 hPa sur l'Europe centrale, se décale lentement vers l'est demain.
 
-📅 Tendance pour la journée du lundi 9 novembre :
-🌬️ VENT : 
-- sur côte basque : Sud 5 à 6. Rafales, parfois fortes par déferlement le matin.
-- ailleurs, Sud-Est 4 à 5, virant Sud à Sud-Est l'après-midi.
-🌊 MER : devenant peu agitée à agitée le matin.
-🌊 HOULE : non significative, s'amplifiant Sud à Sud-Ouest 0.5 à 1 m le matin au nord de Mimizan.
-⛅ TEMPS : nuageux, pluies passagères en milieu de journée.
-👁️ VISIBILITE : bonne, parfois moyenne sous pluie.
+📅 Prévisions pour la journée du mardi 10 novembre :
+🌬️ VENT : Sud 4 à 5, parfois 6 au sud d'Arcachon, mollissant 2 à 4 l'après-midi, parfois 5 au sud d'Arcachon.
+🌊 MER : devenant agitée le matin, localement peu agitée sur côte Basque.
+🌊 HOULE : s'amplifiant longue d'Ouest à Sud-Ouest 1 à 2 m, du sud au nord.
+⛅ TEMPS : nuageux. Pluie sur côte Charente à la mi-journée.
+👁️ VISIBILITE : bonne, localement moyenne par pluie.
+
+📉 Tendance pour la nuit du 10  au 11, et la journée du mercredi 11 novembre :
+• VENT : Sud 3 à 5, mollissant Sud à Sud-Est 3 à 4 l'après-midi.
+• MER : agitée par houle d'Ouest.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce lundi avec maintien de la sécheresse de surface.
@@ -253,20 +243,24 @@ Le vent soufflera du Sud-Ouest, généralement faible à modéré, entre 10 et 2
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (lundi 9 novembre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Dépression relative 1020 hPa sur le sud de la Mer du Nord, se creusant lentement, prévue 1016 hPa demain soir.
-Dépression atlantique "BRUNA" 976 hPa au nord-est des Açores, se creusant 970 hPa aujourd'hui, se déplaçant ensuite lentement vers le nord-est lundi.
+🌐 Situation générale : Dépression 973 hPa "BRUNA" au large de la Corogne, se décalant lentement vers le nord. Thalweg associé 1010 hPa s'étendant jusqu'au golfe de Gascogne, prévu se renforcer jusqu'au nord-est de la France mardi. 
+Anticyclone 1030 hPa sur l'Europe centrale, se décale lentement vers l'est demain.
 
-📅 Tendance pour la journée du lundi 9 novembre :
-🌬️ VENT : revenant Est à Sud-Est 2 à 4 en journée, puis Est 3 à 5 du nord au sud l'après-midi.
-🌊 MER : belle, parfois peu agitée la nuit.
+📅 Prévisions pour la journée du mardi 10 novembre :
+🌬️ VENT : Est 4 à 5.
+🌊 MER : belle à peu agitée, devenant peu agitée l'après-midi.
 🌊 HOULE : non significative.
-⛅ TEMPS : nuageux à très nuageux, puis peu nuageux en journée.
-👁️ VISIBILITE : bonne.
+⛅ TEMPS : très nuageux à couvert avec petites pluies l'après-midi.
+👁️ VISIBILITE : bonne, mais moyenne par pluie.
+
+📉 Tendance pour la nuit du 10  au 11, et la journée du mercredi 11 novembre :
+• VENT : Est à Nord-Est 3 à 4, parfois 5 en Mer du Nord au début, mollissant 2 à 4 l'après-midi, puis 2 à 3 en fin de journée.
+• MER : peu agitée, devenant belle à peu agitée en fin de journée.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce lundi avec maintien de la sécheresse de surface.
@@ -324,20 +318,24 @@ Côté thermomètre, les maximales afficheront entre 10 et 11 degrés. On attend
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (lundi 9 novembre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Dépression relative 1020 hPa sur le sud de la Mer du Nord, se creusant lentement, prévue 1016 hPa demain soir.
-Dépression atlantique "BRUNA" 976 hPa au nord-est des Açores, se creusant 970 hPa aujourd'hui, se déplaçant ensuite lentement vers le nord-est lundi.
+🌐 Situation générale : Dépression 973 hPa "BRUNA" au large de la Corogne, se décalant lentement vers le nord. Thalweg associé 1010 hPa s'étendant jusqu'au golfe de Gascogne, prévu se renforcer jusqu'au nord-est de la France mardi. 
+Anticyclone 1030 hPa sur l'Europe centrale, se décale lentement vers l'est demain.
 
-📅 Tendance pour la journée du lundi 9 novembre :
-🌬️ VENT : revenant Est à Sud-Est 2 à 4 en journée, puis Est 3 à 5 du nord au sud l'après-midi.
-🌊 MER : belle, parfois peu agitée la nuit.
+📅 Prévisions pour la journée du mardi 10 novembre :
+🌬️ VENT : Est 4 à 5.
+🌊 MER : belle à peu agitée, devenant peu agitée l'après-midi.
 🌊 HOULE : non significative.
-⛅ TEMPS : nuageux à très nuageux, puis peu nuageux en journée.
-👁️ VISIBILITE : bonne.
+⛅ TEMPS : très nuageux à couvert avec petites pluies l'après-midi.
+👁️ VISIBILITE : bonne, mais moyenne par pluie.
+
+📉 Tendance pour la nuit du 10  au 11, et la journée du mercredi 11 novembre :
+• VENT : Est à Nord-Est 3 à 4, parfois 5 en Mer du Nord au début, mollissant 2 à 4 l'après-midi, puis 2 à 3 en fin de journée.
+• MER : peu agitée, devenant belle à peu agitée en fin de journée.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce lundi avec maintien de la sécheresse de surface.
@@ -393,21 +391,25 @@ Très belle après-midi à l'écoute de la région.
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "BAIE DE SOMME - LA HAGUE" MATIN (lundi 9 novembre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "BAIE DE SOMME - LA HAGUE" MIDI
 📍 Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du dimanche 8 novembre 2026 à 06H30 légales.
+Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du lundi 9 novembre 2026 à 12H30 légales.
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Dépression relative 1020 hPa sur le sud de la Mer du Nord, se creusant lentement, prévue 1016 hPa demain soir.
-Dépression atlantique "BRUNA" 976 hPa au nord-est des Açores, se creusant 970 hPa aujourd'hui, se déplaçant ensuite lentement vers le nord-est lundi.
+🌐 Situation générale : Dépression 973 hPa "BRUNA" au large de la Corogne, se décalant lentement vers le nord. Thalweg associé 1010 hPa s'étendant jusqu'au golfe de Gascogne, prévu se renforcer jusqu'au nord-est de la France mardi. 
+Anticyclone 1030 hPa sur l'Europe centrale, se décale lentement vers l'est demain.
 
-📅 Tendance pour la journée du lundi 9 novembre :
-🌬️ VENT : Est à Sud-Est 3 à 4, localement 5 au nord du Cotentin, fraîchissant Est 4 à 5 le matin, localement 6 vers La Hague.
-🌊 MER : peu agitée, localement agitée au nord du Cotentin l'après-midi.
-🌊 HOULE : non significative, s'amplifiant localement longue de Sud-Ouest proche de 0.5 m vers La Hague en fin de journée.
-⛅ TEMPS : ciel très nuageux.
-👁️ VISIBILITE : bonne.
+📅 Prévisions pour la journée du mardi 10 novembre :
+🌬️ VENT : Est à Sud-Est 4 à 5, localement 6 au large et au nord du Cotentin, mollissant progressivement 3 à 4 l'après-midi.
+🌊 MER : peu agitée, localement belle près du rivage du Havre à la Baie de Somme, et localement agitée sur nord Cotentin.
+🌊 HOULE : Nord-Est 0.5 à 1 m à l'ouest d'Antifer, puis Ouest 0.5 à 1 m sur nord Cotentin en fin de journée.
+⛅ TEMPS : couvert avec petites pluies.
+👁️ VISIBILITE : moyenne par pluie.
+
+📉 Tendance pour la nuit du 10  au 11, et la journée du mercredi 11 novembre :
+• VENT : Est 3 à 5.
+• MER : peu agitée, localement belle à peu agitée près du rivage du Havre à la Baie de Somme, et localement agitée sur nord Cotentin.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce lundi avec maintien de la sécheresse de surface.
