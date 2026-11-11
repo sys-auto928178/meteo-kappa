@@ -1,6 +1,6 @@
 ================================================================================
 📡 RAPPORT EXHAUSTIF DES PRÉVISIONS VISUELLES (MODE VISIO EN PLATEAU)
-DATE CIBLE : MERCREDI 11 NOVEMBRE 2026
+DATE CIBLE : JEUDI 12 NOVEMBRE 2026
 FICHIER SOURCE : /home/runner/work/meteo-kappa/meteo-kappa/cnews/BULLETINS_AUTOMATIQUES_DEMAIN.json
 ================================================================================
 
@@ -33,25 +33,6 @@ En revanche, la prudence sera de mise en Bretagne, et plus particulièrement à 
 Plus à l'est, Paris et Lille connaîtront un ciel partagé entre nuages et éclaircies, avec des maximales de 15°C et 9°C respectivement. Laon fera exception avec un ciel totalement couvert et une grisaille uniforme, pour 14°C.
 
 Le vent soufflera faiblement, autour de 10 km/h, de secteur Sud-Ouest sur l'ensemble de ces régions.
-
-🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (mercredi 11 novembre 2026)
-📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
-
-⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
-
-🌐 Situation générale : Dépression "BRUNA" 974 hPa stationnaire entre les Açores et l'Irlande, prévue 983 hPa demain matin. Thalweg associé sur le golfe de Gascogne. Nouvelle dépression "CHARLES" prévue 988 hPa au sud-ouest immédiat du Portugal demain midi.
-
-📅 Prévisions pour la journée du mercredi 11 novembre :
-🌬️ VENT : Nord-Est 4 à 5, mollissant 3 à 4 en fin de journée.
-🌊 MER : peu agitée.
-🌊 HOULE : non significative.
-⛅ TEMPS : couvert, faibles pluies, et bancs de brumes localement.
-👁️ VISIBILITE : mauvaise sous pluie ou brumes.
-
-📉 Tendance pour la nuit du 11  au 12, et la journée du jeudi 12 novembre :
-• VENT : Est à Nord-Est 3 à 4, revenant Nord 5 à 6 en début de journée.
-• MER : peu agitée, devenant agitée le matin.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce mercredi avec maintien de la sécheresse de surface.
@@ -120,23 +101,21 @@ Côté températures, les maximales varieront de 6°C à Bailleul à 13°C à Du
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (mercredi 11 novembre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Dépression "BRUNA" 974 hPa stationnaire entre les Açores et l'Irlande, prévue 983 hPa demain matin. Thalweg associé sur le golfe de Gascogne. Nouvelle dépression "CHARLES" prévue 988 hPa au sud-ouest immédiat du Portugal demain midi.
+🌐 Situation générale : Dépression "BRUNA" 983 hPa entre les Açores et l'Irlande, se décalant lentement vers le sud-est, prévue 988 hPa au nord-ouest de la Corogne jeudi matin.  Thalweg associé progressant sur le golfe de Gascogne. 
+Dépression "CHARLES" 994 hPa au nord-est des Canaries se décalant vers le nord-est, traversant la péninsule ibérique à partir de cet après-midi.
+Dorsale se renforçant de l'Islande à l'Angleterre.
 
-📅 Prévisions pour la journée du mercredi 11 novembre :
-🌬️ VENT : Nord-Est 4 à 5, mollissant 3 à 4 en fin de journée.
-🌊 MER : peu agitée.
+📅 Tendance pour la journée du jeudi 12 novembre :
+🌬️ VENT : Est à Nord-Est 3 à 5, fraîchissant Nord à Nord 5 à 6 en matinée. Rafales.
+🌊 MER : peu agitée, devenant progressivement agitée le matin.
 🌊 HOULE : non significative.
-⛅ TEMPS : couvert, faibles pluies, et bancs de brumes localement.
-👁️ VISIBILITE : mauvaise sous pluie ou brumes.
-
-📉 Tendance pour la nuit du 11  au 12, et la journée du jeudi 12 novembre :
-• VENT : Est à Nord-Est 3 à 4, revenant Nord 5 à 6 en début de journée.
-• MER : peu agitée, devenant agitée le matin.
+⛅ TEMPS : ensoleillé.
+👁️ VISIBILITE : bonne.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce mercredi avec maintien de la sécheresse de surface.
@@ -191,24 +170,24 @@ Quant au vent, il soufflera modérément du secteur Sud-Ouest. Comptez 15 km/h �
 🌊 Température de l’eau : 21°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "AIGUILLON - FRONTIÈRE ESPAGNOLE" MIDI (mercredi 11 novembre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "AIGUILLON - FRONTIÈRE ESPAGNOLE" MATIN
 📍 Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du mardi 10 novembre 2026 à 12H30 légales.
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du mercredi 11 novembre 2026 à 06H15 légales.
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Dépression "BRUNA" 974 hPa stationnaire entre les Açores et l'Irlande, prévue 983 hPa demain matin. Thalweg associé sur le golfe de Gascogne. Nouvelle dépression "CHARLES" prévue 988 hPa au sud-ouest immédiat du Portugal demain midi.
+🌐 Situation générale : Dépression "BRUNA" 983 hPa entre les Açores et l'Irlande, se décalant lentement vers le sud-est, prévue 988 hPa au nord-ouest de la Corogne jeudi matin.  Thalweg associé progressant sur le golfe de Gascogne. 
+Dépression "CHARLES" 994 hPa au nord-est des Canaries se décalant vers le nord-est, traversant la péninsule ibérique à partir de cet après-midi.
+Dorsale se renforçant de l'Islande à l'Angleterre.
 
-📅 Prévisions pour la journée du mercredi 11 novembre :
-🌬️ VENT : Sud à Sud-Ouest 2 à 4, revenant Sud à Sud-Est à la mi-journée, puis fraîchissant Est 3 à 4 en fin de journée, parfois 5 sur côte Basque. Rafales.
-🌊 MER : agitée par houle d'Ouest.
-🌊 HOULE : longue d'Ouest 1 à 2  m.
-⛅ TEMPS : devenant nuageux, pluie ou averses au sud d'Arcachon l'après-midi.
-👁️ VISIBILITE : bonne, localement mauvaise sous précipitations.
-
-📉 Tendance pour la nuit du 11  au 12, et la journée du jeudi 12 novembre :
-• VENT : Est 4 à 5, parfois 6, s'orientant Ouest 7 au sud de Messages en fin de nuit, mais Nord 4 à 5 au nord de Messanges, puis mollissant Ouest 4 à 5 l'après-midi au sud de Messanges. Rafales.
-• MER : agitée, localement forte au sud de Messanges le matin.
+📅 Tendance pour la journée du jeudi 12 novembre :
+🌬️ VENT : 
+- au sud de Biscarosse : fraîchissant Ouest à Sud-Ouest 5 à 6 en matinée, avec menace de 7 puis virant Nord au nord de Messanges l'après-midi. Rafales. 
+- au nord de Biscarosse :  Est à Nord-Est 3 à 5, fraîchissant Nord à Nord-Est 5 à 6 l'après-midi. Rafales.
+🌊 MER : agitée, localement peu agitée au sud de Messanges le matin, puis sur côte basque l'après-midi.
+🌊 HOULE : longue d'Ouest 1 à 1.5 m.
+⛅ TEMPS : pluie, averses orageuses.
+👁️ VISIBILITE : mauvaise.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce mercredi avec maintien de la sécheresse de surface.
@@ -264,23 +243,21 @@ Côté températures maximales, on attend 13 degrés à Leffrinckoucke, 9 degré
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (mercredi 11 novembre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Dépression "BRUNA" 974 hPa stationnaire entre les Açores et l'Irlande, prévue 983 hPa demain matin. Thalweg associé sur le golfe de Gascogne. Nouvelle dépression "CHARLES" prévue 988 hPa au sud-ouest immédiat du Portugal demain midi.
+🌐 Situation générale : Dépression "BRUNA" 983 hPa entre les Açores et l'Irlande, se décalant lentement vers le sud-est, prévue 988 hPa au nord-ouest de la Corogne jeudi matin.  Thalweg associé progressant sur le golfe de Gascogne. 
+Dépression "CHARLES" 994 hPa au nord-est des Canaries se décalant vers le nord-est, traversant la péninsule ibérique à partir de cet après-midi.
+Dorsale se renforçant de l'Islande à l'Angleterre.
 
-📅 Prévisions pour la journée du mercredi 11 novembre :
-🌬️ VENT : Nord-Est 4 à 5, mollissant 3 à 4 en fin de journée.
-🌊 MER : peu agitée.
+📅 Tendance pour la journée du jeudi 12 novembre :
+🌬️ VENT : Est à Nord-Est 3 à 5, fraîchissant Nord à Nord 5 à 6 en matinée. Rafales.
+🌊 MER : peu agitée, devenant progressivement agitée le matin.
 🌊 HOULE : non significative.
-⛅ TEMPS : couvert, faibles pluies, et bancs de brumes localement.
-👁️ VISIBILITE : mauvaise sous pluie ou brumes.
-
-📉 Tendance pour la nuit du 11  au 12, et la journée du jeudi 12 novembre :
-• VENT : Est à Nord-Est 3 à 4, revenant Nord 5 à 6 en début de journée.
-• MER : peu agitée, devenant agitée le matin.
+⛅ TEMPS : ensoleillé.
+👁️ VISIBILITE : bonne.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce mercredi avec maintien de la sécheresse de surface.
@@ -338,23 +315,21 @@ Le vent soufflera majoritairement du sud-ouest, avec des vitesses modérées : 5
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (mercredi 11 novembre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Dépression "BRUNA" 974 hPa stationnaire entre les Açores et l'Irlande, prévue 983 hPa demain matin. Thalweg associé sur le golfe de Gascogne. Nouvelle dépression "CHARLES" prévue 988 hPa au sud-ouest immédiat du Portugal demain midi.
+🌐 Situation générale : Dépression "BRUNA" 983 hPa entre les Açores et l'Irlande, se décalant lentement vers le sud-est, prévue 988 hPa au nord-ouest de la Corogne jeudi matin.  Thalweg associé progressant sur le golfe de Gascogne. 
+Dépression "CHARLES" 994 hPa au nord-est des Canaries se décalant vers le nord-est, traversant la péninsule ibérique à partir de cet après-midi.
+Dorsale se renforçant de l'Islande à l'Angleterre.
 
-📅 Prévisions pour la journée du mercredi 11 novembre :
-🌬️ VENT : Nord-Est 4 à 5, mollissant 3 à 4 en fin de journée.
-🌊 MER : peu agitée.
+📅 Tendance pour la journée du jeudi 12 novembre :
+🌬️ VENT : Est à Nord-Est 3 à 5, fraîchissant Nord à Nord 5 à 6 en matinée. Rafales.
+🌊 MER : peu agitée, devenant progressivement agitée le matin.
 🌊 HOULE : non significative.
-⛅ TEMPS : couvert, faibles pluies, et bancs de brumes localement.
-👁️ VISIBILITE : mauvaise sous pluie ou brumes.
-
-📉 Tendance pour la nuit du 11  au 12, et la journée du jeudi 12 novembre :
-• VENT : Est à Nord-Est 3 à 4, revenant Nord 5 à 6 en début de journée.
-• MER : peu agitée, devenant agitée le matin.
+⛅ TEMPS : ensoleillé.
+👁️ VISIBILITE : bonne.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce mercredi avec maintien de la sécheresse de surface.
@@ -412,24 +387,22 @@ Côté températures, les maximales varieront de 12°C au Havre à 16°C à Caen
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "BAIE DE SOMME - LA HAGUE" MIDI (mercredi 11 novembre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "BAIE DE SOMME - LA HAGUE" MATIN
 📍 Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du mardi 10 novembre 2026 à 12H30 légales.
+Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du mercredi 11 novembre 2026 à 06H30 légales.
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Dépression "BRUNA" 974 hPa stationnaire entre les Açores et l'Irlande, prévue 983 hPa demain matin. Thalweg associé sur le golfe de Gascogne. Nouvelle dépression "CHARLES" prévue 988 hPa au sud-ouest immédiat du Portugal demain midi.
+🌐 Situation générale : Dépression "BRUNA" 983 hPa entre les Açores et l'Irlande, se décalant lentement vers le sud-est, prévue 988 hPa au nord-ouest de la Corogne jeudi matin.  Thalweg associé progressant sur le golfe de Gascogne. 
+Dépression "CHARLES" 994 hPa au nord-est des Canaries se décalant vers le nord-est, traversant la péninsule ibérique à partir de cet après-midi.
+Dorsale se renforçant de l'Islande à l'Angleterre.
 
-📅 Prévisions pour la journée du mercredi 11 novembre :
-🌬️ VENT : Ouest à Sud-Ouest 3 à 4, parfois 5, virant progressivement Est à Nord-Est en matinée, puis fraîchissant 4 à 5 sur nord Cotentin l'après-midi.
-🌊 MER : belle à peu agitée, mais agitée vers La Hague.
-🌊 HOULE : Ouest à Sud-Ouest 0.5 à 1 m, jusqu'à 1.5 m vers La Hague, mais non significative en baie de Seine.
-⛅ TEMPS : couvert et avec quelques pluies, bancs de brumes le matin.
-👁️ VISIBILITE : mauvaise sous pluie ou brumes.
-
-📉 Tendance pour la nuit du 11  au 12, et la journée du jeudi 12 novembre :
-• VENT : Est à Nord-Est 4 à 5, fraîchissant Nord-Est 5 à 6 en fin de nuit. Rafales.
-• MER : peu agitée à agitée, devenant progressivement agitée en journée.
+📅 Tendance pour la journée du jeudi 12 novembre :
+🌬️ VENT : Nord-Est 5 à 6. Rafales.
+🌊 MER : peu agitée à agitée, devenant progressivement agitée l'après-midi.
+🌊 HOULE : Ouest à Sud-Ouest 0.5 à 1 m sur nord Cotentin, non significative ailleurs.
+⛅ TEMPS : belles éclaircies.
+👁️ VISIBILITE : bonne.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce mercredi avec maintien de la sécheresse de surface.
