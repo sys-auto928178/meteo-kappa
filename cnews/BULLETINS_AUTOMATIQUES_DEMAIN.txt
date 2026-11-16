@@ -1,6 +1,6 @@
 ================================================================================
 📡 RAPPORT EXHAUSTIF DES PRÉVISIONS VISUELLES (MODE VISIO EN PLATEAU)
-DATE CIBLE : LUNDI 16 NOVEMBRE 2026
+DATE CIBLE : MARDI 17 NOVEMBRE 2026
 FICHIER SOURCE : /home/runner/work/meteo-kappa/meteo-kappa/cnews/BULLETINS_AUTOMATIQUES_DEMAIN.json
 ================================================================================
 
@@ -29,29 +29,6 @@ Une après-midi qui s'annonce plutôt grise sur une grande partie du pays, avec 
 Regardons ensemble la carte. Les nuages domineront largement sur la façade ouest, de la Bretagne aux Pays de la Loire, en passant par la Normandie et l'Île-de-France. De Lille à Nantes, en passant par Rouen, Caen, Paris, Tours et Poitiers, attendez-vous à un ciel très nuageux, avec de courtes éclaircies. Les températures maximales y seront douces pour la saison, de 14°C à Lille, 16°C à Paris et Rouen, et jusqu'à 17°C à Nantes.
 
 Quelques averses seront à prévoir, notamment sur la Picardie et la Bretagne intérieure. C'est le cas à Laon et à Rennes, où les averses seront entrecoupées de belles éclaircies. Le vent sera bien présent sur l'ensemble de ces régions, soufflant du Sud-Ouest. Il atteindra 40 km/h en rafales à Lille et Paris, 55 km/h à Laon et Tours, et même jusqu'à 75 km/h sur les côtes bretonnes, notamment à Brest.
-
-🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (lundi 16 novembre 2026)
-📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
-
-⚠️ AVIS DE SÉCURITÉ EN MER (BMS OFFICIEL) :
-• Avis de grand frais.
-• VENT : Sud à Sud-Ouest 7. Rafales.
-• Reprise du dimanche 15 novembre à 23H00 UTC au lundi 16 novembre à 05H00 UTC
-• VENT : Ouest à Nord-Ouest 7. Rafales.
-
-🌐 Situation générale : Dépression complexe 993 hPa au sud-ouest de l'Irlande, se décalant vers l'est, prévue 992 hPa en mer du Nord la nuit, puis 990 hPa sur le Danemark lundi matin. Thalweg associé, balayant la Manche et le golfe de Gascogne l'après-midi. Dorsale se renforçant dans le golfe de Gascogne la nuit, avant un nouveau thalweg lundi midi.
-
-📅 Prévisions pour la journée du lundi 16 novembre :
-🌬️ VENT : Ouest à Nord-Ouest 4 à 5, temporairement 6 au début, mollissant secteur Ouest 2 à 4 l'après-midi, puis revenant Sud à la fin. Rafales.
-🌊 MER : peu agitée à agitée, s'atténuant peu agitée l'après-midi.
-🌊 HOULE : Ouest à Sud-Ouest 0.5 à 1 m, parfois 1.5 m en Manche le matin, s'établissant Nord 0.5 à 1 m en Mer du Nord l'après-midi.
-⛅ TEMPS : nuageux à très nuageux.
-👁️ VISIBILITE : bonne.
-
-📉 Tendance pour la nuit du 16  au 17, et la journée du mardi 17 novembre :
-• VENT : Sud à Sud-Est fraîchissant 6 à 7, avec menace de 8, puis virant Sud-Ouest en seconde partie de nuit. Fortes rafales.
-• MER : peu agitée, devenant progressivement agitée à forte la nuit.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce lundi avec maintien de la sécheresse de surface.
@@ -114,27 +91,24 @@ Le vent soufflera du secteur Sud-Ouest et restera sensible. Comptez 20 à 25 km/
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (lundi 16 novembre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ EN MER (BMS OFFICIEL) :
-• Avis de grand frais.
-• VENT : Sud à Sud-Ouest 7. Rafales.
-• Reprise du dimanche 15 novembre à 23H00 UTC au lundi 16 novembre à 05H00 UTC
-• VENT : Ouest à Nord-Ouest 7. Rafales.
+• Avis de grand frais à coup de vent.
+• VENT : Sud à Sud-Est 7, fraîchissant Sud-Ouest 7 à 8 en fin de nuit. Rafales.
 
-🌐 Situation générale : Dépression complexe 993 hPa au sud-ouest de l'Irlande, se décalant vers l'est, prévue 992 hPa en mer du Nord la nuit, puis 990 hPa sur le Danemark lundi matin. Thalweg associé, balayant la Manche et le golfe de Gascogne l'après-midi. Dorsale se renforçant dans le golfe de Gascogne la nuit, avant un nouveau thalweg lundi midi.
+🌐 Situation générale : Dépression 991 hPa sur Danemark se décalant vers le nord-est. Effet de dorsale rapide aujourd'hui en Manche. Talweg très dynamique sur le proche Atlantique associé à une perturbation active, circulant vers la mer de la Manche cette nuit et demain. Mercredi flux d'Ouest fort, parfois très fort, se mettant en place par l'ouest.
 
-📅 Prévisions pour la journée du lundi 16 novembre :
-🌬️ VENT : Ouest à Nord-Ouest 4 à 5, temporairement 6 au début, mollissant secteur Ouest 2 à 4 l'après-midi, puis revenant Sud à la fin. Rafales.
-🌊 MER : peu agitée à agitée, s'atténuant peu agitée l'après-midi.
-🌊 HOULE : Ouest à Sud-Ouest 0.5 à 1 m, parfois 1.5 m en Manche le matin, s'établissant Nord 0.5 à 1 m en Mer du Nord l'après-midi.
-⛅ TEMPS : nuageux à très nuageux.
-👁️ VISIBILITE : bonne.
+📅 Prévisions pour la journée du mardi 17 novembre :
+🌬️ VENT : Sud-Ouest 7 à 8, mollissant 6 à 7 en milieu d'après-midi. Fortes rafales.
+🌊 MER : forte à très forte.
+⛅ TEMPS : averses parfois orageuses.
+👁️ VISIBILITE : mauvaise sous averses.
 
-📉 Tendance pour la nuit du 16  au 17, et la journée du mardi 17 novembre :
-• VENT : Sud à Sud-Est fraîchissant 6 à 7, avec menace de 8, puis virant Sud-Ouest en seconde partie de nuit. Fortes rafales.
-• MER : peu agitée, devenant progressivement agitée à forte la nuit.
+📉 Tendance pour la nuit du 17 au 18, et la journée du mercredi 18 novembre :
+• VENT : Sud-Ouest 6 à 7, mollissant 5 à 6 en mer du Nord le matin, puis partout l'après-midi. Rafales.
+• MER : agitée à forte.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce lundi avec maintien de la sécheresse de surface.
@@ -187,26 +161,26 @@ Quant au vent, il soufflera de secteur Sud-Ouest et restera sensible. Des rafale
 🌊 Température de l’eau : 21°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "AIGUILLON - FRONTIÈRE ESPAGNOLE" MIDI (lundi 16 novembre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "AIGUILLON - FRONTIÈRE ESPAGNOLE" MIDI
 📍 Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du dimanche 15 novembre 2026 à 12H30 légales.
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du lundi 16 novembre 2026 à 12H30 légales.
 
 ⚠️ AVIS DE SÉCURITÉ EN MER (BMS OFFICIEL) :
-• Avis de grand frais à coup de vent
-• VENT : Sud-Ouest 7 sur Côte Charente, temporairement 8 au nord de Lacanau, virant Ouest cet après-midi, en fraîchissant 7 de L'Aiguillon à Messanges. Fortes rafales.
+• Avis de grand frais.
+• VENT : Sud à Sud-Ouest 7. Rafales.
 
-🌐 Situation générale : Dépression complexe 993 hPa au sud-ouest de l'Irlande, se décalant vers l'est, prévue 992 hPa en mer du Nord la nuit, puis 990 hPa sur le Danemark lundi matin. Thalweg associé, balayant la Manche et le golfe de Gascogne l'après-midi. Dorsale se renforçant dans le golfe de Gascogne la nuit, avant un nouveau thalweg lundi midi.
+🌐 Situation générale : Dépression 991 hPa sur Danemark se décalant vers le nord-est. Effet de dorsale rapide aujourd'hui en Manche. Talweg très dynamique sur le proche Atlantique associé à une perturbation active, circulant vers la mer de la Manche cette nuit et demain. Mercredi flux d'Ouest fort, parfois très fort, se mettant en place par l'ouest.
 
-📅 Prévisions pour la journée du lundi 16 novembre :
-🌬️ VENT : Ouest à Sud-Ouest 3 à 5, fraîchissant Sud à Sud-Ouest 5 à 6 l'après-midi. Rafales.
-🌊 MER : forte, s'atténuant progressivement agitée.
-🌊 HOULE : Ouest à Nord-Ouest 2.5 à 3 m, s'atténuant progressivement 2 m.
-⛅ TEMPS : couvert avec quelques averses, principalement vers côte Charente à la fin.
-👁️ VISIBILITE : bonne, parfois mauvaise sous averses.
+📅 Prévisions pour la journée du mardi 17 novembre :
+🌬️ VENT : Sud-Ouest mollissant progressivement 4 à 5, fraîchissant 6 à 7 au nord d'Arcachon l'après-midi. Rafales.
+🌊 MER : forte, parfois très forte au nord d'Arcachon.
+🌊 HOULE : Ouest à Nord-Ouest 3 à 3.5 m.
+⛅ TEMPS : pluie puis averses parfois orageuses, quelques éclaricies au nord d'Arcachon l'après-midi.
+👁️ VISIBILITE : mauvaise sous précipitations.
 
-📉 Tendance pour la nuit du 16  au 17, et la journée du mardi 17 novembre :
-• VENT : Sud à Sud-Ouest 5 à 6, parfois 7 la nuit, fraîchissant Sud-Ouest 6 à 7 au nord d'Arcachon en journée. Rafales.
-• MER : agitée, devenant progressivement forte la nuit, parfois très forte au nord d'Arcachon en journée.
+📉 Tendance pour la nuit du 17  au 18, et la journée du mercredi 18 novembre :
+• VENT : Sud-Ouest 6 à 7, mais Sud à Sud-Ouest 3 à 5 au sud d'Arcachon, virant secteur Ouest 5 à 6 la nuit, parfois 7 en fin de nuit, puis mollissant Sud à Sud-Ouest 3 à 5 du sud au nord l'après-midi. Rafales.
+• MER : devenant très forte par houle de Nord-Ouest.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce lundi avec maintien de la sécheresse de surface.
@@ -258,27 +232,24 @@ Le vent soufflera du Sud-Ouest, modéré à assez fort, avec des vitesses moyenn
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (lundi 16 novembre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ EN MER (BMS OFFICIEL) :
-• Avis de grand frais.
-• VENT : Sud à Sud-Ouest 7. Rafales.
-• Reprise du dimanche 15 novembre à 23H00 UTC au lundi 16 novembre à 05H00 UTC
-• VENT : Ouest à Nord-Ouest 7. Rafales.
+• Avis de grand frais à coup de vent.
+• VENT : Sud à Sud-Est 7, fraîchissant Sud-Ouest 7 à 8 en fin de nuit. Rafales.
 
-🌐 Situation générale : Dépression complexe 993 hPa au sud-ouest de l'Irlande, se décalant vers l'est, prévue 992 hPa en mer du Nord la nuit, puis 990 hPa sur le Danemark lundi matin. Thalweg associé, balayant la Manche et le golfe de Gascogne l'après-midi. Dorsale se renforçant dans le golfe de Gascogne la nuit, avant un nouveau thalweg lundi midi.
+🌐 Situation générale : Dépression 991 hPa sur Danemark se décalant vers le nord-est. Effet de dorsale rapide aujourd'hui en Manche. Talweg très dynamique sur le proche Atlantique associé à une perturbation active, circulant vers la mer de la Manche cette nuit et demain. Mercredi flux d'Ouest fort, parfois très fort, se mettant en place par l'ouest.
 
-📅 Prévisions pour la journée du lundi 16 novembre :
-🌬️ VENT : Ouest à Nord-Ouest 4 à 5, temporairement 6 au début, mollissant secteur Ouest 2 à 4 l'après-midi, puis revenant Sud à la fin. Rafales.
-🌊 MER : peu agitée à agitée, s'atténuant peu agitée l'après-midi.
-🌊 HOULE : Ouest à Sud-Ouest 0.5 à 1 m, parfois 1.5 m en Manche le matin, s'établissant Nord 0.5 à 1 m en Mer du Nord l'après-midi.
-⛅ TEMPS : nuageux à très nuageux.
-👁️ VISIBILITE : bonne.
+📅 Prévisions pour la journée du mardi 17 novembre :
+🌬️ VENT : Sud-Ouest 7 à 8, mollissant 6 à 7 en milieu d'après-midi. Fortes rafales.
+🌊 MER : forte à très forte.
+⛅ TEMPS : averses parfois orageuses.
+👁️ VISIBILITE : mauvaise sous averses.
 
-📉 Tendance pour la nuit du 16  au 17, et la journée du mardi 17 novembre :
-• VENT : Sud à Sud-Est fraîchissant 6 à 7, avec menace de 8, puis virant Sud-Ouest en seconde partie de nuit. Fortes rafales.
-• MER : peu agitée, devenant progressivement agitée à forte la nuit.
+📉 Tendance pour la nuit du 17 au 18, et la journée du mercredi 18 novembre :
+• VENT : Sud-Ouest 6 à 7, mollissant 5 à 6 en mer du Nord le matin, puis partout l'après-midi. Rafales.
+• MER : agitée à forte.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce lundi avec maintien de la sécheresse de surface.
@@ -322,27 +293,24 @@ L'après-midi, le temps est marqué par un ciel dominé par des passages nuageux
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (lundi 16 novembre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ EN MER (BMS OFFICIEL) :
-• Avis de grand frais.
-• VENT : Sud à Sud-Ouest 7. Rafales.
-• Reprise du dimanche 15 novembre à 23H00 UTC au lundi 16 novembre à 05H00 UTC
-• VENT : Ouest à Nord-Ouest 7. Rafales.
+• Avis de grand frais à coup de vent.
+• VENT : Sud à Sud-Est 7, fraîchissant Sud-Ouest 7 à 8 en fin de nuit. Rafales.
 
-🌐 Situation générale : Dépression complexe 993 hPa au sud-ouest de l'Irlande, se décalant vers l'est, prévue 992 hPa en mer du Nord la nuit, puis 990 hPa sur le Danemark lundi matin. Thalweg associé, balayant la Manche et le golfe de Gascogne l'après-midi. Dorsale se renforçant dans le golfe de Gascogne la nuit, avant un nouveau thalweg lundi midi.
+🌐 Situation générale : Dépression 991 hPa sur Danemark se décalant vers le nord-est. Effet de dorsale rapide aujourd'hui en Manche. Talweg très dynamique sur le proche Atlantique associé à une perturbation active, circulant vers la mer de la Manche cette nuit et demain. Mercredi flux d'Ouest fort, parfois très fort, se mettant en place par l'ouest.
 
-📅 Prévisions pour la journée du lundi 16 novembre :
-🌬️ VENT : Ouest à Nord-Ouest 4 à 5, temporairement 6 au début, mollissant secteur Ouest 2 à 4 l'après-midi, puis revenant Sud à la fin. Rafales.
-🌊 MER : peu agitée à agitée, s'atténuant peu agitée l'après-midi.
-🌊 HOULE : Ouest à Sud-Ouest 0.5 à 1 m, parfois 1.5 m en Manche le matin, s'établissant Nord 0.5 à 1 m en Mer du Nord l'après-midi.
-⛅ TEMPS : nuageux à très nuageux.
-👁️ VISIBILITE : bonne.
+📅 Prévisions pour la journée du mardi 17 novembre :
+🌬️ VENT : Sud-Ouest 7 à 8, mollissant 6 à 7 en milieu d'après-midi. Fortes rafales.
+🌊 MER : forte à très forte.
+⛅ TEMPS : averses parfois orageuses.
+👁️ VISIBILITE : mauvaise sous averses.
 
-📉 Tendance pour la nuit du 16  au 17, et la journée du mardi 17 novembre :
-• VENT : Sud à Sud-Est fraîchissant 6 à 7, avec menace de 8, puis virant Sud-Ouest en seconde partie de nuit. Fortes rafales.
-• MER : peu agitée, devenant progressivement agitée à forte la nuit.
+📉 Tendance pour la nuit du 17 au 18, et la journée du mercredi 18 novembre :
+• VENT : Sud-Ouest 6 à 7, mollissant 5 à 6 en mer du Nord le matin, puis partout l'après-midi. Rafales.
+• MER : agitée à forte.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce lundi avec maintien de la sécheresse de surface.
@@ -386,26 +354,25 @@ L'après-midi, le temps est marqué par un ciel dominé par des passages nuageux
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "BAIE DE SOMME - LA HAGUE" MIDI (lundi 16 novembre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "BAIE DE SOMME - LA HAGUE" MIDI
 📍 Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du dimanche 15 novembre 2026 à 12H30 légales.
+Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du lundi 16 novembre 2026 à 12H30 légales.
 
 ⚠️ AVIS DE SÉCURITÉ EN MER (BMS OFFICIEL) :
-• Avis de grand frais.
-• VENT : Ouest à Nord-Ouest 7. Rafales.
+• Avis de grand frais à coup de vent.
+• VENT : Sud à Sud-Est fraîchissant 7 par l'ouest puis virant Sud-Ouest 7 à 8 en fin de nuit. Rafales.
 
-🌐 Situation générale : Dépression complexe 993 hPa au sud-ouest de l'Irlande, se décalant vers l'est, prévue 992 hPa en mer du Nord la nuit, puis 990 hPa sur le Danemark lundi matin. Thalweg associé, balayant la Manche et le golfe de Gascogne l'après-midi. Dorsale se renforçant dans le golfe de Gascogne la nuit, avant un nouveau thalweg lundi midi.
+🌐 Situation générale : Dépression 991 hPa sur Danemark se décalant vers le nord-est. Effet de dorsale rapide aujourd'hui en Manche. Talweg très dynamique sur le proche Atlantique associé à une perturbation active, circulant vers la mer de la Manche cette nuit et demain. Mercredi flux d'Ouest fort, parfois très fort, se mettant en place par l'ouest.
 
-📅 Prévisions pour la journée du lundi 16 novembre :
-🌬️ VENT : Ouest à Nord-Ouest 3 à 4, temporairement 5 au début, fraîchissant Sud à Sud-Est 4 à 5 l'après-midi, localement 6 avec rafales sur nord Cotentin.
-🌊 MER : peu agitée à agitée.
-🌊 HOULE: Ouest à Sud-Ouest 1 à 1.5 m, parfois 2 m le matin, mais non significative en Baie de Seine.
-⛅ TEMPS : nuageux, devenant pluvieux à la fin.
-👁️ VISIBILITE : bonne, puis mauvaise sous pluie à la fin.
+📅 Prévisions pour la journée du mardi 17 novembre :
+🌬️ VENT :  Sud-Ouest 7 à 8, localement 6 à 7 en baie de Seine, mollissant Ouest à Sud-Ouest 6 à 7 en fin de journée. Fortes rafales.
+🌊 MER : forte à très forte, mais agitée en baie de Seine.
+⛅ TEMPS : averses fréquentes, parfois orageuses.
+👁️ VISIBILITE : mauvaise sous averses.
 
-📉 Tendance pour la nuit du 16  au 17, et la journée du mardi 17 novembre :
-• VENT : Sud fraîchissant 6 à 7, avec menace de 8, puis virant Ouest à Sud-Ouest en seconde partie de nuit. Fortes rafales.
-• MER : peu agitée à agitée, devenant progressivement agitée à forte la nuit, localement très forte vers La Hague.
+📉 Tendance pour la nuit du 17 au 18, et la journée du mercredi 18 novembre :
+• VENT : Ouest à Sud-Ouest 6 à 7, parfois 8 sur nord Cotentin, mollissant 5 à 6 l'après-midi. Fortes rafales.
+• MER : forte à très forte, mais agitée en baie de Seine.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce lundi avec maintien de la sécheresse de surface.
