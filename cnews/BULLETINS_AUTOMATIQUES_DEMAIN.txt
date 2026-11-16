@@ -10,88 +10,28 @@ FICHIER SOURCE : /home/runner/work/meteo-kappa/meteo-kappa/cnews/BULLETINS_AUTOM
 --------------------------------------------------------------------------------
 
 ☀️ [1/6] RÉSUMÉ SYNOPTIQUE DU JOUR (todaySummary) :
-🌤️ L'ESSENTIEL DE CE LUNDI : Un passage pluvieux et nuageux traverse le secteur au fil de la journée sur les Hauts-de-France. Au lever du jour, les températures minimales affichent 5°C, avant de grimper jusqu'à 17°C sous abri au cours de l'après-midi. Le vent souffle de manière modérée, assurant une agréable ventilation.
+ORAGES ET VENT SOUTENU
+
+L’instabilité domine ce mardi, avec des orages de la Normandie à la Bretagne et jusqu’à Paris, tandis que des averses concernent Lille et Laon. De Brest à Nantes, ainsi qu’à Tours et Poitiers, le ciel très nuageux du matin laissera davantage de place aux éclaircies dans l’après-midi. Le vent de sud-ouest soufflera fort, avec des rafales jusqu’à 90 km/h en Bretagne et 95 km/h près de Brest. Les maximales atteindront 15 à 17 °C dans plusieurs villes de l’ouest et du nord.
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Pour cette matinée du lundi 16 novembre, le temps s'annonce globalement bien nuageux sur une grande partie du pays.
+Ce matin, l'ambiance s'annonce très instable sur une large partie du pays.
 
-De la Bretagne aux Hauts-de-France, en passant par la Normandie et le Bassin Parisien, les nuages seront très présents. On retrouvera ce ciel très nuageux de Brest à Lille, en passant par Rouen, Caen, Paris, Nantes, Tours et Poitiers. Les éclaircies seront rares et de courte durée.
+Un axe orageux s'étire des côtes normandes jusqu'à l'Île-de-France et la Bretagne. Des orages sont ainsi attendus à Rouen, Caen, Rennes et Paris, avec des rafales pouvant atteindre 70 km/h sur la Normandie et 90 km/h en Bretagne. Plus au nord, des averses sont prévues du côté de Lille et Laon, où le vent soufflera à 30 km/h avec des rafales jusqu'à 75 km/h pour Lille.
 
-Quelques averses viendront tout de même arroser la région de Rennes et de Laon, entrecoupées de quelques timides éclaircies.
+Plus à l'ouest, de Brest à Nantes, en passant par Tours et Poitiers, le ciel sera très nuageux, avec un vent soutenu à 40 km/h sur le littoral atlantique, et des rafales jusqu'à 95 km/h à Brest.
 
-Côté températures, la douceur reste de mise pour la saison. On relèvera 5°C à Lille, 8°C à Laon et Paris, 9°C à Rouen et Brest, et jusqu'à 11°C à Nantes.
-
-Quant au vent, il soufflera de secteur Sud-Ouest et restera sensible. Des rafales pourront atteindre 75 km/h sur la pointe bretonne, notamment à Brest, et jusqu'à 65 km/h sur Rennes. Sur le reste du quart Nord-Ouest, les rafales oscilleront entre 40 et 55 km/h.
+Côté températures, la douceur reste de mise pour la saison, avec 11°C à Brest et Caen, 10°C à Paris et Laon, et 4°C plus au nord à Lille. Les maximales de la journée, comprises entre 15 et 17°C, seront atteintes en fin d'après-midi.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Une après-midi qui s'annonce plutôt grise sur une grande partie du pays, avec des passages nuageux très nombreux et parfois quelques averses.
+Pour cet après-midi du mardi 17 novembre, l'ambiance restera instable sur une grande partie du pays.
 
-Regardons ensemble la carte. Les nuages domineront largement sur la façade ouest, de la Bretagne aux Pays de la Loire, en passant par la Normandie et l'Île-de-France. De Lille à Nantes, en passant par Rouen, Caen, Paris, Tours et Poitiers, attendez-vous à un ciel très nuageux, avec de courtes éclaircies. Les températures maximales y seront douces pour la saison, de 14°C à Lille, 16°C à Paris et Rouen, et jusqu'à 17°C à Nantes.
+Un axe orageux s'étirera des côtes normandes jusqu'à la région parisienne et la Bretagne. Attendez-vous à des orages sur Rouen, Caen, Paris et Rennes, où les rafales de vent pourront atteindre les 90 km/h. Plus au nord, Lille et Laon seront sous les averses, avec des rafales jusqu'à 75 km/h près de Lille.
 
-Quelques averses seront à prévoir, notamment sur la Picardie et la Bretagne intérieure. C'est le cas à Laon et à Rennes, où les averses seront entrecoupées de belles éclaircies. Le vent sera bien présent sur l'ensemble de ces régions, soufflant du Sud-Ouest. Il atteindra 40 km/h en rafales à Lille et Paris, 55 km/h à Laon et Tours, et même jusqu'à 75 km/h sur les côtes bretonnes, notamment à Brest.
-
-🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
-🌧️ Pluies & Humidité : Temps sec sur la région ce lundi avec maintien de la sécheresse de surface.
-🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce lundi. Aucun coup de vent à craindre.
-⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce lundi.
-🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement.
-🏔️ Météo montagne
-
-    Alpes : Conditions froides et sèches ce lundi. Gelées matinales généralisées en altitude, températures maximales fraîches en vallée. Isotherme 0°C oscillant vers 2200m.
-
-    Pyrénées : Ciel bien dégagé ce lundi. Fraîcheur vive sur les sommets avec un vent de crête modéré. Inversion thermique possible en matinée.
-
-    Massif central : Temps lumineux mais piquant ce lundi. Brumes matinales dans les creux, journée fraîche et dégagée sur les crêtes.
-
-    Vosges : Atmosphère vivifiante et ensoleillée ce lundi. Gelées blanches au lever du jour, après-midi sèche et calme.
-
-    Jura : Temps sec et froid ce lundi. Beau soleil sur les plateaux après dissipation des grisailles locales.
-
-    Corse : Beau temps dominant sur le relief corse ce lundi, vent d'altitude modéré sur les cols.
-
-📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-📉 Tendance – 3 jours suivants (mercredi 18 novembre au vendredi 20 novembre)
-
-▶ mercredi 18 novembre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 9°C. L'après-midi, le mercure grimpe jusqu'à 16°C sous abri. Attention aux rafales de vent atteignant 75 km/h.
-
-▶ jeudi 19 novembre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 8°C. L'après-midi, le mercure grimpe jusqu'à 14°C sous abri. Attention aux rafales de vent atteignant 70 km/h.
-
-▶ vendredi 20 novembre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 7°C. L'après-midi, le mercure grimpe jusqu'à 15°C sous abri. Attention aux rafales de vent atteignant 70 km/h.
-
-
---------------------------------------------------------------------------------
-📻 CLIENT / STATION : RADIO - ICI NORD
-🗺️ ZONE CARTE MÉTÉO-FRANCE : hdf (Cartes Matin & Après-midi)
---------------------------------------------------------------------------------
-
-☀️ [1/6] RÉSUMÉ SYNOPTIQUE DU JOUR (todaySummary) :
-🌤️ L'ESSENTIEL DE CE LUNDI : Un passage pluvieux et nuageux traverse le secteur au fil de la journée sur les Hauts-de-France. Au lever du jour, les températures minimales affichent 4°C, avant de grimper jusqu'à 14°C sous abri au cours de l'après-midi. Le vent souffle de manière modérée, assurant une agréable ventilation.
-
-🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Pour cette matinée du lundi 16 novembre, le temps s'annonce mitigé sur notre région. La grande majorité du Nord-Pas-de-Calais se réveillera sous un ciel partagé entre averses et éclaircies. C'est le cas de Lille, Roubaix, ou encore Douai, où les températures minimales avoisineront les 5°C. Plus à l'est, à Maubeuge et Avesnes-sur-Helpe, même constat avec des averses et des minimales autour de 6°C.
-
-Une exception notable sur le littoral, puisque Dunkerque profitera d'un franc soleil dès le lever du jour, avec 7°C. Le vent, lui, soufflera de secteur Sud-Ouest, modéré à assez fort. On attend des vitesses de 20 à 35 km/h, avec des rafales pouvant atteindre 60 km/h notamment du côté de Maubeuge et Avesnes-sur-Helpe. Les maximales de la journée, quant à elles, se situeront entre 8 et 14°C, mais seront atteintes plus tard dans l'après-midi.
-
-🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Pour cet après-midi du lundi 16 novembre, le temps restera très instable sur l'ensemble de notre région. Attendez-vous à un ciel partagé entre belles éclaircies et passages nuageux, souvent porteurs d'averses. Ces précipitations seront généralement faibles à modérées et pourront concerner toutes les villes, de la côte jusqu'à l'intérieur des terres.
-
-Côté températures, les maximales afficheront des valeurs douces pour la saison, atteignant 14°C à Lille, Dunkerque et Roubaix, 13°C à Cambrai et Hazebrouck. Il fera un peu plus frais à Douai et Maubeuge avec 9°C, et 8°C à Bailleul.
-
-Le vent soufflera du secteur Sud-Ouest et restera sensible. Comptez 20 à 25 km/h en moyenne, mais les rafales pourront atteindre 40 km/h sur le littoral et jusqu'à 60 km/h dans l'Avesnois et le Maubeugeois. Soyez donc vigilants si vous êtes sur les routes.
-
-🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
-🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (lundi 16 novembre 2026)
-
-🌴 Dunkerque / Malo-les-Bains / Bray-Dunes
-☀️ Circulation d'un flux océanique d'ouest perturbé et humide sur la côte. Températures de 6°C le matin à 14°C l'après-midi.
-🌊 Température de l’eau : 16°C à 17°C
-
-🌴 Le Touquet / Berck / Baie de Somme
-☀️ Ambiance agréable sur le littoral ce lundi. Maximales atteignant 15°C sur le sable.
-🌊 Température de l’eau : 17°C
+Plus au sud, de Brest à Nantes en passant par Tours et Poitiers, le ciel sera partagé entre belles éclaircies et passages nuageux. Les températures maximales seront douces pour la saison, avec 15°C à Caen et Rennes, 16°C à Paris et Rouen, et jusqu'à 17°C à Laon, Nantes, Tours et Poitiers. Le vent de sud-ouest soufflera entre 25 et 40 km/h, avec des rafales soutenues, notamment sur le Finistère où elles pourront atteindre 95 km/h près de Brest.
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (mardi 17 novembre 2026)
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ EN MER (BMS OFFICIEL) :
@@ -111,19 +51,103 @@ Le vent soufflera du secteur Sud-Ouest et restera sensible. Comptez 20 à 25 km/
 • MER : agitée à forte.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
-🌧️ Pluies & Humidité : Temps sec sur la région ce lundi avec maintien de la sécheresse de surface.
-🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce lundi. Aucun coup de vent à craindre.
-⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce lundi.
+🌧️ Pluies & Humidité : Temps sec sur la région ce mardi avec maintien de la sécheresse de surface.
+🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce mardi. Aucun coup de vent à craindre.
+⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce mardi.
+🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement.
+🏔️ Météo montagne
+
+    Alpes : Conditions froides et sèches ce mardi. Gelées matinales généralisées en altitude, températures maximales fraîches en vallée. Isotherme 0°C oscillant vers 2200m.
+
+    Pyrénées : Ciel bien dégagé ce mardi. Fraîcheur vive sur les sommets avec un vent de crête modéré. Inversion thermique possible en matinée.
+
+    Massif central : Temps lumineux mais piquant ce mardi. Brumes matinales dans les creux, journée fraîche et dégagée sur les crêtes.
+
+    Vosges : Atmosphère vivifiante et ensoleillée ce mardi. Gelées blanches au lever du jour, après-midi sèche et calme.
+
+    Jura : Temps sec et froid ce mardi. Beau soleil sur les plateaux après dissipation des grisailles locales.
+
+    Corse : Beau temps dominant sur le relief corse ce mardi, vent d'altitude modéré sur les cols.
+
+📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
+📉 Tendance – 3 jours suivants (jeudi 19 novembre au samedi 21 novembre)
+
+▶ jeudi 19 novembre : Les averses restent présentes de Rouen à Rennes, Nantes, Tours et Poitiers. Le ciel sera nuageux à Paris et Laon, tandis que le soleil se montrera voilé à Lille, Caen et Brest. Il fera 8 °C au réveil à Lille et 11 °C à Nantes, avant des maximales respectives de 12 et 15 °C. Le vent de sud-ouest restera sensible, avec des rafales jusqu’à 80 km/h à Tours.
+
+▶ vendredi 20 novembre : Les averses gagneront l’ensemble des villes de la carte, dans une ambiance plus fraîche au nord. À Lille, la température passera de 6 °C le matin à 10 °C au meilleur de la journée ; à Paris, elle évoluera de 8 à 12 °C. La douceur résistera davantage à Nantes, avec 10 °C au réveil puis 15 °C. Le vent de sud-ouest soufflera modérément, avec des rafales atteignant 55 km/h à Brest et Laon.
+
+▶ samedi 21 novembre : Le temps sera plus contrasté, avec le retour du soleil à Lille, Laon et Paris. Les nuages domineront notamment en Normandie, à Brest et à Nantes, tandis que des averses persisteront à Rennes et Tours. La matinée sera fraîche à Lille, avec 3 °C, puis 10 °C au maximum ; Paris passera de 5 à 11 °C et Rennes de 9 à 15 °C. Le vent de sud-ouest faiblira dans plusieurs villes, mais les rafales atteindront encore 55 km/h à Brest.
+
+
+--------------------------------------------------------------------------------
+📻 CLIENT / STATION : RADIO - ICI NORD
+🗺️ ZONE CARTE MÉTÉO-FRANCE : hdf (Cartes Matin & Après-midi)
+--------------------------------------------------------------------------------
+
+☀️ [1/6] RÉSUMÉ SYNOPTIQUE DU JOUR (todaySummary) :
+AVERSES ET VENT FORT
+
+Les averses dominent tout au long de ce mardi sur l’ensemble de la région, malgré quelques éclaircies. Après une matinée fraîche, avec 4 à 7 degrés, les températures atteignent 14 à 15 degrés l’après-midi. Le vent de sud-ouest reste soutenu, avec des rafales pouvant aller jusqu’à 90 km/h à Douai.
+
+🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
+Une matinée qui s'annonce bien arrosée sur l'ensemble de notre région. En effet, des averses seront au programme partout, entrecoupées de quelques éclaircies timides, mais la pluie restera le phénomène dominant.
+
+Côté températures, la fraîcheur sera bien présente dès le lever du jour, avec des minimales comprises entre 4 et 7 degrés. Comptez 4°C à Lille et Bailleul, 5°C à Hazebrouck, et jusqu'à 7°C du côté de Dunkerque, Maubeuge et Avesnes-sur-Helpe.
+
+Le vent soufflera fort, principalement du secteur Sud-Ouest, avec des vitesses moyennes autour de 30 à 40 km/h. Mais attention aux rafales qui pourront atteindre les 70 à 90 km/h par endroits. On attend 90 km/h sur Douai, 80 km/h à Valenciennes et Hazebrouck, et 75 km/h à Lille et Bailleul. Ces rafales s'atténueront un peu en fin de matinée.
+
+🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
+Sur l'ensemble de la région, le temps restera instable avec de nombreuses averses. Le soleil tentera de percer entre les passages pluvieux, offrant quelques éclaircies.
+
+Les températures maximales afficheront des valeurs douces pour la saison, comprises entre 14 et 15 degrés. On attend 15 degrés à Lille, Dunkerque, Valenciennes, Douai, Cambrai, Roubaix et Avesnes-sur-Helpe. Il fera 14 degrés à Maubeuge, Hazebrouck et Bailleul.
+
+Côté vent, il soufflera de secteur Sud-Ouest, modéré à fort, avec des vitesses moyennes autour de 30 à 40 km/h. Les rafales seront particulièrement marquées, pouvant atteindre 90 km/h sur Douai, 80 km/h sur Valenciennes, Maubeuge et Hazebrouck. Des pointes à 75 km/h sont également prévues sur Lille, Dunkerque, Avesnes-sur-Helpe et Bailleul. La prudence est donc de mise.
+
+🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
+🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (mardi 17 novembre 2026)
+
+🌴 Dunkerque / Malo-les-Bains / Bray-Dunes
+☀️ Circulation d'un flux océanique d'ouest perturbé et humide sur la côte. Températures de 6°C le matin à 15°C l'après-midi.
+🌊 Température de l’eau : 16°C à 17°C
+
+🌴 Le Touquet / Berck / Baie de Somme
+☀️ Ambiance agréable sur le littoral ce mardi. Maximales atteignant 16°C sur le sable.
+🌊 Température de l’eau : 17°C
+
+🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (mardi 17 novembre 2026)
+📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
+
+⚠️ AVIS DE SÉCURITÉ EN MER (BMS OFFICIEL) :
+• Avis de grand frais à coup de vent.
+• VENT : Sud à Sud-Est 7, fraîchissant Sud-Ouest 7 à 8 en fin de nuit. Rafales.
+
+🌐 Situation générale : Dépression 991 hPa sur Danemark se décalant vers le nord-est. Effet de dorsale rapide aujourd'hui en Manche. Talweg très dynamique sur le proche Atlantique associé à une perturbation active, circulant vers la mer de la Manche cette nuit et demain. Mercredi flux d'Ouest fort, parfois très fort, se mettant en place par l'ouest.
+
+📅 Prévisions pour la journée du mardi 17 novembre :
+🌬️ VENT : Sud-Ouest 7 à 8, mollissant 6 à 7 en milieu d'après-midi. Fortes rafales.
+🌊 MER : forte à très forte.
+⛅ TEMPS : averses parfois orageuses.
+👁️ VISIBILITE : mauvaise sous averses.
+
+📉 Tendance pour la nuit du 17 au 18, et la journée du mercredi 18 novembre :
+• VENT : Sud-Ouest 6 à 7, mollissant 5 à 6 en mer du Nord le matin, puis partout l'après-midi. Rafales.
+• MER : agitée à forte.
+
+🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
+🌧️ Pluies & Humidité : Temps sec sur la région ce mardi avec maintien de la sécheresse de surface.
+🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce mardi. Aucun coup de vent à craindre.
+⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce mardi.
 🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-📉 Tendance – 3 jours suivants (mercredi 18 novembre au vendredi 20 novembre)
+📉 Tendance – 3 jours suivants (jeudi 19 novembre au samedi 21 novembre)
 
-▶ mercredi 18 novembre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 8°C. L'après-midi, le mercure grimpe jusqu'à 14°C sous abri. Attention aux rafales de vent atteignant 55 km/h.
+▶ jeudi 19 novembre : Le temps reste contrasté dans la région. Les averses concernent notamment Bailleul, le Douaisis, le Valenciennois et l’Avesnois, tandis que le ciel est nuageux à Dunkerque et Hazebrouck. Le soleil apparaît voilé à Lille et Roubaix. Les minimales vont de 8 à 9 degrés, puis les maximales de 10 degrés à Maubeuge à 12 à Lille. Le vent de sud-ouest souffle entre 20 et 25 km/h, avec des rafales jusqu’à 55 km/h.
 
-▶ jeudi 19 novembre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 7°C. L'après-midi, le mercure grimpe jusqu'à 12°C sous abri. Attention aux rafales de vent atteignant 50 km/h.
+▶ vendredi 20 novembre : Les averses gagnent l’ensemble de la région et les températures reculent. Au réveil, il fait 3 degrés à Douai, Maubeuge et Bailleul, contre 7 à Dunkerque. L’après-midi, les maximales atteignent 8 degrés à Maubeuge et 10 à Lille. Le vent reste orienté au sud-ouest, avec des rafales généralement comprises entre 45 et 50 km/h.
 
-▶ vendredi 20 novembre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 2°C. L'après-midi, le mercure grimpe jusqu'à 11°C sous abri. Attention aux rafales de vent atteignant 55 km/h.
+▶ samedi 21 novembre : Après les averses de la veille, le soleil s’impose dans toute la région, mais la fraîcheur est bien présente. Les minimales descendent à 0 degré à Maubeuge et Bailleul, et atteignent 3 degrés à Lille. Les maximales vont de 7 degrés à Maubeuge à 10 à Lille et Hazebrouck. Le vent de sud-ouest devient faible, autour de 10 km/h.
 
 
 --------------------------------------------------------------------------------
@@ -132,36 +156,44 @@ Le vent soufflera du secteur Sud-Ouest et restera sensible. Comptez 20 à 25 km/
 --------------------------------------------------------------------------------
 
 ☀️ [1/6] RÉSUMÉ SYNOPTIQUE DU JOUR (todaySummary) :
-🌤️ L'ESSENTIEL DE CE LUNDI : Un passage pluvieux et nuageux traverse le secteur au fil de la journée en Charente-Maritime et sur le littoral. Au lever du jour, les températures minimales affichent 11°C, avant de grimper jusqu'à 17°C sous abri au cours de l'après-midi. Le vent souffle de manière modérée, assurant une agréable ventilation.
+AVERSES ET VENT SOUTENU
+
+Ce mardi, les averses traversent toute la Charente-Maritime, entre quelques éclaircies. Elles peuvent être soutenues l’après-midi, sans véritable amélioration par rapport à la matinée. Le vent de sud-ouest souffle fort près du littoral, avec des rafales jusqu’à 80 km/h, et reste sensible dans les terres. Les températures sont douces, de 14 à 15 degrés le matin, puis de 16 à 18 degrés l’après-midi.
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Pour ce lundi 16 novembre, la matinée s'annonce bien grise sur l'ensemble de la Charente-Maritime. Le ciel sera très nuageux partout, avec une dominante de nuages grisâtres qui masqueront le soleil, nous offrant seulement de très courtes éclaircies par moments.
+Pour cette matinée du mardi 17 novembre, attendez-vous à un ciel bien chargé sur l'ensemble de la région. Des averses seront au programme, entrecoupées de quelques éclaircies, mais le temps restera globalement humide partout.
 
-Côté températures, les minimales sont plutôt douces pour la saison. Nous aurons 11°C à Saintes et Jonzac, 12°C à La Rochelle, Rochefort et Surgères. Sur le littoral, comptez 13°C à Saint-Pierre-d'Oléron, Marennes et Saint-Martin-de-Ré, et jusqu'à 15°C à Royan.
+Sur le littoral, de La Rochelle à Royan en passant par les îles de Ré et d'Oléron, les averses seront présentes. Le vent soufflera fort, avec des rafales pouvant atteindre 80 km/h à Rochefort et Saint-Martin-de-Ré, et 70 km/h à Royan et Marennes.
 
-Le vent sera également bien présent, soufflant du secteur Sud-Ouest. Il atteindra 30 km/h à La Rochelle, avec des rafales possibles jusqu'à 60 km/h. À Royan et Marennes, le vent soufflera à 35 km/h, avec des rafales pouvant aller jusqu'à 50 à 55 km/h. Plus à l'intérieur, il sera un peu moins fort, autour de 20 à 25 km/h.
+Plus à l'intérieur des terres, de Saintes à Jonzac et Surgères, même ambiance avec des averses et un vent de Sud-Ouest un peu moins soutenu, autour de 25 à 30 km/h, avec des rafales jusqu'à 55 km/h.
+
+Côté températures, la douceur reste de mise pour la saison. Les minimales matinales s'établiront entre 14 et 15 degrés sur l'ensemble du département, avant d'atteindre 16 à 18 degrés dans l'après-midi.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Pour cet après-midi du lundi 16 novembre, le ciel restera bien chargé sur l'ensemble de la Charente-Maritime. Nous retrouverons un temps très nuageux, avec de courtes éclaircies qui peineront à percer cette couverture grise, et ce, de la Rochelle jusqu'à Jonzac, en passant par Rochefort et Saintes.
+Ce mardi 17 novembre, l'ensemble de la Charente-Maritime sera sous l'influence d'un temps instable, marqué par des averses.
 
-Côté températures, les maximales afficheront des valeurs douces pour la saison. Nous attendons 17 degrés à La Rochelle et Royan, 16 degrés à Rochefort, Saintes, Jonzac, Marennes, Saint-Pierre-d'Oléron, Saint-Martin-de-Ré et Surgères.
+En effet, de La Rochelle à Saintes, en passant par Rochefort et Royan, nous retrouverons un ciel partagé entre nuages et quelques éclaircies, mais surtout des averses, parfois soutenues. Les îles ne seront pas épargnées, avec des averses également prévues à Saint-Pierre-d'Oléron et Saint-Martin-de-Ré.
 
-Quant au vent, il soufflera de secteur Sud-Ouest et restera sensible. Des rafales pourront atteindre 60 km/h sur le littoral, notamment à La Rochelle et Saint-Martin-de-Ré, et jusqu'à 50 km/h à Royan et Saint-Pierre-d'Oléron. Dans les terres, les rafales seront un peu moins fortes, autour de 40 km/h du côté de Jonzac et Surgères.
+Côté températures, les maximales afficheront 18°C à La Rochelle, Saintes, Jonzac, Saint-Jean-d'Angély et Surgères. Nous aurons 17°C à Rochefort, Royan, Saint-Pierre-d'Oléron et Marennes, et 16°C à Saint-Martin-de-Ré.
+
+Le vent sera particulièrement présent cet après-midi, soufflant du secteur Sud-Ouest. Attendez-vous à des vents de 40 km/h à La Rochelle, Rochefort et Saint-Pierre-d'Oléron, avec des rafales pouvant atteindre 75 à 80 km/h. Sur le littoral, à Royan et Marennes, le vent soufflera à 45 km/h avec des rafales jusqu'à 70 km/h. Dans les terres, le vent sera un peu moins fort, autour de 25 à 30 km/h, mais avec des rafales possibles jusqu'à 55 km/h. Restez donc vigilants face à ces conditions venteuses.
+
+C'est tout pour la météo de cet après-midi. Très bonne continuation sur ICI LA ROCHELLE.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
-🏖️ MÉTÉO DES PLAGES – LITTORAL CHARENTAIS (lundi 16 novembre 2026)
+🏖️ MÉTÉO DES PLAGES – LITTORAL CHARENTAIS (mardi 17 novembre 2026)
 
 🌴 La Rochelle / Île de Ré / Île d’Oléron
-☀️ Circulation d'un flux océanique d'ouest perturbé et humide sur l'ensemble des plages charentaises ce lundi.
-🌡️ Température sur le littoral : 14°C à 17°C
+☀️ Circulation d'un flux océanique d'ouest perturbé et humide sur l'ensemble des plages charentaises ce mardi.
+🌡️ Température sur le littoral : 17°C à 18°C
 🌊 Température de l’eau : 20°C à 21°C
 
 🌴 Royan / Côte de Beauté / Rochefort
-☀️ Ensoleillement généreux ce lundi, maximales de 18°C tempérées par la brise marine.
+☀️ Ensoleillement généreux ce mardi, maximales de 19°C tempérées par la brise marine.
 🌊 Température de l’eau : 21°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "AIGUILLON - FRONTIÈRE ESPAGNOLE" MIDI
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "AIGUILLON - FRONTIÈRE ESPAGNOLE" MIDI (mardi 17 novembre 2026)
 📍 Origine Météo-France. 
 Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du lundi 16 novembre 2026 à 12H30 légales.
 
@@ -183,19 +215,19 @@ Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la fro
 • MER : devenant très forte par houle de Nord-Ouest.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
-🌧️ Pluies & Humidité : Temps sec sur la région ce lundi avec maintien de la sécheresse de surface.
-🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce lundi. Aucun coup de vent à craindre.
-⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce lundi.
+🌧️ Pluies & Humidité : Temps sec sur la région ce mardi avec maintien de la sécheresse de surface.
+🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce mardi. Aucun coup de vent à craindre.
+⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce mardi.
 🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-📉 Tendance – 3 jours suivants (mercredi 18 novembre au vendredi 20 novembre)
+📉 Tendance – 3 jours suivants (jeudi 19 novembre au samedi 21 novembre)
 
-▶ mercredi 18 novembre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 13°C. L'après-midi, le mercure grimpe jusqu'à 16°C sous abri. Attention aux rafales de vent atteignant 85 km/h.
+▶ jeudi 19 novembre : Les averses restent présentes sur toute la Charente-Maritime, dans une ambiance toujours très ventée. Le sud-ouest souffle jusqu’à 55 km/h à Saint-Martin-de-Ré, avec des rafales de 75 km/h sur les îles et jusqu’à 80 km/h à Marennes. Dans les terres aussi, les rafales atteignent 70 à 75 km/h. Les températures vont de 12 à 14 degrés à La Rochelle et Saintes, de 13 à 14 degrés à Royan.
 
-▶ jeudi 19 novembre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 11°C. L'après-midi, le mercure grimpe jusqu'à 16°C sous abri. Attention aux rafales de vent atteignant 105 km/h.
+▶ vendredi 20 novembre : Le vent de sud-ouest faiblit, même s’il reste sensible près des côtes, avec des rafales jusqu’à 65 km/h à La Rochelle, Royan et sur les îles. Les averses concernent encore tout le département. Au réveil, les températures s’échelonnent de 10 degrés à Royan à 13 degrés à Saint-Martin-de-Ré. Les maximales atteignent 14 degrés dans ces deux villes et à Saintes, mais 16 degrés à La Rochelle.
 
-▶ vendredi 20 novembre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 10°C. L'après-midi, le mercure grimpe jusqu'à 16°C sous abri. Attention aux rafales de vent atteignant 70 km/h.
+▶ samedi 21 novembre : Les averses laissent place à un ciel nuageux sur l’ensemble du département, tandis que le vent de sud-ouest continue de perdre de sa force. Il souffle autour de 20 km/h dans la plupart des villes, mais reste plus sensible sur les îles, avec des rafales jusqu’à 45 km/h. La matinée est plus fraîche : 7 degrés à Rochefort et Royan, 10 à La Rochelle. Les maximales vont de 13 degrés à Rochefort à 15 à La Rochelle, en passant par 14 à Surgères.
 
 
 --------------------------------------------------------------------------------
@@ -204,35 +236,41 @@ Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la fro
 --------------------------------------------------------------------------------
 
 ☀️ [1/6] RÉSUMÉ SYNOPTIQUE DU JOUR (todaySummary) :
-🌤️ L'ESSENTIEL DE CE LUNDI : Un passage pluvieux et nuageux traverse le secteur au fil de la journée sur les Hauts-de-France. Au lever du jour, les températures minimales affichent 3°C, avant de grimper jusqu'à 15°C sous abri au cours de l'après-midi. Le vent souffle de manière modérée, assurant une agréable ventilation.
+AVERSES, ORAGES ET VENT FORT
+
+La journée de mardi sera agitée, avec des averses et un risque d’orages dès le matin, qui persisteront l’après-midi. Les averses concerneront notamment Leffrinckoucke, Gravelines et Offekerque, tandis que des orages sont possibles de Marck à Groffliers et vers Remilly-Wirquin. Après une matinée fraîche, les températures atteindront 14 à 15 degrés. Le vent de sud-ouest soufflera fort, avec des rafales jusqu’à 90 km/h à Gravelines et Groffliers.
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Pour cette matinée du lundi 16 novembre, l'ambiance sera partagée sur la région. Les nuages seront bien présents sur une grande partie du territoire, alternant avec de belles éclaircies. C'est le cas du côté de Leffrinckoucke, Gravelines, Offekerque, Groffliers, ou encore plus à l'intérieur des terres, vers Remilly-Wirquin et Racquinghem.
+Le temps s'annonce particulièrement agité sur notre région.
 
-Cependant, le soleil sera plus généreux sur le littoral, notamment à Marck et Lefaux, où l'on profitera d'un ciel dégagé. Côté températures, la fraîcheur sera sensible avec 3°C à Offekerque, 4°C à Gravelines et Racquinghem. On atteindra 7°C à Leffrinckoucke et Groffliers, avec des maximales de journée qui s'échelonneront de 9°C à 15°C.
+En effet, la matinée sera marquée par des averses et des risques d'orages. Sur le littoral, de Leffrinckoucke à Offekerque en passant par Gravelines, nous aurons des averses entrecoupées de quelques éclaircies. Plus à l'intérieur des terres, de Marck à Racquinghem, en passant par Lefaux, Groffliers et Remilly-Wirquin, c'est un temps orageux qui est attendu, avec des risques de foudre. Les averses seront également présentes du côté de Robecq et Cauchy-à-la-Tour.
 
-Le vent soufflera du secteur Sud-Ouest, modéré à assez fort. On attend des vitesses de 20 à 30 km/h en moyenne, avec des rafales pouvant atteindre 55 km/h sur Groffliers, et 50 km/h sur Gravelines et Marck.
+Côté températures, les minimales s'échelonneront entre 4 et 7 degrés. Comptez 7°C à Leffrinckoucke, 5°C à Gravelines et Offekerque, et 4°C à Marck et Remilly-Wirquin. Les maximales de la journée atteindront 14 à 15 degrés.
+
+Le vent soufflera fort, principalement du secteur Sud-Ouest, avec des vitesses moyennes de 40 à 50 km/h. Attention aux rafales qui pourront atteindre 75 km/h à Leffrinckoucke, et jusqu'à 90 km/h sur Gravelines et Groffliers.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Cet après-midi, nous aurons un temps globalement similaire sur l'ensemble de notre région, avec un ciel partagé entre belles éclaircies et passages nuageux. Le soleil tentera de percer, mais les nuages seront bien présents.
+Voici les prévisions pour votre après-midi du mardi 17 novembre.
 
-Côté températures, les maximales afficheront 14 degrés à Leffrinckoucke et Remilly-Wirquin, et 15 degrés à Marck et Groffliers. Nous aurons 11 degrés à Lefaux, 13 degrés à Robecq, et 10 degrés à Gravelines et Offekerque. Les valeurs les plus fraîches seront pour Racquinghem et Cauchy-à-la-Tour avec 9 degrés.
+Nous allons retrouver un temps instable sur l'ensemble de la région, avec une nette prédominance d'averses et d'orages. Les averses seront au rendez-vous sur le littoral, de Leffrinckoucke à Gravelines en passant par Offekerque, avec des températures maximales de 15 degrés. Un peu plus dans les terres, vers Robecq et Cauchy-à-la-Tour, les averses seront également présentes, avec 14 degrés.
 
-Le vent soufflera du Sud-Ouest, modéré à assez fort, avec des vitesses moyennes de 20 à 30 km/h. Des rafales pourront atteindre les 55 km/h sur Groffliers, 50 km/h à Marck et Gravelines, et 45 km/h à Leffrinckoucke, Offekerque et Lefaux.
+Attention, le risque orageux sera bien présent sur une large partie de l'intérieur des terres, notamment de Marck à Lefaux et Groffliers, mais aussi vers Remilly-Wirquin et Racquinghem. Les températures afficheront 14 degrés sous ces orages.
+
+Le vent soufflera fort, principalement de secteur Sud-Ouest, avec des vitesses moyennes autour de 40 à 50 km/h. Les rafales seront particulièrement intenses, pouvant atteindre 90 km/h à Gravelines et Groffliers, et 85 km/h à Offekerque, Marck et Racquinghem. Soyez donc vigilants !
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
-🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (lundi 16 novembre 2026)
+🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (mardi 17 novembre 2026)
 
 🌴 Dunkerque / Malo-les-Bains / Bray-Dunes
-☀️ Circulation d'un flux océanique d'ouest perturbé et humide sur la côte. Températures de 5°C le matin à 15°C l'après-midi.
+☀️ Circulation d'un flux océanique d'ouest perturbé et humide sur la côte. Températures de 6°C le matin à 15°C l'après-midi.
 🌊 Température de l’eau : 16°C à 17°C
 
 🌴 Le Touquet / Berck / Baie de Somme
-☀️ Ambiance agréable sur le littoral ce lundi. Maximales atteignant 16°C sur le sable.
+☀️ Ambiance agréable sur le littoral ce mardi. Maximales atteignant 16°C sur le sable.
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (mardi 17 novembre 2026)
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ EN MER (BMS OFFICIEL) :
@@ -252,19 +290,19 @@ Le vent soufflera du Sud-Ouest, modéré à assez fort, avec des vitesses moyenn
 • MER : agitée à forte.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
-🌧️ Pluies & Humidité : Temps sec sur la région ce lundi avec maintien de la sécheresse de surface.
-🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce lundi. Aucun coup de vent à craindre.
-⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce lundi.
+🌧️ Pluies & Humidité : Temps sec sur la région ce mardi avec maintien de la sécheresse de surface.
+🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce mardi. Aucun coup de vent à craindre.
+⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce mardi.
 🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-📉 Tendance – 3 jours suivants (mercredi 18 novembre au vendredi 20 novembre)
+📉 Tendance – 3 jours suivants (jeudi 19 novembre au samedi 21 novembre)
 
-▶ mercredi 18 novembre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 8°C. L'après-midi, le mercure grimpe jusqu'à 13°C sous abri. Attention aux rafales de vent atteignant 70 km/h.
+▶ jeudi 19 novembre : Le ciel restera souvent nuageux, même si les averses se limiteront à certains secteurs, notamment Groffliers, Remilly-Wirquin et Racquinghem. Au réveil, les températures iront de 7 degrés à Cauchy-à-la-Tour à 10 degrés à Groffliers. L’après-midi, comptez 11 degrés à Gravelines et jusqu’à 13 à Marck et Groffliers. Le vent de sud-ouest soufflera autour de 20 à 25 km/h, avec des rafales localement proches de 50 km/h.
 
-▶ jeudi 19 novembre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 7°C. L'après-midi, le mercure grimpe jusqu'à 13°C sous abri. Attention aux rafales de vent atteignant 50 km/h.
+▶ vendredi 20 novembre : Les averses gagneront l’ensemble de la région et l’ambiance sera plus fraîche. Les minimales descendront à 3 degrés à Racquinghem et Cauchy-à-la-Tour, contre 7 à Leffrinckoucke. Les maximales atteindront 9 degrés à Remilly-Wirquin, 10 à Gravelines et 11 à Marck. Le vent restera orienté au sud-ouest, entre 15 et 25 km/h, avec des rafales pouvant atteindre 50 km/h à Leffrinckoucke.
 
-▶ vendredi 20 novembre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 2°C. L'après-midi, le mercure grimpe jusqu'à 12°C sous abri. Attention aux rafales de vent atteignant 60 km/h.
+▶ samedi 21 novembre : Changement de décor pour commencer le week-end, avec le retour du soleil sur l’ensemble de la région. La matinée sera toutefois bien froide : 0 degré à Racquinghem, 2 à Gravelines et 6 à Marck. Les maximales iront de 8 degrés à Cauchy-à-la-Tour à 11 à Gravelines et Groffliers. Le vent de sud-ouest faiblira, avec une vitesse moyenne de 10 à 15 km/h.
 
 
 --------------------------------------------------------------------------------
@@ -273,27 +311,37 @@ Le vent soufflera du Sud-Ouest, modéré à assez fort, avec des vitesses moyenn
 --------------------------------------------------------------------------------
 
 ☀️ [1/6] RÉSUMÉ SYNOPTIQUE DU JOUR (todaySummary) :
-🌤️ L'ESSENTIEL DE CE LUNDI : Un passage pluvieux et nuageux traverse le secteur au fil de la journée sur les Hauts-de-France. Au lever du jour, les températures minimales affichent 4°C, avant de grimper jusqu'à 14°C sous abri au cours de l'après-midi. Le vent souffle de manière modérée, assurant une agréable ventilation.
+AVERSES ET FORTES RAFALES
+
+Ce mardi, les averses rythment la journée sur toute la région, malgré quelques éclaircies. Le vent de sud-ouest reste très présent, avec des rafales atteignant 90 km/h à Douai et 80 km/h à Maubeuge et Watten. Après une matinée fraîche, les températures atteignent 14 à 15 °C dans l’après-midi.
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce lundi matin, le réveil se fait dans une ambiance grise et humide, caractérisée par des bancs de stratus bas et des passages de pluies. Les températures au lever du jour s'échelonnent avec 6°C à Valenciennes, 6°C à St-Hilaire-sur-Helpe, 5°C à Douai, 7°C à Dunkerque, 4°C à Watten. Le vent souffle discrètement, maintenant un ressenti très doux sur l'ensemble du secteur. Des passages nuageux denses et des averses régulières arrosent le secteur au fil de la matinée.
+Pour cette matinée du mardi 17 novembre, attendez-vous à un ciel bien chargé sur l'ensemble de notre région. Des averses seront au rendez-vous, entrecoupées de quelques éclaircies, mais le parapluie sera votre meilleur allié.
+
+Côté températures, la fraîcheur sera bien présente dès le lever du jour. Comptez 4°C à Lille et Roubaix, 5°C à Steenvoorde et Watten. Plus au sud, les minimales seront un peu plus douces avec 7°C à St-Hilaire-sur-Helpe et Maubeuge, et 8°C à Troisvilles. Les maximales de la journée, quant à elles, atteindront 14 à 15°C.
+
+Le vent soufflera de secteur Sud-Ouest et restera sensible. Des rafales pourront atteindre 70 à 75 km/h sur la plupart des secteurs, et même jusqu'à 90 km/h du côté de Douai et 80 km/h à Maubeuge et Watten. Soyez donc vigilants si vous prenez la route.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-L'après-midi, le temps est marqué par un ciel dominé par des passages nuageux denses accompagnés d'averses éparses. Le thermomètre affiche des maximales atteignant 9°C à Troisvilles, 14°C à Roubaix, 14°C à Lille, 9°C à Douai, 9°C à Maubeuge. Les zones littorales profitent d'une brise marine rafraîchissante qui modère les ardeurs du mercure. En soirée, l'atmosphère conserve une grande douceur idéale pour les sorties et activités de plein air.
+Ce mardi 17 novembre, le temps restera très perturbé sur l'ensemble de notre région, avec des averses qui s'enchaîneront un peu partout, entrecoupées de quelques éclaircies timides.
+
+Les températures maximales afficheront 14°C à Troisvilles et Maubeuge, 15°C à St-Hilaire-sur-Helpe, Valenciennes, Douai, Lille, Roubaix, Watten et Dunkerque, et 14°C à Steenvoorde.
+
+Le vent soufflera en revanche très fort, avec des rafales particulièrement puissantes. On attend jusqu'à 90 km/h sur Douai, 80 km/h sur Maubeuge et Watten, et 75 km/h sur St-Hilaire-sur-Helpe, Valenciennes, Lille, Steenvoorde et Dunkerque. Des rafales à 70 km/h sont également prévues sur Troisvilles et Roubaix. Soyez donc vigilants si vous devez prendre la route ou si vous êtes en extérieur.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
-🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (lundi 16 novembre 2026)
+🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (mardi 17 novembre 2026)
 
 🌴 Dunkerque / Malo-les-Bains / Bray-Dunes
-☀️ Circulation d'un flux océanique d'ouest perturbé et humide sur la côte. Températures de 6°C le matin à 14°C l'après-midi.
+☀️ Circulation d'un flux océanique d'ouest perturbé et humide sur la côte. Températures de 6°C le matin à 15°C l'après-midi.
 🌊 Température de l’eau : 16°C à 17°C
 
 🌴 Le Touquet / Berck / Baie de Somme
-☀️ Ambiance agréable sur le littoral ce lundi. Maximales atteignant 15°C sur le sable.
+☀️ Ambiance agréable sur le littoral ce mardi. Maximales atteignant 16°C sur le sable.
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (mardi 17 novembre 2026)
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ EN MER (BMS OFFICIEL) :
@@ -313,19 +361,19 @@ L'après-midi, le temps est marqué par un ciel dominé par des passages nuageux
 • MER : agitée à forte.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
-🌧️ Pluies & Humidité : Temps sec sur la région ce lundi avec maintien de la sécheresse de surface.
-🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce lundi. Aucun coup de vent à craindre.
-⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce lundi.
+🌧️ Pluies & Humidité : Temps sec sur la région ce mardi avec maintien de la sécheresse de surface.
+🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce mardi. Aucun coup de vent à craindre.
+⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce mardi.
 🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-📉 Tendance – 3 jours suivants (mercredi 18 novembre au vendredi 20 novembre)
+📉 Tendance – 3 jours suivants (jeudi 19 novembre au samedi 21 novembre)
 
-▶ mercredi 18 novembre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 8°C. L'après-midi, le mercure grimpe jusqu'à 14°C sous abri. Attention aux rafales de vent atteignant 55 km/h.
+▶ jeudi 19 novembre : Les averses restent présentes de l’Avesnois au Valenciennois et au Douaisis. Le ciel sera plus lumineux à Lille et Roubaix, sous un soleil voilé, tandis que les nuages domineront vers Steenvoorde et Dunkerque. Au réveil, les températures iront de 7 °C à Watten à 9 °C à Valenciennes ; l’après-midi, elles atteindront 10 °C à Maubeuge et 12 °C à Lille. Le vent de sud-ouest soufflera avec des rafales jusqu’à 55 km/h à Maubeuge.
 
-▶ jeudi 19 novembre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 7°C. L'après-midi, le mercure grimpe jusqu'à 12°C sous abri. Attention aux rafales de vent atteignant 50 km/h.
+▶ vendredi 20 novembre : Le temps se rafraîchit et les averses concernent cette fois l’ensemble de la région. La journée débutera avec 3 °C à Maubeuge et Douai, contre 6 °C à Lille et 7 °C à Dunkerque. Les maximales ne dépasseront pas 8 °C à Maubeuge et 10 °C à Lille comme à Dunkerque. Le vent de sud-ouest restera sensible, avec des rafales atteignant 50 km/h à Troisvilles et Dunkerque.
 
-▶ vendredi 20 novembre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 2°C. L'après-midi, le mercure grimpe jusqu'à 11°C sous abri. Attention aux rafales de vent atteignant 50 km/h.
+▶ samedi 21 novembre : Changement de décor pour commencer le week-end : le soleil revient sur toute la région, mais la fraîcheur s’accentue dès le matin. Le thermomètre affichera 0 °C à Troisvilles et Maubeuge, 3 °C à Lille et 4 °C à Dunkerque. Au meilleur de la journée, il fera 7 °C à Maubeuge, 9 °C à Dunkerque et 10 °C à Lille. Le vent de sud-ouest faiblira, autour de 10 à 15 km/h.
 
 
 --------------------------------------------------------------------------------
@@ -334,27 +382,33 @@ L'après-midi, le temps est marqué par un ciel dominé par des passages nuageux
 --------------------------------------------------------------------------------
 
 ☀️ [1/6] RÉSUMÉ SYNOPTIQUE DU JOUR (todaySummary) :
-🌤️ L'ESSENTIEL DE CE LUNDI : Un passage pluvieux et nuageux traverse le secteur au fil de la journée sur la Normandie. Au lever du jour, les températures minimales affichent 7°C, avant de grimper jusqu'à 16°C sous abri au cours de l'après-midi. Le vent souffle de manière modérée, assurant une agréable ventilation.
+ORAGES ET VENT SOUTENU
+
+Ce mardi, le risque d’orages domine sur une grande partie de la Normandie, du matin à l’après-midi. Dieppe fait exception, sous un ciel nuageux. Au lever du jour, les températures sont douces, de 9 à 11 degrés. Le vent de sud-ouest souffle fort en matinée, avec des rafales jusqu’à 85 km/h à Cherbourg.
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Ce lundi matin, le réveil se fait dans une ambiance grise et humide, caractérisée par des bancs de stratus bas et des passages de pluies. Les températures au lever du jour s'échelonnent avec 7°C à Dieppe, 7°C à Evreux, 8°C à Le Havre, 8°C à Caen, 9°C à Cherbourg. Le vent souffle discrètement, maintenant un ressenti très doux sur l'ensemble du secteur. Des passages nuageux denses et des averses régulières arrosent le secteur au fil de la matinée.
+Une ambiance maussade et orageuse s'installe sur la quasi-totalité de la région. De Cherbourg au Havre, en passant par Rouen, Caen, Evreux, Lisieux et Alençon, il faudra composer avec un risque d'orages dès le lever du jour.
+
+Seule la côte d'Albâtre, du côté de Dieppe, échappera aux orages et connaîtra un ciel simplement nuageux. Les températures minimales seront douces pour la saison, avec 9°C à Evreux et Le Havre, 10°C à Rouen et Dieppe, et jusqu'à 11°C à Caen, Cherbourg, Alençon et Lisieux.
+
+Le vent soufflera du secteur Sud-Ouest et se montrera particulièrement soutenu. Des rafales pourront atteindre 70 km/h sur Caen, 80 km/h au Havre et Dieppe, et même 85 km/h sur Cherbourg. Prudence donc si vous devez prendre la route.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-L'après-midi, le temps est marqué par un ciel dominé par des passages nuageux denses accompagnés d'averses éparses. Le thermomètre affiche des maximales atteignant 15°C à Rouen, 16°C à Caen, 15°C à Lisieux, 14°C à Dieppe, 15°C à Cherbourg. Les zones littorales profitent d'une brise marine rafraîchissante qui modère les ardeurs du mercure. En soirée, l'atmosphère conserve une grande douceur idéale pour les sorties et activités de plein air.
+L'après-midi, le temps est marqué par un ciel dominé par des passages nuageux denses accompagnés d'averses éparses. Le thermomètre affiche des maximales atteignant 15°C à Caen, 14°C à Cherbourg, 15°C à Le Havre, 14°C à Dieppe, 15°C à Lisieux. Les zones littorales profitent d'une brise marine rafraîchissante qui modère les ardeurs du mercure. En soirée, l'atmosphère conserve une grande douceur idéale pour les sorties et activités de plein air.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
-🏖️ MÉTÉO DES PLAGES – CÔTE D’ALBÂTRE & MANCHE (lundi 16 novembre 2026)
+🏖️ MÉTÉO DES PLAGES – CÔTE D’ALBÂTRE & MANCHE (mardi 17 novembre 2026)
 
 🌴 Le Havre / Deauville / Cabourg
-☀️ Temps agréable ce lundi. Températures sur les plages : 9°C à 16°C.
+☀️ Temps agréable ce mardi. Températures sur les plages : 11°C à 15°C.
 🌊 Température de l’eau : 17°C à 18°C
 
 🌴 Dieppe / Fécamp / Cherbourg
-☀️ Belle luminosité ce lundi, brise littorale rafraîchissante avec maximales de 16°C.
+☀️ Belle luminosité ce mardi, brise littorale rafraîchissante avec maximales de 15°C.
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "BAIE DE SOMME - LA HAGUE" MIDI
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "BAIE DE SOMME - LA HAGUE" MIDI (mardi 17 novembre 2026)
 📍 Origine Météo-France. 
 Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du lundi 16 novembre 2026 à 12H30 légales.
 
@@ -375,17 +429,17 @@ Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la H
 • MER : forte à très forte, mais agitée en baie de Seine.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
-🌧️ Pluies & Humidité : Temps sec sur la région ce lundi avec maintien de la sécheresse de surface.
-🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce lundi. Aucun coup de vent à craindre.
-⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce lundi.
+🌧️ Pluies & Humidité : Temps sec sur la région ce mardi avec maintien de la sécheresse de surface.
+🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce mardi. Aucun coup de vent à craindre.
+⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce mardi.
 🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-📉 Tendance – 3 jours suivants (mercredi 18 novembre au vendredi 20 novembre)
+📉 Tendance – 3 jours suivants (jeudi 19 novembre au samedi 21 novembre)
 
-▶ mercredi 18 novembre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 9°C. L'après-midi, le mercure grimpe jusqu'à 15°C sous abri. Attention aux rafales de vent atteignant 70 km/h.
+▶ jeudi 19 novembre : Le ciel sera souvent voilé, notamment de Caen à Rouen et jusqu’à Dieppe. Le soleil brillera davantage à Cherbourg, tandis que des averses concerneront Le Havre et Alençon ; à Évreux, les nuages domineront. Les minimales iront de 7 degrés à Dieppe à 10 au Havre, puis les maximales atteindront 12 à 14 degrés. Le vent de sud-ouest restera soutenu, avec des rafales jusqu’à 70 km/h à Alençon.
 
-▶ jeudi 19 novembre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 7°C. L'après-midi, le mercure grimpe jusqu'à 14°C sous abri. Attention aux rafales de vent atteignant 65 km/h.
+▶ vendredi 20 novembre : Changement d’ambiance avec des averses annoncées sur l’ensemble de la région. Les températures reculeront un peu : 7 degrés au réveil à Rouen et Évreux, 8 à Caen et Cherbourg ; au meilleur de la journée, il fera 11 degrés à Rouen et jusqu’à 13 à Caen. Le vent de sud-ouest sera moins fort que la veille, avec des rafales atteignant 50 km/h à Cherbourg.
 
-▶ vendredi 20 novembre : Temps calme, sec et largement lumineux. Au lever du jour, les températures minimales oscillent autour de 7°C. L'après-midi, le mercure grimpe jusqu'à 13°C sous abri. Attention aux rafales de vent atteignant 65 km/h.
+▶ samedi 21 novembre : Le temps redeviendra plus contrasté et la fraîcheur s’accentuera au réveil. Le soleil s’imposera à Rouen, Évreux et au Havre, alors que les nuages domineront à Caen et Alençon. Des averses resteront possibles à Cherbourg et Dieppe. Les minimales descendront à 4 degrés à Rouen et 6 à Cherbourg ; les maximales iront de 10 degrés à Dieppe à 13 à Alençon. Le vent restera orienté au sud-ouest, avec des rafales jusqu’à 40 km/h au Havre et à Cherbourg.
 
