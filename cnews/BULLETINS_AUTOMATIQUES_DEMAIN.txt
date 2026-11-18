@@ -1,6 +1,6 @@
 ================================================================================
 📡 RAPPORT EXHAUSTIF DES PRÉVISIONS VISUELLES (MODE VISIO EN PLATEAU)
-DATE CIBLE : MERCREDI 18 NOVEMBRE 2026
+DATE CIBLE : JEUDI 19 NOVEMBRE 2026
 FICHIER SOURCE : /home/runner/work/meteo-kappa/meteo-kappa/cnews/BULLETINS_AUTOMATIQUES_DEMAIN.json
 ================================================================================
 
@@ -31,27 +31,6 @@ De la Bretagne aux Hauts-de-France, en passant par la Normandie, l'Île-de-Franc
 Côté températures, les maximales seront comprises entre 12 et 15 degrés sur ces régions. On attend par exemple 12 degrés à Lille, 14 à Rouen et Caen, ou encore 15 à Paris et Rennes.
 
 Le vent soufflera majoritairement du sud-ouest, avec des vitesses moyennes de 25 à 30 km/h. Mais attention, des rafales pourront être particulièrement fortes, notamment sur le littoral. Elles atteindront 75 km/h à Lille et Brest, et jusqu'à 65 km/h à Nantes. Soyez donc vigilants si vous circulez dans ces zones.
-
-🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (mercredi 18 novembre 2026)
-📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
-
-⚠️ AVIS DE SÉCURITÉ EN MER (BMS OFFICIEL) :
-• Avis de grand frais à coup de vent.
-• En cours et valable jusqu'au mercredi 18 novembre à 12H00 UTC au moins
-• VENT : Sud-Ouest 7 à 8, mollissant 7 en fin d'après-midi. Fortes rafales.
-
-🌐 Situation générale : Dépression complexe 952 hPa au sud de l'Islande, se décalant très lentement vers l'est. Dépression secondaire 979 hPa au sud de l'Angleterre, se creusant 971 hPa l'après-midi au sud de la mer du Nord, puis se décalant lentement vers l'est en se creusant. Flux d'Ouest à Sud-Ouest fort à très fort sur tout le domaine.
-
-📅 Prévisions pour la journée du mercredi 18 novembre :
-🌬️ VENT : Ouest à Sud-Ouest 6 à 7, mollissant 5 à 6 en fin de journée. Rafales.
-🌊 MER : agitée à forte.
-⛅ TEMPS : averses parfois orageuses, principalement en Manche.
-👁️ VISIBILITE : bonne, localement mauvaise sous averses.
-
-📉 Tendance pour la nuit du 18  au 19, et la journée du jeudi 19 novembre :
-• VENT : Sud-Ouest 5 à 6, revenant temporairement Sud en milieu de nuit, et fraîchissant 6 à 7 en deuxième partie de nuit, puis mollissant localement 3 à 5 en Mer du Nord à la mi-journée. Rafales.
-• MER : agitée à forte, s'atténuant peu agitée à agitée en Mer du Nord à la mi-journée.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce mercredi avec maintien de la sécheresse de surface.
@@ -120,25 +99,28 @@ Un après-midi donc sous le signe des averses et d'un vent bien présent.
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (mercredi 18 novembre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ EN MER (BMS OFFICIEL) :
-• Avis de grand frais à coup de vent.
-• En cours et valable jusqu'au mercredi 18 novembre à 12H00 UTC au moins
-• VENT : Sud-Ouest 7 à 8, mollissant 7 en fin d'après-midi. Fortes rafales.
+• Avis de grand frais.
+• En cours et valable jusqu'au mercredi 18 novembre à 17H00 UTC
+• VENT : Ouest à Sud-Ouest 7, mollissant en Mer du Nord le matin. Rafales.
+• VENT : Sud 7, virant Sud-Ouest en fin de nuit. Rafales.
 
-🌐 Situation générale : Dépression complexe 952 hPa au sud de l'Islande, se décalant très lentement vers l'est. Dépression secondaire 979 hPa au sud de l'Angleterre, se creusant 971 hPa l'après-midi au sud de la mer du Nord, puis se décalant lentement vers l'est en se creusant. Flux d'Ouest à Sud-Ouest fort à très fort sur tout le domaine.
+🌐 Situation générale : Dépression complexe 965 hPa à l'ouest de l'Irlande, se décalant très lentement vers l'est et générant un flux perturbé d'Ouest à Sud-Ouest assez fort à fort sur tout le domaine.
 
-📅 Prévisions pour la journée du mercredi 18 novembre :
-🌬️ VENT : Ouest à Sud-Ouest 6 à 7, mollissant 5 à 6 en fin de journée. Rafales.
-🌊 MER : agitée à forte.
-⛅ TEMPS : averses parfois orageuses, principalement en Manche.
-👁️ VISIBILITE : bonne, localement mauvaise sous averses.
+📅 Prévisions pour la journée du jeudi 19 novembre :
+🌬️ VENT : Sud-Ouest 5 à 6, localement 7 en Manche au début, mollissant Ouest 4 à 5 en fin de journée. Rafales.
+🌊 MER : agitée en mer du Nord, forte en Manche.
+⛅ TEMPS : averses, parfois orageuses, principalement en Manche..
+👁️ VISIBILITE : mauvaise sous averses.
 
-📉 Tendance pour la nuit du 18  au 19, et la journée du jeudi 19 novembre :
-• VENT : Sud-Ouest 5 à 6, revenant temporairement Sud en milieu de nuit, et fraîchissant 6 à 7 en deuxième partie de nuit, puis mollissant localement 3 à 5 en Mer du Nord à la mi-journée. Rafales.
-• MER : agitée à forte, s'atténuant peu agitée à agitée en Mer du Nord à la mi-journée.
+📉 Tendance pour la nuit du 19  au 20, et la journée du vendredi 20 novembre :
+• VENT : 
+En mer du Nord : secteur Ouest 4 à 5, devenant Variable 2 à 4 le matin puis fraîchissant Nord à Nord-Est 4 à 5 l'après-midi.
+En Manche : Ouest à Sud-Ouest 5 à 6, parfois 7, virant Nord 4 à 5 l'après-midi.
+• MER : peu agitée à agitée en mer du Nord, forte en manche, devenant agitée en journée.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce mercredi avec maintien de la sécheresse de surface.
@@ -193,28 +175,26 @@ Le vent sera particulièrement présent, soufflant du secteur Sud-Ouest. Il atte
 🌊 Température de l’eau : 21°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "AIGUILLON - FRONTIÈRE ESPAGNOLE" MIDI (mercredi 18 novembre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "AIGUILLON - FRONTIÈRE ESPAGNOLE" MIDI
 📍 Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du mardi 17 novembre 2026 à 12H30 légales.
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du mercredi 18 novembre 2026 à 12H30 légales.
 
 ⚠️ AVIS DE SÉCURITÉ EN MER (BMS OFFICIEL) :
 • Avis de grand frais à coup de vent.
-• En cours et valable jusqu'au mardi 17 novembre à 07H00 UTC
-• VENT : Sud-Ouest 7. Rafales.
-• VENT : Ouest à Sud-Ouest 7, temporairement 8 le soir. Rafales.
+• VENT : fraîchissant secteur Sud 7 par le nord, puis virant rapidement secteur Ouest 7, parfois 8 en milieu de nuit. Fortes rafales.
 
-🌐 Situation générale : Dépression complexe 952 hPa au sud de l'Islande, se décalant très lentement vers l'est. Dépression secondaire 979 hPa au sud de l'Angleterre, se creusant 971 hPa l'après-midi au sud de la mer du Nord, puis se décalant lentement vers l'est en se creusant. Flux d'Ouest à Sud-Ouest fort à très fort sur tout le domaine.
+🌐 Situation générale : Dépression complexe 965 hPa à l'ouest de l'Irlande, se décalant très lentement vers l'est et générant un flux perturbé d'Ouest à Sud-Ouest assez fort à fort sur tout le domaine.
 
-📅 Prévisions pour la journée du mercredi 18 novembre :
-🌬️ VENT : Ouest à Sud-Ouest 5 à 6, mais 4 à 5 au sud de Mimizan, mollissant secteur Sud 3 à 5 du sud au nord l'après-midi. Rafales.
-🌊 MER : très forte dominée par la houle.
-🌊 HOULE : longue d'Ouest à Nord-Ouest 3.5 à 4.5 m, s'amplifiant 4.5 à 5.5 m l'après-midi.
-⛅ TEMPS : pluie et averses, puis éclaircies l'après-midi.
-👁️ VISIBILITE : moyenne à mauvaise sous pluie et averses.
+📅 Prévisions pour la journée du jeudi 19 novembre :
+🌬️ VENT : Ouest 6 à 7, parfois 8, mollissant localement 5 à 6 au sud de Messanges le matin. Fortes rafales.
+🌊 MER : très forte à grosse.
+🌊 HOULE : longue d'Ouest à Nord-Ouest 4.5 à 5.5 m, jusqu'à 6 m sur côtes sud Landes et Basque le matin.
+⛅ TEMPS : averses orageuses.
+👁️ VISIBILITE : mauvaise sous averses.
 
-📉 Tendance pour la nuit du 18  au 19, et la journée du jeudi 19 novembre :
-• VENT : fraîchissant secteur Sud 6 à 7 par le nord, puis virant rapidement secteur Ouest 6 à 7, parfois 8 en milieu de nuit, puis mollissant localement 5 à 6 au sud de Messanges le matin. Fortes rafales.
-• MER : très forte, devenant très forte à grosse en fin de nuit.
+📉 Tendance pour la nuit du 19  au 20, et la journée du vendredi 20 novembre :
+• VENT : Ouest à Sud-Ouest 6 à 7, mais localement 4 à 5 sur la côte Basque, mollissant Ouest à Nord-Ouest 4 à 5 en fin de journée. Rafales.
+• MER : très forte à grosse, dominée par la houle, devenant très forte en journée.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce mercredi avec maintien de la sécheresse de surface.
@@ -268,25 +248,28 @@ Côté températures, les maximales resteront douces pour la saison, mais n'iron
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (mercredi 18 novembre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ EN MER (BMS OFFICIEL) :
-• Avis de grand frais à coup de vent.
-• En cours et valable jusqu'au mercredi 18 novembre à 12H00 UTC au moins
-• VENT : Sud-Ouest 7 à 8, mollissant 7 en fin d'après-midi. Fortes rafales.
+• Avis de grand frais.
+• En cours et valable jusqu'au mercredi 18 novembre à 17H00 UTC
+• VENT : Ouest à Sud-Ouest 7, mollissant en Mer du Nord le matin. Rafales.
+• VENT : Sud 7, virant Sud-Ouest en fin de nuit. Rafales.
 
-🌐 Situation générale : Dépression complexe 952 hPa au sud de l'Islande, se décalant très lentement vers l'est. Dépression secondaire 979 hPa au sud de l'Angleterre, se creusant 971 hPa l'après-midi au sud de la mer du Nord, puis se décalant lentement vers l'est en se creusant. Flux d'Ouest à Sud-Ouest fort à très fort sur tout le domaine.
+🌐 Situation générale : Dépression complexe 965 hPa à l'ouest de l'Irlande, se décalant très lentement vers l'est et générant un flux perturbé d'Ouest à Sud-Ouest assez fort à fort sur tout le domaine.
 
-📅 Prévisions pour la journée du mercredi 18 novembre :
-🌬️ VENT : Ouest à Sud-Ouest 6 à 7, mollissant 5 à 6 en fin de journée. Rafales.
-🌊 MER : agitée à forte.
-⛅ TEMPS : averses parfois orageuses, principalement en Manche.
-👁️ VISIBILITE : bonne, localement mauvaise sous averses.
+📅 Prévisions pour la journée du jeudi 19 novembre :
+🌬️ VENT : Sud-Ouest 5 à 6, localement 7 en Manche au début, mollissant Ouest 4 à 5 en fin de journée. Rafales.
+🌊 MER : agitée en mer du Nord, forte en Manche.
+⛅ TEMPS : averses, parfois orageuses, principalement en Manche..
+👁️ VISIBILITE : mauvaise sous averses.
 
-📉 Tendance pour la nuit du 18  au 19, et la journée du jeudi 19 novembre :
-• VENT : Sud-Ouest 5 à 6, revenant temporairement Sud en milieu de nuit, et fraîchissant 6 à 7 en deuxième partie de nuit, puis mollissant localement 3 à 5 en Mer du Nord à la mi-journée. Rafales.
-• MER : agitée à forte, s'atténuant peu agitée à agitée en Mer du Nord à la mi-journée.
+📉 Tendance pour la nuit du 19  au 20, et la journée du vendredi 20 novembre :
+• VENT : 
+En mer du Nord : secteur Ouest 4 à 5, devenant Variable 2 à 4 le matin puis fraîchissant Nord à Nord-Est 4 à 5 l'après-midi.
+En Manche : Ouest à Sud-Ouest 5 à 6, parfois 7, virant Nord 4 à 5 l'après-midi.
+• MER : peu agitée à agitée en mer du Nord, forte en manche, devenant agitée en journée.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce mercredi avec maintien de la sécheresse de surface.
@@ -340,25 +323,28 @@ Le vent soufflera de secteur Sud-Ouest et sera bien présent. Des rafales pourro
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (mercredi 18 novembre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ EN MER (BMS OFFICIEL) :
-• Avis de grand frais à coup de vent.
-• En cours et valable jusqu'au mercredi 18 novembre à 12H00 UTC au moins
-• VENT : Sud-Ouest 7 à 8, mollissant 7 en fin d'après-midi. Fortes rafales.
+• Avis de grand frais.
+• En cours et valable jusqu'au mercredi 18 novembre à 17H00 UTC
+• VENT : Ouest à Sud-Ouest 7, mollissant en Mer du Nord le matin. Rafales.
+• VENT : Sud 7, virant Sud-Ouest en fin de nuit. Rafales.
 
-🌐 Situation générale : Dépression complexe 952 hPa au sud de l'Islande, se décalant très lentement vers l'est. Dépression secondaire 979 hPa au sud de l'Angleterre, se creusant 971 hPa l'après-midi au sud de la mer du Nord, puis se décalant lentement vers l'est en se creusant. Flux d'Ouest à Sud-Ouest fort à très fort sur tout le domaine.
+🌐 Situation générale : Dépression complexe 965 hPa à l'ouest de l'Irlande, se décalant très lentement vers l'est et générant un flux perturbé d'Ouest à Sud-Ouest assez fort à fort sur tout le domaine.
 
-📅 Prévisions pour la journée du mercredi 18 novembre :
-🌬️ VENT : Ouest à Sud-Ouest 6 à 7, mollissant 5 à 6 en fin de journée. Rafales.
-🌊 MER : agitée à forte.
-⛅ TEMPS : averses parfois orageuses, principalement en Manche.
-👁️ VISIBILITE : bonne, localement mauvaise sous averses.
+📅 Prévisions pour la journée du jeudi 19 novembre :
+🌬️ VENT : Sud-Ouest 5 à 6, localement 7 en Manche au début, mollissant Ouest 4 à 5 en fin de journée. Rafales.
+🌊 MER : agitée en mer du Nord, forte en Manche.
+⛅ TEMPS : averses, parfois orageuses, principalement en Manche..
+👁️ VISIBILITE : mauvaise sous averses.
 
-📉 Tendance pour la nuit du 18  au 19, et la journée du jeudi 19 novembre :
-• VENT : Sud-Ouest 5 à 6, revenant temporairement Sud en milieu de nuit, et fraîchissant 6 à 7 en deuxième partie de nuit, puis mollissant localement 3 à 5 en Mer du Nord à la mi-journée. Rafales.
-• MER : agitée à forte, s'atténuant peu agitée à agitée en Mer du Nord à la mi-journée.
+📉 Tendance pour la nuit du 19  au 20, et la journée du vendredi 20 novembre :
+• VENT : 
+En mer du Nord : secteur Ouest 4 à 5, devenant Variable 2 à 4 le matin puis fraîchissant Nord à Nord-Est 4 à 5 l'après-midi.
+En Manche : Ouest à Sud-Ouest 5 à 6, parfois 7, virant Nord 4 à 5 l'après-midi.
+• MER : peu agitée à agitée en mer du Nord, forte en manche, devenant agitée en journée.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce mercredi avec maintien de la sécheresse de surface.
@@ -418,26 +404,25 @@ Le vent soufflera du sud-ouest, avec des vitesses moyennes de 25 à 35 km/h. Les
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "BAIE DE SOMME - LA HAGUE" MIDI (mercredi 18 novembre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "BAIE DE SOMME - LA HAGUE" MIDI
 📍 Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du mardi 17 novembre 2026 à 12H30 légales.
+Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du mercredi 18 novembre 2026 à 12H30 légales.
 
 ⚠️ AVIS DE SÉCURITÉ EN MER (BMS OFFICIEL) :
 • Avis de grand frais à coup de vent.
-• En cours et valable jusqu'au mercredi 18 novembre à 12H00 UTC au moins
-• VENT : Sud-Ouest 7 à 8, mollissant 7 en fin d'après-midi, puis fraîchissant 7 à 8 en milieu de nuit. Fortes rafales.
+• En cours et valable jusqu'au jeudi 19 novembre à 06H00 UTC au moins
+• VENT : Ouest à Sud-Ouest 7, parfois 8 le matin, mollissant en fin d'après-midi, puis fraîchissant à nouveau Sud-Ouest 7, parfois 8, en soirée. Fortes rafales.
 
-🌐 Situation générale : Dépression complexe 952 hPa au sud de l'Islande, se décalant très lentement vers l'est. Dépression secondaire 979 hPa au sud de l'Angleterre, se creusant 971 hPa l'après-midi au sud de la mer du Nord, puis se décalant lentement vers l'est en se creusant. Flux d'Ouest à Sud-Ouest fort à très fort sur tout le domaine.
+🌐 Situation générale : Dépression complexe 965 hPa à l'ouest de l'Irlande, se décalant très lentement vers l'est et générant un flux perturbé d'Ouest à Sud-Ouest assez fort à fort sur tout le domaine.
 
-📅 Prévisions pour la journée du mercredi 18 novembre :
-🌬️ VENT : Sud-Ouest 6 à 7, parfois 8 le matin, mollissant temporairement 5 à 6 en fin de journée. Fortes rafales.
+📅 Prévisions pour la journée du jeudi 19 novembre :
+🌬️ VENT : Ouest à Sud-Ouest 6 à 7, parfois 8, mollissant 5 à 6 en fin de journée, parfois 7. Fortes rafales.
 🌊 MER : forte, localement très forte sur nord Cotentin, mais agitée en baie de Seine.
-🌊 HOULE : Ouest à Nord-Ouest 1 à 1.5 m, s'amplifiant 1.5 à 2 m l'après-midi excepté en Baie de Seine, et localement Ouest 2 à 3 m sur nord Cotentin.
 ⛅ TEMPS : averses, parfois orageuses.
-👁️ VISIBILITE : bonne, parfois mauvaise sous averses.
+👁️ VISIBILITE : moyenne à mauvaise sous précipitations.
 
-📉 Tendance pour la nuit du 18  au 19, et la journée du jeudi 19 novembre :
-• VENT : Sud-Ouest 6 à 7, passagèrement revenant Sud en soirée. Rafales.
+📉 Tendance pour la nuit du 19  au 20, et la journée du vendredi 20 novembre :
+• VENT : Ouest à Sud-Ouest 6 à 7, virant Nord à Nord-Ouest 4 à 5 l'après-midi. Fortes rafales.
 • MER : forte, localement très forte sur nord Cotentin, mais agitée en baie de Seine.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
