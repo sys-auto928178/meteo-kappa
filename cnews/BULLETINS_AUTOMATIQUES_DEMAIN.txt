@@ -1,6 +1,6 @@
 ================================================================================
 📡 RAPPORT EXHAUSTIF DES PRÉVISIONS VISUELLES (MODE VISIO EN PLATEAU)
-DATE CIBLE : JEUDI 19 NOVEMBRE 2026
+DATE CIBLE : VENDREDI 20 NOVEMBRE 2026
 FICHIER SOURCE : /home/runner/work/meteo-kappa/meteo-kappa/cnews/BULLETINS_AUTOMATIQUES_DEMAIN.json
 ================================================================================
 
@@ -33,30 +33,6 @@ Pour votre après-midi de ce jeudi 19 novembre, le temps restera très perturbé
 Les températures maximales atteindront 12 degrés à Lille, 13 à Paris, 14 à Nantes et 15 à Bordeaux. Le vent soufflera modérément avec des rafales jusqu'à 60 km/h sur les côtes de la Manche et de l'Atlantique.
 
 Seule la moitié sud-est du pays sera épargnée. Le soleil dominera largement de l'Occitanie à la Côte d'Azur, avec des maximales très agréables : 20 degrés à Perpignan, 21 à Nice et 22 à Ajaccio. Quelques belles éclaircies sont attendues sur Marseille, avec 18 degrés.
-
-🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (jeudi 19 novembre 2026)
-📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
-
-⚠️ AVIS DE SÉCURITÉ EN MER (BMS OFFICIEL) :
-• Avis de grand frais.
-• En cours et valable jusqu'au mercredi 18 novembre à 17H00 UTC
-• VENT : Ouest à Sud-Ouest 7, mollissant en Mer du Nord le matin. Rafales.
-• VENT : Sud 7, virant Sud-Ouest en fin de nuit. Rafales.
-
-🌐 Situation générale : Dépression complexe 965 hPa à l'ouest de l'Irlande, se décalant très lentement vers l'est et générant un flux perturbé d'Ouest à Sud-Ouest assez fort à fort sur tout le domaine.
-
-📅 Prévisions pour la journée du jeudi 19 novembre :
-🌬️ VENT : Sud-Ouest 5 à 6, localement 7 en Manche au début, mollissant Ouest 4 à 5 en fin de journée. Rafales.
-🌊 MER : agitée en mer du Nord, forte en Manche.
-⛅ TEMPS : averses, parfois orageuses, principalement en Manche..
-👁️ VISIBILITE : mauvaise sous averses.
-
-📉 Tendance pour la nuit du 19  au 20, et la journée du vendredi 20 novembre :
-• VENT : 
-En mer du Nord : secteur Ouest 4 à 5, devenant Variable 2 à 4 le matin puis fraîchissant Nord à Nord-Est 4 à 5 l'après-midi.
-En Manche : Ouest à Sud-Ouest 5 à 6, parfois 7, virant Nord 4 à 5 l'après-midi.
-• MER : peu agitée à agitée en mer du Nord, forte en manche, devenant agitée en journée.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce jeudi avec maintien de la sécheresse de surface.
@@ -123,28 +99,26 @@ Le vent soufflera du secteur Sud-Ouest et restera bien présent, avec des vitess
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (jeudi 19 novembre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ EN MER (BMS OFFICIEL) :
 • Avis de grand frais.
-• En cours et valable jusqu'au mercredi 18 novembre à 17H00 UTC
-• VENT : Ouest à Sud-Ouest 7, mollissant en Mer du Nord le matin. Rafales.
-• VENT : Sud 7, virant Sud-Ouest en fin de nuit. Rafales.
+• En cours et valable jusqu'au jeudi 19 novembre à 16H00 UTC
+• VENT : Sud-Ouest 7. Fortes rafales.
 
-🌐 Situation générale : Dépression complexe 965 hPa à l'ouest de l'Irlande, se décalant très lentement vers l'est et générant un flux perturbé d'Ouest à Sud-Ouest assez fort à fort sur tout le domaine.
+🌐 Situation générale : Dépression 975 hPa à l'ouest de l'Irlande, se décalant vers le sud-est en se comblant, prévue 995 hPa en Cornouailles vendredi matin. Flux perturbé d'Ouest à Sud-Ouest assez fort à fort sur le bassin.
 
-📅 Prévisions pour la journée du jeudi 19 novembre :
-🌬️ VENT : Sud-Ouest 5 à 6, localement 7 en Manche au début, mollissant Ouest 4 à 5 en fin de journée. Rafales.
-🌊 MER : agitée en mer du Nord, forte en Manche.
-⛅ TEMPS : averses, parfois orageuses, principalement en Manche..
-👁️ VISIBILITE : mauvaise sous averses.
+📅 Prévisions pour la journée du vendredi 20 novembre :
+🌬️ VENT : Variable 2 à 4, fraîchissant Nord-Est 4 à 5 l'après-midi.
+🌊 MER : peu agitée à agitée.
+🌊 HOULE : Ouest à Sud-Ouest 1 à 1.5 m, parfois 2 m en Manche le matin.
+⛅ TEMPS : pluie ou averses orageuses, s’éclaircissant à la fin.
+👁️ VISIBILITE : bonne, parfois mauvaise sous pluie ou averses.
 
-📉 Tendance pour la nuit du 19  au 20, et la journée du vendredi 20 novembre :
-• VENT : 
-En mer du Nord : secteur Ouest 4 à 5, devenant Variable 2 à 4 le matin puis fraîchissant Nord à Nord-Est 4 à 5 l'après-midi.
-En Manche : Ouest à Sud-Ouest 5 à 6, parfois 7, virant Nord 4 à 5 l'après-midi.
-• MER : peu agitée à agitée en mer du Nord, forte en manche, devenant agitée en journée.
+📉 Tendance pour la nuit du 20  au 21, et la journée du samedi 21 novembre :
+• VENT : Nord-Est 4 à 5, mollissant Variable 2 à 4 le soir, puis s'orientant Sud-Est 3 à 4 en journée.
+• MER : peu agitée, parfois agitée en Manche le soir.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce jeudi avec maintien de la sécheresse de surface.
@@ -199,26 +173,27 @@ Le vent sera également un élément majeur de cette après-midi, soufflant du s
 🌊 Température de l’eau : 21°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "AIGUILLON - FRONTIÈRE ESPAGNOLE" MIDI (jeudi 19 novembre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "AIGUILLON - FRONTIÈRE ESPAGNOLE" MIDI
 📍 Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du mercredi 18 novembre 2026 à 12H30 légales.
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du jeudi 19 novembre 2026 à 12H30 légales.
 
 ⚠️ AVIS DE SÉCURITÉ EN MER (BMS OFFICIEL) :
 • Avis de grand frais à coup de vent.
-• VENT : fraîchissant secteur Sud 7 par le nord, puis virant rapidement secteur Ouest 7, parfois 8 en milieu de nuit. Fortes rafales.
+• En cours et valable jusqu'au vendredi 20 novembre à 06H00 UTC au moins
+• VENT : Ouest 7 à 8 mollissant sur la côte Basque en matinée. Fortes rafales.
 
-🌐 Situation générale : Dépression complexe 965 hPa à l'ouest de l'Irlande, se décalant très lentement vers l'est et générant un flux perturbé d'Ouest à Sud-Ouest assez fort à fort sur tout le domaine.
+🌐 Situation générale : Dépression 975 hPa à l'ouest de l'Irlande, se décalant vers le sud-est en se comblant, prévue 995 hPa en Cornouailles vendredi matin. Flux perturbé d'Ouest à Sud-Ouest assez fort à fort sur le bassin.
 
-📅 Prévisions pour la journée du jeudi 19 novembre :
-🌬️ VENT : Ouest 6 à 7, parfois 8, mollissant localement 5 à 6 au sud de Messanges le matin. Fortes rafales.
-🌊 MER : très forte à grosse.
-🌊 HOULE : longue d'Ouest à Nord-Ouest 4.5 à 5.5 m, jusqu'à 6 m sur côtes sud Landes et Basque le matin.
-⛅ TEMPS : averses orageuses.
-👁️ VISIBILITE : mauvaise sous averses.
+📅 Prévisions pour la journée du vendredi 20 novembre :
+🌬️ VENT : Ouest 6 à 7, mais localement 4 à 5 sur la côte Basque, mollissant 5 à 6 le matin, puis 4 à 5 à la fin, localement secteur Sud-Ouest 2 à 4 sur côte Basque. Rafales.
+🌊 MER : très forte, s'atténuant forte à très forte dominée par la houle l'après-midi.
+🌊 HOULE : longue d'Ouest à Nord-Ouest 4 à 5 m, s'atténuant 3 à 4.5 m l'après-midi.
+⛅ TEMPS : averses, parfois orageuses le matin.
+👁️ VISIBILITE : bonne, parfois mauvaise sous averses.
 
-📉 Tendance pour la nuit du 19  au 20, et la journée du vendredi 20 novembre :
-• VENT : Ouest à Sud-Ouest 6 à 7, mais localement 4 à 5 sur la côte Basque, mollissant Ouest à Nord-Ouest 4 à 5 en fin de journée. Rafales.
-• MER : très forte à grosse, dominée par la houle, devenant très forte en journée.
+📉 Tendance pour la nuit du 20  au 21, et la journée du samedi 21 novembre :
+• VENT : Ouest à Sud-Ouest 3 à 5, revenant progressivement Sud à Sud-Est la nuit.
+• MER : forte à très forte dominée par la houle, s'atténuant progressivement agitée.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce jeudi avec maintien de la sécheresse de surface.
@@ -276,28 +251,26 @@ Quelques éclaircies feront leur apparition sur Marck et Lefaux, où le soleil d
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (jeudi 19 novembre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ EN MER (BMS OFFICIEL) :
 • Avis de grand frais.
-• En cours et valable jusqu'au mercredi 18 novembre à 17H00 UTC
-• VENT : Ouest à Sud-Ouest 7, mollissant en Mer du Nord le matin. Rafales.
-• VENT : Sud 7, virant Sud-Ouest en fin de nuit. Rafales.
+• En cours et valable jusqu'au jeudi 19 novembre à 16H00 UTC
+• VENT : Sud-Ouest 7. Fortes rafales.
 
-🌐 Situation générale : Dépression complexe 965 hPa à l'ouest de l'Irlande, se décalant très lentement vers l'est et générant un flux perturbé d'Ouest à Sud-Ouest assez fort à fort sur tout le domaine.
+🌐 Situation générale : Dépression 975 hPa à l'ouest de l'Irlande, se décalant vers le sud-est en se comblant, prévue 995 hPa en Cornouailles vendredi matin. Flux perturbé d'Ouest à Sud-Ouest assez fort à fort sur le bassin.
 
-📅 Prévisions pour la journée du jeudi 19 novembre :
-🌬️ VENT : Sud-Ouest 5 à 6, localement 7 en Manche au début, mollissant Ouest 4 à 5 en fin de journée. Rafales.
-🌊 MER : agitée en mer du Nord, forte en Manche.
-⛅ TEMPS : averses, parfois orageuses, principalement en Manche..
-👁️ VISIBILITE : mauvaise sous averses.
+📅 Prévisions pour la journée du vendredi 20 novembre :
+🌬️ VENT : Variable 2 à 4, fraîchissant Nord-Est 4 à 5 l'après-midi.
+🌊 MER : peu agitée à agitée.
+🌊 HOULE : Ouest à Sud-Ouest 1 à 1.5 m, parfois 2 m en Manche le matin.
+⛅ TEMPS : pluie ou averses orageuses, s’éclaircissant à la fin.
+👁️ VISIBILITE : bonne, parfois mauvaise sous pluie ou averses.
 
-📉 Tendance pour la nuit du 19  au 20, et la journée du vendredi 20 novembre :
-• VENT : 
-En mer du Nord : secteur Ouest 4 à 5, devenant Variable 2 à 4 le matin puis fraîchissant Nord à Nord-Est 4 à 5 l'après-midi.
-En Manche : Ouest à Sud-Ouest 5 à 6, parfois 7, virant Nord 4 à 5 l'après-midi.
-• MER : peu agitée à agitée en mer du Nord, forte en manche, devenant agitée en journée.
+📉 Tendance pour la nuit du 20  au 21, et la journée du samedi 21 novembre :
+• VENT : Nord-Est 4 à 5, mollissant Variable 2 à 4 le soir, puis s'orientant Sud-Est 3 à 4 en journée.
+• MER : peu agitée, parfois agitée en Manche le soir.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce jeudi avec maintien de la sécheresse de surface.
@@ -351,28 +324,26 @@ Le vent soufflera du secteur Sud-Ouest, avec des vitesses moyennes de 20 à 30 k
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (jeudi 19 novembre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ EN MER (BMS OFFICIEL) :
 • Avis de grand frais.
-• En cours et valable jusqu'au mercredi 18 novembre à 17H00 UTC
-• VENT : Ouest à Sud-Ouest 7, mollissant en Mer du Nord le matin. Rafales.
-• VENT : Sud 7, virant Sud-Ouest en fin de nuit. Rafales.
+• En cours et valable jusqu'au jeudi 19 novembre à 16H00 UTC
+• VENT : Sud-Ouest 7. Fortes rafales.
 
-🌐 Situation générale : Dépression complexe 965 hPa à l'ouest de l'Irlande, se décalant très lentement vers l'est et générant un flux perturbé d'Ouest à Sud-Ouest assez fort à fort sur tout le domaine.
+🌐 Situation générale : Dépression 975 hPa à l'ouest de l'Irlande, se décalant vers le sud-est en se comblant, prévue 995 hPa en Cornouailles vendredi matin. Flux perturbé d'Ouest à Sud-Ouest assez fort à fort sur le bassin.
 
-📅 Prévisions pour la journée du jeudi 19 novembre :
-🌬️ VENT : Sud-Ouest 5 à 6, localement 7 en Manche au début, mollissant Ouest 4 à 5 en fin de journée. Rafales.
-🌊 MER : agitée en mer du Nord, forte en Manche.
-⛅ TEMPS : averses, parfois orageuses, principalement en Manche..
-👁️ VISIBILITE : mauvaise sous averses.
+📅 Prévisions pour la journée du vendredi 20 novembre :
+🌬️ VENT : Variable 2 à 4, fraîchissant Nord-Est 4 à 5 l'après-midi.
+🌊 MER : peu agitée à agitée.
+🌊 HOULE : Ouest à Sud-Ouest 1 à 1.5 m, parfois 2 m en Manche le matin.
+⛅ TEMPS : pluie ou averses orageuses, s’éclaircissant à la fin.
+👁️ VISIBILITE : bonne, parfois mauvaise sous pluie ou averses.
 
-📉 Tendance pour la nuit du 19  au 20, et la journée du vendredi 20 novembre :
-• VENT : 
-En mer du Nord : secteur Ouest 4 à 5, devenant Variable 2 à 4 le matin puis fraîchissant Nord à Nord-Est 4 à 5 l'après-midi.
-En Manche : Ouest à Sud-Ouest 5 à 6, parfois 7, virant Nord 4 à 5 l'après-midi.
-• MER : peu agitée à agitée en mer du Nord, forte en manche, devenant agitée en journée.
+📉 Tendance pour la nuit du 20  au 21, et la journée du samedi 21 novembre :
+• VENT : Nord-Est 4 à 5, mollissant Variable 2 à 4 le soir, puis s'orientant Sud-Est 3 à 4 en journée.
+• MER : peu agitée, parfois agitée en Manche le soir.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce jeudi avec maintien de la sécheresse de surface.
@@ -430,26 +401,27 @@ Le vent soufflera du secteur Sud-Ouest, avec des vitesses moyennes de 20 à 35 k
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "BAIE DE SOMME - LA HAGUE" MIDI (jeudi 19 novembre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "BAIE DE SOMME - LA HAGUE" MIDI
 📍 Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du mercredi 18 novembre 2026 à 12H30 légales.
+Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du jeudi 19 novembre 2026 à 12H30 légales.
 
 ⚠️ AVIS DE SÉCURITÉ EN MER (BMS OFFICIEL) :
-• Avis de grand frais à coup de vent.
-• En cours et valable jusqu'au jeudi 19 novembre à 06H00 UTC au moins
-• VENT : Ouest à Sud-Ouest 7, parfois 8 le matin, mollissant en fin d'après-midi, puis fraîchissant à nouveau Sud-Ouest 7, parfois 8, en soirée. Fortes rafales.
+• Avis de grand frais.
+• En cours et valable jusqu'au vendredi 20 novembre à 06H00 UTC au moins
+• VENT : Ouest à Sud-Ouest 7. Fortes rafales.
 
-🌐 Situation générale : Dépression complexe 965 hPa à l'ouest de l'Irlande, se décalant très lentement vers l'est et générant un flux perturbé d'Ouest à Sud-Ouest assez fort à fort sur tout le domaine.
+🌐 Situation générale : Dépression 975 hPa à l'ouest de l'Irlande, se décalant vers le sud-est en se comblant, prévue 995 hPa en Cornouailles vendredi matin. Flux perturbé d'Ouest à Sud-Ouest assez fort à fort sur le bassin.
 
-📅 Prévisions pour la journée du jeudi 19 novembre :
-🌬️ VENT : Ouest à Sud-Ouest 6 à 7, parfois 8, mollissant 5 à 6 en fin de journée, parfois 7. Fortes rafales.
-🌊 MER : forte, localement très forte sur nord Cotentin, mais agitée en baie de Seine.
-⛅ TEMPS : averses, parfois orageuses.
-👁️ VISIBILITE : moyenne à mauvaise sous précipitations.
+📅 Prévisions pour la journée du vendredi 20 novembre :
+🌬️ VENT : Ouest à Sud-Ouest 6 à 7 avec rafales, mollissant Nord à Nord-Ouest 3 à 5 l'après-midi.
+🌊 MER : agitée à forte, localement très forte vers La Hague, s'atténuant peu agitée à agitée l'après-midi, localement forte vers La Hague.
+🌊 HOULE : longue d'Ouest 2 à 3 m, parfois 4 m vers La Hague, mais non significative en baie de Seine.
+⛅ TEMPS : pluie ou averses, parfois orageuses, s'éclaircissant à la fin.
+👁️ VISIBILITE : bonne, parfois mauvaise sous pluie ou averses.
 
-📉 Tendance pour la nuit du 19  au 20, et la journée du vendredi 20 novembre :
-• VENT : Ouest à Sud-Ouest 6 à 7, virant Nord à Nord-Ouest 4 à 5 l'après-midi. Fortes rafales.
-• MER : forte, localement très forte sur nord Cotentin, mais agitée en baie de Seine.
+📉 Tendance pour la nuit du 20  au 21, et la journée du samedi 21 novembre :
+• VENT : Nord à Nord-Ouest 3 à 4, virant progressivement Sud-Est la nuit, puis fraîchissant 4 à 5 en journée.
+• MER : peu agitée à agitée l'après-midi, parfois forte vers La Hague le soir.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce jeudi avec maintien de la sécheresse de surface.
