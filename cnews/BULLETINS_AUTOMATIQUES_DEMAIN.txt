@@ -1,6 +1,6 @@
 ================================================================================
 📡 RAPPORT EXHAUSTIF DES PRÉVISIONS VISUELLES (MODE VISIO EN PLATEAU)
-DATE CIBLE : LUNDI 23 NOVEMBRE 2026
+DATE CIBLE : MARDI 24 NOVEMBRE 2026
 FICHIER SOURCE : /home/runner/work/meteo-kappa/meteo-kappa/cnews/BULLETINS_AUTOMATIQUES_DEMAIN.json
 ================================================================================
 
@@ -29,26 +29,6 @@ Dans le nord, le ciel sera voilé mais lumineux du côté de Lille et Dunkerque,
 Partout ailleurs, de la Bretagne à l'Occitanie en passant par le Centre et l'Auvergne-Rhône-Alpes, le temps sera très nuageux. Les éclaircies seront rares et brèves, avec une dominante de nuages gris. Les températures maximales seront douces pour la saison, atteignant 17°C à Perpignan et jusqu'à 19°C à Ajaccio et Bastia. Ailleurs, comptez 15°C à Bordeaux et La Rochelle, 13°C à Limoges et Clermont-Ferrand, et 14°C à Paris.
 
 Le vent soufflera faiblement sur l'ensemble du territoire, sans rafales significatives.
-
-🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (lundi 23 novembre 2026)
-📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
-
-⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
-
-🌐 Situation générale : Dépression 992 hPa au sud-ouest  de l'Irlande et talweg associé s'étendant sur la Bretagne, remontant vers le nord. Dépression secondaire 1003 hPa en Manche cet après-midi, prévue autour de 1012 hPa cette nuit  et se décalant vers l'est. 
-Anticyclone des Açores 1027 hPa se décalant vers le nord-est, prévu 1026 hPa sur le sud-ouest de la France demain. Nouveau talweg sur le proche Atlantique demain soir.
-
-📅 Prévisions pour la journée du lundi 23 novembre :
-🌬️ VENT : Est à Sud-Est 3 à 5.
-🌊 MER : peu agitée à agitée, s'atténuant peu agitée à la mi-journée.
-🌊 HOULE : Nord-Est 0.5 à 1 m en mer du Nord, localement Ouest 0.5 à 1 m en Manche.
-⛅ TEMPS : ensoleillé devenant nuageux en Manche l'après-midi.
-👁️ VISIBILITE : bonne.
-
-📉 Tendance pour la nuit du 23  au 24, et la journée du mardi 24 novembre :
-• VENT : Sud à Sud-Est fraîchissant 5 à 6 en milieu de nuit.
-• MER : peu agitée à agitée.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce lundi avec maintien de la sécheresse de surface.
@@ -117,24 +97,23 @@ Le vent soufflera faiblement, de secteur Sud-Ouest, avec des vitesses autour de 
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (lundi 23 novembre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Dépression 992 hPa au sud-ouest  de l'Irlande et talweg associé s'étendant sur la Bretagne, remontant vers le nord. Dépression secondaire 1003 hPa en Manche cet après-midi, prévue autour de 1012 hPa cette nuit  et se décalant vers l'est. 
-Anticyclone des Açores 1027 hPa se décalant vers le nord-est, prévu 1026 hPa sur le sud-ouest de la France demain. Nouveau talweg sur le proche Atlantique demain soir.
+🌐 Situation générale : Dépression 1011 hPa sur le nord de la France, se décalant vers le sud-est en se comblant. Anticyclone 1030 hPa sur l'Espagne, se décalant lentement vers le nord-est, prévu sur l'Allemagne mardi matin. Talweg sur le golfe de Gascogne la nuit.
 
-📅 Prévisions pour la journée du lundi 23 novembre :
-🌬️ VENT : Est à Sud-Est 3 à 5.
-🌊 MER : peu agitée à agitée, s'atténuant peu agitée à la mi-journée.
-🌊 HOULE : Nord-Est 0.5 à 1 m en mer du Nord, localement Ouest 0.5 à 1 m en Manche.
-⛅ TEMPS : ensoleillé devenant nuageux en Manche l'après-midi.
+📅 Prévisions pour la journée du mardi 24 novembre :
+🌬️ VENT : Sud-Est 4 à 5, fraîchissant 5 à 6 à la fin.
+🌊 MER : peu agitée.
+🌊 HOULE : non significative.
+⛅ TEMPS : voilé.
 👁️ VISIBILITE : bonne.
 
-📉 Tendance pour la nuit du 23  au 24, et la journée du mardi 24 novembre :
-• VENT : Sud à Sud-Est fraîchissant 5 à 6 en milieu de nuit.
-• MER : peu agitée à agitée.
+📉 Tendance pour la nuit du 24  au 25, et la journée du mercredi 25 novembre :
+• VENT : Est à Sud-Est 5 à 6, mollissant Est 4 à 5 la nuit.
+• MER : peu agitée, localement agitée en Mer du Nord.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce lundi avec maintien de la sécheresse de surface.
@@ -189,28 +168,24 @@ Le vent soufflera du secteur Sud-Ouest. Il sera modéré dans l'intérieur des t
 🌊 Température de l’eau : 21°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "AIGUILLON - FRONTIÈRE ESPAGNOLE" MIDI (lundi 23 novembre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "AIGUILLON - FRONTIÈRE ESPAGNOLE" MIDI
 📍 Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du dimanche 22 novembre 2026 à 12H30 légales.
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du lundi 23 novembre 2026 à 12H30 légales.
 
-⚠️ AVIS DE SÉCURITÉ EN MER (BMS OFFICIEL) :
-• Avis de Grand Frais à Coup de Vent.
-• En cours et valable jusqu'au dimanche 22 novembre à 20H00 UTC
-• VENT : Ouest 7 à 8, mollissant Ouest à Nord-Ouest 7 l'après-midi. Fortes rafales.
+⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Dépression 992 hPa au sud-ouest  de l'Irlande et talweg associé s'étendant sur la Bretagne, remontant vers le nord. Dépression secondaire 1003 hPa en Manche cet après-midi, prévue autour de 1012 hPa cette nuit  et se décalant vers l'est. 
-Anticyclone des Açores 1027 hPa se décalant vers le nord-est, prévu 1026 hPa sur le sud-ouest de la France demain. Nouveau talweg sur le proche Atlantique demain soir.
+🌐 Situation générale : Dépression 1011 hPa sur le nord de la France, se décalant vers le sud-est en se comblant. Anticyclone 1030 hPa sur l'Espagne, se décalant lentement vers le nord-est, prévu sur l'Allemagne mardi matin. Talweg sur le golfe de Gascogne la nuit.
 
-📅 Prévisions pour la journée du lundi 23 novembre :
-🌬️ VENT : Ouest à Nord-Ouest 3 à 4, devenant Variable 1 à 3 à la mi-journée,puis s'orientant secteur Sud-Est 2 à 4 l'après-midi. Rafales.
-🌊 MER : forte dominée par la houle le matin, s'atténuant progressivement agitée l'après-midi.
-🌊 HOULE : Ouest à Nord-Ouest 3 m, s'atténuant 2 m l'après-midi.
-⛅ TEMPS : nuageux avec averses le matin, devenant peu nuageux parfois voilé en journée.
-👁️ VISIBILITE : moyenne à mauvaise sous averses.
+📅 Prévisions pour la journée du mardi 24 novembre :
+🌬️ VENT : Sud-Est 4 à 5, virant Sud à Sud-Est à la mi-journée, puis fraîchissant Sud-Ouest 5 à 6 avec rafales l'après-midi.
+🌊 MER : agitée, devenant agitée à forte au sud de Lacanau à la fin.
+🌊 HOULE : Ouest à Nord-Ouest près de 1.5 m.
+⛅ TEMPS : très nuageux, devenant pluvieux l'après-midi.
+👁️ VISIBILITE : bonne, devenant mauvaise sous pluie l'après-midi.
 
-📉 Tendance pour la nuit du 23  au 24, et la journée du mardi 24 novembre :
-• VENT : Sud à Sud-Est s'établissant 4 à 5 en première partie de nuit, virant Sud-Ouest l'après-midi, parfois 6.
-• MER : agitée, dominée par la houle.
+📉 Tendance pour la nuit du 24  au 25, et la journée du mercredi 25 novembre :
+• VENT : Ouest à Sud-Ouest fraîchissant 6 à 7, parfois 8 au sud d'Arcachon, virant Ouest à Nord-Ouest en journée. Fortes rafales.
+• MER : agitée à forte, devenant forte à très forte la nuit, parfois grosse au sud d'Arcachon l'après-midi.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce lundi avec maintien de la sécheresse de surface.
@@ -266,24 +241,23 @@ Le vent soufflera principalement du secteur Sud-Ouest, modéré, entre 10 et 25 
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (lundi 23 novembre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Dépression 992 hPa au sud-ouest  de l'Irlande et talweg associé s'étendant sur la Bretagne, remontant vers le nord. Dépression secondaire 1003 hPa en Manche cet après-midi, prévue autour de 1012 hPa cette nuit  et se décalant vers l'est. 
-Anticyclone des Açores 1027 hPa se décalant vers le nord-est, prévu 1026 hPa sur le sud-ouest de la France demain. Nouveau talweg sur le proche Atlantique demain soir.
+🌐 Situation générale : Dépression 1011 hPa sur le nord de la France, se décalant vers le sud-est en se comblant. Anticyclone 1030 hPa sur l'Espagne, se décalant lentement vers le nord-est, prévu sur l'Allemagne mardi matin. Talweg sur le golfe de Gascogne la nuit.
 
-📅 Prévisions pour la journée du lundi 23 novembre :
-🌬️ VENT : Est à Sud-Est 3 à 5.
-🌊 MER : peu agitée à agitée, s'atténuant peu agitée à la mi-journée.
-🌊 HOULE : Nord-Est 0.5 à 1 m en mer du Nord, localement Ouest 0.5 à 1 m en Manche.
-⛅ TEMPS : ensoleillé devenant nuageux en Manche l'après-midi.
+📅 Prévisions pour la journée du mardi 24 novembre :
+🌬️ VENT : Sud-Est 4 à 5, fraîchissant 5 à 6 à la fin.
+🌊 MER : peu agitée.
+🌊 HOULE : non significative.
+⛅ TEMPS : voilé.
 👁️ VISIBILITE : bonne.
 
-📉 Tendance pour la nuit du 23  au 24, et la journée du mardi 24 novembre :
-• VENT : Sud à Sud-Est fraîchissant 5 à 6 en milieu de nuit.
-• MER : peu agitée à agitée.
+📉 Tendance pour la nuit du 24  au 25, et la journée du mercredi 25 novembre :
+• VENT : Est à Sud-Est 5 à 6, mollissant Est 4 à 5 la nuit.
+• MER : peu agitée, localement agitée en Mer du Nord.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce lundi avec maintien de la sécheresse de surface.
@@ -337,24 +311,23 @@ Le vent soufflera faiblement à modérément, avec des vitesses autour de 15 km/
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (lundi 23 novembre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Dépression 992 hPa au sud-ouest  de l'Irlande et talweg associé s'étendant sur la Bretagne, remontant vers le nord. Dépression secondaire 1003 hPa en Manche cet après-midi, prévue autour de 1012 hPa cette nuit  et se décalant vers l'est. 
-Anticyclone des Açores 1027 hPa se décalant vers le nord-est, prévu 1026 hPa sur le sud-ouest de la France demain. Nouveau talweg sur le proche Atlantique demain soir.
+🌐 Situation générale : Dépression 1011 hPa sur le nord de la France, se décalant vers le sud-est en se comblant. Anticyclone 1030 hPa sur l'Espagne, se décalant lentement vers le nord-est, prévu sur l'Allemagne mardi matin. Talweg sur le golfe de Gascogne la nuit.
 
-📅 Prévisions pour la journée du lundi 23 novembre :
-🌬️ VENT : Est à Sud-Est 3 à 5.
-🌊 MER : peu agitée à agitée, s'atténuant peu agitée à la mi-journée.
-🌊 HOULE : Nord-Est 0.5 à 1 m en mer du Nord, localement Ouest 0.5 à 1 m en Manche.
-⛅ TEMPS : ensoleillé devenant nuageux en Manche l'après-midi.
+📅 Prévisions pour la journée du mardi 24 novembre :
+🌬️ VENT : Sud-Est 4 à 5, fraîchissant 5 à 6 à la fin.
+🌊 MER : peu agitée.
+🌊 HOULE : non significative.
+⛅ TEMPS : voilé.
 👁️ VISIBILITE : bonne.
 
-📉 Tendance pour la nuit du 23  au 24, et la journée du mardi 24 novembre :
-• VENT : Sud à Sud-Est fraîchissant 5 à 6 en milieu de nuit.
-• MER : peu agitée à agitée.
+📉 Tendance pour la nuit du 24  au 25, et la journée du mercredi 25 novembre :
+• VENT : Est à Sud-Est 5 à 6, mollissant Est 4 à 5 la nuit.
+• MER : peu agitée, localement agitée en Mer du Nord.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce lundi avec maintien de la sécheresse de surface.
@@ -412,29 +385,24 @@ Côté vent, il soufflera de secteur Sud-Ouest sur l'ensemble de la Normandie. C
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "BAIE DE SOMME - LA HAGUE" MIDI (lundi 23 novembre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "BAIE DE SOMME - LA HAGUE" MIDI
 📍 Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du dimanche 22 novembre 2026 à 12H30 légales.
+Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du lundi 23 novembre 2026 à 12H30 légales.
 
-⚠️ AVIS DE SÉCURITÉ EN MER (BMS OFFICIEL) :
-• Avis de Grand Frais.
-• En cours et valable jusqu'au dimanche 22 novembre à 11H00 UTC
-• VENT : Sud-Est 7 sur nord Cotentin. Rafales.
-• VENT : Variable dépressionnaire 7. Fortes rafales.
+⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Dépression 992 hPa au sud-ouest  de l'Irlande et talweg associé s'étendant sur la Bretagne, remontant vers le nord. Dépression secondaire 1003 hPa en Manche cet après-midi, prévue autour de 1012 hPa cette nuit  et se décalant vers l'est. 
-Anticyclone des Açores 1027 hPa se décalant vers le nord-est, prévu 1026 hPa sur le sud-ouest de la France demain. Nouveau talweg sur le proche Atlantique demain soir.
+🌐 Situation générale : Dépression 1011 hPa sur le nord de la France, se décalant vers le sud-est en se comblant. Anticyclone 1030 hPa sur l'Espagne, se décalant lentement vers le nord-est, prévu sur l'Allemagne mardi matin. Talweg sur le golfe de Gascogne la nuit.
 
-📅 Prévisions pour la journée du lundi 23 novembre :
-🌬️ VENT : secteur Sud-Est 3 à 4, parfois 5 l'après-midi. Rafales.
-🌊 MER : peu agitée à agitée.
-🌊 HOULE : Ouest 1 à 2 m.
-⛅ TEMPS : couvert et pluvieux, quelques éclaircies en journée.
-👁️ VISIBILITE : moyenne à mauvaise sous pluie.
+📅 Prévisions pour la journée du mardi 24 novembre :
+🌬️ VENT : Sud à Sud-Est 4 à 5, parfois 6 vers La Hague le matin, revenant Sud-Est à la fin.
+🌊 MER : peu agitée, localement peu agitée à agitée sur nord Cotentin.
+🌊 HOULE : Ouest 0.5 à 1 m, jusqu'à 1.5 m vers La Hague, mais non significative en Baie de Seine.
+⛅ TEMPS : nuageux.
+👁️ VISIBILITE : bonne.
 
-📉 Tendance pour la nuit du 23  au 24, et la journée du mardi 24 novembre :
-• VENT : virant progressivement  Sud 5 à 6 la nuit, mollissant temporairement 4 à 5 en journée.
-• MER : peu agitée à agitée, devenant agitée à forte sur nord Cotentin le matin.
+📉 Tendance pour la nuit du 24  au 25, et la journée du mercredi 25 novembre :
+• VENT : Sud-Est 4 à 5, parfois 6, revenant Est à Nord-Est la nuit.
+• MER : peu agitée à agitée.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
 🌧️ Pluies & Humidité : Temps sec sur la région ce lundi avec maintien de la sécheresse de surface.
