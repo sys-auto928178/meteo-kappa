@@ -10,94 +10,28 @@ FICHIER SOURCE : /home/runner/work/meteo-kappa/meteo-kappa/cnews/BULLETINS_AUTOM
 --------------------------------------------------------------------------------
 
 ☀️ [1/6] RÉSUMÉ SYNOPTIQUE DU JOUR (todaySummary) :
-UNE JOURNÉE SOUVENT GRISE
+SOLEIL AU NORD-EST, NUAGES À L’OUEST
 
-Le soleil domine ce matin à Lille, tandis que les nuages s’imposent sur une grande partie du pays, avec des averses notamment à Nantes et Toulouse. Cet après-midi, la grisaille reste fréquente, malgré un soleil voilé vers Lille et Dunkerque. Après un début de journée frais, les maximales atteignent 6 °C à Lille, 14 °C à Paris et jusqu’à 19 °C en Corse. Le vent, modéré ce matin, devient faible cet après-midi.
-
-🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-En ce lundi 23 novembre. Une matinée qui s'annonce plutôt contrastée sur le pays.
-
-Dans le Nord, le soleil sera généreux, avec un ciel bleu à Lille et seulement quelques rares cumulus à Dunkerque. En revanche, l'ambiance sera bien plus grise sur la façade atlantique, avec un ciel totalement couvert à Brest et des averses à Nantes. Ces averses se retrouveront également plus au sud, notamment du côté de Toulouse.
-
-Plus à l'est, les nuages domineront largement sur Paris et Nice, avec de courtes éclaircies. Marseille connaîtra aussi une grisaille tenace. Côté températures, la fraîcheur sera sensible, avec 0°C à Lille, 4°C à Paris et 5°C à Nantes. Les maximales de la journée seront atteintes plus tard, mais le vent restera modéré, soufflant entre 20 et 30 km/h sur la majeure partie du territoire, sans rafales notables ce matin.
-
-🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Pour cet après-midi du lundi 23 novembre, l'ambiance restera globalement grise sur une grande partie du pays.
-
-Dans le nord, le ciel sera voilé mais lumineux du côté de Lille et Dunkerque, avec des températures maximales de 6°C. En revanche, la grisaille s'imposera à Valenciennes, Charleville-Mézières et Strasbourg, où le ciel sera totalement couvert et les températures ne dépasseront pas les 5°C.
-
-Partout ailleurs, de la Bretagne à l'Occitanie en passant par le Centre et l'Auvergne-Rhône-Alpes, le temps sera très nuageux. Les éclaircies seront rares et brèves, avec une dominante de nuages gris. Les températures maximales seront douces pour la saison, atteignant 17°C à Perpignan et jusqu'à 19°C à Ajaccio et Bastia. Ailleurs, comptez 15°C à Bordeaux et La Rochelle, 13°C à Limoges et Clermont-Ferrand, et 14°C à Paris.
-
-Le vent soufflera faiblement sur l'ensemble du territoire, sans rafales significatives.
-
-🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
-🌧️ Pluies & Humidité : Temps sec sur la région ce lundi avec maintien de la sécheresse de surface.
-🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce lundi. Aucun coup de vent à craindre.
-⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce lundi.
-🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement.
-🏔️ Météo montagne
-
-    Alpes : Conditions froides et sèches ce lundi. Gelées matinales généralisées en altitude, températures maximales fraîches en vallée. Isotherme 0°C oscillant vers 2200m.
-
-    Pyrénées : Ciel bien dégagé ce lundi. Fraîcheur vive sur les sommets avec un vent de crête modéré. Inversion thermique possible en matinée.
-
-    Massif central : Temps lumineux mais piquant ce lundi. Brumes matinales dans les creux, journée fraîche et dégagée sur les crêtes.
-
-    Vosges : Atmosphère vivifiante et ensoleillée ce lundi. Gelées blanches au lever du jour, après-midi sèche et calme.
-
-    Jura : Temps sec et froid ce lundi. Beau soleil sur les plateaux après dissipation des grisailles locales.
-
-    Corse : Beau temps dominant sur le relief corse ce lundi, vent d'altitude modéré sur les cols.
-
-📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-📉 Tendance – 3 jours suivants (mercredi 25 novembre au vendredi 27 novembre)
-
-▶ mercredi 25 novembre : Prévisions à compléter.
-
-▶ jeudi 26 novembre : Le soleil s’impose de Lille à Paris, mais aussi à Caen et à Brest. Le ciel est plus nuageux vers Rennes et Nantes, tandis que de faibles pluies concernent Rouen et Poitiers. Il fait froid à Lille, avec −1 °C au réveil et 2 °C au meilleur de la journée ; à Paris, les températures vont de 0 à 4 °C. À Rennes, elles atteignent 11 °C. Le vent de sud-ouest reste faible.
-
-▶ vendredi 27 novembre : Le soleil résiste à Lille, Paris et Caen, et revient à Nantes. Les nuages dominent en revanche à Laon, Rouen, Tours et Poitiers, tandis qu’une pluie faible concerne Rennes. Les gelées sont présentes à Laon et à Paris, avec respectivement −3 et −2 °C le matin, avant 4 °C l’après-midi dans les deux villes. Le vent de sud-ouest se renforce près de Brest et Caen, avec des rafales à 40 km/h.
-
-
---------------------------------------------------------------------------------
-📻 CLIENT / STATION : RADIO - ICI NORD
-🗺️ ZONE CARTE MÉTÉO-FRANCE : hdf (Cartes Matin & Après-midi)
---------------------------------------------------------------------------------
-
-☀️ [1/6] RÉSUMÉ SYNOPTIQUE DU JOUR (todaySummary) :
-UN LUNDI LUMINEUX ET FRAIS
-
-Le soleil domine toute la journée, de Dunkerque à l’Avesnois, sous un ciel dégagé. La matinée débute dans le froid, avec quelques gelées et jusqu’à −1 °C à Douai, Maubeuge et Cambrai. L’après-midi reste fraîche malgré le soleil, avec 5 à 6 °C au meilleur de la journée. Le vent de sud-ouest souffle autour de 15 km/h.
+Ce mardi, le soleil domine de Lille à Laon, dans une ambiance froide dès le matin. Plus à l’ouest, le ciel est partagé, puis les nuages deviennent plus présents dans l’après-midi, notamment de Rouen à Paris et Nantes. De Caen à Brest, le soleil reste voilé mais lumineux. Les maximales vont de 5 degrés à Lille à 13 à Rennes, avec un vent de sud-ouest modéré et des rafales jusqu’à 60 km/h vers Brest.
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Excellente nouvelle pour ce lundi 23 novembre, le soleil s'impose largement sur l'ensemble de notre région Nord dès le lever du jour. Le ciel sera dégagé et lumineux partout, de la côte d'Opale aux portes de l'Avesnois.
+Pour cette matinée du mardi 24 novembre, le temps se montrera bien contrasté sur l'Hexagone.
 
-Côté températures, la fraîcheur sera de mise pour démarrer la semaine. Les minimales sont souvent négatives ou proches de zéro. On attend -1°C à Douai, Maubeuge et Cambrai, tandis que Lille, Dunkerque ou Valenciennes afficheront 0°C. Le thermomètre montera très progressivement pour atteindre les maximales de 5 à 6°C dans l'après-midi.
+Dans le nord-est, notamment de Lille à Laon, le soleil dominera largement, offrant un ciel bleu et dégagé. Les températures y seront fraîches, avec -2°C pour ces deux villes.
 
-Quant au vent, il soufflera de secteur Sud-Ouest, avec une vitesse modérée d'environ 15 km/h, sans rafales notables. Une matinée donc très agréable sous un franc soleil, mais attention aux gelées matinales.
+Plus à l'ouest, un voile nuageux s'installera. De Caen à Brest, le soleil sera voilé mais restera lumineux, avec des minimales autour de 3 à 5°C. Sur le reste de la façade ouest, et jusqu'à Paris, les nuages seront plus présents, alternant avec de belles éclaircies. On attend par exemple 2°C à Paris, 6°C à Nantes et 9°C à Rennes.
+
+Côté vent, il soufflera modérément du sud-ouest, entre 10 et 20 km/h sur la plupart des régions. Attention toutefois aux rafales sur le Finistère : elles pourront atteindre 60 km/h à Brest. Les maximales de la journée seront comprises entre 5°C à Lille et 13°C à Rennes.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Une après-midi qui s'annonce très agréable sur l'ensemble de notre région des Hauts-de-France, avec un soleil généreux et un ciel parfaitement dégagé.
+Pour cet après-midi du mardi 24 novembre, nous retrouverons une ambiance bien contrastée sur la France.
 
-Du littoral dunkerquois jusqu'aux portes de l'Avesnois, en passant par la métropole lilloise, le soleil brillera de mille feux, sans le moindre nuage pour l'ombrager. Une belle luminosité qui nous accompagnera tout au long de cette après-midi.
+Le soleil sera généreux sur le nord-est, notamment de Lille à Laon, avec un ciel bleu et des températures maximales de 5 à 6 degrés. Plus à l'ouest, de Rouen à Paris en passant par Nantes, les nuages seront nettement plus présents, voilant souvent le soleil et ne laissant que de courtes éclaircies. Les maximales y atteindront 7 degrés à Paris et jusqu'à 12 degrés à Nantes.
 
-Côté températures maximales, elles resteront fraîches, mais conformes aux normales saisonnières. Nous attendons 5°C à Lille, Dunkerque, Valenciennes, Roubaix, Hazebrouck, Avesnes-sur-Helpe et Bailleul. Le thermomètre affichera 6°C à Douai, et 5°C à Maubeuge et Cambrai.
-
-Le vent soufflera faiblement, de secteur Sud-Ouest, avec des vitesses autour de 15 km/h, ne renforçant pas la sensation de froid.
-
-🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
-🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (lundi 23 novembre 2026)
-
-🌴 Dunkerque / Malo-les-Bains / Bray-Dunes
-☀️ Influence anticyclonique calme assurant un temps sec et modérément doux sur la côte. Températures de 1°C le matin à 6°C l'après-midi.
-🌊 Température de l’eau : 16°C à 17°C
-
-🌴 Le Touquet / Berck / Baie de Somme
-☀️ Ambiance agréable sur le littoral ce lundi. Maximales atteignant 7°C sur le sable.
-🌊 Température de l’eau : 17°C
+Sur la Bretagne, le ciel restera voilé, mais lumineux, avec le soleil tamisé par les nuages d'altitude. On attend 7 degrés à Brest et 13 degrés à Rennes. Le vent soufflera modérément sur l'ensemble du pays, autour de 15 km/h de secteur sud-ouest. Attention tout de même aux rafales qui pourront atteindre les 60 km/h sur les côtes bretonnes, notamment vers Brest.
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (mardi 24 novembre 2026)
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
@@ -116,19 +50,102 @@ Le vent soufflera faiblement, de secteur Sud-Ouest, avec des vitesses autour de 
 • MER : peu agitée, localement agitée en Mer du Nord.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
-🌧️ Pluies & Humidité : Temps sec sur la région ce lundi avec maintien de la sécheresse de surface.
-🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce lundi. Aucun coup de vent à craindre.
-⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce lundi.
+🌧️ Pluies & Humidité : Temps sec sur la région ce mardi avec maintien de la sécheresse de surface.
+🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce mardi. Aucun coup de vent à craindre.
+⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce mardi.
+🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement.
+🏔️ Météo montagne
+
+    Alpes : Conditions froides et sèches ce mardi. Gelées matinales généralisées en altitude, températures maximales fraîches en vallée. Isotherme 0°C oscillant vers 2200m.
+
+    Pyrénées : Ciel bien dégagé ce mardi. Fraîcheur vive sur les sommets avec un vent de crête modéré. Inversion thermique possible en matinée.
+
+    Massif central : Temps lumineux mais piquant ce mardi. Brumes matinales dans les creux, journée fraîche et dégagée sur les crêtes.
+
+    Vosges : Atmosphère vivifiante et ensoleillée ce mardi. Gelées blanches au lever du jour, après-midi sèche et calme.
+
+    Jura : Temps sec et froid ce mardi. Beau soleil sur les plateaux après dissipation des grisailles locales.
+
+    Corse : Beau temps dominant sur le relief corse ce mardi, vent d'altitude modéré sur les cols.
+
+📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
+📉 Tendance – 3 jours suivants (jeudi 26 novembre au samedi 28 novembre)
+
+▶ jeudi 26 novembre : Le froid s’installe sur le nord et l’Île-de-France, malgré un soleil présent à Laon et Paris. Le ciel reste plus nuageux de Lille à la Bretagne, ainsi que vers Nantes et Tours, tandis que le soleil est voilé à Rennes. Le matin, il fera -2 degrés à Lille et 1 à Paris ; l’après-midi, les maximales atteindront respectivement 1 et 4 degrés, contre 12 à Rennes. Le vent de sud-ouest soufflera autour de 10 à 15 km/h.
+
+▶ vendredi 27 novembre : Le soleil sera bien présent de Lille à Paris et Tours, mais aussi à Brest. Ailleurs, le ciel sera nuageux à Caen, Nantes et Poitiers, avec de faibles pluies à Rouen et Rennes. Les gelées concerneront notamment Laon, avec -3 degrés au réveil, et Paris, avec -2. Les maximales atteindront 3 degrés à Laon, 4 à Paris et 11 à Rennes. Le vent restera de sud-ouest, avec des rafales jusqu’à 40 km/h à Brest.
+
+▶ samedi 28 novembre : Le soleil résistera à Laon et Brest et reviendra à Nantes, Tours et Poitiers. Les nuages domineront en revanche de Lille à Paris, ainsi qu’à Rouen et Caen, tandis que des averses concerneront Rennes. Après -1 degré le matin à Lille et 0 à Paris, les maximales remonteront à 5 et 7 degrés ; Rennes atteindra 12 degrés. Le vent de sud-ouest se renforcera à Brest, où les rafales pourront atteindre 60 km/h.
+
+
+--------------------------------------------------------------------------------
+📻 CLIENT / STATION : RADIO - ICI NORD
+🗺️ ZONE CARTE MÉTÉO-FRANCE : hdf (Cartes Matin & Après-midi)
+--------------------------------------------------------------------------------
+
+☀️ [1/6] RÉSUMÉ SYNOPTIQUE DU JOUR (todaySummary) :
+GRAND SOLEIL, MATINÉE GLACIALE
+
+Le soleil domine du matin au soir sur l’ensemble de la région, de la Côte d’Opale à l’Avesnois. Le réveil est bien froid, avec des gelées et jusqu’à -4 °C à Cambrai. L’après-midi reste frais malgré le ciel bleu, avec 4 à 6 °C au meilleur de la journée. Le vent de sud-ouest demeure faible à modéré.
+
+🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
+Excellente nouvelle pour ce mardi matin sur l'ensemble de la région des Hauts-de-France : le soleil sera le maître du ciel ! Nous nous réveillons sous un grand soleil éclatant, sans le moindre nuage à l'horizon, de la Côte d'Opale jusqu'à l'intérieur des terres.
+
+Côté températures, la fraîcheur est bien présente. Les minimales s'étagent de -4°C du côté de Cambrai, à -2°C pour Lille, Douai, Roubaix et Maubeuge. Sur le littoral, Dunkerque affichera -1°C. Des valeurs hivernales donc, mais le soleil devrait nous aider à mieux les supporter.
+
+Le vent soufflera faiblement à modérément, généralement du secteur Sud-Ouest. Il atteindra 15 km/h sur la plupart des villes comme Lille, Dunkerque ou Cambrai, et pourra souffler un peu plus fort, jusqu'à 20 km/h, vers Hazebrouck et Bailleul. Les maximales pour la journée, elles, iront de 4 à 6°C.
+
+🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
+Un après-midi qui s'annonce très agréable sur l'ensemble de notre région, ce mardi 24 novembre. Le soleil sera le maître mot partout, avec un ciel dégagé et un ensoleillement généreux de la Côte d'Opale jusqu'à l'Avesnois.
+
+Les températures maximales afficheront des valeurs douces pour la saison, atteignant 5°C à Lille, Dunkerque, Douai, Maubeuge et Roubaix. On attendra 6°C du côté de Valenciennes, tandis que Cambrai se contentera de 5°C. Plus à l'ouest, Hazebrouck et Bailleul verront le mercure grimper jusqu'à 4°C, tout comme Avesnes-sur-Helpe.
+
+Le vent soufflera modérément, majoritairement du secteur Sud-Ouest. Des rafales pourront atteindre les 20 km/h sur l'ouest de la région, notamment à Hazebrouck et Bailleul, tandis qu'il restera plus calme, autour de 10 à 15 km/h, sur le reste du Nord. Un bel après-midi en perspective !
+
+🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
+🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (mardi 24 novembre 2026)
+
+🌴 Dunkerque / Malo-les-Bains / Bray-Dunes
+☀️ Influence anticyclonique calme assurant un temps sec et modérément doux sur la côte. Températures de -2°C le matin à 6°C l'après-midi.
+🌊 Température de l’eau : 16°C à 17°C
+
+🌴 Le Touquet / Berck / Baie de Somme
+☀️ Ambiance agréable sur le littoral ce mardi. Maximales atteignant 7°C sur le sable.
+🌊 Température de l’eau : 17°C
+
+🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (mardi 24 novembre 2026)
+📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
+
+⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
+
+🌐 Situation générale : Dépression 1011 hPa sur le nord de la France, se décalant vers le sud-est en se comblant. Anticyclone 1030 hPa sur l'Espagne, se décalant lentement vers le nord-est, prévu sur l'Allemagne mardi matin. Talweg sur le golfe de Gascogne la nuit.
+
+📅 Prévisions pour la journée du mardi 24 novembre :
+🌬️ VENT : Sud-Est 4 à 5, fraîchissant 5 à 6 à la fin.
+🌊 MER : peu agitée.
+🌊 HOULE : non significative.
+⛅ TEMPS : voilé.
+👁️ VISIBILITE : bonne.
+
+📉 Tendance pour la nuit du 24  au 25, et la journée du mercredi 25 novembre :
+• VENT : Est à Sud-Est 5 à 6, mollissant Est 4 à 5 la nuit.
+• MER : peu agitée, localement agitée en Mer du Nord.
+
+🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
+🌧️ Pluies & Humidité : Temps sec sur la région ce mardi avec maintien de la sécheresse de surface.
+🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce mardi. Aucun coup de vent à craindre.
+⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce mardi.
 🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-📉 Tendance – 3 jours suivants (mercredi 25 novembre au vendredi 27 novembre)
+📉 Tendance – 3 jours suivants (jeudi 26 novembre au samedi 28 novembre)
 
-▶ mercredi 25 novembre : Changement de décor avec le retour des averses sur l’ensemble du Nord. Les températures matinales remontent par rapport à la veille : elles vont de 0 °C à Maubeuge et Bailleul à 2 °C à Lille. L’après-midi reste fraîche, avec 2 °C à Bailleul, 5 °C à Lille et 6 °C à Dunkerque. Le vent de sud-ouest accompagne les averses, à une vitesse de 15 à 20 km/h.
+▶ jeudi 26 novembre : Le froid s’installe sous un ciel souvent nuageux, de Dunkerque à Lille et jusqu’au Cambrésis. Le soleil résiste toutefois vers Bailleul et Avesnes-sur-Helpe. Les gelées sont généralisées, avec -4 °C à Cambrai et -2 °C à Lille. Les maximales peinent à décoller : 0 °C à Dunkerque, 1 °C à Lille et 2 °C à Hazebrouck. Le vent de sud-ouest souffle entre 15 et 20 km/h.
 
-▶ jeudi 26 novembre : Le soleil revient partout, mais le froid se renforce. Les gelées matinales sont largement présentes, avec −4 °C à Maubeuge et −3 °C à Douai, tandis qu’Hazebrouck affiche 0 °C. Malgré la lumière, le thermomètre peine à grimper : les maximales atteignent 1 °C à Dunkerque et Maubeuge, 2 °C à Lille et 3 °C à Hazebrouck. Le vent reste orienté au sud-ouest, entre 10 et 15 km/h.
+▶ vendredi 27 novembre : Le soleil revient sur toute la région, mais la journée débute dans une ambiance glaciale. Les minimales descendent jusqu’à -5 °C à Douai et Bailleul, contre -2 °C à Lille. Malgré ce ciel ensoleillé, le froid reste sensible l’après-midi : 2 °C à Maubeuge, 3 °C à Lille et jusqu’à 4 °C à Hazebrouck. Le vent de sud-ouest faiblit un peu, autour de 10 à 15 km/h.
 
-▶ vendredi 27 novembre : L’ambiance reste froide et le soleil domine encore une grande partie du territoire. Le ciel est toutefois plus nuageux à Cambrai, Avesnes-sur-Helpe et Bailleul. Au réveil, les gelées persistent, avec −4 °C à Douai et −1 °C à Lille. Les maximales remontent légèrement : 2 °C à Bailleul, 3 °C à Cambrai et 4 °C à Lille. Le vent de sud-ouest faiblit, autour de 10 km/h.
+▶ samedi 28 novembre : Les températures remontent légèrement, tandis que le vent de sud-ouest se renforce. Après -2 °C au réveil à Maubeuge et 0 °C à Hazebrouck, les maximales atteignent 3 °C à Maubeuge et 5 °C à Lille. Le soleil reste présent dans de nombreux secteurs, même si les nuages dominent vers Lille, Roubaix et Hazebrouck. Les rafales atteignent 40 km/h à Lille et jusqu’à 50 km/h à Dunkerque et Maubeuge.
 
 
 --------------------------------------------------------------------------------
@@ -137,38 +154,42 @@ Le vent soufflera faiblement, de secteur Sud-Ouest, avec des vitesses autour de 
 --------------------------------------------------------------------------------
 
 ☀️ [1/6] RÉSUMÉ SYNOPTIQUE DU JOUR (todaySummary) :
-SOLEIL VOILÉ ET DOUCEUR VENTÉE
+DES NUAGES AUX AVERSES
 
-Ce lundi, un voile de nuages d’altitude filtre le soleil sur toute la Charente-Maritime, du matin à l’après-midi. La douceur domine, avec 8 à 10 degrés au réveil et 13 à 15 degrés au meilleur de la journée. Le vent de sud-ouest se fait davantage sentir sur le littoral, où les rafales atteignent 50 km/h, voire 65 km/h vers Royan.
+La journée débute sous un ciel très nuageux sur le littoral, tandis que les éclaircies sont plus présentes vers Saintes et l’intérieur des terres. L’après-midi, les averses alternent avec de belles éclaircies dans tout le département. Les températures atteignent 11 à 13 degrés. Le vent de sud-ouest reste sensible, avec des rafales jusqu’à 65 km/h vers Royan.
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Pour cette matinée du lundi 23 novembre, le temps sera globalement uniforme sur l'ensemble de la Charente-Maritime. Nous retrouverons un ciel voilé, mais lumineux, avec le soleil qui tentera de percer à travers une couche de nuages d'altitude. Pas de grisaille donc, mais un ensoleillement filtré qui dominera sur toutes les villes.
+Pour cette matinée du mardi 24 novembre, nous allons retrouver un ciel globalement bien chargé sur l'ensemble de la région.
 
-Côté températures, la douceur reste de mise pour cette période de l'année. Les minimales s'étendent de 8°C à Saintes, Jonzac ou Saint-Jean-d'Angély, jusqu'à 10°C sur le littoral, notamment à La Rochelle, Royan et Saint-Martin-de-Ré. Les maximales atteindront 13 à 15°C dans l'après-midi.
+En effet, du côté du littoral, de La Rochelle à Royan en passant par Rochefort, Marennes et les îles de Ré et d'Oléron, le temps sera très nuageux. Les éclaircies se feront rares et discrètes, laissant la place à une dominante de grisaille.
 
-Le vent soufflera principalement du Sud-Ouest. Il sera modéré à fort sur le littoral, avec 25 km/h à La Rochelle et Saint-Pierre-d'Oléron, et même 30 km/h à Saint-Martin-de-Ré. Des rafales pourront atteindre 50 km/h sur ces secteurs, voire 65 km/h du côté de Royan. Plus à l'intérieur des terres, le vent sera plus faible, autour de 10 à 15 km/h.
+Plus à l'intérieur des terres, l'ambiance sera un peu plus lumineuse avec de belles éclaircies qui perceront entre les passages nuageux, notamment du côté de Saintes, Jonzac, Saint-Jean-d'Angély et Surgères.
+
+Côté températures, la fraîcheur sera sensible avec des minimales comprises entre 7 et 9 degrés. On attend 7°C à La Rochelle, Rochefort et Marennes, et 9°C à Saint-Martin-de-Ré. Les maximales de journée, elles, atteindront 11 à 13 degrés.
+
+Quant au vent, il soufflera de secteur Sud-Ouest, modéré à assez fort. Comptez 20 km/h à La Rochelle et Rochefort, avec des rafales jusqu'à 40 km/h. Sur Royan, le vent atteindra 30 km/h avec des rafales pouvant aller jusqu'à 65 km/h.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Pour ce lundi 23 novembre, l'ensemble de la Charente-Maritime sera sous un ciel voilé mais lumineux. Le soleil sera bien présent, mais filtré par des nuages d'altitude, offrant un ensoleillement tamisé très agréable.
+Ce mardi 24 novembre. Sur l'ensemble de la Charente-Maritime, nous retrouverons un temps assez similaire, avec des averses entrecoupées de belles éclaircies. Le ciel restera donc changeant, avec des passages nuageux parfois porteurs de quelques gouttes.
 
-Côté températures, nous aurons des maximales douces pour la saison. Il fera 15 degrés à La Rochelle, 14 degrés à Rochefort, Royan, Saint-Pierre-d'Oléron, Saint-Martin-de-Ré, Saintes, Jonzac et Marennes. Les valeurs les plus fraîches seront de 13 degrés à Saint-Jean-d'Angély et Surgères.
+Côté températures, les maximales afficheront 13 degrés à La Rochelle et Royan. Nous aurons 12 degrés à Rochefort, Saint-Pierre-d'Oléron et Saint-Martin-de-Ré, et 11 degrés pour Saintes, Jonzac, Saint-Jean-d'Angély et Surgères. Marennes atteindra les 12 degrés cet après-midi.
 
-Le vent soufflera du secteur Sud-Ouest. Il sera modéré dans l'intérieur des terres, autour de 10 à 15 km/h. Sur le littoral, il se renforcera avec 20 à 30 km/h de vent moyen, et des rafales qui pourront atteindre 65 km/h à Royan, et 50 km/h à La Rochelle, Saint-Pierre-d'Oléron et Saint-Martin-de-Ré.
+Le vent soufflera du secteur Sud-Ouest, et restera sensible. Comptez 20 km/h à La Rochelle, Rochefort, Saint-Pierre-d'Oléron et Surgères, avec des rafales pouvant atteindre 40 km/h sur La Rochelle et Marennes. Les rafales seront plus marquées sur l'île de Ré, avec 45 km/h, et jusqu'à 55 km/h sur Oléron. Prudence du côté de Royan, où le vent moyen sera de 30 km/h, avec des rafales pouvant atteindre 65 km/h.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
-🏖️ MÉTÉO DES PLAGES – LITTORAL CHARENTAIS (lundi 23 novembre 2026)
+🏖️ MÉTÉO DES PLAGES – LITTORAL CHARENTAIS (mardi 24 novembre 2026)
 
 🌴 La Rochelle / Île de Ré / Île d’Oléron
-☀️ Circulation d'un flux océanique d'ouest perturbé et humide sur l'ensemble des plages charentaises ce lundi.
-🌡️ Température sur le littoral : 11°C à 15°C
+☀️ Circulation d'un flux océanique d'ouest perturbé et humide sur l'ensemble des plages charentaises ce mardi.
+🌡️ Température sur le littoral : 10°C à 13°C
 🌊 Température de l’eau : 20°C à 21°C
 
 🌴 Royan / Côte de Beauté / Rochefort
-☀️ Ensoleillement généreux ce lundi, maximales de 16°C tempérées par la brise marine.
+☀️ Ensoleillement généreux ce mardi, maximales de 14°C tempérées par la brise marine.
 🌊 Température de l’eau : 21°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "AIGUILLON - FRONTIÈRE ESPAGNOLE" MIDI
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "AIGUILLON - FRONTIÈRE ESPAGNOLE" MIDI (mardi 24 novembre 2026)
 📍 Origine Météo-France. 
 Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du lundi 23 novembre 2026 à 12H30 légales.
 
@@ -188,19 +209,19 @@ Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la fro
 • MER : agitée à forte, devenant forte à très forte la nuit, parfois grosse au sud d'Arcachon l'après-midi.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
-🌧️ Pluies & Humidité : Temps sec sur la région ce lundi avec maintien de la sécheresse de surface.
-🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce lundi. Aucun coup de vent à craindre.
-⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce lundi.
+🌧️ Pluies & Humidité : Temps sec sur la région ce mardi avec maintien de la sécheresse de surface.
+🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce mardi. Aucun coup de vent à craindre.
+⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce mardi.
 🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-📉 Tendance – 3 jours suivants (mercredi 25 novembre au vendredi 27 novembre)
+📉 Tendance – 3 jours suivants (jeudi 26 novembre au samedi 28 novembre)
 
-▶ mercredi 25 novembre : Les averses s’installent dans le paysage sur l’ensemble de la Charente-Maritime. Les températures vont de 6 degrés au réveil à Rochefort à 10 degrés à La Rochelle. Dans l’après-midi, elles atteignent 11 degrés à Saintes et 12 à Royan comme à La Rochelle. Le vent de sud-ouest reste présent, généralement autour de 15 à 25 km/h, avec les valeurs les plus élevées près des côtes.
+▶ jeudi 26 novembre : Après le soleil de mercredi, les nuages s’imposent sur l’ensemble de la Charente-Maritime et les températures sont en baisse. La matinée sera fraîche, avec 4 degrés à Surgères, 6 à La Rochelle et 7 sur Oléron. Au meilleur de la journée, les maximales iront de 8 degrés à Surgères à 10 degrés à La Rochelle et Royan. Le vent de sud-ouest soufflera entre 15 et 20 km/h, avec des rafales jusqu’à 40 km/h à Saintes.
 
-▶ jeudi 26 novembre : Le ciel reste chargé, mais les averses de la veille laissent place à un temps nuageux. La fraîcheur progresse : le matin, il fait 4 degrés à Rochefort et à Royan, 6 à La Rochelle. Les maximales ne dépassent pas 9 degrés à Rochefort et 10 à La Rochelle comme à Saintes. Le vent conserve une orientation sud-ouest et souffle entre 10 et 20 km/h.
+▶ vendredi 27 novembre : Le ciel reste nuageux sur tout le département, dans une ambiance fraîche dès le réveil. Les minimales descendent à 3 degrés à Rochefort, 4 à La Rochelle et 5 à Jonzac. L’après-midi, les températures atteignent 10 degrés à Rochefort et La Rochelle, 11 à Jonzac et sur l’île de Ré. Le vent conserve son orientation sud-ouest ; il souffle entre 10 et 25 km/h, avec une pointe à 25 km/h à Saint-Martin-de-Ré.
 
-▶ vendredi 27 novembre : Le soleil revient sur tout le département, dans une ambiance fraîche. Les écarts sont marqués au réveil, avec 2 degrés à La Rochelle, 4 à Saintes et 9 à Saint-Martin-de-Ré. Au plus doux de la journée, les températures atteignent 9 degrés à La Rochelle, 10 sur l’île de Ré et 11 à Saintes. Le vent de sud-ouest souffle jusqu’à 30 km/h à Saint-Martin-de-Ré.
+▶ samedi 28 novembre : Le soleil revient sur l’ensemble de la Charente-Maritime pour commencer le week-end, accompagné d’une hausse des maximales. Après 4 degrés au lever du jour à La Rochelle, 5 à Royan et 8 à Saintes, le thermomètre grimpe respectivement à 11, 12 et 15 degrés. Il atteint aussi 15 degrés à Jonzac. Le vent de sud-ouest reste présent, généralement entre 10 et 20 km/h, et jusqu’à 30 km/h sur l’île de Ré.
 
 
 --------------------------------------------------------------------------------
@@ -209,39 +230,37 @@ Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la fro
 --------------------------------------------------------------------------------
 
 ☀️ [1/6] RÉSUMÉ SYNOPTIQUE DU JOUR (todaySummary) :
-UN LUNDI LUMINEUX ET FRAIS
+GRAND SOLEIL, MAIS FROID
 
-Le soleil domine tout au long de la journée, du littoral jusqu’à l’intérieur des terres. À Groffliers, un léger voile d’altitude adoucit toutefois son éclat. Après une matinée froide, avec jusqu’à −1 °C à Gravelines, Offekerque et Lefaux, les maximales atteignent 4 à 6 °C selon les secteurs. Le vent de sud-ouest reste faible à modéré, avec des rafales pouvant atteindre 40 km/h à Lefaux.
+Le soleil dominera toute la journée, du littoral à l’intérieur des terres. La matinée débutera sous les gelées, avec notamment -2 °C à Marck et Remilly-Wirquin. Malgré un ciel toujours dégagé l’après-midi, les maximales resteront fraîches, entre 4 et 6 °C. Le vent de sud-ouest soufflera modérément, jusqu’à 25 km/h à Lefaux.
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Pour cette matinée du lundi 23 novembre, le soleil sera le maître mot sur une grande partie de la région. Un beau ciel bleu nous attend, notamment sur le littoral, de Leffrinckoucke à Marck, où le soleil brillera sans partage. Plus à l'intérieur des terres, de Remilly-Wirquin à Cauchy-à-la-Tour, le même scénario ensoleillé est prévu.
+Une matinée qui s'annonce très agréable sur l'ensemble de notre région, puisque le grand soleil sera le maître mot. Partout, le ciel sera dégagé et lumineux, offrant un temps ensoleillé franc du littoral jusqu'à l'intérieur des terres.
 
-Seule exception notable, du côté de Groffliers, où le soleil se montrera un peu plus timide, tamisé par un voile nuageux d'altitude.
+Côté températures, la fraîcheur sera bien présente au lever du jour. On attend des minimales négatives sur la quasi-totalité du territoire, avec par exemple -2°C à Marck et Remilly-Wirquin, ou encore -1°C à Leffrinckoucke, Gravelines et Offekerque. Les maximales de la journée, atteintes plus tard, oscilleront entre 4 et 6°C.
 
-Côté températures, la fraîcheur sera bien présente au lever du jour. Les minimales s'échelonneront de -1°C à Gravelines, Offekerque et Lefaux, à 2°C pour Groffliers, pour atteindre 6°C au meilleur de la journée à Marck et Groffliers. Le vent, lui, soufflera faiblement à modérément, entre 10 et 25 km/h, avec des rafales pouvant atteindre 40 km/h sur Lefaux. Il sera orienté au sud-ouest sur l'ensemble du territoire.
+Quant au vent, il soufflera modérément, principalement du secteur Sud-Ouest. Les vitesses varieront entre 15 et 25 km/h, avec 20 km/h sur la plupart des villes comme Groffliers ou Racquinghem, et des pointes à 25 km/h du côté de Lefaux.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Un après-midi qui s'annonce très agréable sur l'ensemble de notre région, avec un soleil généreux qui dominera largement le ciel.
+Pour cet après-midi du mardi 24 novembre, c'est un grand soleil qui va dominer sur l'ensemble de notre région. Le ciel sera totalement dégagé, sans le moindre nuage, offrant un temps ensoleillé franc et très agréable.
 
-Du littoral des Flandres jusqu'à l'Artois, en passant par Leffrinckoucke, Gravelines, Offekerque, Marck, Lefaux, Remilly-Wirquin, Racquinghem, Robecq et Cauchy-à-la-Tour, le soleil brillera de mille feux, dans un ciel parfaitement dégagé. Seule exception, du côté de Groffliers, où le soleil sera un peu plus discret, tamisé par un léger voile nuageux d'altitude.
+Côté températures, les maximales resteront fraîches, mais légèrement positives. Nous attendons 5 degrés à Leffrinckoucke, Marck et Lefaux, 4 degrés à Gravelines, Offekerque, Remilly-Wirquin, Racquinghem et Cauchy-à-la-Tour, et jusqu'à 6 degrés pour Groffliers. Le mercure affichera 4 degrés à Robecq.
 
-Côté températures maximales, elles resteront fraîches pour la saison. Nous attendons 4°C à Gravelines et Offekerque, 5°C à Leffrinckoucke et Remilly-Wirquin, et jusqu'à 6°C à Marck et Groffliers.
-
-Le vent soufflera principalement du secteur Sud-Ouest, modéré, entre 10 et 25 km/h. Attention tout de même aux rafales qui pourront atteindre 40 km/h sur Lefaux.
+Le vent soufflera du secteur Sud-Ouest, avec des vitesses moyennes autour de 20 km/h sur la plupart des localités, et 15 km/h à Robecq. Il atteindra 25 km/h à Lefaux. Un après-midi donc très ensoleillé, mais frais et légèrement venté.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
-🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (lundi 23 novembre 2026)
+🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (mardi 24 novembre 2026)
 
 🌴 Dunkerque / Malo-les-Bains / Bray-Dunes
-☀️ Influence anticyclonique calme assurant un temps sec et modérément doux sur la côte. Températures de 1°C le matin à 6°C l'après-midi.
+☀️ Influence anticyclonique calme assurant un temps sec et modérément doux sur la côte. Températures de 0°C le matin à 6°C l'après-midi.
 🌊 Température de l’eau : 16°C à 17°C
 
 🌴 Le Touquet / Berck / Baie de Somme
-☀️ Ambiance agréable sur le littoral ce lundi. Maximales atteignant 7°C sur le sable.
+☀️ Ambiance agréable sur le littoral ce mardi. Maximales atteignant 7°C sur le sable.
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (mardi 24 novembre 2026)
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
@@ -260,19 +279,19 @@ Le vent soufflera principalement du secteur Sud-Ouest, modéré, entre 10 et 25 
 • MER : peu agitée, localement agitée en Mer du Nord.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
-🌧️ Pluies & Humidité : Temps sec sur la région ce lundi avec maintien de la sécheresse de surface.
-🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce lundi. Aucun coup de vent à craindre.
-⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce lundi.
+🌧️ Pluies & Humidité : Temps sec sur la région ce mardi avec maintien de la sécheresse de surface.
+🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce mardi. Aucun coup de vent à craindre.
+⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce mardi.
 🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-📉 Tendance – 3 jours suivants (mercredi 25 novembre au vendredi 27 novembre)
+📉 Tendance – 3 jours suivants (jeudi 26 novembre au samedi 28 novembre)
 
-▶ mercredi 25 novembre : Changement de décor avec le retour des averses sur une bonne partie de la région, notamment de Gravelines à Remilly-Wirquin et jusqu’à Cauchy-à-la-Tour. Le ciel sera nuageux à Marck, Lefaux et Groffliers. Au réveil, les températures iront de −1 °C à Offekerque à 3 °C à Groffliers. Les maximales atteindront 1 °C à Offekerque et 6 °C à Marck. Le vent de sud-ouest soufflera entre 15 et 25 km/h, avec des rafales jusqu’à 45 km/h à Marck.
+▶ jeudi 26 novembre : Les nuages domineront la région, avec une exception plus ensoleillée à Groffliers. Le froid sera bien installé dès le matin : -4 °C à Racquinghem et Cauchy-à-la-Tour, contre -1 °C à Marck. Les maximales iront de -1 °C à 2 °C, avec 2 °C à Groffliers. Le vent de sud-ouest soufflera entre 10 et 20 km/h, avec des rafales jusqu’à 40 km/h à Gravelines et Marck.
 
-▶ jeudi 26 novembre : Le soleil revient largement, mais le froid se renforce. Le ciel restera toutefois nuageux à Marck et à Lefaux. Les gelées seront fréquentes au lever du jour, avec −4 °C à Racquinghem et Cauchy-à-la-Tour, contre 0 °C à Marck. L’après-midi restera très froid : 1 °C à Gravelines, 3 °C à Robecq et −1 °C à Lefaux. Le vent de sud-ouest soufflera entre 10 et 20 km/h.
+▶ vendredi 27 novembre : Le soleil reviendra sur l’ensemble de la région, mais les gelées seront encore plus marquées au réveil. Le thermomètre descendra à -5 °C à Racquinghem et Cauchy-à-la-Tour, et à -3 °C à Leffrinckoucke. L’après-midi restera froide, avec des maximales de 0 à 4 °C, notamment 3 °C à Groffliers. Le vent de sud-ouest soufflera entre 10 et 20 km/h.
 
-▶ vendredi 27 novembre : Le soleil s’imposera cette fois sur l’ensemble de la région, dans une ambiance toujours froide. Les gelées concerneront tous les secteurs, avec −4 °C à Racquinghem et Cauchy-à-la-Tour, et −1 °C à Marck. Les maximales remonteront légèrement par endroits, de 1 °C à Gravelines à 4 °C à Groffliers. Le vent de sud-ouest atteindra 10 à 30 km/h, avec des rafales jusqu’à 45 km/h à Groffliers.
+▶ samedi 28 novembre : Les températures remonteront, tandis que les nuages reprendront de la place. Le soleil résistera à Leffrinckoucke, Gravelines et Offekerque ; ailleurs, le ciel sera nuageux. Les minimales seront proches de 0 °C, puis les maximales atteindront 4 °C à Leffrinckoucke et Remilly-Wirquin, jusqu’à 9 °C à Gravelines. Le vent de sud-ouest se renforcera, avec des rafales jusqu’à 50 km/h à Leffrinckoucke et Cauchy-à-la-Tour.
 
 
 --------------------------------------------------------------------------------
@@ -283,35 +302,35 @@ Le vent soufflera principalement du secteur Sud-Ouest, modéré, entre 10 et 25 
 ☀️ [1/6] RÉSUMÉ SYNOPTIQUE DU JOUR (todaySummary) :
 GRAND SOLEIL ET FRAÎCHEUR
 
-Le soleil domine du matin au soir sur toute la région, sous un ciel dégagé. Au réveil, les températures avoisinent zéro degré, avec quelques gelées, notamment à Maubeuge et à Douai. L’après-midi reste fraîche malgré la belle lumière, avec 5 à 6 degrés au meilleur de la journée. Le vent de sud-ouest demeure faible.
+Le soleil s’impose du matin au soir sur toute la région, du littoral à l’intérieur des terres. La journée commence sous les gelées, avec jusqu’à -2 °C notamment à Lille et Valenciennes. L’après-midi reste frais malgré ce ciel lumineux, avec 4 à 6 °C au meilleur de la journée. Le vent de sud-ouest demeure faible à modéré.
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Une matinée qui s'annonce très agréable sur l'ensemble de notre région, avec un grand soleil qui dominera du lever du jour jusqu'à la mi-journée. Le ciel sera totalement dégagé, sans le moindre nuage, offrant un temps ensoleillé et lumineux partout.
+Pour cette matinée du mardi 24 novembre, le soleil sera le grand gagnant sur l'ensemble de notre région. Un ciel parfaitement dégagé nous attend, avec un soleil éclatant qui brillera sans partage du littoral jusqu'à l'intérieur des terres.
 
-Côté températures, la fraîcheur sera bien présente au réveil. On attend 0°C à Saint-Hilaire-sur-Helpe, Valenciennes et Lille, et même -1°C à Maubeuge et Douai. Les maximales de la journée, qui seront atteintes cet après-midi, oscilleront entre 5 et 6°C.
+Côté températures, la fraîcheur sera bien présente au lever du jour. On attend des minimales de -2°C à St-Hilaire-sur-Helpe, Valenciennes ou encore Lille. Sur le littoral, les valeurs seront légèrement moins basses, avec par exemple -1°C à Dunkerque ou Steenvoorde. Les maximales de la journée, comprises entre 4 et 6°C, seront atteintes cet après-midi.
 
-Quant au vent, il soufflera faiblement à modérément, avec des rafales de 15 km/h en provenance du Sud-Ouest sur la plupart des localités, et un peu plus calme du côté de Watten avec 10 km/h. Une matinée idéale pour profiter de cette belle lumière hivernale !
+Quant au vent, il soufflera faiblement à modérément, principalement du secteur Sud-Ouest. Comptez 10 km/h sur Maubeuge et Valenciennes, jusqu'à 15 km/h sur Douai, Lille ou Dunkerque. Les rafales pourront atteindre 20 km/h du côté de Troisvilles et Steenvoorde.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Belle après-midi en perspective ce lundi 23 novembre sur l'ensemble de notre région. Le soleil sera le grand gagnant de cette journée, avec un ciel dégagé et un ensoleillement généreux partout, de la côte jusqu'à l'intérieur des terres.
+Un après-midi très agréable nous attend ce mardi 24 novembre sur l'ensemble de la région. Le soleil sera généreux et bien présent partout, sans le moindre nuage pour le masquer. Une journée lumineuse en perspective, idéale pour profiter des dernières heures de l'automne.
 
-Les températures maximales resteront fraîches, mais agréables sous ce beau soleil. Nous attendons 5 degrés à St-Hilaire-sur-Helpe, Valenciennes, Troisvilles, Maubeuge, Lille, Roubaix, Steenvoorde et Dunkerque. À Douai, le thermomètre affichera 6 degrés.
+Côté températures, les maximales afficheront des valeurs douces pour la saison. On attend 6 degrés à Valenciennes, 5 degrés à Maubeuge, Douai, Lille et Roubaix. Plus près du littoral, le thermomètre atteindra 5 degrés à Dunkerque, et 4 degrés à Steenvoorde et Watten. Dans le sud de la région, comptez 4 degrés à St-Hilaire-sur-Helpe et Troisvilles.
 
-Le vent soufflera faiblement à modérément, avec des vitesses autour de 15 km/h, généralement de secteur Sud-Ouest, et seulement 10 km/h du côté de Watten. Une après-midi calme et lumineuse en perspective !
+Le vent soufflera du secteur Sud-Ouest, avec des vitesses modérées. Comptez 10 km/h à Valenciennes et Maubeuge, 15 km/h à St-Hilaire-sur-Helpe, Douai, Lille, Roubaix et Dunkerque. Il sera un peu plus soutenu avec 20 km/h à Troisvilles et Steenvoorde.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
-🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (lundi 23 novembre 2026)
+🏖️ MÉTÉO DES PLAGES – CÔTE D’OPALE & CÔTE PICARDE (mardi 24 novembre 2026)
 
 🌴 Dunkerque / Malo-les-Bains / Bray-Dunes
-☀️ Influence anticyclonique calme assurant un temps sec et modérément doux sur la côte. Températures de 1°C le matin à 6°C l'après-midi.
+☀️ Influence anticyclonique calme assurant un temps sec et modérément doux sur la côte. Températures de 0°C le matin à 6°C l'après-midi.
 🌊 Température de l’eau : 16°C à 17°C
 
 🌴 Le Touquet / Berck / Baie de Somme
-☀️ Ambiance agréable sur le littoral ce lundi. Maximales atteignant 7°C sur le sable.
+☀️ Ambiance agréable sur le littoral ce mardi. Maximales atteignant 7°C sur le sable.
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (mardi 24 novembre 2026)
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
@@ -330,19 +349,19 @@ Le vent soufflera faiblement à modérément, avec des vitesses autour de 15 km/
 • MER : peu agitée, localement agitée en Mer du Nord.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
-🌧️ Pluies & Humidité : Temps sec sur la région ce lundi avec maintien de la sécheresse de surface.
-🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce lundi. Aucun coup de vent à craindre.
-⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce lundi.
+🌧️ Pluies & Humidité : Temps sec sur la région ce mardi avec maintien de la sécheresse de surface.
+🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce mardi. Aucun coup de vent à craindre.
+⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce mardi.
 🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-📉 Tendance – 3 jours suivants (mercredi 25 novembre au vendredi 27 novembre)
+📉 Tendance – 3 jours suivants (jeudi 26 novembre au samedi 28 novembre)
 
-▶ mercredi 25 novembre : Changement de décor avec le retour des averses sur l’ensemble de la région, de Maubeuge à Dunkerque. Les températures au réveil s’échelonnent de 0 à 2 degrés. Au meilleur de la journée, le thermomètre affiche 3 degrés à Maubeuge et à Watten, 5 à Lille et jusqu’à 6 à Dunkerque. Le vent de sud-ouest accompagne ce temps perturbé, à 15 ou 20 km/h.
+▶ jeudi 26 novembre : Le froid s’accentue et le ciel reste généralement nuageux sur la région. Saint-Hilaire-sur-Helpe fait exception et profite du soleil. Au réveil, les gelées sont généralisées : -4 °C à Maubeuge et Douai, -2 °C à Lille. Dans l’après-midi, le thermomètre atteint à peine 0 °C à Maubeuge et 1 °C à Lille, jusqu’à 2 °C à Steenvoorde. Le vent de sud-ouest souffle entre 10 et 20 km/h.
 
-▶ jeudi 26 novembre : Après les averses, le soleil revient partout, mais le froid s’accentue nettement. Les gelées concernent presque toute la région : il fait jusqu’à moins 4 degrés au réveil à Troisvilles, Maubeuge et Watten, contre moins 1 à Lille. Malgré le soleil, les maximales ne dépassent pas 1 à 3 degrés. Le vent reste orienté au sud-ouest, généralement autour de 15 km/h.
+▶ vendredi 27 novembre : Le soleil revient partout, mais les gelées restent bien présentes et se renforcent par endroits. La matinée débute avec -5 °C à Troisvilles et Maubeuge, contre -2 °C à Lille. Malgré un ciel lumineux, les températures restent basses : 2 °C à Maubeuge, 3 °C à Lille et 4 °C à Steenvoorde au plus chaud. Le vent de sud-ouest se fait un peu plus discret, entre 10 et 15 km/h.
 
-▶ vendredi 27 novembre : Le soleil conserve une belle place sur la majeure partie de la région, tandis que les nuages s’imposent à Saint-Hilaire-sur-Helpe. La matinée reste glaciale, avec moins 4 degrés à Douai et Maubeuge, et moins 1 à Lille. L’après-midi, les températures remontent légèrement : 2 degrés à Watten, 3 à Maubeuge et 4 à Lille. Le vent de sud-ouest faiblit, autour de 10 km/h.
+▶ samedi 28 novembre : Le soleil résiste sur une partie de la région, notamment à Valenciennes, Maubeuge et Dunkerque, tandis que les nuages dominent à Lille et jusqu’à Watten. Les gelées deviennent moins marquées : -2 °C à Maubeuge, -1 °C à Lille et 0 °C à Steenvoorde. Les maximales remontent entre 3 et 6 °C. Le vent de sud-ouest se renforce, avec des rafales jusqu’à 50 km/h à Maubeuge et Dunkerque.
 
 
 --------------------------------------------------------------------------------
@@ -351,41 +370,43 @@ Le vent soufflera faiblement à modérément, avec des vitesses autour de 15 km/
 --------------------------------------------------------------------------------
 
 ☀️ [1/6] RÉSUMÉ SYNOPTIQUE DU JOUR (todaySummary) :
-UN LUNDI LUMINEUX ET VENTÉ
+SOLEIL VOILÉ ET NUAGES
 
-Le soleil domine de Rouen à Caen, en passant par Le Havre et Évreux, tandis que les éclaircies alternent avec les nuages à Cherbourg, Dieppe, Lisieux et Alençon. Après une matinée fraîche, les températures atteignent de 6 degrés à Évreux à 14 degrés à Alençon. Le vent de sud-ouest accompagne la journée, avec des rafales jusqu’à 55 km/h à Alençon.
+Ce mardi, le ciel reste lumineux mais voilé de Rouen à Caen, au Havre et à Alençon. Les nuages sont plus présents à Cherbourg, Dieppe, Évreux et Lisieux, avec seulement de courtes éclaircies. La matinée est froide, avec -1 °C à Rouen et 0 °C à Évreux ; l’après-midi, les maximales vont notamment de 6 °C à Rouen et au Havre à 10 °C à Caen et Alençon. Le vent de sud-ouest reste modéré, mais les rafales atteignent 40 à 45 km/h sur le littoral.
 
 🌅 [2/6] COMMENTAIRE CARTE MATIN (summaryMorning) -> Carte J1 Matin :
-Une matinée qui s'annonce plutôt agréable sur une bonne partie de la Normandie, notamment sur l'est de la région.
+Pour cette matinée du mardi 24 novembre, la Normandie se partagera entre un ciel voilé et des nuages plus présents.
 
-En effet, du côté de Rouen, Caen, Le Havre ou encore Évreux, nous profiterons d'un grand soleil éclatant dès le lever du jour. Les températures y seront fraîches, avec 2°C à Rouen et Évreux, et 4°C au Havre.
+Sur l'est de la région, de Rouen au Havre en passant par Alençon et Caen, le soleil sera bien là, mais filtré par un voile nuageux d'altitude. L'ambiance restera lumineuse malgré tout.
 
-Plus à l'ouest et au sud, l'ambiance sera un peu plus nuageuse. De belles éclaircies se partageront le ciel avec des passages nuageux sur Cherbourg, Dieppe, Lisieux et Alençon. Les minimales seront un peu plus douces avec 8°C à Cherbourg et 7°C à Alençon et Lisieux.
+Plus à l'ouest et au nord, de Cherbourg à Dieppe, en passant par Lisieux et Evreux, les nuages seront plus denses et les éclaircies se feront rares.
 
-Quant au vent, il soufflera généralement du Sud-Ouest, modéré à assez fort. On attend des rafales jusqu'à 45 km/h sur Rouen et Caen, et même 55 km/h sur Alençon. Les maximales de la journée seront atteintes cet après-midi, et pourront grimper jusqu'à 14°C à Alençon.
+Côté températures, la fraîcheur est de mise ce matin. On relèvera -1°C à Rouen et 0°C à Evreux. Les minimales atteindront 5°C à Caen, Lisieux et Alençon, et jusqu'à 6°C à Cherbourg.
+
+Quant au vent, il soufflera du Sud-Ouest, modéré, autour de 15 km/h sur la majeure partie de la région. Il sera plus sensible sur le littoral, avec 25 km/h au Havre et à Cherbourg, et quelques rafales pouvant atteindre 40 à 45 km/h.
 
 🌞 [3/6] COMMENTAIRE CARTE APRÈS-MIDI (summaryAfternoon) -> Carte J1 Après-midi :
-Ce lundi 23 novembre, le soleil s'imposera généreusement sur une grande partie de la région.
+Voici les prévisions pour votre après-midi du mardi 24 novembre.
 
-De Rouen à Caen en passant par Le Havre et Evreux, nous profiterons d'un ciel bleu et d'un ensoleillement franc. Les températures maximales y atteindront 7 degrés à Rouen, 12 à Caen, 8 au Havre et 6 à Evreux.
+La Normandie se partagera entre un ciel voilé mais lumineux et des passages nuageux plus denses. Le soleil sera bien présent, mais filtré par un voile nuageux sur l'ouest de la région, notamment à Caen et Alençon où les températures atteindront les 10°C. Rouen et Le Havre profiteront également de ce soleil voilé, avec 6°C attendus.
 
-Plus à l'ouest et au sud, le temps sera un peu plus partagé. Cherbourg, Alençon, Dieppe et Lisieux verront de belles éclaircies alterner avec des passages nuageux. Les maximales y seront plus douces, avec 13 degrés à Cherbourg et Lisieux, 9 à Dieppe et 14 à Alençon.
+Plus à l'est, de Cherbourg à Evreux en passant par Dieppe et Lisieux, le ciel sera plus chargé. Les nuages domineront avec de courtes éclaircies, et les températures maximales afficheront 10°C à Cherbourg et 9°C à Lisieux.
 
-Côté vent, il soufflera de secteur Sud-Ouest sur l'ensemble de la Normandie. Comptez 25 km/h à Rouen et Alençon, avec des rafales pouvant atteindre 45 km/h sur Rouen et 55 km/h sur Alençon. À Caen, le vent sera de 15 km/h avec des rafales à 45 km/h. Sur le littoral, Le Havre et Dieppe enregistreront 20 km/h, avec des rafales à 40 km/h pour Dieppe.
+Côté vent, il soufflera modérément de secteur Sud-Ouest sur l'ensemble de la région, autour de 15 km/h. Attention aux rafales plus soutenues sur le littoral : jusqu'à 40 km/h au Havre et 45 km/h à Cherbourg et Dieppe.
 
 🏖️ [4/6] MÉTÉO DES PLAGES (beach) -> Littoral J1 :
-🏖️ MÉTÉO DES PLAGES – CÔTE D’ALBÂTRE & MANCHE (lundi 23 novembre 2026)
+🏖️ MÉTÉO DES PLAGES – CÔTE D’ALBÂTRE & MANCHE (mardi 24 novembre 2026)
 
 🌴 Le Havre / Deauville / Cabourg
-☀️ Temps agréable ce lundi. Températures sur les plages : 4°C à 14°C.
+☀️ Temps agréable ce mardi. Températures sur les plages : 1°C à 10°C.
 🌊 Température de l’eau : 17°C à 18°C
 
 🌴 Dieppe / Fécamp / Cherbourg
-☀️ Belle luminosité ce lundi, brise littorale rafraîchissante avec maximales de 14°C.
+☀️ Belle luminosité ce mardi, brise littorale rafraîchissante avec maximales de 10°C.
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "BAIE DE SOMME - LA HAGUE" MIDI
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "BAIE DE SOMME - LA HAGUE" MIDI (mardi 24 novembre 2026)
 📍 Origine Météo-France. 
 Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du lundi 23 novembre 2026 à 12H30 légales.
 
@@ -405,17 +426,17 @@ Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la H
 • MER : peu agitée à agitée.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
-🌧️ Pluies & Humidité : Temps sec sur la région ce lundi avec maintien de la sécheresse de surface.
-🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce lundi. Aucun coup de vent à craindre.
-⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce lundi.
+🌧️ Pluies & Humidité : Temps sec sur la région ce mardi avec maintien de la sécheresse de surface.
+🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce mardi. Aucun coup de vent à craindre.
+⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce mardi.
 🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
-📉 Tendance – 3 jours suivants (mercredi 25 novembre au vendredi 27 novembre)
+📉 Tendance – 3 jours suivants (jeudi 26 novembre au samedi 28 novembre)
 
-▶ mercredi 25 novembre : Les nuages prennent le dessus sur une grande partie de la Normandie. Le ciel sera très nuageux à Cherbourg, tandis que des averses sont prévues à Évreux et à Dieppe. Les températures iront de 4 à 8 degrés à Rouen, de 7 à 11 degrés à Caen et de 7 à 10 degrés à Cherbourg. Le vent de sud-ouest soufflera entre 15 et 20 km/h, avec des rafales jusqu’à 45 km/h à Cherbourg.
+▶ jeudi 26 novembre : Le soleil s’impose sur toute la Normandie, mais dans une ambiance froide. Au réveil, les gelées concernent notamment Dieppe avec -3 °C, Évreux avec -2 °C et Rouen avec -1 °C. Les maximales ne dépassent pas 2 °C dans ces trois villes, contre 9 °C à Cherbourg. Le vent de sud-ouest reste modéré, plus sensible dans le Cotentin, avec des rafales jusqu’à 40 km/h.
 
-▶ jeudi 26 novembre : Retour du soleil sur toute la région, mais dans une ambiance nettement plus froide. Des gelées sont attendues au réveil à Rouen, avec moins 2 degrés, et à Évreux, avec moins 1 degré. L’après-midi, le thermomètre ne dépassera pas 2 degrés à Rouen, 3 au Havre et 7 à Alençon. Le vent restera orienté au sud-ouest, généralement entre 10 et 15 km/h.
+▶ vendredi 27 novembre : Après cette journée largement ensoleillée, les nuages sont de retour vers Caen, Le Havre, Cherbourg, Alençon et Lisieux. Le soleil résiste en revanche à Rouen, Évreux et Dieppe. Les gelées matinales se renforcent, avec -4 °C à Rouen et Évreux, où les maximales atteignent 3 °C. À Cherbourg, les températures vont de 1 à 6 °C. Le vent de sud-ouest souffle en rafales jusqu’à 50 km/h à Cherbourg et Dieppe.
 
-▶ vendredi 27 novembre : Le soleil se maintiendra, accompagné de gelées plus étendues en matinée : moins 3 degrés à Dieppe et à Rouen, moins 1 à Caen. Les maximales remonteront légèrement par endroits, avec 4 degrés à Rouen et 6 à Caen comme à Cherbourg. Le vent de sud-ouest se renforcera, notamment à Dieppe où il atteindra 30 km/h, avec des rafales jusqu’à 50 km/h.
+▶ samedi 28 novembre : Le ciel devient plus largement nuageux, même si Dieppe conserve le soleil. Les températures remontent : après -1 °C le matin à Rouen et Évreux, les maximales atteignent 6 °C dans ces deux villes, 9 °C à Caen et Cherbourg. Le vent de sud-ouest se renforce, notamment près des côtes : les rafales peuvent atteindre 45 km/h au Havre, 50 km/h à Dieppe et 60 km/h à Cherbourg.
 
