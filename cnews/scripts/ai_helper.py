@@ -461,14 +461,62 @@ def generate_local_fallback_texts(client_name, cities, day_offset):
         f"{get_trend_line(date_j5, j5_struct)}"
     )
 
-    vig_warning = f"⚠️ Forte Chaleur : Épisode de chaleur marqué sur la région ce {wd1}.\n" if avg_max_j1 >= 32 else ""
-    records_raw = (
-        f"{vig_warning}"
-        f"🌧️ Pluies & Humidité : Temps sec sur la région ce {wd1} avec maintien de la sécheresse de surface.\n"
-        f"🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce {wd1}. Aucun coup de vent à craindre.\n"
-        f"⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce {wd1}.\n"
-        f"🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement."
-    )
+    max_rain = max((s.get('rain', 0.0) for s in j1_struct), default=0.0)
+    max_gust = max((s.get('gust', s['wind']) for s in j1_struct), default=20)
+    min_wind = min((s['wind'] for s in j1_struct), default=10)
+    max_wind = max((s['wind'] for s in j1_struct), default=20)
+    min_tmin = min((s['tmin'] for s in j1_struct), default=10)
+    has_snow = any(s.get('code') in [71, 73, 75, 77, 85, 86] or (s.get('rain', 0.0) > 0 and s.get('tmax', 10) <= 1) for s in j1_struct)
+    has_storm = any(s.get('code', 0) >= 90 for s in j1_struct)
+    has_fog = any(s.get('code') in [45, 48] for s in j1_struct)
+    rainy_cities = [s['city'] for s in j1_struct if s.get('rain', 0.0) >= 1.0]
+
+    if avg_max_j1 >= 32 or any(s['tmax'] >= 35 for s in j1_struct):
+        vig_warning = f"⚠️ Forte Chaleur : Épisode de forte chaleur marqué sur la région ce {wd1}.\n"
+    elif avg_max_j1 <= 0 or any(s['tmin'] <= -5 for s in j1_struct):
+        vig_warning = f"⚠️ Grand Froid : Épisode de gel marqué et froid vif sur la région ce {wd1}.\n"
+    elif max_gust >= 85:
+        vig_warning = f"⚠️ Coup de vent violent : Rafales tempétueuses pouvant atteindre {max_gust} km/h ce {wd1}.\n"
+    else:
+        vig_warning = ""
+
+    if has_snow:
+        pluie_line = f"❄️ Neige & Verglas : Risque de chutes de neige ou flocons ce {wd1}, prudence sur les chaussées glissantes.\n"
+    elif max_rain >= 15.0:
+        pluie_line = f"🌧️ Pluies & Humidité : Pluies soutenues et régulières ce {wd1} avec des cumuls notables (jusqu'à {max_rain:.1f} mm localement).\n"
+    elif max_rain >= 3.0:
+        cities_txt = f" notamment vers {', '.join(rainy_cities[:3])}" if rainy_cities else ""
+        pluie_line = f"🌧️ Pluies & Humidité : Passages pluvieux ou averses intermittentes ce {wd1}{cities_txt} (cumuls de {max_rain:.1f} mm).\n"
+    elif max_rain > 0.0:
+        pluie_line = f"🌧️ Pluies & Humidité : Ciel chargé avec faibles ondées ou bruines très localisées ce {wd1} (moins de {max_rain:.1f} mm).\n"
+    else:
+        if avg_max_j1 >= 28:
+            pluie_line = f"🌧️ Pluies & Humidité : Temps parfaitement sec et ensoleillé sur la région ce {wd1}.\n"
+        else:
+            pluie_line = f"🌧️ Pluies & Humidité : Temps sec sur l'ensemble du secteur ce {wd1}, aucune précipitation mesurable à prévoir.\n"
+
+    if max_gust >= 80:
+        vent_line = f"🌬️ Vent & Rafales : Coup de vent marqué ce {wd1} avec des rafales atteignant {max_gust} km/h sur les zones exposées.\n"
+    elif max_gust >= 55:
+        vent_line = f"🌬️ Vent & Rafales : Vent modéré à assez fort ce {wd1}, pointes de {max_gust} km/h possibles sous les averses.\n"
+    elif max_gust >= 35:
+        vent_line = f"🌬️ Vent & Rafales : Vent sensible mais régulier ({min_wind} à {max_wind} km/h, pointes à {max_gust} km/h) ce {wd1}.\n"
+    else:
+        vent_line = f"🌬️ Vent & Rafales : Vent faible à modéré ({min_wind} à {max_wind} km/h) ce {wd1}. Aucun coup de vent à craindre.\n"
+
+    if has_storm:
+        orage_line = f"⚡ Risque Orageux : Risque d'instabilité orageuse locale l'après-midi ou en soirée ce {wd1}.\n"
+    else:
+        orage_line = f"⚡ Risque Orageux : Ambiance calme et stable, aucun risque orageux à craindre ce {wd1}.\n"
+
+    if min_tmin <= 0:
+        visib_line = f"❄️ Gelées & Visibilité : Gelées matinales au lever du jour (jusqu'à {min_tmin}°C) et visibilité localement réduite par des brouillards givrants."
+    elif has_fog:
+        visib_line = f"🌫️ Brouillards & Visibilité : Bancs de brumes ou brouillards denses à l'aube ce {wd1}, se dissipant en cours de matinée."
+    else:
+        visib_line = f"🌫️ Brouillards & Visibilité : Visibilité globalement bonne ce {wd1}, rares grisailles matinales très vite dissipées."
+
+    records_raw = f"{vig_warning}{pluie_line}{vent_line}{orage_line}{visib_line}"
 
     # Mountain text : uniquement pour le client national (Europe 1), calibré selon la saison réelle
     is_national = "EUROPE" in client_name.upper() or "NATIONAL" in client_name.upper()
