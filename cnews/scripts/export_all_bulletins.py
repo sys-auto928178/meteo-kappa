@@ -326,6 +326,16 @@ def main():
                     if "recordsRaw" in ai_texts and ai_texts["recordsRaw"]:
                         form["recordsRaw"] = ai_texts["recordsRaw"]
                         form["surveillanceItems"] = [{"id": "auto_records", "type": "text", "content": ai_texts["recordsRaw"]}]
+            else:
+                # Mode skip-ai : synchroniser tout de même recordsRaw et surveillanceItems avec le calcul physique dynamique
+                try:
+                    from ai_helper import generate_local_fallback_texts
+                    fb = generate_local_fallback_texts(name, c.get("cities", []), args.day_offset)
+                    if fb and fb.get("recordsRaw"):
+                        form["recordsRaw"] = fb["recordsRaw"]
+                        form["surveillanceItems"] = [{"id": "auto_records", "type": "text", "content": fb["recordsRaw"]}]
+                except Exception as e_fb:
+                    print(f"Warning: could not update fallback records for '{name}': {e_fb}")
             
             # Store public raw GitHub URL instead of heavy Base64 to keep JSON size under 100KB
             base_url = "https://raw.githubusercontent.com/gregorylanglet59264-byte/meteo-kappa/main/cartes_alertes"
