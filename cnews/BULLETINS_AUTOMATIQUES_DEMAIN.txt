@@ -1,6 +1,6 @@
 ================================================================================
 📡 RAPPORT EXHAUSTIF DES PRÉVISIONS VISUELLES (MODE VISIO EN PLATEAU)
-DATE CIBLE : JEUDI 26 NOVEMBRE 2026
+DATE CIBLE : VENDREDI 27 NOVEMBRE 2026
 FICHIER SOURCE : /home/runner/work/meteo-kappa/meteo-kappa/cnews/BULLETINS_AUTOMATIQUES_DEMAIN.json
 ================================================================================
 
@@ -28,30 +28,11 @@ En revanche, de la Bretagne aux Pays de la Loire et jusqu'au Centre-Ouest, les n
 
 En résumé, un après-midi calme et sec sur l'ensemble du pays, avec des contrastes entre un soleil franc à l'est et un ciel plus nuageux à l'ouest.
 
-🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (jeudi 26 novembre 2026)
-📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
-
-⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
-
-🌐 Situation générale : Dépression 1000 hPa au sud immédiat de la Pointe Bretagne, se décalant vers le sud-est, prévue 1004 hPa sur les côtes de la Gironde cet après-midi, puis s'évacue vers la Méditerranée en se comblant la nuit. Col barométrique se renforçant temporairement 1018 à 1019 hPa dans le Golfe de Gascogne jeudi matin.
-
-📅 Prévisions pour la journée du jeudi 26 novembre :
-🌬️ VENT : Est à Nord-Est 3 à 4, revenant Sud-Est en fin d'après-midi.
-🌊 MER : peu agitée à agitée, s'atténuant peu agitée l'après-midi, localement belle en Manche.
-🌊 HOULE : Nord-Est 0.5 à 1 m.
-⛅ TEMPS :  ensoleillé.
-👁️ VISIBILITE : bonne.
-
-📉 Tendance pour la nuit du 26  au 27, et la journée du vendredi 27 novembre :
-• VENT : Sud-Est 3 à 4, fraîchissant 4 à 5 l'après-midi.
-• MER : belle à peu agitée.
-
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
-🌧️ Pluies & Humidité : Temps sec sur la région ce jeudi avec maintien de la sécheresse de surface.
-🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce jeudi. Aucun coup de vent à craindre.
-⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce jeudi.
-🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement.
+🌧️ Pluies & Humidité : Passages pluvieux ou averses intermittentes ce vendredi notamment vers Brest (cumuls de 13.7 mm).
+🌬️ Vent & Rafales : Vent sensible mais régulier (5 à 20 km/h, pointes à 40 km/h) ce vendredi.
+⚡ Risque Orageux : Ambiance calme et stable, aucun risque orageux à craindre ce vendredi.
+❄️ Gelées & Visibilité : Gelées matinales au lever du jour (jusqu'à -3°C) et visibilité localement réduite par des brouillards givrants.
 🏔️ Météo montagne
 
     Alpes : Conditions froides et sèches ce jeudi. Gelées matinales généralisées en altitude, températures maximales fraîches en vallée. Isotherme 0°C oscillant vers 2200m.
@@ -112,29 +93,26 @@ Le vent, quant à lui, soufflera faiblement à modérément, avec une moyenne de
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (jeudi 26 novembre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Dépression 1000 hPa au sud immédiat de la Pointe Bretagne, se décalant vers le sud-est, prévue 1004 hPa sur les côtes de la Gironde cet après-midi, puis s'évacue vers la Méditerranée en se comblant la nuit. Col barométrique se renforçant temporairement 1018 à 1019 hPa dans le Golfe de Gascogne jeudi matin.
+🌐 Situation générale : Dépression 1011 hPa sur le centre de la France, puis s'évacuant vers la Méditerranée. Faible gradient de pression 1015 à 1018 hPa aujourd'hui. Vaste dépression 950 hPa au sud de l'Islande, pilotant un thalweg abordant la Bretagne ce soir, puis évoluant peu entre les île Britanniques et les Açores.
 
-📅 Prévisions pour la journée du jeudi 26 novembre :
-🌬️ VENT : Est à Nord-Est 3 à 4, revenant Sud-Est en fin d'après-midi.
-🌊 MER : peu agitée à agitée, s'atténuant peu agitée l'après-midi, localement belle en Manche.
-🌊 HOULE : Nord-Est 0.5 à 1 m.
-⛅ TEMPS :  ensoleillé.
+📅 Tendance pour la journée du vendredi 27 novembre :
+🌬️ VENT : Sud-Est fraîchissant 4 à 5.
+🌊 MER : peu agitée.
+🌊 HOULE : Nord-Est 0.5 à 1 m, s'amortissant en matinée.
+⛅ TEMPS : peu nuageux à nuageux.
 👁️ VISIBILITE : bonne.
 
-📉 Tendance pour la nuit du 26  au 27, et la journée du vendredi 27 novembre :
-• VENT : Sud-Est 3 à 4, fraîchissant 4 à 5 l'après-midi.
-• MER : belle à peu agitée.
-
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
-🌧️ Pluies & Humidité : Temps sec sur la région ce jeudi avec maintien de la sécheresse de surface.
-🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce jeudi. Aucun coup de vent à craindre.
-⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce jeudi.
-🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement.
+⚠️ Grand Froid : Épisode de gel marqué et froid vif sur la région ce vendredi.
+🌧️ Pluies & Humidité : Temps sec sur l'ensemble du secteur ce vendredi, aucune précipitation mesurable à prévoir.
+🌬️ Vent & Rafales : Vent faible à modéré (10 à 15 km/h) ce vendredi. Aucun coup de vent à craindre.
+⚡ Risque Orageux : Ambiance calme et stable, aucun risque orageux à craindre ce vendredi.
+❄️ Gelées & Visibilité : Gelées matinales au lever du jour (jusqu'à -6°C) et visibilité localement réduite par des brouillards givrants.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
 📉 Tendance – 3 jours suivants (samedi 28 novembre au lundi 30 novembre)
@@ -185,33 +163,26 @@ Concernant le vent, il soufflera modérément de secteur Sud-Ouest. Attendez-vou
 🌊 Température de l’eau : 21°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "AIGUILLON - FRONTIÈRE ESPAGNOLE" MIDI (jeudi 26 novembre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "AIGUILLON - FRONTIÈRE ESPAGNOLE" MATIN
 📍 Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du mercredi 25 novembre 2026 à 12H30 légales.
+Bulletin côtier pour la bande des 20 milles, de l'anse de l'Aiguillon à la frontière espagnole, du jeudi 26 novembre 2026 à 06H15 légales.
 
-⚠️ AVIS DE SÉCURITÉ EN MER (BMS OFFICIEL) :
-• Avis de grand frais à coup de vent.
-• En cours et valable jusqu'au mercredi 25 novembre à 20H00 UTC
-• VENT : Sud-Ouest 7, devenant Variable dépressionnaire à la mi-journée, localement 8 au sud de Messanges, puis mollissant Ouest à Nord-Ouest 7 par le nord cet après-midi. Fortes rafales.
+⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Dépression 1000 hPa au sud immédiat de la Pointe Bretagne, se décalant vers le sud-est, prévue 1004 hPa sur les côtes de la Gironde cet après-midi, puis s'évacue vers la Méditerranée en se comblant la nuit. Col barométrique se renforçant temporairement 1018 à 1019 hPa dans le Golfe de Gascogne jeudi matin.
+🌐 Situation générale : Dépression 1011 hPa sur le centre de la France, puis s'évacuant vers la Méditerranée. Faible gradient de pression 1015 à 1018 hPa aujourd'hui. Vaste dépression 950 hPa au sud de l'Islande, pilotant un thalweg abordant la Bretagne ce soir, puis évoluant peu entre les île Britanniques et les Açores.
 
-📅 Prévisions pour la journée du jeudi 26 novembre :
-🌬️ VENT : Nord à Nord-Ouest 3 à 4, parfois 5 au début, mollissant Nord-Ouest 3 à 4 l'après-midi, mais Variable 1 à 3 au nord d'Arcachon.
-🌊 MER : agitée à forte, s'atténuant progressivement agitée par le nord en matinée.
-🌊 HOULE : Ouest 2.5 à 3 m, s'atténuant 1.5 à 2 m l'après-midi.
-⛅ TEMPS : très nuageux avec averses, plus fréquentes au sud d'Arcachon.
-👁️ VISIBILITE : bonne, parfois mauvaise sous averses.
-
-📉 Tendance pour la nuit du 26  au 27, et la journée du vendredi 27 novembre :
-• VENT : secteur Nord-Ouest dominant 1 à 3, revenant Sud-Ouest dominant en fin de nuit, puis fraîchissant Sud 2 à 4 en matinée.
-• MER : agitée, mais peu agitée à agitée au nord d'Arcachon jusqu'à la mi-journée.
+📅 Tendance pour la journée du vendredi 27 novembre :
+🌬️ VENT : secteur Sud 2 à 4.
+🌊 MER : peu agitée à agitée, devenant agitée l'après-midi.
+🌊 HOULE : Ouest à Nord-Ouest 1 à 1.5 m, s'amplifiant 1.5 à 2 m en fin de journée.
+⛅ TEMPS : nuageux à très nuageux.
+👁️ VISIBILITE : bonne.
 
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
-🌧️ Pluies & Humidité : Temps sec sur la région ce jeudi avec maintien de la sécheresse de surface.
-🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce jeudi. Aucun coup de vent à craindre.
-⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce jeudi.
-🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement.
+🌧️ Pluies & Humidité : Ciel chargé avec faibles ondées ou bruines très localisées ce vendredi (moins de 2.2 mm).
+🌬️ Vent & Rafales : Vent faible à modéré (10 à 20 km/h) ce vendredi. Aucun coup de vent à craindre.
+⚡ Risque Orageux : Ambiance calme et stable, aucun risque orageux à craindre ce vendredi.
+🌫️ Brouillards & Visibilité : Visibilité globalement bonne ce vendredi, rares grisailles matinales très vite dissipées.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
 📉 Tendance – 3 jours suivants (samedi 28 novembre au lundi 30 novembre)
@@ -259,29 +230,26 @@ Le vent soufflera modérément, toujours orienté sud-ouest. Il sera de 15 km/h 
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (jeudi 26 novembre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Dépression 1000 hPa au sud immédiat de la Pointe Bretagne, se décalant vers le sud-est, prévue 1004 hPa sur les côtes de la Gironde cet après-midi, puis s'évacue vers la Méditerranée en se comblant la nuit. Col barométrique se renforçant temporairement 1018 à 1019 hPa dans le Golfe de Gascogne jeudi matin.
+🌐 Situation générale : Dépression 1011 hPa sur le centre de la France, puis s'évacuant vers la Méditerranée. Faible gradient de pression 1015 à 1018 hPa aujourd'hui. Vaste dépression 950 hPa au sud de l'Islande, pilotant un thalweg abordant la Bretagne ce soir, puis évoluant peu entre les île Britanniques et les Açores.
 
-📅 Prévisions pour la journée du jeudi 26 novembre :
-🌬️ VENT : Est à Nord-Est 3 à 4, revenant Sud-Est en fin d'après-midi.
-🌊 MER : peu agitée à agitée, s'atténuant peu agitée l'après-midi, localement belle en Manche.
-🌊 HOULE : Nord-Est 0.5 à 1 m.
-⛅ TEMPS :  ensoleillé.
+📅 Tendance pour la journée du vendredi 27 novembre :
+🌬️ VENT : Sud-Est fraîchissant 4 à 5.
+🌊 MER : peu agitée.
+🌊 HOULE : Nord-Est 0.5 à 1 m, s'amortissant en matinée.
+⛅ TEMPS : peu nuageux à nuageux.
 👁️ VISIBILITE : bonne.
 
-📉 Tendance pour la nuit du 26  au 27, et la journée du vendredi 27 novembre :
-• VENT : Sud-Est 3 à 4, fraîchissant 4 à 5 l'après-midi.
-• MER : belle à peu agitée.
-
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
-🌧️ Pluies & Humidité : Temps sec sur la région ce jeudi avec maintien de la sécheresse de surface.
-🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce jeudi. Aucun coup de vent à craindre.
-⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce jeudi.
-🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement.
+⚠️ Grand Froid : Épisode de gel marqué et froid vif sur la région ce vendredi.
+🌧️ Pluies & Humidité : Temps sec sur l'ensemble du secteur ce vendredi, aucune précipitation mesurable à prévoir.
+🌬️ Vent & Rafales : Vent faible à modéré (15 à 20 km/h) ce vendredi. Aucun coup de vent à craindre.
+⚡ Risque Orageux : Ambiance calme et stable, aucun risque orageux à craindre ce vendredi.
+❄️ Gelées & Visibilité : Gelées matinales au lever du jour (jusqu'à -5°C) et visibilité localement réduite par des brouillards givrants.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
 📉 Tendance – 3 jours suivants (samedi 28 novembre au lundi 30 novembre)
@@ -329,29 +297,26 @@ En résumé, une après-midi très agréable sous un grand soleil, mais avec des
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME (jeudi 26 novembre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – FRONTIÈRE BELGE / BAIE DE SOMME
 📍 Bande des 20 milles : Dunkerque • Calais • Boulogne • Le Touquet • Baie de Somme
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Dépression 1000 hPa au sud immédiat de la Pointe Bretagne, se décalant vers le sud-est, prévue 1004 hPa sur les côtes de la Gironde cet après-midi, puis s'évacue vers la Méditerranée en se comblant la nuit. Col barométrique se renforçant temporairement 1018 à 1019 hPa dans le Golfe de Gascogne jeudi matin.
+🌐 Situation générale : Dépression 1011 hPa sur le centre de la France, puis s'évacuant vers la Méditerranée. Faible gradient de pression 1015 à 1018 hPa aujourd'hui. Vaste dépression 950 hPa au sud de l'Islande, pilotant un thalweg abordant la Bretagne ce soir, puis évoluant peu entre les île Britanniques et les Açores.
 
-📅 Prévisions pour la journée du jeudi 26 novembre :
-🌬️ VENT : Est à Nord-Est 3 à 4, revenant Sud-Est en fin d'après-midi.
-🌊 MER : peu agitée à agitée, s'atténuant peu agitée l'après-midi, localement belle en Manche.
-🌊 HOULE : Nord-Est 0.5 à 1 m.
-⛅ TEMPS :  ensoleillé.
+📅 Tendance pour la journée du vendredi 27 novembre :
+🌬️ VENT : Sud-Est fraîchissant 4 à 5.
+🌊 MER : peu agitée.
+🌊 HOULE : Nord-Est 0.5 à 1 m, s'amortissant en matinée.
+⛅ TEMPS : peu nuageux à nuageux.
 👁️ VISIBILITE : bonne.
 
-📉 Tendance pour la nuit du 26  au 27, et la journée du vendredi 27 novembre :
-• VENT : Sud-Est 3 à 4, fraîchissant 4 à 5 l'après-midi.
-• MER : belle à peu agitée.
-
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
-🌧️ Pluies & Humidité : Temps sec sur la région ce jeudi avec maintien de la sécheresse de surface.
-🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce jeudi. Aucun coup de vent à craindre.
-⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce jeudi.
-🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement.
+⚠️ Grand Froid : Épisode de gel marqué et froid vif sur la région ce vendredi.
+🌧️ Pluies & Humidité : Temps sec sur l'ensemble du secteur ce vendredi, aucune précipitation mesurable à prévoir.
+🌬️ Vent & Rafales : Vent faible à modéré (10 à 15 km/h) ce vendredi. Aucun coup de vent à craindre.
+⚡ Risque Orageux : Ambiance calme et stable, aucun risque orageux à craindre ce vendredi.
+❄️ Gelées & Visibilité : Gelées matinales au lever du jour (jusqu'à -5°C) et visibilité localement réduite par des brouillards givrants.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
 📉 Tendance – 3 jours suivants (samedi 28 novembre au lundi 30 novembre)
@@ -405,30 +370,28 @@ Le vent soufflera faiblement à modérément, entre 5 et 15 km/h, principalement
 🌊 Température de l’eau : 17°C
 
 🌊 [5/6] MÉTÉO MARINE (marine) -> Bassin maritime :
-🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "BAIE DE SOMME - LA HAGUE" MIDI (jeudi 26 novembre 2026)
+🌊 MÉTÉO MARINE MÉTÉO-FRANCE – BULLETIN CÔTE "BAIE DE SOMME - LA HAGUE" MATIN
 📍 Origine Météo-France. 
-Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du mercredi 25 novembre 2026 à 12H30 légales.
+Bulletin côtier pour la bande des 20 milles, de la baie de Somme au cap de la Hague, du jeudi 26 novembre 2026 à 06H30 légales.
 
 ⚠️ AVIS DE SÉCURITÉ : Pas d'avis de vent fort en cours ni prévu.
 
-🌐 Situation générale : Dépression 1000 hPa au sud immédiat de la Pointe Bretagne, se décalant vers le sud-est, prévue 1004 hPa sur les côtes de la Gironde cet après-midi, puis s'évacue vers la Méditerranée en se comblant la nuit. Col barométrique se renforçant temporairement 1018 à 1019 hPa dans le Golfe de Gascogne jeudi matin.
+🌐 Situation générale : Dépression 1011 hPa sur le centre de la France, puis s'évacuant vers la Méditerranée. Faible gradient de pression 1015 à 1018 hPa aujourd'hui. Vaste dépression 950 hPa au sud de l'Islande, pilotant un thalweg abordant la Bretagne ce soir, puis évoluant peu entre les île Britanniques et les Açores.
 
-📅 Prévisions pour la journée du jeudi 26 novembre :
-🌬️ VENT : Est à Nord-Est 3 à 4, parfois 5 sur nord Cotentin au début, mollissant Est à Sud-Est 2 à 3 l'après-midi, parfois 4 sur la côte d'Albâtre.
-🌊 MER :  belle à peu agitée, localement agitée vers nord Cotentin au début.
-🌊 HOULE : Ouest 0.5 à 1 m vers nord Cotentin, mais Nord-Est 0.5 à 1 m ailleurs.
-⛅ TEMPS : devenant ensoleillé par l'est.
+📅 Tendance pour la journée du vendredi 27 novembre :
+🌬️ VENT : Sud à Sud-Est fraîchissant 4 à 5, parfois 6 vers La Hague.
+🌊 MER : peu agitée, localement agitée sur nord Cotentin l'après-midi.
+🌊 HOULE : 
+- sur nord Cotentin : Ouest 0.5 à 1 m. 
+- ailleurs : non significative.
+⛅ TEMPS : très nuageux à couvert.
 👁️ VISIBILITE : bonne.
 
-📉 Tendance pour la nuit du 26  au 27, et la journée du vendredi 27 novembre :
-• VENT : Sud-Est 3 à 4, fraîchissant 4 à 5 l'après-midi.
-• MER : belle à peu agitée, localement agitée vers nord Cotentin l'après-midi.
-
 🏔️ [6/6] PHÉNOMÈNES MARQUANTS & MONTAGNE (recordsRaw / mountain) :
-🌧️ Pluies & Humidité : Temps sec sur la région ce jeudi avec maintien de la sécheresse de surface.
-🌬️ Vent & Rafales : Vent faible à modéré (15 à 25 km/h) ce jeudi. Aucun coup de vent à craindre.
-⚡ Risque Orageux : Ambiance calme et stable sur l'ensemble du secteur ce jeudi.
-🌫️ Brouillards & Visibilité : Quelques rares grisailles matinales au lever du jour, se dissipant rapidement.
+🌧️ Pluies & Humidité : Ciel chargé avec faibles ondées ou bruines très localisées ce vendredi (moins de 1.4 mm).
+🌬️ Vent & Rafales : Vent sensible mais régulier (10 à 20 km/h, pointes à 40 km/h) ce vendredi.
+⚡ Risque Orageux : Ambiance calme et stable, aucun risque orageux à craindre ce vendredi.
+❄️ Gelées & Visibilité : Gelées matinales au lever du jour (jusqu'à -2°C) et visibilité localement réduite par des brouillards givrants.
 
 📉 TENDANCE PROCHAINS JOURS (forecastRaw) :
 📉 Tendance – 3 jours suivants (samedi 28 novembre au lundi 30 novembre)
